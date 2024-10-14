@@ -1,9 +1,12 @@
-[submodule "test-repos/AbsInt-CompCert"]
-	path = test-repos/AbsInt-CompCert
+[submodule "test-repos/compcert"]
+	path = test-repos/compcert
 	url = git@github.com:AbsInt/CompCert
-[submodule "test-repos/coq-community-coq-ext-lib"]
-	path = test-repos/coq-community-coq-ext-lib
+[submodule "test-repos/ext-lib"]
+	path = test-repos/ext-lib
 	url = git@github.com:coq-community/coq-ext-lib
-[submodule "test-repos/coq-community-fourcolor"]
-	path = test-repos/coq-community-fourcolor
+[submodule "test-repos/fourcolor"]
+	path = test-repos/fourcolor
 	url = git@github.com:coq-community/fourcolor
+[submodule "coqpyt"]
+	path = coqpyt
+	url = git@github.com:sr-lab/coqpyt
