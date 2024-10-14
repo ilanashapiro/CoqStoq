@@ -1,0 +1,6 @@
+[submodule "test-repos/CompCert"]
+	path = test-repos/CompCert
+	url = git@github.com:AbsInt/CompCert
+[submodule "test-repos/AbsInt-CompCert"]
+	path = test-repos/AbsInt-CompCert
+	url = git@github.com:AbsInt/CompCert
