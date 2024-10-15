@@ -10,3 +10,6 @@
 [submodule "coqpyt"]
 	path = coqpyt
 	url = git@github.com:sr-lab/coqpyt
+[submodule "test-repos/math-classes"]
+	path = test-repos/math-classes
+	url = git@github.com:coq-community/math-classes
