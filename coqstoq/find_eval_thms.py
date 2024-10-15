@@ -21,6 +21,7 @@ def save_theorems(project: Project, file: Path, thms: list[TestTheorem]):
 
 
 def find_project_theormes(project: Project):
+    # TODO: Would be nice to get a summary of which files did not compile
     print(project.workspace)
     for file in project.workspace.glob("**/*.v"):
         print(f"Checking {file}")

@@ -13,3 +13,27 @@
 [submodule "test-repos/math-classes"]
 	path = test-repos/math-classes
 	url = git@github.com:coq-community/math-classes
+[submodule "test-repos/reglang"]
+	path = test-repos/reglang
+	url = git@github.com:coq-community/reglang
+[submodule "test-repos/buchberger"]
+	path = test-repos/buchberger
+	url = git@github.com:coq-community/buchberger
+[submodule "test-repos/hoare-tut"]
+	path = test-repos/hoare-tut
+	url = git@github.com:coq-community/hoare-tut
+[submodule "test-repos/zorns-lemma"]
+	path = test-repos/zorns-lemma
+	url = git@github.com:coq-community/zorns-lemma
+[submodule "test-repos/huffman"]
+	path = test-repos/huffman
+	url = git@github.com:coq-community/huffman
+[submodule "test-repos/PolTac"]
+	path = test-repos/PolTac
+	url = git@github.com:thery/PolTac
+[submodule "test-repos/dblib"]
+	path = test-repos/dblib
+	url = git@github.com:coq-community/dblib
+[submodule "test-repos/zfc"]
+	path = test-repos/zfc
+	url = git@github.com:coq-contribs/zfc
