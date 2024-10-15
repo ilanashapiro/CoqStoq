@@ -37,3 +37,27 @@
 [submodule "test-repos/zfc"]
 	path = test-repos/zfc
 	url = git@github.com:coq-contribs/zfc
+[submodule "val-repos/sudoku"]
+	path = val-repos/sudoku
+	url = git@github.com:coq-community/sudoku
+[submodule "val-repos/bertrand"]
+	path = val-repos/bertrand
+	url = git@github.com:coq-community/bertrand
+[submodule "val-repos/graph-theory"]
+	path = val-repos/graph-theory
+	url = git@github.com:coq-community/graph-theory
+[submodule "val-repos/stalmarck"]
+	path = val-repos/stalmarck
+	url = git@github.com:coq-community/stalmarck
+[submodule "val-repos/qarith-stern-brocot"]
+	path = val-repos/qarith-stern-brocot
+	url = git@github.com:coq-community/qarith-stern-brocot
+[submodule "val-repos/coqeal"]
+	path = val-repos/coqeal
+	url = git@github.com:coq-community/coqeal
+[submodule "cutoff-repos/bb5"]
+	path = cutoff-repos/bb5
+	url = git@github.com:ccz181078/Coq-BB5
+[submodule "cutoff-repos/pnvrocqlib"]
+	path = cutoff-repos/pnvrocqlib
+	url = git@github.com:PnvDiscord/PnVRocqLib
