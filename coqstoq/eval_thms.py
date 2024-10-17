@@ -1,5 +1,6 @@
 from __future__ import annotations
 import os
+import shutil
 import argparse
 import hashlib
 from typing import Optional, Any
@@ -8,64 +9,50 @@ from enum import Enum
 from dataclasses import dataclass
 import subprocess
 
-from coqpyt.coq.structs import TermType, Step
+from coqpyt.coq.structs import TermType, Step, Position as LspPos
 from coqpyt.coq.base_file import CoqFile
-from coqstoq.compile_args import COMPCERT_ARGS, EXTLIB_ARGS, FOURCOLOR_ARGS
 
 
-class Split(Enum):
-    VAL = 1
-    TEST = 2
+@dataclass
+class Split:
+    dir_name: str
+    thm_dir_name: str
 
-    @property
-    def repo_dir_name(self) -> str:
-        match self:
-            case Split.VAL:
-                return "val-repos"
-            case Split.TEST:
-                return "test-repos"
+    def to_json(self) -> Any:
+        return {"dir_name": self.dir_name, "thm_dir_name": self.thm_dir_name}
 
-    @property
-    def thm_dir_name(self) -> str:
-        match self:
-            case Split.VAL:
-                return "val-theorems"
-            case Split.TEST:
-                return "test-theorems"
+    @classmethod
+    def from_json(cls, data: Any) -> Split:
+        return cls(data["dir_name"], data["thm_dir_name"])
 
 
-class Project(Enum):
-    COMPCERT = "compcert"
-    EXTLIB = "ext-lib"
-    FOURCOLOR = "fourcolor"
-
-    @property
-    def dir_name(self) -> str:
-        return self.value
-
-    @property
-    def split(self) -> Split:
-        match self:
-            case Project.COMPCERT:
-                return Split.TEST
-            case Project.EXTLIB:
-                return Split.TEST
-            case Project.FOURCOLOR:
-                return Split.TEST
+@dataclass
+class Project:
+    dir_name: str
+    split: Split
+    commit_hash: str
+    compile_args: list[str]
 
     @property
     def workspace(self) -> Path:
-        return Path(self.split.repo_dir_name) / self.dir_name
+        return Path(self.split.dir_name) / self.dir_name
 
-    @property
-    def compile_args(self) -> list[str]:
-        match self:
-            case Project.COMPCERT:
-                return COMPCERT_ARGS
-            case Project.EXTLIB:
-                return EXTLIB_ARGS
-            case Project.FOURCOLOR:
-                return FOURCOLOR_ARGS
+    def to_json(self) -> Any:
+        return {
+            "dir_name": self.dir_name,
+            "split": self.split.to_json(),
+            "commit_hash": self.commit_hash,
+            "compile_args": self.compile_args,
+        }
+
+    @classmethod
+    def from_json(cls, json_data: Any) -> Project:
+        return cls(
+            json_data["dir_name"],
+            Split.from_json(json_data["split"]),
+            json_data["commit_hash"],
+            json_data["compile_args"],
+        )
 
 
 @dataclass
@@ -77,34 +64,44 @@ class Position:
         return {"line": self.line, "column": self.column}
 
     @classmethod
+    def from_lsp_pos(cls, pos: LspPos) -> Position:
+        return cls(pos.line, pos.character)
+
+    @classmethod
     def from_json(cls, data: Any) -> Position:
         return cls(data["line"], data["column"])
 
 
 @dataclass
-class TestTheorem:
+class EvalTheorem:
     project: Project
     path: Path  # relative path in the project
-    start_pos: Position  # inclusive
-    end_pos: Position  # inclusive line, exclusive column
+    theorem_start_pos: Position  # inclusive
+    theorem_end_pos: Position  # inclusive line, exclusive column
+    proof_start_pos: Position  # inclusive
+    proof_end_pos: Position  # inclusive line, exclusive column
     hash: str  # Hash of file when theorem was collected
 
     def to_json(self) -> Any:
         return {
-            "project": self.project.value,
+            "project": self.project.to_json(),
             "path": str(self.path),
-            "start_pos": self.start_pos.to_json(),
-            "end_pos": self.end_pos.to_json(),
+            "theorem_start_pos": self.theorem_start_pos.to_json(),
+            "theorem_end_pos": self.theorem_end_pos.to_json(),
+            "proof_start_pos": self.proof_start_pos.to_json(),
+            "proof_end_pos": self.proof_end_pos.to_json(),
             "hash": self.hash,
         }
 
     @classmethod
-    def from_json(cls, data: Any) -> TestTheorem:
+    def from_json(cls, data: Any) -> EvalTheorem:
         return cls(
-            Project(data["project"]),
+            Project.from_json(data["project"]),
             Path(data["path"]),
-            Position.from_json(data["start_pos"]),
-            Position.from_json(data["end_pos"]),
+            Position.from_json(data["theorem_start_pos"]),
+            Position.from_json(data["theorem_end_pos"]),
+            Position.from_json(data["proof_start_pos"]),
+            Position.from_json(data["proof_end_pos"]),
             data["hash"],
         )
 
@@ -138,8 +135,6 @@ def extract_proof(coq_file: CoqFile) -> list[Step]:
         proof_steps.append(coq_file.curr_step)
         if coq_file.steps_taken >= len(coq_file.steps):
             raise ValueError("Proof never ended.")
-    start_pos = proof_steps[0].ast.range.start
-    end_pos = proof_steps[-1].ast.range.end
     return proof_steps
 
 
@@ -154,17 +149,19 @@ def get_file_hash(path: Path) -> str:
     return hasher.hexdigest()
 
 
-def get_test_thm(project: Project, path: Path, steps: list[Step]) -> TestTheorem:
-    assert 0 < len(steps)
-    lsp_start = steps[0].ast.range.start
-    lsp_end = steps[-1].ast.range.end
+def get_test_thm(
+    project: Project, path: Path, theorem_step: Step, proof_steps: list[Step]
+) -> EvalTheorem:
+    assert 0 < len(proof_steps)
     assert path.resolve().is_relative_to(project.workspace.resolve())
     rel_path = path.relative_to(project.workspace)
-    return TestTheorem(
+    return EvalTheorem(
         project,
         rel_path,
-        Position(lsp_start.line, lsp_start.character),
-        Position(lsp_end.line, lsp_end.character),
+        Position.from_lsp_pos(theorem_step.ast.range.start),
+        Position.from_lsp_pos(theorem_step.ast.range.end),
+        Position.from_lsp_pos(proof_steps[0].ast.range.start),
+        Position.from_lsp_pos(proof_steps[-1].ast.range.end),
         get_file_hash(path),
     )
 
@@ -173,54 +170,61 @@ class CoqComplieError(Exception):
     pass
 
 
-def compile_file(project: Project, path: Path):
+class CoqCompileTimeoutError(Exception):
+    pass
+
+
+def compile_file(project: Project, path: Path, timeout: Optional[int]):
     project_loc = project.workspace
     assert project_loc.exists()
     cur_dir = Path.cwd().resolve()
     full_path = path.resolve()
     os.chdir(project_loc)
-    tmp_out_loc = Path(path.with_suffix(".vo").name)
+    tmp_dir = Path("tmp-coqstoq-out")
+    assert not tmp_dir.exists()
+    os.mkdir(tmp_dir)
+    tmp_out_loc = tmp_dir / path.with_suffix(".vo").name
     try:
+        # print(["coqc", "-o", tmp_out_loc, *project.compile_args, full_path])
         out = subprocess.run(
             ["coqc", "-o", tmp_out_loc, *project.compile_args, full_path],
             capture_output=True,
+            timeout=timeout,
         )
         if out.returncode == 0:
             return None
         else:
             raise CoqComplieError(out.stderr)
+    except subprocess.TimeoutExpired:
+        raise CoqCompileTimeoutError(f"Compilation timed out for {path}.")
     finally:
         if tmp_out_loc.exists():
             os.remove(tmp_out_loc)
+        if tmp_dir.exists():
+            shutil.rmtree(tmp_dir)
         os.chdir(cur_dir)
 
 
-def find_eval_theorems(project: Project, path: Path) -> list[TestTheorem]:
-    compile_file(project, path)
+def find_eval_theorems(
+    project: Project, path: Path, timeout: Optional[int]
+) -> list[EvalTheorem]:
+    compile_file(project, path, timeout)
     str_file_path = str(path.resolve())
     str_workspace_path = str(project.workspace.resolve())
-    proofs: list[TestTheorem] = []
-    with CoqFile(str_file_path, workspace=str_workspace_path) as coq_file:
+    proofs: list[EvalTheorem] = []
+    cf_timeout = timeout if timeout is not None else 60
+    with CoqFile(
+        str_file_path, workspace=str_workspace_path, timeout=cf_timeout
+    ) as coq_file:
         while coq_file.steps_taken < len(coq_file.steps):
             tt = coq_file.context.term_type(coq_file.curr_step)
+            theorem_step = coq_file.curr_step
             if is_eval_theorem(tt):
                 steps = extract_proof(coq_file)
                 assert 0 < len(steps)
                 if ends_with_qed(steps):
-                    test_thm = get_test_thm(project, path, steps)
+                    test_thm = get_test_thm(project, path, theorem_step, steps)
                     proofs.append(test_thm)
-                    print("".join([s.text for s in steps]))
             else:
                 coq_file.exec()
     return proofs
-
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("project", type=Project, choices=list(Project))
-    parser.add_argument("path", type=Path)
-
-    args = parser.parse_args()
-
-    # compile_file(args.path, args.project)
-    find_eval_theorems(args.project, args.path)

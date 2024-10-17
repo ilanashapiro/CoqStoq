@@ -7,9 +7,6 @@
 [submodule "test-repos/fourcolor"]
 	path = test-repos/fourcolor
 	url = git@github.com:coq-community/fourcolor
-[submodule "coqpyt"]
-	path = coqpyt
-	url = git@github.com:sr-lab/coqpyt
 [submodule "test-repos/math-classes"]
 	path = test-repos/math-classes
 	url = git@github.com:coq-community/math-classes
@@ -28,9 +25,6 @@
 [submodule "test-repos/huffman"]
 	path = test-repos/huffman
 	url = git@github.com:coq-community/huffman
-[submodule "test-repos/PolTac"]
-	path = test-repos/PolTac
-	url = git@github.com:thery/PolTac
 [submodule "test-repos/dblib"]
 	path = test-repos/dblib
 	url = git@github.com:coq-community/dblib
@@ -61,3 +55,6 @@
 [submodule "cutoff-repos/pnvrocqlib"]
 	path = cutoff-repos/pnvrocqlib
 	url = git@github.com:PnvDiscord/PnVRocqLib
+[submodule "test-repos/poltac"]
+	path = test-repos/poltac
+	url = git@github.com:thery/PolTac
