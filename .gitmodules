@@ -58,3 +58,6 @@
 [submodule "test-repos/poltac"]
 	path = test-repos/poltac
 	url = git@github.com:thery/PolTac
+[submodule "coqpyt"]
+	path = coqpyt
+	url = git@github.com:rkthomps/coqpyt

@@ -1,10 +1,13 @@
+from __future__ import annotations
 import os
 import json
 import argparse
+from typing import Any
 from pathlib import Path
 from dataclasses import dataclass
 
-from coqstoq.predefined_projects import PREDEFINED_PROJECTS
+from coqpyt.lsp.structs import ResponseError
+from coqstoq.predefined_projects import PREDEFINED_PROJECTS, HOARETUT
 from coqstoq.eval_thms import (
     Project,
     find_eval_theorems,
@@ -33,6 +36,44 @@ class TheoremReport:
     successful_files: list[Path]
     errored_files: list[Path]
     timed_out_files: list[Path]
+    lsp_error_files: list[Path]
+    num_theorems: int
+
+    def print_summary(self):
+        print(
+            f"Num Files: {len(self.successful_files)}; Num Theorems: {self.num_theorems}"
+        )
+        if 0 < len(self.errored_files):
+            print("Compile Errors:" + "".join([f"\n\t{f}" for f in self.errored_files]))
+        if 0 < len(self.timed_out_files):
+            print(
+                "Timeout Errors:" + "".join([f"\n\t{f}" for f in self.timed_out_files])
+            )
+        if 0 < len(self.lsp_error_files):
+            print("LSP Errors:" + "".join([f"\n\t{f}" for f in self.lsp_error_files]))
+
+    @property
+    def unsuccessful_files(self):
+        return self.errored_files + self.timed_out_files + self.lsp_error_files
+
+    def to_json(self) -> Any:
+        return {
+            "successful_files": [str(f) for f in self.successful_files],
+            "errored_files": [str(f) for f in self.errored_files],
+            "timed_out_files": [str(f) for f in self.timed_out_files],
+            "lsp_error_files": [str(f) for f in self.lsp_error_files],
+            "num_theorems": self.num_theorems,
+        }
+
+    @classmethod
+    def from_json(cls, data: Any) -> TheoremReport:
+        return cls(
+            [Path(f) for f in data["successful_files"]],
+            [Path(f) for f in data["errored_files"]],
+            [Path(f) for f in data["timed_out_files"]],
+            [Path(f) for f in data["lsp_error_files"]],
+            data["num_theorems"],
+        )
 
 
 def find_project_theormes(project: Project, timeout: int) -> TheoremReport:
@@ -40,6 +81,8 @@ def find_project_theormes(project: Project, timeout: int) -> TheoremReport:
     successful_files: list[Path] = []
     errored_files: list[Path] = []
     timed_out_files: list[Path] = []
+    lsp_errored_files: list[Path] = []
+    num_thms: int = 0
     for file in project.workspace.glob("**/*.v"):
         print(f"Checking {file}")
         try:
@@ -47,6 +90,7 @@ def find_project_theormes(project: Project, timeout: int) -> TheoremReport:
             print(f"Found {len(thms)} theorems in {file}")
             save_theorems(project, file, thms)
             successful_files.append(file)
+            num_thms += len(thms)
         except CoqComplieError as e:
             print(f"Could not compile {file}; Error: {e}")
             errored_files.append(file)
@@ -55,7 +99,17 @@ def find_project_theormes(project: Project, timeout: int) -> TheoremReport:
             print(f"Compilation timed out for {file}; Error; {e}")
             timed_out_files.append(file)
             continue
-    return TheoremReport(successful_files, errored_files, timed_out_files)
+        except ResponseError as e:
+            print(f"Got Coq-LSP response error for {file}.")
+            lsp_errored_files.append(file)
+            continue
+    return TheoremReport(
+        successful_files,
+        errored_files,
+        timed_out_files,
+        lsp_errored_files,
+        num_thms,
+    )
 
 
 def unique_names(projects: list[Project]) -> bool:
@@ -75,10 +129,69 @@ def find_project(proj_name: str) -> Project:
     raise ValueError(f"Could not find project with name {proj_name}")
 
 
+def validate_report(p: Project, theorem_report: TheoremReport):
+    """
+    Each success should have a file of theorems on disk.
+    No failures should have a file of theorems on disk.
+    The number of successes plus the number of failures should equal the number of
+    ".v" files in the project workspace.
+    """
+    counted_thms = 0
+    for s in theorem_report.successful_files:
+        assert s.is_relative_to(p.workspace)
+        saved_thms_loc = p.thm_path / s.relative_to(p.workspace).with_suffix(".json")
+        assert saved_thms_loc.exists()
+        with open(saved_thms_loc) as f:
+            thms = json.load(f)
+            counted_thms += len(thms)
+    assert counted_thms == theorem_report.num_theorems
+
+    for s in theorem_report.unsuccessful_files:
+        assert s.is_relative_to(p.workspace)
+        saved_thms_loc = p.thm_path / s.relative_to(p.workspace).with_suffix(".json")
+        assert not saved_thms_loc.exists()
+
+    total_reported_files = len(theorem_report.successful_files) + len(
+        theorem_report.unsuccessful_files
+    )
+    assert total_reported_files == len(list(p.workspace.glob("**/*.v")))
+
+
+@dataclass
+class EvalReport:
+    project: Project
+    report: TheoremReport
+
+    def to_json(self) -> Any:
+        return {
+            "project": self.project.to_json(),
+            "report": self.report.to_json(),
+        }
+
+    @classmethod
+    def from_json(cls, json_data: Any) -> EvalReport:
+        return cls(
+            Project.from_json(json_data["project"]),
+            TheoremReport.from_json(json_data["report"]),
+        )
+
+
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("project", type=str)
-    parser.add_argument("--timeout", type=int, default=120)
-    args = parser.parse_args()
-    project = find_project(args.project)
-    find_project_theormes(project, args.timeout)
+    TIMEOUT = 120
+    reports: list[EvalReport] = []
+    REPORTS_LOC = Path("test-theorems-reports")
+
+    os.makedirs(REPORTS_LOC, exist_ok=True)
+    assert unique_names(PREDEFINED_PROJECTS)
+    for project in PREDEFINED_PROJECTS:
+        report = find_project_theormes(project, TIMEOUT)
+        validate_report(project, report)
+        eval_report = EvalReport(project, report)
+        reports.append(eval_report)
+        with open(REPORTS_LOC / f"{project.dir_name}.json", "w") as f:
+            json.dump(eval_report.to_json(), f, indent=2)
+
+    print()
+    for r in reports:
+        print(f"<<<<< Project: {r.project.dir_name} >>>>>")
+        r.report.print_summary()

@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-coqpyt = { git = "https://github.com/sr-lab/coqpyt" }
+coqpyt = { path = "coqpyt" }
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.8.0"

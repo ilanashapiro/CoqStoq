@@ -37,6 +37,10 @@ class Project:
     def workspace(self) -> Path:
         return Path(self.split.dir_name) / self.dir_name
 
+    @property
+    def thm_path(self) -> Path:
+        return Path(self.split.thm_dir_name) / self.dir_name
+
     def to_json(self) -> Any:
         return {
             "dir_name": self.dir_name,
@@ -123,18 +127,23 @@ def is_eval_theorem(termtype: TermType) -> bool:
 
 
 def is_end_proof(coq_file: CoqFile, step: Step) -> bool:
-    return coq_file.context.expr(step)[0] in ["VernacEndProof", "VernacExactProof"]
+    return coq_file.context.expr(step)[0] in [
+        "VernacEndProof",
+        "VernacExactProof",
+        "VernacAbort",
+    ]
 
 
 def extract_proof(coq_file: CoqFile) -> list[Step]:
+    term = coq_file.curr_step
     assert is_eval_theorem(coq_file.context.term_type(coq_file.curr_step))
     assert not is_end_proof(coq_file, coq_file.curr_step)
     proof_steps: list[Step] = []
     while not is_end_proof(coq_file, coq_file.curr_step):
         coq_file.exec()
-        proof_steps.append(coq_file.curr_step)
         if coq_file.steps_taken >= len(coq_file.steps):
-            raise ValueError("Proof never ended.")
+            raise ValueError(f"Proof at line {term.ast.range.start.line} never ended.")
+        proof_steps.append(coq_file.curr_step)
     return proof_steps
 
 
@@ -214,7 +223,10 @@ def find_eval_theorems(
     proofs: list[EvalTheorem] = []
     cf_timeout = timeout if timeout is not None else 60
     with CoqFile(
-        str_file_path, workspace=str_workspace_path, timeout=cf_timeout
+        str_file_path,
+        workspace=str_workspace_path,
+        timeout=cf_timeout,
+        memory_limit=20 * (2**20),
     ) as coq_file:
         while coq_file.steps_taken < len(coq_file.steps):
             tt = coq_file.context.term_type(coq_file.curr_step)
@@ -228,3 +240,4 @@ def find_eval_theorems(
             else:
                 coq_file.exec()
     return proofs
+
