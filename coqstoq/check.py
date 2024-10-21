@@ -3,6 +3,7 @@ from typing import Optional, Any
 from pathlib import Path
 
 import os
+import logging
 from enum import Enum
 from dataclasses import dataclass
 
@@ -62,7 +63,7 @@ def get_check_contents(thm: EvalTheorem, proof_attempt: str, coqstoq_loc: Path) 
     prefix_lines[-1] = prefix_lines[-1][: thm.theorem_end_pos.column]
     suffix_lines = orig_lines[thm.proof_end_pos.line :]
     suffix_lines[0] = suffix_lines[0][thm.proof_end_pos.column :]
-    return "\n".join(prefix_lines + [proof_attempt] + suffix_lines)
+    return "\n".join(prefix_lines + [proof_attempt, "Qed."] + suffix_lines)
 
 
 def get_ground_truth(thm: EvalTheorem, coqstoq_loc: Path) -> str:
@@ -86,6 +87,12 @@ def check_result(r: Result, coqstoq_loc: Path) -> bool:
     if attempted_proof is None:
         return False
 
+    stripped_proof = attempted_proof.strip()
+    if stripped_proof.endswith("Qed."):
+        use_proof = stripped_proof[: -len("Qed.")]
+    else:
+        use_proof = stripped_proof
+
     orig_file_loc = r.thm.project.workspace / r.thm.path
     assert orig_file_loc.exists()
     assert (
@@ -97,7 +104,7 @@ def check_result(r: Result, coqstoq_loc: Path) -> bool:
     compile_file(r.thm.project, orig_file_loc, None)  # Should compile
     try:
         with temp_loc.open("w") as fout:
-            fout.write(get_check_contents(r.thm, attempted_proof, coqstoq_loc))
+            fout.write(get_check_contents(r.thm, use_proof, coqstoq_loc))
         compile_file(r.thm.project, temp_loc, None)  # Checking attempt
         return True
     except CoqComplieError:
