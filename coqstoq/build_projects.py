@@ -1,5 +1,6 @@
 import argparse
 import subprocess
+from pathlib import Path
 from dataclasses import dataclass
 from coqstoq.eval_thms import Project
 from coqstoq.predefined_projects import (
@@ -77,7 +78,7 @@ TM.v
 
 
 def bb5_build(n_jobs: int) -> BuildInstructions:
-    with open("_Custom_CoqProject", "w") as fout:
+    with open(BB5.workspace / "_Custom_CoqProject", "w") as fout:
         fout.write(MODIFIED_BB5_CP)
     instrs = [
         ["coq_makefile", "-f", "_Custom_CoqProject", "-o", "CustomMakefile.coq"],
@@ -92,7 +93,7 @@ def run_build(instructions: BuildInstructions):
         logging.warning(f"BB5 may take up to an hour to build.")
     for instr in instructions.instrs:
         result = subprocess.run(
-            instr, cwd=instructions.project.workspace, capture_output=True
+            instr, cwd=instructions.project.workspace.resolve(), capture_output=True
         )
         if result.returncode != 0:
             build_instrs: str = "\n".join(" ".join(i) for i in instructions.instrs)
@@ -101,6 +102,18 @@ def run_build(instructions: BuildInstructions):
             )
             return
     print(f"Successfully built {instructions.project.dir_name}.")
+
+
+def check_env() -> bool:
+    """Could do more checks. For example versions etc."""
+    try:
+        subprocess.run(["coqc", "--version"], capture_output=True)
+        return True
+    except FileNotFoundError:
+        logging.warning(
+            "Please activate your opam switch. Run `opam switch` to see the current state."
+        )
+        return False
 
 
 if __name__ == "__main__":
@@ -114,6 +127,8 @@ if __name__ == "__main__":
             all_build_instrs.append(compcert_build(args.n_jobs))
         elif p == PNVROCQLIB:
             all_build_instrs.append(pnv_build(args.n_jobs))
+        elif p == BB5:
+            all_build_instrs.append(bb5_build(args.n_jobs))
         else:
             all_build_instrs.append(routine_build(p, args.n_jobs))
 

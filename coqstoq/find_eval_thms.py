@@ -10,6 +10,7 @@ from coqpyt.lsp.structs import ResponseError
 from coqstoq.predefined_projects import PREDEFINED_PROJECTS, HOARETUT
 from coqstoq.eval_thms import (
     Project,
+    Split,
     find_eval_theorems,
     CoqComplieError,
     CoqCompileTimeoutError,
@@ -17,6 +18,7 @@ from coqstoq.eval_thms import (
 )
 
 TEST_THMS_LOC = Path("test-theorems")
+REPORTS_LOC = Path("test-theorems-reports")
 
 
 def save_theorems(project: Project, file: Path, thms: list[EvalTheorem]):
@@ -29,6 +31,23 @@ def save_theorems(project: Project, file: Path, thms: list[EvalTheorem]):
         save_loc.parent.mkdir(parents=True)
     with open(save_loc, "w") as f:
         json.dump([thm.to_json() for thm in thms], f, indent=2)
+
+
+def get_eval_thms(file: Path) -> list[EvalTheorem]:
+    with open(file) as f:
+        thms = json.load(f)
+        return [EvalTheorem.from_json(thm) for thm in thms]
+
+
+def get_all_eval_thms(split: Split) -> dict[Path, list[EvalTheorem]]:
+    thm_loc = Path.cwd() / split.thm_dir_name
+    assert thm_loc.exists()
+    all_thms: dict[Path, list[EvalTheorem]] = {}
+    for thm_file_loc in thm_loc.glob("**/*.json"):
+        assert thm_file_loc.is_relative_to(Path.cwd())
+        rel_thm_file_loc = thm_file_loc.relative_to(Path.cwd())
+        all_thms[rel_thm_file_loc] = get_eval_thms(thm_file_loc)
+    return all_thms
 
 
 @dataclass
@@ -179,7 +198,6 @@ class EvalReport:
 if __name__ == "__main__":
     TIMEOUT = 120
     reports: list[EvalReport] = []
-    REPORTS_LOC = Path("test-theorems-reports")
 
     os.makedirs(REPORTS_LOC, exist_ok=True)
     assert unique_names(PREDEFINED_PROJECTS)

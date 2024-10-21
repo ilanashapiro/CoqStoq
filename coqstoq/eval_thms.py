@@ -18,6 +18,10 @@ class Split:
     dir_name: str
     thm_dir_name: str
 
+    @property
+    def theorem_list_loc(self) -> Path:
+        return Path(f"{self.thm_dir_name}.json")
+
     def to_json(self) -> Any:
         return {"dir_name": self.dir_name, "thm_dir_name": self.thm_dir_name}
 
@@ -240,4 +244,3 @@ def find_eval_theorems(
             else:
                 coq_file.exec()
     return proofs
-
