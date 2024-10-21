@@ -83,3 +83,7 @@ class Result:
     proof: Optional[str]  # Proof found
     time: Optional[float]  # Time in seconds
 ```
+
+## Limitations
+1. We impose a 2-minute timeout when compiling files with `coqc`, if a file takes longer than 2 minutes to compile it is not included in our evaluation. In practice, this only affects 4 files from the `BB5` project in the cutoff split. Namely, `BB42Theorem.v, BB52Theorem.v, BB24Theorem.v, Skelet1.v`.
+2. CoqStoq depends on coq-lsp to parse Coq Files. Sometimes, `coq-lsp` fails unexpectedly even when `coqc` successfully compiled a file. In our case, `coq-lsp` failed on 49 files from the fourcolor project where all of the files were of the form `theories/job<n1>to<n2>.v`. Each of these files contain a single proof that is one tactic long: `Proof. CheckReducible. Qed`. 
