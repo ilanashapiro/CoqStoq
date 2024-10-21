@@ -111,15 +111,16 @@ def test_report_list():
     For every reference in the theorem list, the reference points to a theorem.
     For every theorem in the directories, there is a reference that points to it.
     """
+    COQSTOQ_LOC = Path.cwd()
     all_eval_thms = (
-        get_all_eval_thms(VAL_SPLIT)
-        | get_all_eval_thms(TEST_SPLIT)
-        | get_all_eval_thms(CUTOFF_SPLIT)
+        get_all_eval_thms(VAL_SPLIT, COQSTOQ_LOC)
+        | get_all_eval_thms(TEST_SPLIT, COQSTOQ_LOC)
+        | get_all_eval_thms(CUTOFF_SPLIT, COQSTOQ_LOC)
     )
     all_thm_refs = (
-        load_reference_list(VAL_SPLIT)
-        + load_reference_list(TEST_SPLIT)
-        + load_reference_list(CUTOFF_SPLIT)
+        load_reference_list(VAL_SPLIT, COQSTOQ_LOC)
+        + load_reference_list(TEST_SPLIT, COQSTOQ_LOC)
+        + load_reference_list(CUTOFF_SPLIT, COQSTOQ_LOC)
     )
     thm_ref_set = set(all_thm_refs)
     assert len(thm_ref_set) == len(all_thm_refs)

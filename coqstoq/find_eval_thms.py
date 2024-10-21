@@ -39,8 +39,8 @@ def get_eval_thms(file: Path) -> list[EvalTheorem]:
         return [EvalTheorem.from_json(thm) for thm in thms]
 
 
-def get_all_eval_thms(split: Split) -> dict[Path, list[EvalTheorem]]:
-    thm_loc = Path.cwd() / split.thm_dir_name
+def get_all_eval_thms(split: Split, coqstoq_loc: Path) -> dict[Path, list[EvalTheorem]]:
+    thm_loc = coqstoq_loc / split.thm_dir_name
     assert thm_loc.exists()
     all_thms: dict[Path, list[EvalTheorem]] = {}
     for thm_file_loc in thm_loc.glob("**/*.json"):

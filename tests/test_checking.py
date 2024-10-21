@@ -28,8 +28,8 @@ import logging
 
 
 def test_check_result_single():
-    test_thm = get_theorem(Split.TEST, 0)
     COQSTOQ_LOC = Path.cwd()
+    test_thm = get_theorem(Split.TEST, 0, COQSTOQ_LOC)
     bad_proof = ""
     good_proof = get_ground_truth(test_thm, COQSTOQ_LOC)
     good_result = Result(test_thm, good_proof, 1)

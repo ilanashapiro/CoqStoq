@@ -39,8 +39,8 @@ class TheoremReference:
         return cls(Path(data["thm_path"]), data["thm_idx"])
 
 
-def load_reference_list(split: Split) -> list[TheoremReference]:
-    theorem_list_loc = split.theorem_list_loc
+def load_reference_list(split: Split, coqstoq_loc: Path) -> list[TheoremReference]:
+    theorem_list_loc = coqstoq_loc / split.theorem_list_loc
     with theorem_list_loc.open("r") as fin:
         return [TheoremReference.from_json(thm) for thm in json.load(fin)]
 
