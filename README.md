@@ -21,7 +21,7 @@ poetry shell
 
 2. Install the CoqStoq opam switch
 ```
-opam switch import switches/eval.opam --switch=coqstoq --repos=default,coq-released=https://coq.inria.fr/opam/released
+opam switch import coqstoq.opam --switch=coqstoq --repos=default,coq-released=https://coq.inria.fr/opam/released
 ```
 
 3. Build the CoqStoq repositories 
