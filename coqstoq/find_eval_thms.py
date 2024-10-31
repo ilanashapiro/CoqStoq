@@ -44,8 +44,8 @@ def get_all_eval_thms(split: Split, coqstoq_loc: Path) -> dict[Path, list[EvalTh
     assert thm_loc.exists()
     all_thms: dict[Path, list[EvalTheorem]] = {}
     for thm_file_loc in thm_loc.glob("**/*.json"):
-        assert thm_file_loc.is_relative_to(Path.cwd())
-        rel_thm_file_loc = thm_file_loc.relative_to(Path.cwd())
+        assert thm_file_loc.is_relative_to(coqstoq_loc)
+        rel_thm_file_loc = thm_file_loc.relative_to(coqstoq_loc)
         all_thms[rel_thm_file_loc] = get_eval_thms(thm_file_loc)
     return all_thms
 
