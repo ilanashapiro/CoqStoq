@@ -1,4 +1,7 @@
 from __future__ import annotations
+from typing import Optional
+import subprocess
+import yaml
 import os
 import json
 import argparse
@@ -194,9 +197,9 @@ class EvalReport:
             TheoremReport.from_json(json_data["report"]),
         )
 
+TIMEOUT = 120
 
-if __name__ == "__main__":
-    TIMEOUT = 120
+def create_predefined_coqstoq_theorems():
     reports: list[EvalReport] = []
 
     os.makedirs(REPORTS_LOC, exist_ok=True)
@@ -213,3 +216,105 @@ if __name__ == "__main__":
     for r in reports:
         print(f"<<<<< Project: {r.project.dir_name} >>>>>")
         r.report.print_summary()
+
+
+
+def get_commit_hash(project_dir: Path) -> Optional[str]:
+    git_dir_out = subprocess.run(
+        ["git", "rev-parse", "--git-dir"],
+        cwd=project_dir,
+        capture_output=True,
+    )
+
+    if git_dir_out.returncode != 0:
+        return None
+
+    git_dir = Path(git_dir_out.stdout.decode().strip())
+    if git_dir.parent.resolve() != project_dir.resolve():
+        return None
+
+    commit_hash_bytes = subprocess.run(
+        ["git", "rev-parse", "HEAD"],
+        cwd=project_dir,
+        check=True,
+        capture_output=True,
+    )
+    if commit_hash_bytes.returncode != 0:
+        return None
+
+    commit_hash = commit_hash_bytes.stdout.decode().strip()
+    return commit_hash
+
+
+
+def read_yaml_compile_args(project_name: str, yaml_file: Path) -> list[str]:
+     with open(yaml_file, "r") as f:
+        data = yaml.safe_load(f)
+        assert project_name in data, f"Project {project_name} not found in {yaml_file}"
+        assert "compile_args" in data[project_name], f"Project {project_name} does not have compile_args in {yaml_file}"
+        compile_args = data[project_name]["compile_args"]
+        return compile_args
+
+
+"""
+Create coqstoq theorems for a set of custom projects.
+"""
+def create_custom_coqstoq_theorems(custom_split_name: str):
+    custom_split = Split.from_name(custom_split_name)
+    custom_repos_loc = Path.cwd() / custom_split.dir_name
+    if not custom_repos_loc.exists():
+        raise ValueError(
+            f"Could not find custom repos directory {custom_repos_loc} for {custom_split_name}."
+        ) 
+    
+    split_config = Path.cwd() / f"{custom_split_name}.yaml"
+    if not split_config.exists():
+        raise ValueError(
+            f"Could not find split config file {split_config} for {custom_split_name}."
+        )
+
+    reports: list[EvalReport] = []
+    os.makedirs(REPORTS_LOC, exist_ok=True)
+    for custom_project in custom_repos_loc.iterdir():
+        project_commit = get_commit_hash(custom_project)
+        project_compile_args = read_yaml_compile_args(
+            custom_project.name, split_config
+        )
+        print("Project compile args:", project_compile_args)
+        project = Project(
+            dir_name=custom_project.name,
+            split=custom_split,
+            commit_hash=project_commit,
+            compile_args=project_compile_args,
+        ) 
+        report = find_project_theormes(project, TIMEOUT)
+        validate_report(project, report)
+        eval_report = EvalReport(project, report)
+        reports.append(eval_report)
+        with open(REPORTS_LOC / f"{project.dir_name}.json", "w") as f:
+            json.dump(eval_report.to_json(), f, indent=2)
+
+    print()
+    for r in reports:
+        print(f"<<<<< Project: {r.project.dir_name} >>>>>")
+        r.report.print_summary()
+
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Create coqstoq theorems."
+    )
+    parser.add_argument(
+        "--custom-split-name",
+        type=str,
+        default=None,
+        help="Path to a directory containing custom repos.",
+    )
+
+    args = parser.parse_args()
+
+    if args.custom_split_name is not None:
+        create_custom_coqstoq_theorems(args.custom_split_name)
+    else:
+        create_predefined_coqstoq_theorems()

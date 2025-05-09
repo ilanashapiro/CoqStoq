@@ -4,7 +4,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from enum import Enum
 
-from coqstoq.eval_thms import EvalTheorem
+from coqstoq.eval_thms import EvalTheorem, Split as EvalSplit
 from coqstoq.predefined_projects import VAL_SPLIT, TEST_SPLIT, CUTOFF_SPLIT
 from coqstoq.create_theorem_lists import load_reference_list
 from coqstoq.find_eval_thms import get_eval_thms, get_all_eval_thms, get_eval_thms
@@ -28,10 +28,15 @@ def get_theorem(split: Split, idx: int, coqstoq_loc: Path) -> EvalTheorem:
     return eval_thms[thm_ref.thm_idx]
 
 
-def get_theorem_list(split: Split, coqstoq_loc: Path) -> list[EvalTheorem]:
-    eval_thm_dict = get_all_eval_thms(split.value, coqstoq_loc)
-    thm_list = load_reference_list(split.value, coqstoq_loc)
+def get_theorem_list(split: Split | str, coqstoq_loc: Path) -> list[EvalTheorem]:
+    if isinstance(split, str):
+        split_val = EvalSplit(f"{split}-repos", f"{split}-theorems") 
+    else:
+        split_val = split.value
+    eval_thm_dict = get_all_eval_thms(split_val, coqstoq_loc)
+    thm_list = load_reference_list(split_val, coqstoq_loc)
     eval_thms: list[EvalTheorem] = []
     for thm_ref in thm_list:
         eval_thms.append(eval_thm_dict[thm_ref.thm_path][thm_ref.thm_idx])
     return eval_thms
+

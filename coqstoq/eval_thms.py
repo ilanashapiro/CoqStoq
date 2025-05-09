@@ -28,13 +28,17 @@ class Split:
     @classmethod
     def from_json(cls, data: Any) -> Split:
         return cls(data["dir_name"], data["thm_dir_name"])
+    
+    @classmethod
+    def from_name(cls, name: str) -> Split:
+        return cls(f"{name}-repos", f"{name}-theorems")
 
 
 @dataclass
 class Project:
     dir_name: str
     split: Split
-    commit_hash: str
+    commit_hash: Optional[str]
     compile_args: list[str]
 
     @property

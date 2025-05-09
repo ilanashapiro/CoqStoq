@@ -7,6 +7,7 @@ from __future__ import annotations
 from typing import Any
 
 import json
+import argparse
 import random
 from pathlib import Path
 
@@ -61,13 +62,29 @@ def create_split_list(split: Split, seed: int) -> list[TheoremReference]:
     return theorem_list
 
 
-def create_theorem_lists(seed: int):
-    for split in [VAL_SPLIT, TEST_SPLIT, CUTOFF_SPLIT]:
-        thm_list = create_split_list(split, seed)
-        with open(split.theorem_list_loc, "w") as fout:
-            json.dump([thm.to_json() for thm in thm_list], fout, indent=2)
+def create_theorem_list(seed: int, split_name: str):
+    split = Split.from_name(split_name)
+    thm_list = create_split_list(split, seed)
+    with open(split.theorem_list_loc, "w") as fout:
+        json.dump([thm.to_json() for thm in thm_list], fout, indent=2)
 
 
 if __name__ == "__main__":
     SEED = 0
-    create_theorem_lists(SEED)
+    parser = argparse.ArgumentParser(
+        description="Create a list of theorems for the given split."
+    )
+    parser.add_argument(
+        "--seed",
+        type=int,
+        default=SEED,
+        help="Seed for shuffling the theorem list.",
+    )
+    parser.add_argument(
+        "split_name",
+        type=str,
+        help="Name of the split to create a theorem list for.",
+    )
+        
+    args = parser.parse_args()
+    create_theorem_list(SEED, args.split_name)
