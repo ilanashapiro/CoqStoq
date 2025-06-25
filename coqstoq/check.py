@@ -81,6 +81,19 @@ def get_ground_truth(thm: EvalTheorem, coqstoq_loc: Path) -> str:
     proof_lines[0] = proof_lines[0][thm.proof_start_pos.column :]
     return "\n".join(proof_lines)
 
+def get_context(thm: EvalTheorem, coqstoq_loc: Path) -> str:
+    orig_file_loc = coqstoq_loc / thm.project.workspace / thm.path
+    assert orig_file_loc.exists()
+    assert (
+        get_file_hash(orig_file_loc) == thm.hash
+    ), f"Hash mismatch for file {orig_file_loc}"
+    orig_contents = orig_file_loc.read_text()
+    orig_lines = orig_contents.split("\n")
+    context_lines = orig_lines[
+        0 : thm.theorem_start_pos.line + 1
+    ].copy()
+    context_lines[-1] = context_lines[-1][: thm.theorem_start_pos.column]
+    return "\n".join(context_lines)
 
 def check_result(r: Result, coqstoq_loc: Path) -> bool:
     attempted_proof = r.proof

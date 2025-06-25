@@ -11,7 +11,6 @@ from coqstoq.predefined_projects import (
 )
 import logging
 
-
 @dataclass
 class BuildInstructions:
     project: Project

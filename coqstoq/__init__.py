@@ -1,4 +1,18 @@
 from __future__ import annotations
+
+import sys
+SUBMODULES = ['/home/t-ilshapiro/CoqStoq/coqstoq', 
+               '/home/t-ilshapiro/CoqStoq/coqpyt',
+               '/home/t-ilshapiro/CoqStoq/coqpyt/coqpyt',
+               '/home/t-ilshapiro/CoqStoq/coqpyt/coqpyt/coq',
+               '/home/t-ilshapiro/CoqStoq/coqpyt/coqpyt/coq/lsp',
+               '/home/t-ilshapiro/CoqStoq/coqpyt/coqpyt/coq/tests',
+               '/home/t-ilshapiro/CoqStoq/coqpyt/coqpyt/lsp',
+               '/home/t-ilshapiro/CoqStoq/coqpyt/coqpyt/tests']
+for MODULE in SUBMODULES:
+    if MODULE not in sys.path:
+        sys.path.append(MODULE)
+
 from typing import Optional, Any
 from dataclasses import dataclass
 from pathlib import Path
@@ -20,10 +34,10 @@ def num_theorems(split: Split, coqstoq_loc: Path) -> int:
     thm_list = load_reference_list(split.value, coqstoq_loc)
     return len(thm_list)
 
-
 def get_theorem(split: Split, idx: int, coqstoq_loc: Path) -> EvalTheorem:
     thm_list = load_reference_list(split.value, coqstoq_loc)
     thm_ref = thm_list[idx]
+    print(thm_list[idx])
     eval_thms = get_eval_thms(coqstoq_loc / thm_ref.thm_path)
     return eval_thms[thm_ref.thm_idx]
 
