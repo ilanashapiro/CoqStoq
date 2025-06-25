@@ -51,6 +51,20 @@ class EvalResults:
         )
 
 
+
+def get_lsp_check_contents(thm: EvalTheorem, proof_attempt: str, coqstoq_loc: Path) -> str:
+    orig_file_loc = coqstoq_loc / thm.project.workspace / thm.path
+    assert orig_file_loc.exists()
+    assert (
+        get_file_hash(orig_file_loc) == thm.hash
+    ), f"Hash mismatch for file {orig_file_loc}"
+    orig_contents = orig_file_loc.read_text()
+    orig_lines = orig_contents.split("\n")
+    prefix_lines = orig_lines[: (thm.theorem_end_pos.line + 1)].copy()
+    prefix_lines[-1] = prefix_lines[-1][: thm.theorem_end_pos.column]
+    return "\n".join(prefix_lines + [proof_attempt, "Qed."])
+
+
 def get_check_contents(thm: EvalTheorem, proof_attempt: str, coqstoq_loc: Path) -> str:
     orig_file_loc = coqstoq_loc / thm.project.workspace / thm.path
     assert orig_file_loc.exists()
@@ -81,17 +95,18 @@ def get_ground_truth(thm: EvalTheorem, coqstoq_loc: Path) -> str:
     proof_lines[0] = proof_lines[0][thm.proof_start_pos.column :]
     return "\n".join(proof_lines)
 
+def strip_qed(proof: str) -> str:
+    stripped_proof = proof.strip()
+    if stripped_proof.endswith("Qed."):
+        return stripped_proof[: -len("Qed.")]
+    return stripped_proof
 
 def check_result(r: Result, coqstoq_loc: Path) -> bool:
     attempted_proof = r.proof
     if attempted_proof is None:
         return False
 
-    stripped_proof = attempted_proof.strip()
-    if stripped_proof.endswith("Qed."):
-        use_proof = stripped_proof[: -len("Qed.")]
-    else:
-        use_proof = stripped_proof
+    use_proof = strip_qed(attempted_proof)
 
     orig_file_loc = r.thm.project.workspace / r.thm.path
     assert orig_file_loc.exists()

@@ -16,7 +16,7 @@ git clone git@github.com:rkthomps/CoqStoq --recurse-submodules
 ```
 cd CoqStoq
 poetry install
-poetry shell
+eval $(poetry env activate)
 ```
 
 2. Install the CoqStoq opam switch
@@ -33,6 +33,49 @@ python3 coqstoq/build_projects.py
 ```
 pytest
 ```
+
+## Checking Server
+### Starting the server
+Start the checking server by running the following command:
+```
+python3 coqstoq/checker_server/server.py test 0 /home/ubuntu/CoqStoq
+```
+Note that 
+- "test" is the name of the split where the example lives. 
+  Other splits include "val" and "cutoff" (train coming shortly.)
+- 0 is the index of hte example in the split
+- "/home/ubuntu/CoqStoq" is the path to this repository.
+
+### Calling the server
+Simply call the server with a proof. 
+For example:
+```
+curl -X POST http://localhost:8080 \   
+  -H "Content-Type: application/json" \
+  -d '{
+      "jsonrpc": "2.0",
+      "method": "check_proof",
+      "params": {"proof": "Proof. reflexivity. Qed."},
+      "id": 1
+    }'
+```
+
+If the proof is correct, the server will return an object like the following:
+```
+{"result": {"score": 1, "messages": []}, "id": 1, "jsonrpc": "2.0"}
+```
+
+If the proof is incorrect, the server will return an object like the following:
+```
+{'result': {'score': 0,
+  'messages': [' The relation Real.le is not a declared reflexive relation. Maybe you need to require the Coq.Classes.RelationClasses library',
+   ' (in proof eqR_le): Attempt to save an incomplete proof',
+   ' The relation Real.le is not a declared reflexive relation. Maybe you need to require the Coq.Classes.RelationClasses library',
+   ' (in proof eqR_le): Attempt to save an incomplete proof']},
+ 'id': 1,
+ 'jsonrpc': '2.0'}
+```
+
 
 ## Usage
 ### `EvalThm`
