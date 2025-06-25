@@ -1,53 +1,53 @@
 [submodule "test-repos/compcert"]
-	path = train-rl/compcert
+	path = train-rl-repos/compcert
 	url = git@github.com:AbsInt/CompCert
 [submodule "test-repos/ext-lib"]
-	path = train-rl/ext-lib
+	path = train-rl-repos/ext-lib
 	url = git@github.com:coq-community/coq-ext-lib
 [submodule "test-repos/fourcolor"]
-	path = train-rl/fourcolor
+	path = train-rl-repos/fourcolor
 	url = git@github.com:coq-community/fourcolor
 [submodule "test-repos/math-classes"]
-	path = train-rl/math-classes
+	path = train-rl-repos/math-classes
 	url = git@github.com:coq-community/math-classes
 [submodule "test-repos/reglang"]
-	path = train-rl/reglang
+	path = train-rl-repos/reglang
 	url = git@github.com:coq-community/reglang
 [submodule "test-repos/buchberger"]
-	path = train-rl/buchberger
+	path = train-rl-repos/buchberger
 	url = git@github.com:coq-community/buchberger
 [submodule "test-repos/hoare-tut"]
-	path = train-rl/hoare-tut
+	path = train-rl-repos/hoare-tut
 	url = git@github.com:coq-community/hoare-tut
 [submodule "test-repos/zorns-lemma"]
-	path = train-rl/zorns-lemma
+	path = train-rl-repos/zorns-lemma
 	url = git@github.com:coq-community/zorns-lemma
 [submodule "test-repos/huffman"]
-	path = train-rl/huffman
+	path = train-rl-repos/huffman
 	url = git@github.com:coq-community/huffman
 [submodule "test-repos/dblib"]
-	path = train-rl/dblib
+	path = train-rl-repos/dblib
 	url = git@github.com:coq-community/dblib
 [submodule "test-repos/zfc"]
-	path = train-rl/zfc
+	path = train-rl-repos/zfc
 	url = git@github.com:coq-contribs/zfc
 [submodule "val-repos/sudoku"]
-	path = train-sft/sudoku
+	path = train-sft-repos/sudoku
 	url = git@github.com:coq-community/sudoku
 [submodule "val-repos/bertrand"]
 	path = val-repos/bertrand
 	url = git@github.com:coq-community/bertrand
 [submodule "val-repos/graph-theory"]
-	path = train-sft/graph-theory
+	path = train-sft-repos/graph-theory
 	url = git@github.com:coq-community/graph-theory
 [submodule "val-repos/stalmarck"]
 	path = val-repos/stalmarck
 	url = git@github.com:coq-community/stalmarck
 [submodule "val-repos/qarith-stern-brocot"]
-	path = train-sft/qarith-stern-brocot
+	path = train-sft-repos/qarith-stern-brocot
 	url = git@github.com:coq-community/qarith-stern-brocot
 [submodule "val-repos/coqeal"]
-	path = train-sft/coqeal
+	path = train-sft-repos/coqeal
 	url = git@github.com:coq-community/coqeal
 [submodule "cutoff-repos/bb5"]
 	path = cutoff-repos/bb5
@@ -56,7 +56,7 @@
 	path = cutoff-repos/pnvrocqlib
 	url = git@github.com:PnvDiscord/PnVRocqLib
 [submodule "test-repos/poltac"]
-	path = train-rl/poltac
+	path = train-rl-repos/poltac
 	url = git@github.com:thery/PolTac
 [submodule "coqpyt"]
 	path = coqpyt
