@@ -29,7 +29,12 @@ ENV OCAML_TOPLEVEL_PATH='/root/.opam/coqstoq/lib/toplevel'
 ENV MANPATH='/root/.opam/coqstoq/man'
 ENV PATH="/root/.opam/coqstoq/bin:$PATH"
 
-# Poetry reqirements
+# Download raw Coq Code
+RUN wget -O coqstoq-repos.tar.gz "https://zenodo.org/records/15748795/files/coqstoq-repos.tar.gz?download=1"
+RUN tar -xzvf coqstoq-repos.tar.gz
+
+
+# # Poetry reqirements
 RUN apt-get install -y pipx
 RUN pipx install poetry
 RUN pipx ensurepath
@@ -42,34 +47,47 @@ RUN touch /app/CoqStoq/README.md
 RUN mkdir /app/CoqStoq/coqstoq
 COPY ./coqpyt /app/CoqStoq/coqpyt
 COPY ./coqstoq/__init__.py /app/CoqStoq/coqstoq/__init__.py 
-COPY ./coqstoq/build /app/CoqStoq/coqstoq/build
+COPY ./coqstoq/preprocess /app/CoqStoq/coqstoq/preprocess
+COPY ./assignment.json /app/CoqStoq/assignment.json
 
-# Create virtual env 
 WORKDIR /app/CoqStoq
 RUN poetry env use /usr/bin/python3.12
 RUN poetry install
 
-COPY ./train-sft-repos /app/CoqStoq/train-sft-repos
-COPY ./train-rl-repos /app/CoqStoq/train-rl-repos
-COPY ./val-repos /app/CoqStoq/val-repos
+RUN poetry run python3 coqstoq/preprocess/move_repos.py /app/coqstoq-repos /app/CoqStoq
 
-# Build projects in the testing / validation / cutoff splits 
-RUN poetry run python3 coqstoq/build/build_projects.py 
 
-COPY ./train-sft-theorems /app/CoqStoq/train-sft-theorems
-COPY ./train-sft-theorems.json /app/CoqStoq/train-sft-theorems.json
 
-COPY ./train-rl-theorems /app/CoqStoq/train-rl-theorems
-COPY ./train-rl-theorems.json /app/CoqStoq/train-rl-theorems.json
 
-COPY ./val-theorems /app/CoqStoq/val-theorems
-COPY ./val-theorems.json /app/CoqStoq/val-theorems.json
 
-COPY ./coqstoq /app/CoqStoq/coqstoq
-COPY ./tests /app/CoqStoq/tests
-RUN poetry install
+# COPY ./coqstoq/build /app/CoqStoq/coqstoq/build
 
-COPY ./api.py /app/CoqStoq/api.py
+# # Create virtual env 
+# WORKDIR /app/CoqStoq
+# RUN poetry env use /usr/bin/python3.12
+# RUN poetry install
+
+# COPY ./train-sft-repos /app/CoqStoq/train-sft-repos
+# COPY ./train-rl-repos /app/CoqStoq/train-rl-repos
+# COPY ./val-repos /app/CoqStoq/val-repos
+
+# # Build projects in the testing / validation / cutoff splits 
+# RUN poetry run python3 coqstoq/build/build_projects.py 
+
+# COPY ./train-sft-theorems /app/CoqStoq/train-sft-theorems
+# COPY ./train-sft-theorems.json /app/CoqStoq/train-sft-theorems.json
+
+# COPY ./train-rl-theorems /app/CoqStoq/train-rl-theorems
+# COPY ./train-rl-theorems.json /app/CoqStoq/train-rl-theorems.json
+
+# COPY ./val-theorems /app/CoqStoq/val-theorems
+# COPY ./val-theorems.json /app/CoqStoq/val-theorems.json
+
+# COPY ./coqstoq /app/CoqStoq/coqstoq
+# COPY ./tests /app/CoqStoq/tests
+# RUN poetry install
+
+# COPY ./api.py /app/CoqStoq/api.py
 
 
 
