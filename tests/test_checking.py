@@ -10,17 +10,7 @@ from coqstoq import get_theorem_list, Split, get_theorem
 import logging, sys
 
 def get_user_prompt_for_file(theorem, file_context):
-    return f"""
-        ###### The theorem I'm trying to prove is 
-{theorem}
-\n\n
-        ###### The file context in which I'm writing the proof is 
-{file_context}
-\n\n
-        
-        ###### Start the proof with the following tactic:
-Proof.
-    """
+    return f"""The theorem I'm trying to prove is \n```\n{theorem}\n```\n#####\n\nThe file context in which I'm writing the proof is \n```\n{file_context}\n```\n#####\n\nStart the proof with the following tactic:\n```\nProof\n```\n\n"""
 
 # def test_check_result(): # Takes time too run.
 #     TEST_NUM_PER_SPLIT = 1
@@ -62,7 +52,7 @@ def gen_user_prompt():
             user_prompt_file = v_file.with_suffix('.pmt')
             with open(user_prompt_file, 'w') as f:
                 f.write(get_user_prompt_for_file(get_theorem_statement(thm,COQSTOQ_LOC), context))
-gen_user_prompt()
+# gen_user_prompt()
 
 def test_check_result_single():
     COQSTOQ_LOC = Path.cwd()
