@@ -35,11 +35,14 @@ RUN pipx install poetry
 RUN pipx ensurepath
 ENV PATH="/root/.local/bin:$PATH"
 
-COPY ./README.md /app/CoqStoq/README.md
 COPY ./pyproject.toml /app/CoqStoq/pyproject.toml
 COPY ./poetry.lock /app/CoqStoq/poetry.lock
+
+RUN touch /app/CoqStoq/README.md
+RUN mkdir /app/CoqStoq/coqstoq
 COPY ./coqpyt /app/CoqStoq/coqpyt
-COPY ./coqstoq /app/CoqStoq/coqstoq
+COPY ./coqstoq/__init__.py /app/CoqStoq/coqstoq/__init__.py 
+COPY ./coqstoq/build /app/CoqStoq/coqstoq/build
 
 # Create virtual env 
 WORKDIR /app/CoqStoq
@@ -51,8 +54,7 @@ COPY ./train-rl-repos /app/CoqStoq/train-rl-repos
 COPY ./val-repos /app/CoqStoq/val-repos
 
 # Build projects in the testing / validation / cutoff splits 
-RUN poetry run python3 coqstoq/build_projects.py 
-
+RUN poetry run python3 coqstoq/build/build_projects.py 
 
 COPY ./train-sft-theorems /app/CoqStoq/train-sft-theorems
 COPY ./train-sft-theorems.json /app/CoqStoq/train-sft-theorems.json
@@ -62,6 +64,12 @@ COPY ./train-rl-theorems.json /app/CoqStoq/train-rl-theorems.json
 
 COPY ./val-theorems /app/CoqStoq/val-theorems
 COPY ./val-theorems.json /app/CoqStoq/val-theorems.json
+
+COPY ./coqstoq /app/CoqStoq/coqstoq
+COPY ./tests /app/CoqStoq/tests
+RUN poetry install
+
+COPY ./api.py /app/CoqStoq/api.py
 
 
 

@@ -1,5 +1,5 @@
 from coqstoq.find_eval_thms import find_eval_theorems
-from coqstoq.predefined_projects import GRAPH_THEORY
+from coqstoq.build.project import GRAPH_THEORY
 
 
 def test_coloring():

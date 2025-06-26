@@ -13,10 +13,8 @@ import multiprocessing as mp
 import logging
 
 from coqpyt.lsp.structs import ResponseError
-from coqstoq.predefined_projects import PREDEFINED_PROJECTS, HOARETUT
+from coqstoq.build.project import PREDEFINED_PROJECTS, HOARETUT, Project, Split
 from coqstoq.eval_thms import (
-    Project,
-    Split,
     find_eval_theorems,
     CoqComplieError,
     CoqCompileTimeoutError,

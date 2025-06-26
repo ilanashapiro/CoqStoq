@@ -1,0 +1,117 @@
+"""
+Exposes the following commands
+"""
+from typing import Any
+
+import sys
+import json
+import argparse
+from dataclasses import dataclass
+from pathlib import Path
+
+from coqstoq.check import get_ground_truth, get_prefix, get_suffix, get_theorem_text
+from coqstoq.scripts import num_theorems, get_theorem 
+
+COQSTOQ_LOC = Path.cwd()
+
+@dataclass
+class GetSplitsResult:
+    splits: list[str]
+
+    def to_json(self) -> Any:
+        return {"splits": self.splits} 
+
+def get_splits() -> GetSplitsResult:
+    return GetSplitsResult(splits=["train-sft", "train-rl", "val"])
+
+@dataclass
+class GetNumTheoremsResult:
+    num_theorems: int
+
+    def to_json(self) -> Any:
+        return {"num_theorems": self.num_theorems}
+
+def get_num_theorems(split: str) -> GetNumTheoremsResult:
+    return GetNumTheoremsResult(num_theorems=num_theorems(split, COQSTOQ_LOC))
+
+@dataclass
+class GetTheoremInfoResult:
+    split: str
+    index: int
+    prefix: str
+    suffix: str
+    theorem: str
+    ground_truth: str
+
+    def to_json(self) -> Any:
+        return {
+            "split": self.split,
+            "index": self.index,
+            "prefix": self.prefix,
+            "suffix": self.suffix,
+            "theorem": self.theorem,
+            "ground_truth": self.ground_truth,
+        }
+
+
+
+def get_theorem_info(split: str, idx: int) -> GetTheoremInfoResult:
+    theorem_info = get_theorem(split, idx, COQSTOQ_LOC)
+    ground_truth = get_ground_truth(theorem_info, COQSTOQ_LOC)
+    prefix = get_prefix(theorem_info, COQSTOQ_LOC)
+    suffix = get_suffix(theorem_info, COQSTOQ_LOC)
+    theorem = get_theorem_text(theorem_info, COQSTOQ_LOC)
+    return GetTheoremInfoResult(
+        split=split,
+        index=idx,
+        prefix=prefix,
+        suffix=suffix,
+        theorem=theorem,
+        ground_truth=ground_truth,
+    )
+
+
+def handle_get_splits(args: argparse.Namespace) -> None:
+    result = get_splits()
+    json_str = json.dumps(result.to_json(), indent=2)
+    sys.stdout.write(json_str)
+    sys.stdout.flush()
+
+def handle_get_num_theorems(args: argparse.Namespace) -> None:
+    split = args.split
+    result = get_num_theorems(split)
+    json_str = json.dumps(result.to_json(), indent=2)
+    sys.stdout.write(json_str)
+    sys.stdout.flush()
+
+def handle_get_theorem_info(args: argparse.Namespace) -> None:
+    split = args.split
+    index = args.index
+    result = get_theorem_info(split, index)
+    json_str = json.dumps(result.to_json(), indent=2)
+    sys.stdout.write(json_str)
+    sys.stdout.flush()
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="CoqStoq API")
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    splits_parser = subparsers.add_parser("get_splits", help="Get available splits")
+    splits_parser.set_defaults(func=handle_get_splits)
+
+    num_thms_parser = subparsers.add_parser("get_num_theorems", help="Get number of theorems in a split")
+    num_thms_parser.add_argument("split", type=str, help="Split name (e.g., 'train-sft', 'train-rl', 'val')")
+    num_thms_parser.set_defaults(func=handle_get_num_theorems)
+
+    thm_info_parser = subparsers.add_parser("get_theorem_info", help="Get information about a theorem")
+    thm_info_parser.add_argument("split", type=str, help="Split name (e.g., 'train-sft', 'train-rl', 'val')")
+    thm_info_parser.add_argument("index", type=int, help="Index of the theorem in the split")
+    thm_info_parser.set_defaults(func=handle_get_theorem_info)
+
+    args = parser.parse_args()
+    args.func(args)
+
+
+
+

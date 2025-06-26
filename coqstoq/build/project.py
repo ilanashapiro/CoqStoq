@@ -1,4 +1,62 @@
-from coqstoq.eval_thms import Project, Split
+from __future__ import annotations
+from typing import Any, Optional
+
+from pathlib import Path
+from dataclasses import dataclass
+
+@dataclass
+class Split:
+    dir_name: str
+    thm_dir_name: str
+
+    @property
+    def theorem_list_loc(self) -> Path:
+        return Path(f"{self.thm_dir_name}.json")
+
+    def to_json(self) -> Any:
+        return {"dir_name": self.dir_name, "thm_dir_name": self.thm_dir_name}
+
+    @classmethod
+    def from_json(cls, data: Any) -> Split:
+        return cls(data["dir_name"], data["thm_dir_name"])
+    
+    @classmethod
+    def from_name(cls, name: str) -> Split:
+        return cls(f"{name}-repos", f"{name}-theorems")
+
+
+@dataclass
+class Project:
+    dir_name: str
+    split: Split
+    commit_hash: Optional[str]
+    compile_args: list[str]
+
+    @property
+    def workspace(self) -> Path:
+        return Path(self.split.dir_name) / self.dir_name
+
+    @property
+    def thm_path(self) -> Path:
+        return Path(self.split.thm_dir_name) / self.dir_name
+
+    def to_json(self) -> Any:
+        return {
+            "dir_name": self.dir_name,
+            "split": self.split.to_json(),
+            "commit_hash": self.commit_hash,
+            "compile_args": self.compile_args,
+        }
+
+    @classmethod
+    def from_json(cls, json_data: Any) -> Project:
+        return cls(
+            json_data["dir_name"],
+            Split.from_json(json_data["split"]),
+            json_data["commit_hash"],
+            json_data["compile_args"],
+        )
+
 
 TRAIN_SFT_SPLIT = Split("train-sft-repos", "train-sft-theorems")
 TRAIN_RL_SPLIT = Split("train-rl-repos", "train-rl-theorems")

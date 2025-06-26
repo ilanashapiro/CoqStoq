@@ -3,10 +3,10 @@ import argparse
 import subprocess
 from pathlib import Path
 from dataclasses import dataclass
-from coqstoq.eval_thms import Project
-from coqstoq.predefined_projects import (
+from coqstoq.build.project import (
     COMPCERT,
     PREDEFINED_PROJECTS,
+    Project
 )
 import logging
 import multiprocessing as mp
@@ -72,6 +72,7 @@ TM.v
 
 
 def run_build(instructions: BuildInstructions):
+    logger.info(f"Building {instructions.project.dir_name}")
     for instr in instructions.instrs:
         result = subprocess.run(
             instr, cwd=instructions.project.workspace.resolve(), capture_output=True
@@ -88,6 +89,8 @@ if __name__ == "__main__":
     default_num_jobs = math.ceil(mp.cpu_count() / N_JOBS_PER_BUILD)
     parser.add_argument("--n_jobs", type=int, default=default_num_jobs)
     args = parser.parse_args()
+
+    logging.basicConfig(level=logging.INFO)
 
     all_build_instrs: list[BuildInstructions] = []
     for p in PREDEFINED_PROJECTS:

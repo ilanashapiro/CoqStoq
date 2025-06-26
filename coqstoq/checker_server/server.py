@@ -13,7 +13,7 @@ from jsonrpc import JSONRPCResponseManager, dispatcher
 
 from coqpyt.lsp.structs import DiagnosticSeverity
 
-from coqstoq import get_theorem
+from coqstoq.scripts import get_theorem
 from coqstoq.check import get_ground_truth, get_lsp_check_contents, strip_qed
 from coqstoq.eval_thms import EvalTheorem
 from coqstoq.checker_server.lsp_client import ClientWrapper, FastLspClient
@@ -130,7 +130,7 @@ if __name__ == "__main__":
         )
         logger.info("Running sanity check on ground truth proof for theorem: %s", theorem.path)
         sanity_check_ground_truth()
-        run_simple("localhost", 8080, application)
+        run_simple("0.0.0.0", 8080, application)
     finally:
         logger.info("Shutting down the client.")
         if client is not None:

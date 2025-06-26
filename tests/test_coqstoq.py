@@ -1,11 +1,11 @@
 from pathlib import Path
-from coqstoq import Split, num_theorems, get_theorem, get_theorem_list
+from coqstoq.scripts import num_theorems, get_theorem, get_theorem_list
 import logging
 
 
 def test_coqstoq():
     COQSTOQ_LOC = Path.cwd()
-    for split in Split:
+    for split in ["train-sft", "train-rl", "val"]:
         split_n_theorems = num_theorems(split, COQSTOQ_LOC)
         split_theorem_list = get_theorem_list(split, COQSTOQ_LOC)
         split_thm_0 = get_theorem(split, 0, COQSTOQ_LOC)

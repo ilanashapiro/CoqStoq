@@ -5,7 +5,7 @@ Test coqstoq checking proofs.
 from pathlib import Path
 
 from coqstoq.check import Result, check_result, get_ground_truth
-from coqstoq import get_theorem_list, Split, get_theorem
+from coqstoq.scripts import get_theorem_list, Split, get_theorem
 
 import logging
 
@@ -29,7 +29,7 @@ import logging
 
 def test_check_result_single():
     COQSTOQ_LOC = Path.cwd()
-    test_thm = get_theorem(Split.TEST, 0, COQSTOQ_LOC)
+    test_thm = get_theorem("val", 0, COQSTOQ_LOC)
     bad_proof = ""
     good_proof = get_ground_truth(test_thm, COQSTOQ_LOC)
     good_result = Result(test_thm, good_proof, 1)
