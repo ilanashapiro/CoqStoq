@@ -35,18 +35,6 @@ RUN pipx install poetry
 RUN pipx ensurepath
 ENV PATH="/root/.local/bin:$PATH"
 
-COPY ./test-repos /app/CoqStoq/test-repos
-COPY ./test-theorems /app/CoqStoq/test-theorems
-COPY ./test-theorems.json /app/CoqStoq/test-theorems.json
-
-COPY ./val-repos /app/CoqStoq/val-repos
-COPY ./val-theorems /app/CoqStoq/val-theorems
-COPY ./val-theorems.json /app/CoqStoq/val-theorems.json
-
-COPY ./cutoff-repos /app/CoqStoq/cutoff-repos
-COPY ./cutoff-theorems /app/CoqStoq/cutoff-theorems
-COPY ./cutoff-theorems.json /app/CoqStoq/cutoff-theorems.json
-
 COPY ./README.md /app/CoqStoq/README.md
 COPY ./pyproject.toml /app/CoqStoq/pyproject.toml
 COPY ./poetry.lock /app/CoqStoq/poetry.lock
@@ -58,8 +46,22 @@ WORKDIR /app/CoqStoq
 RUN poetry env use /usr/bin/python3.12
 RUN poetry install
 
+COPY ./train-sft-repos /app/CoqStoq/train-sft-repos
+COPY ./train-rl-repos /app/CoqStoq/train-rl-repos
+COPY ./val-repos /app/CoqStoq/val-repos
+
 # Build projects in the testing / validation / cutoff splits 
 RUN poetry run python3 coqstoq/build_projects.py 
+
+
+COPY ./train-sft-theorems /app/CoqStoq/train-sft-theorems
+COPY ./train-sft-theorems.json /app/CoqStoq/train-sft-theorems.json
+
+COPY ./train-rl-theorems /app/CoqStoq/train-rl-theorems
+COPY ./train-rl-theorems.json /app/CoqStoq/train-rl-theorems.json
+
+COPY ./val-theorems /app/CoqStoq/val-theorems
+COPY ./val-theorems.json /app/CoqStoq/val-theorems.json
 
 
 

@@ -198,8 +198,7 @@ def compile_file(project: Project, path: Path, timeout: Optional[int]):
     full_path = path.resolve()
     os.chdir(project_loc)
     tmp_dir = Path("tmp-coqstoq-out")
-    assert not tmp_dir.exists()
-    os.mkdir(tmp_dir)
+    os.makedirs(tmp_dir, exist_ok=True)
     tmp_out_loc = tmp_dir / path.with_suffix(".vo").name
     try:
         # print(["coqc", "-o", tmp_out_loc, *project.compile_args, full_path])
@@ -217,8 +216,6 @@ def compile_file(project: Project, path: Path, timeout: Optional[int]):
     finally:
         if tmp_out_loc.exists():
             os.remove(tmp_out_loc)
-        if tmp_dir.exists():
-            shutil.rmtree(tmp_dir)
         os.chdir(cur_dir)
 
 

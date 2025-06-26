@@ -14,13 +14,6 @@ from pathlib import Path
 from dataclasses import dataclass
 from coqstoq.eval_thms import Split, EvalTheorem
 
-from coqstoq.predefined_projects import (
-    PREDEFINED_PROJECTS,
-    TEST_SPLIT,
-    VAL_SPLIT,
-    CUTOFF_SPLIT,
-)
-
 
 @dataclass(unsafe_hash=True)
 class TheoremReference:

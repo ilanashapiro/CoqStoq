@@ -8,6 +8,9 @@ import argparse
 from typing import Any
 from pathlib import Path
 from dataclasses import dataclass
+import multiprocessing as mp
+
+import logging
 
 from coqpyt.lsp.structs import ResponseError
 from coqstoq.predefined_projects import PREDEFINED_PROJECTS, HOARETUT
@@ -19,6 +22,8 @@ from coqstoq.eval_thms import (
     CoqCompileTimeoutError,
     EvalTheorem,
 )
+
+logger = logging.getLogger(__name__)
 
 TEST_THMS_LOC = Path("test-theorems")
 REPORTS_LOC = Path("test-theorems-reports")
@@ -97,41 +102,34 @@ class TheoremReport:
             data["num_theorems"],
         )
 
+@dataclass
+class Task:
+    project: Project 
+    file: Path
+    timeout: int
 
-def find_project_theormes(project: Project, timeout: int) -> TheoremReport:
-    print(project.workspace)
-    successful_files: list[Path] = []
-    errored_files: list[Path] = []
-    timed_out_files: list[Path] = []
-    lsp_errored_files: list[Path] = []
-    num_thms: int = 0
-    for file in project.workspace.glob("**/*.v"):
-        print(f"Checking {file}")
-        try:
-            thms = find_eval_theorems(project, file, timeout)
-            print(f"Found {len(thms)} theorems in {file}")
-            save_theorems(project, file, thms)
-            successful_files.append(file)
-            num_thms += len(thms)
-        except CoqComplieError as e:
-            print(f"Could not compile {file}; Error: {e}")
-            errored_files.append(file)
-            continue
-        except CoqCompileTimeoutError as e:
-            print(f"Compilation timed out for {file}; Error; {e}")
-            timed_out_files.append(file)
-            continue
-        except ResponseError as e:
-            print(f"Got Coq-LSP response error for {file}.")
-            lsp_errored_files.append(file)
-            continue
-    return TheoremReport(
-        successful_files,
-        errored_files,
-        timed_out_files,
-        lsp_errored_files,
-        num_thms,
-    )
+def get_tasks(timeout: int) -> list[Task]:
+    tasks: list[Task] = []
+    for project in PREDEFINED_PROJECTS:
+        for file in project.workspace.glob("**/*.v"):
+            if file.is_file():
+                tasks.append(Task(project, file, timeout))
+    return tasks
+
+
+def run_task(task: Task):
+    logger.info(f"Checking {task.file}")
+    try:
+        thms = find_eval_theorems(task.project, task.file, task.timeout)
+        logger.info(f"Found {len(thms)} theorems in {task.file}")
+        save_theorems(task.project, task.file, thms)
+    except CoqComplieError as e:
+        logger.error(f"Could not compile {task.file}; Error: {e}")
+    except CoqCompileTimeoutError as e:
+        logger.error(f"Compilation timed out for {task.file}; Error: {e}")
+    except ResponseError as e:
+        logger.error(f"Got Coq-LSP response error for {task.file}.")
+
 
 
 def unique_names(projects: list[Project]) -> bool:
@@ -151,73 +149,8 @@ def find_project(proj_name: str) -> Project:
     raise ValueError(f"Could not find project with name {proj_name}")
 
 
-def validate_report(p: Project, theorem_report: TheoremReport):
-    """
-    Each success should have a file of theorems on disk.
-    No failures should have a file of theorems on disk.
-    The number of successes plus the number of failures should equal the number of
-    ".v" files in the project workspace.
-    """
-    counted_thms = 0
-    for s in theorem_report.successful_files:
-        assert s.is_relative_to(p.workspace)
-        saved_thms_loc = p.thm_path / s.relative_to(p.workspace).with_suffix(".json")
-        assert saved_thms_loc.exists()
-        with open(saved_thms_loc) as f:
-            thms = json.load(f)
-            counted_thms += len(thms)
-    assert counted_thms == theorem_report.num_theorems
-
-    for s in theorem_report.unsuccessful_files:
-        assert s.is_relative_to(p.workspace)
-        saved_thms_loc = p.thm_path / s.relative_to(p.workspace).with_suffix(".json")
-        assert not saved_thms_loc.exists()
-
-    total_reported_files = len(theorem_report.successful_files) + len(
-        theorem_report.unsuccessful_files
-    )
-    assert total_reported_files == len(list(p.workspace.glob("**/*.v")))
-
-
-@dataclass
-class EvalReport:
-    project: Project
-    report: TheoremReport
-
-    def to_json(self) -> Any:
-        return {
-            "project": self.project.to_json(),
-            "report": self.report.to_json(),
-        }
-
-    @classmethod
-    def from_json(cls, json_data: Any) -> EvalReport:
-        return cls(
-            Project.from_json(json_data["project"]),
-            TheoremReport.from_json(json_data["report"]),
-        )
 
 TIMEOUT = 120
-
-def create_predefined_coqstoq_theorems():
-    reports: list[EvalReport] = []
-
-    os.makedirs(REPORTS_LOC, exist_ok=True)
-    assert unique_names(PREDEFINED_PROJECTS)
-    for project in PREDEFINED_PROJECTS:
-        report = find_project_theormes(project, TIMEOUT)
-        validate_report(project, report)
-        eval_report = EvalReport(project, report)
-        reports.append(eval_report)
-        with open(REPORTS_LOC / f"{project.dir_name}.json", "w") as f:
-            json.dump(eval_report.to_json(), f, indent=2)
-
-    print()
-    for r in reports:
-        print(f"<<<<< Project: {r.project.dir_name} >>>>>")
-        r.report.print_summary()
-
-
 
 def get_commit_hash(project_dir: Path) -> Optional[str]:
     git_dir_out = subprocess.run(
@@ -239,6 +172,7 @@ def get_commit_hash(project_dir: Path) -> Optional[str]:
         check=True,
         capture_output=True,
     )
+
     if commit_hash_bytes.returncode != 0:
         return None
 
@@ -256,65 +190,8 @@ def read_yaml_compile_args(project_name: str, yaml_file: Path) -> list[str]:
         return compile_args
 
 
-"""
-Create coqstoq theorems for a set of custom projects.
-"""
-def create_custom_coqstoq_theorems(custom_split_name: str):
-    custom_split = Split.from_name(custom_split_name)
-    custom_repos_loc = Path.cwd() / custom_split.dir_name
-    if not custom_repos_loc.exists():
-        raise ValueError(
-            f"Could not find custom repos directory {custom_repos_loc} for {custom_split_name}."
-        ) 
-    
-    split_config = Path.cwd() / f"{custom_split_name}.yaml"
-    if not split_config.exists():
-        raise ValueError(
-            f"Could not find split config file {split_config} for {custom_split_name}."
-        )
-
-    reports: list[EvalReport] = []
-    os.makedirs(REPORTS_LOC, exist_ok=True)
-    for custom_project in custom_repos_loc.iterdir():
-        project_commit = get_commit_hash(custom_project)
-        project_compile_args = read_yaml_compile_args(
-            custom_project.name, split_config
-        )
-        print("Project compile args:", project_compile_args)
-        project = Project(
-            dir_name=custom_project.name,
-            split=custom_split,
-            commit_hash=project_commit,
-            compile_args=project_compile_args,
-        ) 
-        report = find_project_theormes(project, TIMEOUT)
-        validate_report(project, report)
-        eval_report = EvalReport(project, report)
-        reports.append(eval_report)
-        with open(REPORTS_LOC / f"{project.dir_name}.json", "w") as f:
-            json.dump(eval_report.to_json(), f, indent=2)
-
-    print()
-    for r in reports:
-        print(f"<<<<< Project: {r.project.dir_name} >>>>>")
-        r.report.print_summary()
-
-
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description="Create coqstoq theorems."
-    )
-    parser.add_argument(
-        "--custom-split-name",
-        type=str,
-        default=None,
-        help="Path to a directory containing custom repos.",
-    )
-
-    args = parser.parse_args()
-
-    if args.custom_split_name is not None:
-        create_custom_coqstoq_theorems(args.custom_split_name)
-    else:
-        create_predefined_coqstoq_theorems()
+    tasks = get_tasks(TIMEOUT)
+    with mp.Pool(mp.cpu_count()) as pool:
+        pool.map(run_task, tasks)
