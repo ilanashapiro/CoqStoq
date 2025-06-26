@@ -1,6 +1,6 @@
 import re
 import json
-import os
+import os, sys
 
 from trapi_DO_NOT_COMMIT import trapi_call
 
@@ -37,6 +37,8 @@ def get_prompt_reasoning(language, instruction, response):
         After this explanation, include the actual function code.
 
     3. Your explanations should be very very detailed like explaining to a beginner, in spoken language style, and do not use bullet lists and hierarchical markdowns. Do not care about the length of your output, you are obliged to produce the most detailed output you can. Just make sure it is very detailed and thorough, as shown in the examples. Specifically, for each code snippet (theorem, function, proposition/predicate), you MUST write at least 5 sentences of description before each code snippet.
+
+    4. However, your explanations should not be too verbose, and should not include any unnecessary information. Do not repeat the same information multiple times, and do not include any irrelevant information. The explanations should be concise and to the point, while still being detailed enough to understand the code. Try to keep your reasoning under approximately {len(response)} words.
 
     Instruction example:
     Given a hash function that takes string of natural numbers `x`, base `base`, prime number `prime`, and indices `i` and `j`. The hash function is already reduced modulo the prime number, i.e. hash(x, base, prime, i, j) = original_hash(x, base, i, j) % prime.
@@ -178,62 +180,63 @@ def get_prompt_reasoning(language, instruction, response):
 def augment():
     COQSTOQ_LOC = Path.cwd()
     successful_prompt_lists = []
-    for split in Split:
-        theorems = get_theorem_list(split, COQSTOQ_LOC)[:1]
-        for thm in theorems:
-            v_file = thm.project.workspace / thm.path
-            ctx_file = v_file.with_suffix('.ctx')
-            with open(ctx_file, 'r') as f:
-                context = f.read()
-            user_prompt_file = v_file.with_suffix('.pmt')
-            with open(user_prompt_file, 'r') as f:
-                user_prompt = f.read()
-            proof = get_ground_truth(thm, COQSTOQ_LOC)
-            augmented_file = v_file.with_suffix('.aug')
-            
-            # From result and prompt, generate reasoning trace
-            response = trapi_call(get_prompt_reasoning(language="Coq", instruction=user_prompt, response=proof))
-            if response is None:
-                continue
-            reasoning = response.strip()
-            if reasoning is None:
-                continue
-            # reasoning = reasoning.group(1).strip()
-
-            print("-------------------------------")
-            print("USER:")
-            print(user_prompt)
-            print("")
-            print("AI:")
-            print("<think>")
-            print(reasoning)
-            print("</think>")
-            print("<answer>")
-            print(proof)
-            print("</answer>")
-
-            successful_prompt_lists.append({
-                "data_source": "pulse_augmented_instruction_collection",
-                "prompt": [
-                    {
-                        "role": "user",
-                        "content": user_prompt,
-                    }
-                ],
-                "ability": f"coding/Coq",
-                "reward_model": {"style": "execution"},
-                "extra_info": {
-                    "filename": v_file,
-                    "question": user_prompt,
-                    "reasoning": reasoning,
-                    "answer": proof,
-                    "formatted_response": f"<think>\n{reasoning}\n</think>\n<answer>\n{proof}\n</answer>"
-                },
-            })
+    # for split in Split:
+    split = Split.TEST
+    theorems = get_theorem_list(split, COQSTOQ_LOC)[:1]
+    for thm in theorems:
+        v_file = thm.project.workspace / thm.path
+        ctx_file = v_file.with_suffix('.ctx')
+        with open(ctx_file, 'r') as f:
+            context = f.read()
+        user_prompt_file = v_file.with_suffix('.pmt')
+        with open(user_prompt_file, 'r') as f:
+            user_prompt = f.read()
+        proof = get_ground_truth(thm, COQSTOQ_LOC)
+        augmented_file = v_file.with_suffix('.aug')
         
-            with open(augmented_file, "w") as file:
-                for datum in successful_prompt_lists:
-                    file.write(json.dumps(datum, ensure_ascii=False) + "\n")
+        # From result and prompt, generate reasoning trace
+        response = trapi_call(get_prompt_reasoning(language="Coq", instruction=user_prompt, response=proof))
+        if response is None:
+            continue
+        reasoning = response.strip()
+        if reasoning is None:
+            continue
+        # reasoning = reasoning.group(1).strip()
+
+        print("-------------------------------")
+        # print("USER:")
+        # print(user_prompt)
+        # print("")
+        print("AI:")
+        print("<think>")
+        print(reasoning)
+        print("</think>")
+        print("<answer>")
+        print(proof)
+        print("</answer>")
+
+        successful_prompt_lists.append({
+            "data_source": "pulse_augmented_instruction_collection",
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": user_prompt,
+                }
+            ],
+            "ability": f"coding/Coq",
+            "reward_model": {"style": "execution"},
+            "extra_info": {
+                "filename": v_file,
+                "question": user_prompt,
+                "reasoning": reasoning,
+                "answer": proof,
+                "formatted_response": f"<think>\n{reasoning}\n</think>\n<answer>\n{proof}\n</answer>"
+            },
+        })
+    
+        # with open(augmented_file, "w") as file:
+        #     for datum in successful_prompt_lists:
+        #         file.write(json.dumps(datum, ensure_ascii=False) + "\n")
 
 
 if __name__ == "__main__":
