@@ -7,7 +7,7 @@ import logging
 from enum import Enum
 from dataclasses import dataclass
 
-from coqstoq.eval_thms import EvalTheorem, get_file_hash, compile_file, CoqComplieError
+from coqstoq.index_thms.eval_thms import EvalTheorem, get_file_hash, compile_file, CoqComplieError
 
 
 @dataclass

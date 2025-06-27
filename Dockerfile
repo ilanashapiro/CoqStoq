@@ -30,7 +30,7 @@ ENV MANPATH='/root/.opam/coqstoq/man'
 ENV PATH="/root/.opam/coqstoq/bin:$PATH"
 
 # Download raw Coq Code
-RUN wget -O coqstoq-repos.tar.gz "https://zenodo.org/records/15748795/files/coqstoq-repos.tar.gz?download=1"
+RUN wget -O coqstoq-repos.tar.gz "https://zenodo.org/records/15758130/files/coqstoq-repos.tar.gz?download=1"
 RUN tar -xzvf coqstoq-repos.tar.gz
 
 
@@ -56,33 +56,39 @@ RUN poetry install
 
 RUN poetry run python3 coqstoq/preprocess/move_repos.py /app/coqstoq-repos /app/CoqStoq
 
+# Build val / test / cutoff splits
+COPY ./coqstoq/build/__init__.py /app/CoqStoq/coqstoq/build/__init__.py
+COPY ./coqstoq/build/project.py /app/CoqStoq/coqstoq/build/project.py
+COPY ./coqstoq/build/build_projects.py /app/CoqStoq/coqstoq/build/build_projects.py
+RUN poetry run python3 coqstoq/build/build_projects.py
 
+# Build arbitrary projects
+COPY ./coqstoq/build/build_arbitrary_project.py /app/CoqStoq/coqstoq/build/build_arbitrary_project.py
+RUN poetry run python3 coqstoq/build/build_arbitrary_project.py
 
+# Code to Index training theorems (indexing done manually inside the container)
+COPY ./coqstoq/index_thms/__init__.py /app/CoqStoq/coqstoq/index_thms/__init__.py
+COPY ./coqstoq/index_thms/eval_thms.py /app/CoqStoq/coqstoq/index_thms/eval_thms.py
+COPY ./coqstoq/index_thms/find_eval_thms.py /app/CoqStoq/coqstoq/index_thms/find_eval_thms.py
 
+# For convenience
+RUN apt-get install -y vim
 
-# COPY ./coqstoq/build /app/CoqStoq/coqstoq/build
-
-# # Create virtual env 
-# WORKDIR /app/CoqStoq
-# RUN poetry env use /usr/bin/python3.12
-# RUN poetry install
-
-# COPY ./train-sft-repos /app/CoqStoq/train-sft-repos
-# COPY ./train-rl-repos /app/CoqStoq/train-rl-repos
-# COPY ./val-repos /app/CoqStoq/val-repos
-
-# # Build projects in the testing / validation / cutoff splits 
-# RUN poetry run python3 coqstoq/build/build_projects.py 
-
+# Move theorems
+COPY ./test-theorems /app/CoqStoq/test-theorems
+COPY ./val-theorems /app/CoqStoq/val-theorems
+COPY ./cutoff-theorems /app/CoqStoq/cutoff-theorems
 # COPY ./train-sft-theorems /app/CoqStoq/train-sft-theorems
-# COPY ./train-sft-theorems.json /app/CoqStoq/train-sft-theorems.json
-
 # COPY ./train-rl-theorems /app/CoqStoq/train-rl-theorems
+
+# # Move theorem lists
+# COPY ./test-theorems.json /app/CoqStoq/test-theorems.json
+# COPY ./val-theorems.json /app/CoqStoq/val-theorems.json
+# COPY ./cutoff-theorems.json /app/CoqStoq/cutoff-theorems.json
+# COPY ./train-sft-theorems.json /app/CoqStoq/train-sft-theorems.json
 # COPY ./train-rl-theorems.json /app/CoqStoq/train-rl-theorems.json
 
-# COPY ./val-theorems /app/CoqStoq/val-theorems
-# COPY ./val-theorems.json /app/CoqStoq/val-theorems.json
-
+# # Move the coqstoq source code
 # COPY ./coqstoq /app/CoqStoq/coqstoq
 # COPY ./tests /app/CoqStoq/tests
 # RUN poetry install

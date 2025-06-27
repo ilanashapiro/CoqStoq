@@ -3,11 +3,7 @@ import json
 from pathlib import Path
 import subprocess
 from coqstoq.build.project import Project
-from coqstoq.eval_thms import compile_file
-from coqstoq.find_eval_thms import (
-    REPORTS_LOC,
-    get_all_eval_thms,
-)
+from coqstoq.index_thms.eval_thms import compile_file
 from coqstoq.create_theorem_lists import TheoremReference, load_reference_list
 from coqstoq.build.project import (
     PREDEFINED_PROJECTS,

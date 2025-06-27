@@ -22,7 +22,7 @@ class GetSplitsResult:
         return {"splits": self.splits} 
 
 def get_splits() -> GetSplitsResult:
-    return GetSplitsResult(splits=["train-sft", "train-rl", "val"])
+    return GetSplitsResult(splits=["train-sft", "train-rl", "val", "cutoff", "test"])
 
 @dataclass
 class GetNumTheoremsResult:
@@ -101,11 +101,11 @@ if __name__ == "__main__":
     splits_parser.set_defaults(func=handle_get_splits)
 
     num_thms_parser = subparsers.add_parser("get_num_theorems", help="Get number of theorems in a split")
-    num_thms_parser.add_argument("split", type=str, help="Split name (e.g., 'train-sft', 'train-rl', 'val')")
+    num_thms_parser.add_argument("split", type=str, help="Split name (e.g., 'train-sft', 'train-rl', 'val', 'test', 'cutoff')")
     num_thms_parser.set_defaults(func=handle_get_num_theorems)
 
     thm_info_parser = subparsers.add_parser("get_theorem_info", help="Get information about a theorem")
-    thm_info_parser.add_argument("split", type=str, help="Split name (e.g., 'train-sft', 'train-rl', 'val')")
+    thm_info_parser.add_argument("split", type=str, help="Split name (e.g., 'train-sft', 'train-rl', 'val', 'test', 'cutoff')")
     thm_info_parser.add_argument("index", type=int, help="Index of the theorem in the split")
     thm_info_parser.set_defaults(func=handle_get_theorem_info)
 

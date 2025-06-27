@@ -5,6 +5,8 @@ from pathlib import Path
 from dataclasses import dataclass
 from coqstoq.build.project import (
     COMPCERT,
+    PNVROCQLIB,
+    BB5,
     PREDEFINED_PROJECTS,
     Project
 )
@@ -25,6 +27,14 @@ def routine_build(project: Project) -> BuildInstructions:
     return BuildInstructions(
         project,
         [["make", "-j", str(N_JOBS_PER_BUILD)]],
+    )
+
+def pnv_build() -> BuildInstructions:
+    coq_makefile = ["coq_makefile", "-f", "_CoqProject", "-o", "Makefile.coq"]
+    make = ["make", "-f", "Makefile.coq", "-j", str(N_JOBS_PER_BUILD)]
+    return BuildInstructions(
+        PNVROCQLIB,
+        instrs=[coq_makefile, make],
     )
 
 
@@ -70,6 +80,16 @@ Skelet34.v
 TM.v
 """
 
+def bb5_build() -> BuildInstructions:
+    with open(BB5.workspace / "_Custom_CoqProject", "w") as fout:
+        fout.write(MODIFIED_BB5_CP)
+    instrs = [
+        ["coq_makefile", "-f", "_Custom_CoqProject", "-o", "CustomMakefile.coq"],
+        ["make", "-f", "CustomMakefile.coq", "-j", str(N_JOBS_PER_BUILD)],
+    ]
+    return BuildInstructions(BB5, instrs)
+
+
 
 def run_build(instructions: BuildInstructions):
     logger.info(f"Building {instructions.project.dir_name}")
@@ -96,6 +116,10 @@ if __name__ == "__main__":
     for p in PREDEFINED_PROJECTS:
         if p == COMPCERT:
             all_build_instrs.append(compcert_build())
+        elif p == PNVROCQLIB:
+            all_build_instrs.append(pnv_build())
+        elif p == BB5:
+            all_build_instrs.append(bb5_build())
         else:
             all_build_instrs.append(routine_build(p))
 

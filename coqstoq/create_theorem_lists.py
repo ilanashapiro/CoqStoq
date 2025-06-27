@@ -13,7 +13,7 @@ from pathlib import Path
 
 from dataclasses import dataclass
 from coqstoq.build.project import Split
-from coqstoq.eval_thms import EvalTheorem
+from coqstoq.index_thms.eval_thms import EvalTheorem
 
 
 @dataclass(unsafe_hash=True)

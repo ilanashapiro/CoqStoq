@@ -1,6 +1,6 @@
 from pathlib import Path
 from coqstoq.build.project import Project, Split, MATHCLASSES
-from coqstoq.eval_thms import find_eval_theorems, EvalTheorem, Position
+from coqstoq.index_thms.eval_thms import find_eval_theorems, EvalTheorem, Position
 
 """
 Verifies the correctness of TestTheorems on a file with:

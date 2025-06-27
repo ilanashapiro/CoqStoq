@@ -8,7 +8,7 @@ from pathlib import Path
 
 COMMITS_LOC = "commits.json"
 ASSIGNMENT_LOC = "assignment.json"
-NUM_SFT_REPOS = 200 
+NUM_SFT_REPOS = 400 
 
 test_repos = [
     f"AbsInt/CompCert",
@@ -31,6 +31,7 @@ val_repos = [
     f"coq-community/coqeal",
     f"coq-community/graph-theory",
     f"coq-community/sudoku",
+    f"coq-community/qarith-stern-brocot",
 ]
 
 cutoff_repos = [

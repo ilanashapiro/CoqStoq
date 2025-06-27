@@ -15,7 +15,7 @@ from coqpyt.lsp.structs import DiagnosticSeverity
 
 from coqstoq.scripts import get_theorem
 from coqstoq.check import get_ground_truth, get_lsp_check_contents, strip_qed
-from coqstoq.eval_thms import EvalTheorem
+from coqstoq.index_thms.eval_thms import EvalTheorem
 from coqstoq.checker_server.lsp_client import ClientWrapper, FastLspClient
 
 logger = logging.getLogger(__name__)

@@ -1,4 +1,4 @@
-from coqstoq.find_eval_thms import find_eval_theorems
+from coqstoq.index_thms.find_eval_thms import find_eval_theorems
 from coqstoq.build.project import GRAPH_THEORY
 
 
