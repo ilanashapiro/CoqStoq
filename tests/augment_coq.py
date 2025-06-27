@@ -1,12 +1,14 @@
-import re
-import json
-import os, sys
+import json, os, sys, pathlib
 
 from trapi_DO_NOT_COMMIT import trapi_call
+sys.path.append("CoqStoq")
 
 from pathlib import Path
-from coqstoq import get_theorem_list, Split
+from coqstoq.scripts import get_theorem_list
 from coqstoq.check import get_ground_truth
+from api import get_theorem_info
+from azure.core.exceptions import ServiceResponseError, HttpResponseError
+import time
 
 def get_prompt_reasoning(language, instruction, response): 
     return f"""You are a synthetic data augmentator that generates high-quality instruction data for training a LLM that is fluent in {language}.
@@ -39,6 +41,8 @@ def get_prompt_reasoning(language, instruction, response):
     3. Your explanations should be very very detailed like explaining to a beginner, in spoken language style, and do not use bullet lists and hierarchical markdowns. Do not care about the length of your output, you are obliged to produce the most detailed output you can. Just make sure it is very detailed and thorough, as shown in the examples. Specifically, for each code snippet (theorem, function, proposition/predicate), you MUST write at least 5 sentences of description before each code snippet.
 
     4. However, your explanations should not be too verbose, and should not include any unnecessary information. Do not repeat the same information multiple times, and do not include any irrelevant information. The explanations should be concise and to the point, while still being detailed enough to understand the code. Try to keep your reasoning under approximately {len(response)} words.
+    
+    5. Remembers, ALL of the details about how to implement the instructions' requirements in {language} need to come BEFORE the actual {language} code snippet. There should be no additional explanations after the code snippet, except for the final summary of the proof or function.
 
     Instruction example:
     Given a hash function that takes string of natural numbers `x`, base `base`, prime number `prime`, and indices `i` and `j`. The hash function is already reduced modulo the prime number, i.e. hash(x, base, prime, i, j) = original_hash(x, base, i, j) % prime.
@@ -177,67 +181,96 @@ def get_prompt_reasoning(language, instruction, response):
     Chain-of-thought:
     """
 
-def augment():
-    COQSTOQ_LOC = Path.cwd()
-    successful_prompt_lists = []
-    # for split in Split:
-    split = Split.TEST
-    theorems = get_theorem_list(split, COQSTOQ_LOC)[:1]
-    for thm in theorems:
-        v_file = thm.project.workspace / thm.path
-        ctx_file = v_file.with_suffix('.ctx')
-        with open(ctx_file, 'r') as f:
-            context = f.read()
-        user_prompt_file = v_file.with_suffix('.pmt')
-        with open(user_prompt_file, 'r') as f:
-            user_prompt = f.read()
-        proof = get_ground_truth(thm, COQSTOQ_LOC)
-        augmented_file = v_file.with_suffix('.aug')
+MAX_RETRIES = 3          # how many times to retry the call
+BACKOFF     = 5          # seconds to wait between retries
+
+def safe_trapi_call(prompt: str):
+    """
+    Wrapper around trapi_call that retries a few times and returns None
+    if it still fails.
+    """
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            return trapi_call(prompt)                # <-- your original call
+        except (ServiceResponseError, HttpResponseError) as e:
+            print(f"[trapi_call] attempt {attempt}/{MAX_RETRIES} failed: {e}",
+                  file=sys.stderr)
+            if attempt == MAX_RETRIES:
+                # give up after last attempt
+                return None
+            time.sleep(BACKOFF)      # simple linear back-off (or use 2**attempt)
+        except Exception as e:
+            # Catch-all so one unexpected error doesn't crash you
+            print(f"[trapi_call] unexpected error: {e}", file=sys.stderr)
+            return None
         
-        # From result and prompt, generate reasoning trace
-        response = trapi_call(get_prompt_reasoning(language="Coq", instruction=user_prompt, response=proof))
-        if response is None:
-            continue
-        reasoning = response.strip()
-        if reasoning is None:
-            continue
-        # reasoning = reasoning.group(1).strip()
+def augment(split: str = "train-sft"):
+    user_prompts_file = f"user_prompts_{split}.jsonl"
+    out_dir           = pathlib.Path(f"{split}_augmented")  # folder for per-example files
+    out_dir.mkdir(exist_ok=True)                            # create if it doesn’t exist
 
-        print("-------------------------------")
-        # print("USER:")
-        # print(user_prompt)
-        # print("")
-        print("AI:")
-        print("<think>")
-        print(reasoning)
-        print("</think>")
-        print("<answer>")
-        print(proof)
-        print("</answer>")
+    # Optional progress metric
+    with open(user_prompts_file, "r", encoding="utf-8") as f:
+        num_theorems = sum(1 for _ in f)
 
-        successful_prompt_lists.append({
-            "data_source": "pulse_augmented_instruction_collection",
-            "prompt": [
-                {
-                    "role": "user",
-                    "content": user_prompt,
+    start_index     = 514   # resume point
+    augmented_count = 0
+
+    with open(user_prompts_file, "r", encoding="utf-8") as inp:
+        for i, line in enumerate(inp):
+            if i < start_index or not line.strip():
+                continue
+
+            try:
+                datum       = json.loads(line)
+                user_prompt = datum["user_prompt"]
+                thrm_info   = get_theorem_info(split, datum["index"])
+                proof       = thrm_info.ground_truth
+                prompt    = get_prompt_reasoning(language="Coq",
+                                          instruction=user_prompt,
+                                          response=proof)
+
+                response  = safe_trapi_call(prompt)
+                if not response:
+                    continue
+
+                reasoning = response.strip()
+                if not reasoning:
+                    continue
+
+                entry = {
+                    "data_source": "pulse_augmented_instruction_collection",
+                    "prompt": [{"role": "user", "content": user_prompt}],
+                    "ability": "coding/Coq",
+                    "reward_model": {"style": "execution"},
+                    "extra_info": {
+                        "question":          user_prompt,
+                        "reasoning":         reasoning,
+                        "answer":            proof,
+                        "formatted_response": (
+                            f"<think>\n{reasoning}\n</think>\n"
+                            f"<answer>\n{proof}\n</answer>"
+                        ),
+                        "split":  split,
+                        "index":  datum["index"],
+                    },
                 }
-            ],
-            "ability": f"coding/Coq",
-            "reward_model": {"style": "execution"},
-            "extra_info": {
-                "filename": v_file,
-                "question": user_prompt,
-                "reasoning": reasoning,
-                "answer": proof,
-                "formatted_response": f"<think>\n{reasoning}\n</think>\n<answer>\n{proof}\n</answer>"
-            },
-        })
+
+                # ──────────────────────────────────────────────────────────────
+                # Write ONE file per example
+                #   e.g.  train-sft_augmented/train-sft_226.json
+                # ──────────────────────────────────────────────────────────────
+                out_path = out_dir / f"{split}_{datum['index']}.json"
+                with open(out_path, "w", encoding="utf-8") as f_out:
+                    json.dump(entry, f_out, ensure_ascii=False, indent=2)
+
+                augmented_count += 1
+                print(f"{i+1}/{num_theorems} done  ->  {out_path}", file=sys.stderr)
+
+            except json.JSONDecodeError as e:
+                print(f"Skipping invalid line {i}: {e}", file=sys.stderr)
+
+    print(f"Wrote {augmented_count} per-example files to “{out_dir}”.")
     
-        # with open(augmented_file, "w") as file:
-        #     for datum in successful_prompt_lists:
-        #         file.write(json.dumps(datum, ensure_ascii=False) + "\n")
-
-
 if __name__ == "__main__":
     augment()

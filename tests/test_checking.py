@@ -4,10 +4,14 @@ Test coqstoq checking proofs.
 
 from pathlib import Path
 
-from coqstoq.check import Result, check_result, get_ground_truth, get_context, get_theorem_statement
-from coqstoq import get_theorem_list, Split, get_theorem
+from coqstoq.check import Result, check_result, get_ground_truth
+from coqstoq.scripts import get_theorem_list, get_theorem
+from coqstoq.check import get_ground_truth, get_theorem_text, get_context
 
-import logging, sys
+import logging, sys, json
+
+sys.path.append("CoqStoq")
+from api import get_theorem_info
 
 def get_user_prompt_for_file(theorem, file_context):
     return f"""The theorem I'm trying to prove is \n```\n{theorem}\n```\n#####\n\nThe file context in which I'm writing the proof is \n```\n{file_context}\n```\n#####\n\nStart the proof with the following tactic:\n```\nProof\n```\n\n"""
@@ -28,36 +32,31 @@ def get_user_prompt_for_file(theorem, file_context):
 #             assert check_result(good_result, COQSTOQ_LOC)
 #             assert not check_result(bad_result, COQSTOQ_LOC)
 
-def gen_context():
+def gen_user_prompt(split: str = "train-sft"):
     COQSTOQ_LOC = Path.cwd()
-    for split in Split:
-        theorems = get_theorem_list(split, COQSTOQ_LOC)
-        for thm in theorems:
-            v_file = thm.project.workspace / thm.path
-            ctx_file = v_file.with_suffix('.ctx')
-            context = get_context(thm, COQSTOQ_LOC)
-            with open(ctx_file, 'w') as f:
-                f.write(context)
-# gen_context()
+    theorem_list = get_theorem_list(split, COQSTOQ_LOC)
+    user_prompts_list = []
+    for index in range(len(theorem_list)):
+        thrm_info = get_theorem_info(split, index)
+        user_prompts_list.append({
+            "split": split,
+            "index": index,
+            "user_prompt": get_user_prompt_for_file(thrm_info.theorem, thrm_info.prefix)
+        })
+        print(index, len(theorem_list))
+    print("Generated user prompts for theorems in split:", split)
 
-def gen_user_prompt():
-    COQSTOQ_LOC = Path.cwd()
-    for split in Split:
-        theorems = get_theorem_list(split, COQSTOQ_LOC)
-        for thm in theorems:
-            v_file = thm.project.workspace / thm.path
-            ctx_file = v_file.with_suffix('.ctx')
-            with open(ctx_file, 'r') as f:
-                context = f.read()
-            user_prompt_file = v_file.with_suffix('.pmt')
-            with open(user_prompt_file, 'w') as f:
-                f.write(get_user_prompt_for_file(get_theorem_statement(thm,COQSTOQ_LOC), context))
-# gen_user_prompt()
+    user_prompts_file = f"user_prompts_{split}.jsonl"
+    with open(user_prompts_file, "w") as file:
+        for datum in user_prompts_list:
+            file.write(json.dumps(datum, ensure_ascii=False) + "\n")
+    print(f"Results saved to {user_prompts_file}.")
+    
+gen_user_prompt()
 
 def test_check_result_single():
     COQSTOQ_LOC = Path.cwd()
-    test_thm = get_theorem(Split.TEST, 0, COQSTOQ_LOC)
-    print(test_thm)
+    test_thm = get_theorem("val", 0, COQSTOQ_LOC)
     bad_proof = ""
     # print(get_context(test_thm, COQSTOQ_LOC))
     good_proof = get_ground_truth(test_thm, COQSTOQ_LOC)
