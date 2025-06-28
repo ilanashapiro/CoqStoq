@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "model_and_prooving_CompTT/pt2/ch12_extensionality.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "7ff29fe071ba0e69f07fba8397dbeebc4eb788b3effaaf36d4492cf07e6b14df"
+  },
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "model_and_prooving_CompTT/pt2/ch12_extensionality.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "7ff29fe071ba0e69f07fba8397dbeebc4eb788b3effaaf36d4492cf07e6b14df"
+  },
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "model_and_prooving_CompTT/pt2/ch12_extensionality.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 43
+    },
+    "hash": "7ff29fe071ba0e69f07fba8397dbeebc4eb788b3effaaf36d4492cf07e6b14df"
+  }
+]

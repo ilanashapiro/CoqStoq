@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FrameStack/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "41866b8b9e3b989a5773d0751cb824650bd3780e4445728845d8ca1d1d7be705"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "JoJoDeveloping-@@-NPCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Utils.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 4
+    },
+    "hash": "c5a00e42f99f7c1700d7143cfeb9d48e5855a92f2acd2bc7a4ec0601f1117488"
+  }
+]

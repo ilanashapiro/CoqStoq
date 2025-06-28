@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/success/cumulativity.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 24
+    },
+    "hash": "84380c4e4beadda9ce106ba6183bb8e6d0de0320b70c8d9b097ed52ae200b34b"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/success/cumulativity.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 24
+    },
+    "hash": "84380c4e4beadda9ce106ba6183bb8e6d0de0320b70c8d9b097ed52ae200b34b"
+  }
+]

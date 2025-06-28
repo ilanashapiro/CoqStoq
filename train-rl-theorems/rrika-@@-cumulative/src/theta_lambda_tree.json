@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "rrika-@@-cumulative",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/theta_lambda_tree.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 4
+    },
+    "hash": "d993a28e0d1d0ec5c1cf6b1b6547c37938c88a283bf96c7baa70264d3cc5fe4a"
+  },
+  {
+    "project": {
+      "dir_name": "rrika-@@-cumulative",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/theta_lambda_tree.v",
+    "theorem_start_pos": {
+      "line": 103,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 154,
+      "column": 4
+    },
+    "hash": "d993a28e0d1d0ec5c1cf6b1b6547c37938c88a283bf96c7baa70264d3cc5fe4a"
+  }
+]

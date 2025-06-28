@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "EduardoMarciano-@@-Logica-Computacional-1--CIC--UnB",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Cap 1.3 -  A L\u00f3gica Proposicional Intuicionista/teste.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "eb1f335fbf376fe23d0d53ee513e43b349b6195910848c61f864ec3ed4d968ee"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Algebra/Magma.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "833efc6b28b1ef24ddbd001801ee03bee14080113c16df52033dddd353827e44"
+  }
+]

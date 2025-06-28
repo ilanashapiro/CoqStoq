@@ -1,0 +1,756 @@
+[
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 296,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 297,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 298,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 298,
+      "column": 24
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 460,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 460,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 461,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 461,
+      "column": 23
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1475,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1476,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 1477,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1477,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1479,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1481,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 1482,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1482,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1484,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1486,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 1487,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1487,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1489,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1491,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 1492,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1492,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1494,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1496,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 1497,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1497,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1499,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1501,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 1502,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1502,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1504,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1507,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 1508,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1508,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1572,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1575,
+      "column": 4
+    },
+    "proof_start_pos": {
+      "line": 1576,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1576,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1578,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1580,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 1581,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1581,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1583,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1586,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 1587,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1587,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2602,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2604,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 2605,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2605,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2607,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2609,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 2610,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2610,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2612,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2614,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 2615,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2615,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2617,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2619,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 2620,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2620,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2622,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2624,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 2625,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2625,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2627,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2629,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 2630,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2630,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2632,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2634,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 2635,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2635,
+      "column": 38
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 3255,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3256,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 3257,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3261,
+      "column": 4
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 3328,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3329,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 3330,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3330,
+      "column": 28
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 4656,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4657,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 4658,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4658,
+      "column": 23
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 4660,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4661,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 4662,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4662,
+      "column": 23
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 4664,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4665,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 4666,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4666,
+      "column": 23
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 4873,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4874,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 4875,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4885,
+      "column": 4
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  },
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/separation_logic/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 5064,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5065,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 5066,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5066,
+      "column": 30
+    },
+    "hash": "88bbdda2197471b81c18a2e4fbfc78639eff75f170db56e8a79321cc5a17f61e"
+  }
+]

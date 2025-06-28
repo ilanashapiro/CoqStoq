@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "plclub-@@-cis670-16fa",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/Transitions.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 6
+    },
+    "hash": "f0cd976264cd9adbf0b5a27bbdead65c045ef7a26da3c1b31c482f0c619e116e"
+  },
+  {
+    "project": {
+      "dir_name": "plclub-@@-cis670-16fa",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/Transitions.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 6
+    },
+    "hash": "f0cd976264cd9adbf0b5a27bbdead65c045ef7a26da3c1b31c482f0c619e116e"
+  }
+]

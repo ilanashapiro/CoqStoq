@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "qsctr-@@-coq-quantified-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmarks/CLAM/goal60.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 123
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "b8b785c9e1156fe299c3411c09fa2834c5ce7909592dbefddd4ded41649631a9"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ml4tp-@@-gamepad",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/shadow.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "9cc30bef8ec9d6e875604fc65d105791b225e2cff18b64778022d7ba0a19883c"
+  }
+]

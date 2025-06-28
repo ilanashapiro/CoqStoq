@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Typonomikon",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "book/E0.v",
+    "theorem_start_pos": {
+      "line": 199,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 205,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 212,
+      "column": 4
+    },
+    "hash": "d4a6d572d50a1be6f2fa3ae93ffc70323249c87d6412afd73bfc6bc41cc1e0a3"
+  },
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Typonomikon",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "book/E0.v",
+    "theorem_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 219,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 228,
+      "column": 4
+    },
+    "hash": "d4a6d572d50a1be6f2fa3ae93ffc70323249c87d6412afd73bfc6bc41cc1e0a3"
+  }
+]

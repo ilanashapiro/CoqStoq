@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "qsctr-@@-coq-quantified-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmarks/CLAM/goal4.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "4854edfc1cf3269b07e3e2ba76f79c0fb659b6bc8e07af107f30d5902fbf3372"
+  },
+  {
+    "project": {
+      "dir_name": "qsctr-@@-coq-quantified-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmarks/CLAM/goal4.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "4854edfc1cf3269b07e3e2ba76f79c0fb659b6bc8e07af107f30d5902fbf3372"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "chekkal-@@-software-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter8_Library_Logic/and_assoc.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "841785c0a9b064bb32be3bb8b591a930beb95fdde56b6ed9adfdc1ddf6687ce8"
+  }
+]

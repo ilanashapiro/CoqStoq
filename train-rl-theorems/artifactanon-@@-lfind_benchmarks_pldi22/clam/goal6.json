@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "artifactanon-@@-lfind_benchmarks_pldi22",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "clam/goal6.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "49c0ab48b8c093e7593b30cfc7c2e2aecfab623eb2c5f2a88fba8ef11804afdd"
+  },
+  {
+    "project": {
+      "dir_name": "artifactanon-@@-lfind_benchmarks_pldi22",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "clam/goal6.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "49c0ab48b8c093e7593b30cfc7c2e2aecfab623eb2c5f2a88fba8ef11804afdd"
+  },
+  {
+    "project": {
+      "dir_name": "artifactanon-@@-lfind_benchmarks_pldi22",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "clam/goal6.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "49c0ab48b8c093e7593b30cfc7c2e2aecfab623eb2c5f2a88fba8ef11804afdd"
+  },
+  {
+    "project": {
+      "dir_name": "artifactanon-@@-lfind_benchmarks_pldi22",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "clam/goal6.v",
+    "theorem_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 98
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 4
+    },
+    "hash": "49c0ab48b8c093e7593b30cfc7c2e2aecfab623eb2c5f2a88fba8ef11804afdd"
+  }
+]

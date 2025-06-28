@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/implementations/binary_naturals.v",
+    "theorem_start_pos": {
+      "line": 450,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 451,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 452,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 457,
+      "column": 8
+    },
+    "hash": "178b65affaca73357eecbed0861dd5bd9fdaf150737bba7fb38d61bcc36e0af5"
+  }
+]

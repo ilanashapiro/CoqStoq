@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "EasyCrypt-@@-certicrypt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/LtIrrelevance.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "c1e99e67942bf201ade8fcdea6097bea7af444f5081233731efa3cfe2cdc95c3"
+  },
+  {
+    "project": {
+      "dir_name": "EasyCrypt-@@-certicrypt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/LtIrrelevance.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "c1e99e67942bf201ade8fcdea6097bea7af444f5081233731efa3cfe2cdc95c3"
+  },
+  {
+    "project": {
+      "dir_name": "EasyCrypt-@@-certicrypt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/LtIrrelevance.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 4
+    },
+    "hash": "c1e99e67942bf201ade8fcdea6097bea7af444f5081233731efa3cfe2cdc95c3"
+  }
+]

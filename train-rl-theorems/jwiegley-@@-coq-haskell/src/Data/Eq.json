@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Data/Eq.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "hash": "a46be30461972ca76a8407be68e6e6db707f7f058e53c2d7d042a01cbd22ff26"
+  }
+]

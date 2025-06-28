@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Algebra/Universal/Operation.v",
+    "theorem_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 154,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 155,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 163,
+      "column": 4
+    },
+    "hash": "53f7dd5442a8e5f0724c2eac54225d207ec2dfaae57d86498065a47993500cc2"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Algebra/Universal/Operation.v",
+    "theorem_start_pos": {
+      "line": 173,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 175,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 4
+    },
+    "hash": "53f7dd5442a8e5f0724c2eac54225d207ec2dfaae57d86498065a47993500cc2"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Algebra/Universal/Operation.v",
+    "theorem_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 188,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 189,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 202,
+      "column": 4
+    },
+    "hash": "53f7dd5442a8e5f0724c2eac54225d207ec2dfaae57d86498065a47993500cc2"
+  }
+]

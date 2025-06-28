@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "chekkal-@@-software-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter7_Library_MoreCoq/combine_split.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "0eed584b613058e13a781a432ac38e1eda1e550def985f27fd9ec32f324722a9"
+  }
+]

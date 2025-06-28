@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Gopiandcode-@@-coq-projects",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basic.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "9df8441c01d49a6c93173e75f85ab34527800975d03ac6dcb52dde4da539cc2b"
+  },
+  {
+    "project": {
+      "dir_name": "Gopiandcode-@@-coq-projects",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basic.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "9df8441c01d49a6c93173e75f85ab34527800975d03ac6dcb52dde4da539cc2b"
+  },
+  {
+    "project": {
+      "dir_name": "Gopiandcode-@@-coq-projects",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basic.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "9df8441c01d49a6c93173e75f85ab34527800975d03ac6dcb52dde4da539cc2b"
+  }
+]

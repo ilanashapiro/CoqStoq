@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Kevin-TD-@@-coq_learning",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lists/exercises/hd_error.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 8
+    },
+    "hash": "dbd3fbeb2c7dddc4f0c0ecb2eb464304395ba42bb638a590e2dc30308aee0a81"
+  }
+]

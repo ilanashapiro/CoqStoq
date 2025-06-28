@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/bugs/closed/bug_9494.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3,
+      "column": 4
+    },
+    "hash": "a94cea7c1158a5bd5a613115ac75aa2a159e6fe535a05efedab62e6e59220a44"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/bugs/closed/bug_9494.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "a94cea7c1158a5bd5a613115ac75aa2a159e6fe535a05efedab62e6e59220a44"
+  }
+]

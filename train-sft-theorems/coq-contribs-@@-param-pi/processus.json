@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-param-pi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "processus.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "4dc1b3fc9328ece1bb030e9e2a3d979e2c9f0ed5bfa894e338fd74461c17826f"
+  }
+]

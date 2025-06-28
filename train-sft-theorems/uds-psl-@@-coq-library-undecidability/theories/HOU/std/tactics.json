@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/HOU/std/tactics.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "c356ba8a949347a43b3a654e4e60e6a4b939ec5c7e14cc1dca88825942a5779a"
+  }
+]

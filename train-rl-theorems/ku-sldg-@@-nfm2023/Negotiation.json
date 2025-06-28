@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-nfm2023",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Negotiation.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 4
+    },
+    "hash": "561d00b72e466e7b9a48864687943484a4d630a440d08799ee7d8badcb67ac52"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "cristianlepore-@@-Coq_exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "first_example.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "980b2c599812dbf06f58c8a075e0f201437eaf143fb987c6b00608853102939d"
+  }
+]

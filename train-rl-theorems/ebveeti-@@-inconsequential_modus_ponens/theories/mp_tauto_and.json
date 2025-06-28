@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ebveeti-@@-inconsequential_modus_ponens",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/mp_tauto_and.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3,
+      "column": 4
+    },
+    "hash": "0985d7e00f535de5cf87f476e093ca91e3772e8db9a19e80cbc5593bcc1c5656"
+  }
+]

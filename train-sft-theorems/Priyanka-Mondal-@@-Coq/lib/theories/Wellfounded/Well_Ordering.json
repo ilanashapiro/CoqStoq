@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Wellfounded/Well_Ordering.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 6
+    },
+    "hash": "44bf5306c1b241d75a94259b6ff31282f22a6a500ff2d6a656c080d079d12065"
+  }
+]

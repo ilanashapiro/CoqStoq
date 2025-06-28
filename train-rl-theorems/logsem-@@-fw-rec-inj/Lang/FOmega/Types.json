@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "logsem-@@-fw-rec-inj",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lang/FOmega/Types.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 6
+    },
+    "hash": "c0c6392c7d6c8ba768e09b588f09789a5e9c428ac8363a3bee243c05663e61a0"
+  },
+  {
+    "project": {
+      "dir_name": "logsem-@@-fw-rec-inj",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lang/FOmega/Types.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "c0c6392c7d6c8ba768e09b588f09789a5e9c428ac8363a3bee243c05663e61a0"
+  }
+]

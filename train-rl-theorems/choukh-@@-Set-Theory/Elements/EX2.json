@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "choukh-@@-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Elements/EX2.v",
+    "theorem_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 156,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 166,
+      "column": 4
+    },
+    "hash": "2bb54c4dfd66fce9b566bac0847d66d0fe1370dc392d44c3e3cec1b7edf948df"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Elements/EX2.v",
+    "theorem_start_pos": {
+      "line": 281,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 281,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 282,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 286,
+      "column": 4
+    },
+    "hash": "2bb54c4dfd66fce9b566bac0847d66d0fe1370dc392d44c3e3cec1b7edf948df"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/success/paralleltac.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "2570097e80adeafe6941b9d0a91c06e3abd2dfdb79c9e6b469a9ed9939da3c85"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/success/paralleltac.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "2570097e80adeafe6941b9d0a91c06e3abd2dfdb79c9e6b469a9ed9939da3c85"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/success/paralleltac.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "hash": "2570097e80adeafe6941b9d0a91c06e3abd2dfdb79c9e6b469a9ed9939da3c85"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/success/paralleltac.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "2570097e80adeafe6941b9d0a91c06e3abd2dfdb79c9e6b469a9ed9939da3c85"
+  }
+]

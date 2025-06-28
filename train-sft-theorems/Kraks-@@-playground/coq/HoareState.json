@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Kraks-@@-playground",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/HoareState.v",
+    "theorem_start_pos": {
+      "line": 202,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 202,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 203,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 205,
+      "column": 6
+    },
+    "hash": "d8f43e34a2326e273d27d8f51e21ef933aedcb289bb18c63e0db7a2dba6464f1"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "StergiosCha-@@-CoqNL",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Code/Tutorial3_FraCoq_and_more/Coqification_2.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "3fc48db16cd9652f085f4f621fe7810cfd724df5022f6c3af579add32e2778a3"
+  }
+]

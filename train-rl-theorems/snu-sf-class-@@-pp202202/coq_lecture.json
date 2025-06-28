@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "snu-sf-class-@@-pp202202",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_lecture.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "4c8aa82a1cbff68a9559ad2a059cd21043e4b806d274e16dcb94fac8c0eb54a2"
+  },
+  {
+    "project": {
+      "dir_name": "snu-sf-class-@@-pp202202",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_lecture.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "4c8aa82a1cbff68a9559ad2a059cd21043e4b806d274e16dcb94fac8c0eb54a2"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Toskah-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lab3/lab3_task5.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "ae20d48d115ba4506792dd7363366fcc346f7e2af6677338aee6e16de3f8deea"
+  }
+]

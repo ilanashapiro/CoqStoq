@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Meowcolm024-@@-sf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lf/t.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "8b88081d8e194b10b35cf08a2703d8bf971bb36cd1f1ebcf1be30f00114fe5fd"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "aspiwack-@@-finset",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Quotients/Retract.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 148,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 149,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 168,
+      "column": 5
+    },
+    "hash": "17b906b6e8fe3f59f3a4e4a73ac57d27ab9f1b2ba2af5b2af7119e222684e385"
+  }
+]

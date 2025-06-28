@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pnp/PropLogic.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "d91a2d279e1419a70b1cbd4da36db58a4e8d19593dc61ee3dee69f2596bc7ac5"
+  },
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pnp/PropLogic.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "d91a2d279e1419a70b1cbd4da36db58a4e8d19593dc61ee3dee69f2596bc7ac5"
+  },
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pnp/PropLogic.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "d91a2d279e1419a70b1cbd4da36db58a4e8d19593dc61ee3dee69f2596bc7ac5"
+  }
+]

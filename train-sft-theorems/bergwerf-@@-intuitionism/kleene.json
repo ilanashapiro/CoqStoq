@@ -1,0 +1,466 @@
+[
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 57
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 70,
+      "column": 59
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 56
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 56
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 103,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 104,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 118,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 170,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 175,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 182,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 184,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 184,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 185,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 185,
+      "column": 61
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 188,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 189,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 208,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 229,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 230,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 231,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 236,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 239,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 240,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 241,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 251,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 254,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 256,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 260,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  },
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-intuitionism",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kleene.v",
+    "theorem_start_pos": {
+      "line": 263,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 264,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 271,
+      "column": 4
+    },
+    "hash": "86c495b567f6f58f0e7d9e6834f2ddc5dd1da99c11c2f84c0bef981e939dd9c8"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "olaure01-@@-ollibs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "issue12394.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "bab7a2db00fac090878cf8ea6d5b54e89a2dfcee89958378d562246497ed46a1"
+  }
+]

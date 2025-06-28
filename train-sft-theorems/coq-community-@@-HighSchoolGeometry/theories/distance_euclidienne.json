@@ -1,0 +1,611 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 112,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 121,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 124,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 130,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 145,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 148,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 151,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 153,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 155,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 158,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 161,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 164,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 165,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 168,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 170,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 170,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 171,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 175,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 178,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 180,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 181,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 187,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 188,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 191,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 193,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 199,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 204,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 205,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 210,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 213,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 214,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 218,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/distance_euclidienne.v",
+    "theorem_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 222,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 223,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 228,
+      "column": 4
+    },
+    "hash": "0faf0f8d154946e767491af643271e913ccb4a908906c352aaef2eab020fdd1f"
+  }
+]

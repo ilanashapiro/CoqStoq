@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "frame-lab-@@-CACoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CaMain.v",
+    "theorem_start_pos": {
+      "line": 779,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 780,
+      "column": 117
+    },
+    "proof_start_pos": {
+      "line": 781,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 808,
+      "column": 8
+    },
+    "hash": "ffea0107a35880fb432cb48126840d9215a3077ddb2d786dca416131bb6761ea"
+  }
+]

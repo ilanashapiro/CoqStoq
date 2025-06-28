@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-paramcoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/exmNotParametric.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "c9df923d1cb3dc080a1636003111aedb578529a32484710c4a71b5b057093209"
+  }
+]

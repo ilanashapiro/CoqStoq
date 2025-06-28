@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Logic/ClassicalEpsilon.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "de95c7bb8ce47f61d32852dd49d0f47bab618025ec499febe3c693a9e25d4aa7"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Logic/ClassicalEpsilon.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "de95c7bb8ce47f61d32852dd49d0f47bab618025ec499febe3c693a9e25d4aa7"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Logic/ClassicalEpsilon.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 4
+    },
+    "hash": "de95c7bb8ce47f61d32852dd49d0f47bab618025ec499febe3c693a9e25d4aa7"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Logic/ClassicalEpsilon.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "de95c7bb8ce47f61d32852dd49d0f47bab618025ec499febe3c693a9e25d4aa7"
+  }
+]

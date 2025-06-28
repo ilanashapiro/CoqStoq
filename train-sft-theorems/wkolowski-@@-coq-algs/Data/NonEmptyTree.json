@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-coq-algs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Data/NonEmptyTree.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 4
+    },
+    "hash": "978d4cba64dc7f34946a29ae560c6e905143d7c0245fdf214eba7ee1ff95ea81"
+  },
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-coq-algs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Data/NonEmptyTree.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 106,
+      "column": 4
+    },
+    "hash": "978d4cba64dc7f34946a29ae560c6e905143d7c0245fdf214eba7ee1ff95ea81"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "palmskog-@@-bitoychain",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "SHA256/Archi.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "fbf5a6a519e6b47558250d37015be80542ec809842db4ac3a969507e528f5b4b"
+  }
+]

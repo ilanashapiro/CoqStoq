@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "thiagomael-@@-proof-assistants-poc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq/ListUtils.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "7a1d65a7d8c48cc3b4bdcc265fea21022923f5aeb921cc854ae6ae148abe7c81"
+  },
+  {
+    "project": {
+      "dir_name": "thiagomael-@@-proof-assistants-poc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq/ListUtils.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "7a1d65a7d8c48cc3b4bdcc265fea21022923f5aeb921cc854ae6ae148abe7c81"
+  }
+]

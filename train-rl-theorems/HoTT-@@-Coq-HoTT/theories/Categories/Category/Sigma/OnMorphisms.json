@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Category/Sigma/OnMorphisms.v",
+    "theorem_start_pos": {
+      "line": 95,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 116,
+      "column": 6
+    },
+    "hash": "aba42606e7bd47ac706d649f7cb653f8435cd999014bd13289b80c1cb8274c0d"
+  }
+]

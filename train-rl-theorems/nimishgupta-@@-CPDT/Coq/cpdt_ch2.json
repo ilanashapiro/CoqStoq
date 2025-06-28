@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "nimishgupta-@@-CPDT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq/cpdt_ch2.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 102
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 108,
+      "column": 4
+    },
+    "hash": "a7322da1cc19c516edea35d4fde146627638ba6f05527369189a820d96ec5fbd"
+  },
+  {
+    "project": {
+      "dir_name": "nimishgupta-@@-CPDT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq/cpdt_ch2.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 117,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 123,
+      "column": 4
+    },
+    "hash": "a7322da1cc19c516edea35d4fde146627638ba6f05527369189a820d96ec5fbd"
+  }
+]

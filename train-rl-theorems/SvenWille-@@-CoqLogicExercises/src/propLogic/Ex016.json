@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "SvenWille-@@-CoqLogicExercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/propLogic/Ex016.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "baded390d2d80024296cd471a8c44d4ed35785fff43fa3caf7394094db1efa3d"
+  }
+]

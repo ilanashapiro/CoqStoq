@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "guodk-@@-A-Comprehensive-Formalization-of-Propositional-Logic-in-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "base_pc.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 55
+    },
+    "hash": "dcb8b45627aca9fce3afd94c13833b3c941132821debac8df5c1e0a8011b4b73"
+  },
+  {
+    "project": {
+      "dir_name": "guodk-@@-A-Comprehensive-Formalization-of-Propositional-Logic-in-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "base_pc.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 37
+    },
+    "hash": "dcb8b45627aca9fce3afd94c13833b3c941132821debac8df5c1e0a8011b4b73"
+  }
+]

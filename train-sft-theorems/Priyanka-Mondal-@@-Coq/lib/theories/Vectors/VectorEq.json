@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Vectors/VectorEq.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 5
+    },
+    "hash": "581078b98e732b66b41b10d8637d9b9336007e73a2615a126b35505632374021"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Vectors/VectorEq.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 5
+    },
+    "hash": "581078b98e732b66b41b10d8637d9b9336007e73a2615a126b35505632374021"
+  }
+]

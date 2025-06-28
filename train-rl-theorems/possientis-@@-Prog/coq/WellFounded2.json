@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/WellFounded2.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "a7d987e49153e70887371c448c5d7dc1c1509a9c339eaf8cba6e6be2e5159af0"
+  }
+]

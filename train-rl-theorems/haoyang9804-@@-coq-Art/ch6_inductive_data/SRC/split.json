@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch6_inductive_data/SRC/split.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "87fdf8ba0b89573f9ddaee1e4e6e01dc00966567b1e848263fadf6e7c96f57d9"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "magaud-@@-coq-lint",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmark/and_or_distrib.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "fa12eb0e8d3285b0a7eaea1b4d2abcd16385e658e9a4e3eeac51295ce1445a70"
+  },
+  {
+    "project": {
+      "dir_name": "magaud-@@-coq-lint",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmark/and_or_distrib.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "fa12eb0e8d3285b0a7eaea1b4d2abcd16385e658e9a4e3eeac51295ce1445a70"
+  }
+]

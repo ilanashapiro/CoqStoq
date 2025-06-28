@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/funind/Recdef.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "b99b8237b1d0865b9b4189304fd75b2a659f16b69524691dc6d3a384c37c1bfd"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/funind/Recdef.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "b99b8237b1d0865b9b4189304fd75b2a659f16b69524691dc6d3a384c37c1bfd"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/funind/Recdef.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 4
+    },
+    "hash": "b99b8237b1d0865b9b4189304fd75b2a659f16b69524691dc6d3a384c37c1bfd"
+  }
+]

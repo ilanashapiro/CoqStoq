@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Relations/Relations.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "aa8953d9ea3aeb596d01528f9a96fe35c44e63641a10a103a0aad7ccd0d6690b"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Relations/Relations.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "aa8953d9ea3aeb596d01528f9a96fe35c44e63641a10a103a0aad7ccd0d6690b"
+  }
+]

@@ -78,22 +78,22 @@ RUN apt-get install -y vim
 COPY ./test-theorems /app/CoqStoq/test-theorems
 COPY ./val-theorems /app/CoqStoq/val-theorems
 COPY ./cutoff-theorems /app/CoqStoq/cutoff-theorems
-# COPY ./train-sft-theorems /app/CoqStoq/train-sft-theorems
-# COPY ./train-rl-theorems /app/CoqStoq/train-rl-theorems
+COPY ./train-sft-theorems /app/CoqStoq/train-sft-theorems
+COPY ./train-rl-theorems /app/CoqStoq/train-rl-theorems
 
 # # Move theorem lists
-# COPY ./test-theorems.json /app/CoqStoq/test-theorems.json
-# COPY ./val-theorems.json /app/CoqStoq/val-theorems.json
-# COPY ./cutoff-theorems.json /app/CoqStoq/cutoff-theorems.json
-# COPY ./train-sft-theorems.json /app/CoqStoq/train-sft-theorems.json
-# COPY ./train-rl-theorems.json /app/CoqStoq/train-rl-theorems.json
+COPY ./test-theorems.json /app/CoqStoq/test-theorems.json
+COPY ./val-theorems.json /app/CoqStoq/val-theorems.json
+COPY ./cutoff-theorems.json /app/CoqStoq/cutoff-theorems.json
+COPY ./train-sft-theorems.json /app/CoqStoq/train-sft-theorems.json
+COPY ./train-rl-theorems.json /app/CoqStoq/train-rl-theorems.json
 
 # # Move the coqstoq source code
-# COPY ./coqstoq /app/CoqStoq/coqstoq
-# COPY ./tests /app/CoqStoq/tests
-# RUN poetry install
+COPY ./coqstoq /app/CoqStoq/coqstoq
+COPY ./tests /app/CoqStoq/tests
+RUN poetry install
 
-# COPY ./api.py /app/CoqStoq/api.py
+COPY ./api.py /app/CoqStoq/api.py
 
 
 

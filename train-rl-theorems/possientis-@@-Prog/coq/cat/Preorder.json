@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/cat/Preorder.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "fb5f640e9cf0032aa3e4f56688dcd3f076153eb87f9f1af1d647ec1f69b14bd7"
+  }
+]

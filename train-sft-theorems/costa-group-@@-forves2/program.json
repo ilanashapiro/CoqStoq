@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "costa-group-@@-forves2",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "program.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 4
+    },
+    "hash": "eddee1abbb640eb3f66763cd1891e212baf1e987e3be52127f3af949e56d1f75"
+  }
+]

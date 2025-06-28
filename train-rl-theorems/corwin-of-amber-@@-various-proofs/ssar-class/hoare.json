@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "corwin-of-amber-@@-various-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssar-class/hoare.v",
+    "theorem_start_pos": {
+      "line": 62,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 6
+    },
+    "hash": "01b54edaab2577c1f919e8131004b3d52e91419de21941e9949b5969c7718eae"
+  },
+  {
+    "project": {
+      "dir_name": "corwin-of-amber-@@-various-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssar-class/hoare.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 72,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 73,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 6
+    },
+    "hash": "01b54edaab2577c1f919e8131004b3d52e91419de21941e9949b5969c7718eae"
+  },
+  {
+    "project": {
+      "dir_name": "corwin-of-amber-@@-various-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssar-class/hoare.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 83,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 6
+    },
+    "hash": "01b54edaab2577c1f919e8131004b3d52e91419de21941e9949b5969c7718eae"
+  }
+]

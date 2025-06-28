@@ -1,0 +1,379 @@
+[
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 28
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 247,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 261,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 264,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 278,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 280,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 285,
+      "column": 92
+    },
+    "proof_start_pos": {
+      "line": 286,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 310,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 312,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 320,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 321,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 590,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 592,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 595,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 596,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 604,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 606,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 610,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 611,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 637,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 639,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 642,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 643,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 665,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 667,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 675,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 676,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 705,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 707,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 714,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 715,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 780,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 828,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 831,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 832,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 906,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 908,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 914,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 915,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 923,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  },
+  {
+    "project": {
+      "dir_name": "realamirhe-@@-coq_pumping_lemma",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "closure.v",
+    "theorem_start_pos": {
+      "line": 925,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 933,
+      "column": 5
+    },
+    "proof_start_pos": {
+      "line": 934,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 946,
+      "column": 4
+    },
+    "hash": "6568e17924ae9ac004b380ad100a03304def9f0ef36961d341e99eb778eacfcc"
+  }
+]

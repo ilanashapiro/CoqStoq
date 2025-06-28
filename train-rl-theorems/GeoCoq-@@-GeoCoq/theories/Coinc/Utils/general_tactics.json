@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "GeoCoq-@@-GeoCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Coinc/Utils/general_tactics.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "9d267e8712ecf73622115c3d90b2a2e0279d28ebb4a897905e44c21f41b7a314"
+  },
+  {
+    "project": {
+      "dir_name": "GeoCoq-@@-GeoCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Coinc/Utils/general_tactics.v",
+    "theorem_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "9d267e8712ecf73622115c3d90b2a2e0279d28ebb4a897905e44c21f41b7a314"
+  },
+  {
+    "project": {
+      "dir_name": "GeoCoq-@@-GeoCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Coinc/Utils/general_tactics.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "9d267e8712ecf73622115c3d90b2a2e0279d28ebb4a897905e44c21f41b7a314"
+  }
+]

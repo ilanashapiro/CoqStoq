@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-engine-bench",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/PerformanceExperiments/rewrite_repeated_app_common.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 36
+    },
+    "hash": "a89793148cfac8bdbd9f7fa2da90bc29fd2a57530ae60740bce841ca2edeae5a"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "nunesgrf-@@-lx-confluence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/OpenPoints.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 165
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "cc7f264c33807f270f3d61dc64586f66c1290b34bb7105c3ab7c1f331e2d28e2"
+  }
+]

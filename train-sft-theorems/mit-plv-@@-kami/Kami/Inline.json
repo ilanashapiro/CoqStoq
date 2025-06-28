@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Inline.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 36
+    },
+    "hash": "b8d9b390d5944ac68b24dc6bb142e24a5cd755ad37a8c2913eb582984b59ac10"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Inline.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 6
+    },
+    "hash": "b8d9b390d5944ac68b24dc6bb142e24a5cd755ad37a8c2913eb582984b59ac10"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Inline.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 81,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 36
+    },
+    "hash": "b8d9b390d5944ac68b24dc6bb142e24a5cd755ad37a8c2913eb582984b59ac10"
+  }
+]

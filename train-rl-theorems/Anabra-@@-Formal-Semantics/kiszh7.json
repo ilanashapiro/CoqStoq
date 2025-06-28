@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Anabra-@@-Formal-Semantics",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kiszh7.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "d9132c80e16b8b3b192c57ee1ecf26d64fd18a83734b2ae016cebae4212d610d"
+  },
+  {
+    "project": {
+      "dir_name": "Anabra-@@-Formal-Semantics",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "kiszh7.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 4
+    },
+    "hash": "d9132c80e16b8b3b192c57ee1ecf26d64fd18a83734b2ae016cebae4212d610d"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/cat/ConvoyPattern3.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "f2aaf3a26068cc907224405c50d6437f29b1e97ad6d8b205f483842be3839252"
+  }
+]

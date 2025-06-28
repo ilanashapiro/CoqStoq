@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Monad/Trans/State.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 81,
+      "column": 4
+    },
+    "hash": "71d4c7d70352dd8ab2d040d178207654675e78e91f2efee045c3ed920fa3878d"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Colimits/Quotient/Choice.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 6
+    },
+    "hash": "879d15933478b93e5d677afb809acdb2d33a83b79543b3151c4cc1fcc3c27cec"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Colimits/Quotient/Choice.v",
+    "theorem_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 136,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 137,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 153,
+      "column": 4
+    },
+    "hash": "879d15933478b93e5d677afb809acdb2d33a83b79543b3151c4cc1fcc3c27cec"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Colimits/Quotient/Choice.v",
+    "theorem_start_pos": {
+      "line": 295,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 301,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 302,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 310,
+      "column": 6
+    },
+    "hash": "879d15933478b93e5d677afb809acdb2d33a83b79543b3151c4cc1fcc3c27cec"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Colimits/Quotient/Choice.v",
+    "theorem_start_pos": {
+      "line": 314,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 319,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 320,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 322,
+      "column": 6
+    },
+    "hash": "879d15933478b93e5d677afb809acdb2d33a83b79543b3151c4cc1fcc3c27cec"
+  }
+]

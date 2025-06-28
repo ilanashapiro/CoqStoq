@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/Bernoulli.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "e531b86b570bd7bcb4982373e5aaf640318514b69b6d339f759963003415f938"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/Bernoulli.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 73,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "e531b86b570bd7bcb4982373e5aaf640318514b69b6d339f759963003415f938"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/Bernoulli.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 93,
+      "column": 4
+    },
+    "hash": "e531b86b570bd7bcb4982373e5aaf640318514b69b6d339f759963003415f938"
+  }
+]

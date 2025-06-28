@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Monads/Writer.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 4
+    },
+    "hash": "d1998270bdbf44c90195cc7c88c7c2a11ee9d197f1f06d2622d1a8d6fbf4bdb6"
+  }
+]

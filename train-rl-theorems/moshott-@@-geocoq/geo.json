@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "moshott-@@-geocoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "geo.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "b5ff70d35aee15350144a2785c75683d2338eb5fc0aa8ab0579a0a1af18eac58"
+  }
+]

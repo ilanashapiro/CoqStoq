@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Algebra/Monoid.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "2e83d89a4a92eaf0b906ab90e361e99df2b0ad359dab32eb4208b06f0f269c10"
+  },
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Algebra/Monoid.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "2e83d89a4a92eaf0b906ab90e361e99df2b0ad359dab32eb4208b06f0f269c10"
+  },
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Algebra/Monoid.v",
+    "theorem_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 4
+    },
+    "hash": "2e83d89a4a92eaf0b906ab90e361e99df2b0ad359dab32eb4208b06f0f269c10"
+  }
+]

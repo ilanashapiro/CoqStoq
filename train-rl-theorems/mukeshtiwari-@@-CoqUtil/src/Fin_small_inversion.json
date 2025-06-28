@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-CoqUtil",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Fin_small_inversion.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 6
+    },
+    "hash": "951ff881b74bd97d3cba31c063923e6b7a8ebf77b7c29be8702eb07e35c32dea"
+  }
+]

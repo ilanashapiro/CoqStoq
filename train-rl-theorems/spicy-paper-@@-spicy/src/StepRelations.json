@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "spicy-paper-@@-spicy",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/StepRelations.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 6
+    },
+    "hash": "60d98a1eaba965387a8f30555754360c021425f95f4ac2d4b8a127fac787c096"
+  },
+  {
+    "project": {
+      "dir_name": "spicy-paper-@@-spicy",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/StepRelations.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 6
+    },
+    "hash": "60d98a1eaba965387a8f30555754360c021425f95f4ac2d4b8a127fac787c096"
+  }
+]

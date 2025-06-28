@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "gares-@@-coq-defunctor",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "B_impl.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 17
+    },
+    "hash": "0dda801e47442953e7df29998974b17a3f7973912dbc634c8c3055b98911fc8f"
+  }
+]

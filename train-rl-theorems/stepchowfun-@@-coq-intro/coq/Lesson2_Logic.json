@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-coq-intro",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/Lesson2_Logic.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "0d2d5111bf32cbf6304e7b3a94d20016a10f968186abaf75cdf3596b15db547c"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-coq-intro",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/Lesson2_Logic.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "0d2d5111bf32cbf6304e7b3a94d20016a10f968186abaf75cdf3596b15db547c"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-coq-intro",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/Lesson2_Logic.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 4
+    },
+    "hash": "0d2d5111bf32cbf6304e7b3a94d20016a10f968186abaf75cdf3596b15db547c"
+  }
+]

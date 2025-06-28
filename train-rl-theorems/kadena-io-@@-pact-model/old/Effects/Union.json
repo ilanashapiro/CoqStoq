@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "kadena-io-@@-pact-model",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "old/Effects/Union.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 24
+    },
+    "hash": "54e6e27b7058a6c029330407262722d5b6149739e416c399199ddca367ad46ec"
+  }
+]

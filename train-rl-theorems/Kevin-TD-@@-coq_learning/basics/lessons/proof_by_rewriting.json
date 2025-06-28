@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Kevin-TD-@@-coq_learning",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basics/lessons/proof_by_rewriting.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 21
+    },
+    "hash": "6081cf7fd332b4db626ca5a916c187b0b792dbeea3d2c7f5f6aabc04a0deee58"
+  },
+  {
+    "project": {
+      "dir_name": "Kevin-TD-@@-coq_learning",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basics/lessons/proof_by_rewriting.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 21
+    },
+    "hash": "6081cf7fd332b4db626ca5a916c187b0b792dbeea3d2c7f5f6aabc04a0deee58"
+  }
+]

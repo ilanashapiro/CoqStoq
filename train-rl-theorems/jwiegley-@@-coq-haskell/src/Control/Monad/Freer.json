@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Monad/Freer.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 120,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 121,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 127,
+      "column": 4
+    },
+    "hash": "d9fb99dff374254622d8c320814acb28e8c9a996ab8eadd5964812725917493c"
+  }
+]

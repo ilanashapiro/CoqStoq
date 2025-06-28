@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "HugoOSFaria-@@-Formal-Verification",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_TPC3/tpc3.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "f4f705b3279b087f0c86e2f73f7c2eeae0100b5ad03c2321e07a02d893c225ad"
+  },
+  {
+    "project": {
+      "dir_name": "HugoOSFaria-@@-Formal-Verification",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_TPC3/tpc3.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "f4f705b3279b087f0c86e2f73f7c2eeae0100b5ad03c2321e07a02d893c225ad"
+  },
+  {
+    "project": {
+      "dir_name": "HugoOSFaria-@@-Formal-Verification",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_TPC3/tpc3.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "f4f705b3279b087f0c86e2f73f7c2eeae0100b5ad03c2321e07a02d893c225ad"
+  },
+  {
+    "project": {
+      "dir_name": "HugoOSFaria-@@-Formal-Verification",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_TPC3/tpc3.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 4
+    },
+    "hash": "f4f705b3279b087f0c86e2f73f7c2eeae0100b5ad03c2321e07a02d893c225ad"
+  }
+]

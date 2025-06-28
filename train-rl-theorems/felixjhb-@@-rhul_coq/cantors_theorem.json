@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "felixjhb-@@-rhul_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "cantors_theorem.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "2c18409faf3c1ff03a2a4af39cb2c25ec60f480536fb9eecc1c30d8dc955f32d"
+  }
+]

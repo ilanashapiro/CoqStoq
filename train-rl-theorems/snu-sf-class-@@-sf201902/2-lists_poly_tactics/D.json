@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "snu-sf-class-@@-sf201902",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "2-lists_poly_tactics/D.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 47
+    },
+    "hash": "614b8a09207e619b1ab23067950212d917aaafbe4a790ad2fb2ad39d74d7dc88"
+  },
+  {
+    "project": {
+      "dir_name": "snu-sf-class-@@-sf201902",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "2-lists_poly_tactics/D.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 45
+    },
+    "hash": "614b8a09207e619b1ab23067950212d917aaafbe4a790ad2fb2ad39d74d7dc88"
+  }
+]

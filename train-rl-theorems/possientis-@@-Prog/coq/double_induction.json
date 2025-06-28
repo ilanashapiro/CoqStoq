@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/double_induction.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "3f57f84f1d128868d8e3d2da0eb312a97cd945b2bbcad86926b426ac1ece8bff"
+  },
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/double_induction.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "3f57f84f1d128868d8e3d2da0eb312a97cd945b2bbcad86926b426ac1ece8bff"
+  }
+]

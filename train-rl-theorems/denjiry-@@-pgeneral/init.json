@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "denjiry-@@-pgeneral",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "init.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "1e8e62946f6c32b45aba1d7b0b221c268b40027920169e0d6c9642722e2778de"
+  }
+]

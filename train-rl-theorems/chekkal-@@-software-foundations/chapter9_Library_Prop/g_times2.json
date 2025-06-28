@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "chekkal-@@-software-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter9_Library_Prop/g_times2.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "4cf31913880a4c8439eaeb777ac9d97c8690107f89b4e75eed64e1f6504f18cd"
+  },
+  {
+    "project": {
+      "dir_name": "chekkal-@@-software-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter9_Library_Prop/g_times2.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "4cf31913880a4c8439eaeb777ac9d97c8690107f89b4e75eed64e1f6504f18cd"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "amal029-@@-cgals_coq_semantic_equivalence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/naturals.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "001e10ad52c2d9a73805a027dee91871cfbebac9b4466264a9cc78337f85ff41"
+  },
+  {
+    "project": {
+      "dir_name": "amal029-@@-cgals_coq_semantic_equivalence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/naturals.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 5
+    },
+    "hash": "001e10ad52c2d9a73805a027dee91871cfbebac9b4466264a9cc78337f85ff41"
+  },
+  {
+    "project": {
+      "dir_name": "amal029-@@-cgals_coq_semantic_equivalence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/naturals.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 5
+    },
+    "hash": "001e10ad52c2d9a73805a027dee91871cfbebac9b4466264a9cc78337f85ff41"
+  }
+]

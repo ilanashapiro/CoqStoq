@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "muratak17-@@-Recursion-Schemes-in-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "eqchain.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "294ca68a451506a58feec214d72c8edb9594a76e28fd112bb2b232a064932bfb"
+  },
+  {
+    "project": {
+      "dir_name": "muratak17-@@-Recursion-Schemes-in-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "eqchain.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 4
+    },
+    "hash": "294ca68a451506a58feec214d72c8edb9594a76e28fd112bb2b232a064932bfb"
+  }
+]

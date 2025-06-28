@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "rootmos-@@-coq-hack",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CMP/Translation.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "aef7ea4fc4b2a3f93da8b0d4ded478be107c0eb763a57afe3c2b6de850d78913"
+  },
+  {
+    "project": {
+      "dir_name": "rootmos-@@-coq-hack",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CMP/Translation.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "aef7ea4fc4b2a3f93da8b0d4ded478be107c0eb763a57afe3c2b6de850d78913"
+  },
+  {
+    "project": {
+      "dir_name": "rootmos-@@-coq-hack",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CMP/Translation.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "aef7ea4fc4b2a3f93da8b0d4ded478be107c0eb763a57afe3c2b6de850d78913"
+  }
+]

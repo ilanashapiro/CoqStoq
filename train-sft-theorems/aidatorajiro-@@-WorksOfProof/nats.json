@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "aidatorajiro-@@-WorksOfProof",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "nats.v",
+    "theorem_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "2c86abb17e45dae330ca03adacf8eafba68ae79196ef123167bf1de479acbef8"
+  },
+  {
+    "project": {
+      "dir_name": "aidatorajiro-@@-WorksOfProof",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "nats.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 108,
+      "column": 4
+    },
+    "hash": "2c86abb17e45dae330ca03adacf8eafba68ae79196ef123167bf1de479acbef8"
+  }
+]

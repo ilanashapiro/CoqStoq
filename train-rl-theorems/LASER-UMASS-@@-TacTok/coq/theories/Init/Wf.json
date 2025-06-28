@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Init/Wf.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 6
+    },
+    "hash": "2a5a7b3e4317fe093624fa3b07eda77c5054726a99aa7ae3e924725f4589c583"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Init/Wf.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 6
+    },
+    "hash": "2a5a7b3e4317fe093624fa3b07eda77c5054726a99aa7ae3e924725f4589c583"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Init/Wf.v",
+    "theorem_start_pos": {
+      "line": 105,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 6
+    },
+    "hash": "2a5a7b3e4317fe093624fa3b07eda77c5054726a99aa7ae3e924725f4589c583"
+  }
+]

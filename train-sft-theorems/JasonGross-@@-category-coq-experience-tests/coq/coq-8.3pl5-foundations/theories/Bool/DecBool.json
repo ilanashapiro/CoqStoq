@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Bool/DecBool.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "9c0bd5a93842684579f02923943948d2a396dad5f0edb4123de32ae9b22f7664"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Bool/DecBool.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "9c0bd5a93842684579f02923943948d2a396dad5f0edb4123de32ae9b22f7664"
+  }
+]

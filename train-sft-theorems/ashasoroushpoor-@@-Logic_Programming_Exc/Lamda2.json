@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ashasoroushpoor-@@-Logic_Programming_Exc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lamda2.v",
+    "theorem_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 188,
+      "column": 4
+    },
+    "hash": "128bd8ce78c205265e74bafd0d19e3fe2bd631745a616441e0ec3f4940f2feaf"
+  }
+]

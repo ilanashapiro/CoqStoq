@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/composee_translation_rotation.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 241,
+      "column": 4
+    },
+    "hash": "39c6ce1c345aafe9149e6943da7e1271c985ebab575203d6adc828568955f4fc"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/composee_translation_rotation.v",
+    "theorem_start_pos": {
+      "line": 243,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 249,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 250,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 463,
+      "column": 4
+    },
+    "hash": "39c6ce1c345aafe9149e6943da7e1271c985ebab575203d6adc828568955f4fc"
+  }
+]

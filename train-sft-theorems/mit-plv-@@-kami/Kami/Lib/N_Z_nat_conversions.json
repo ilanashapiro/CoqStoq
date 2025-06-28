@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Lib/N_Z_nat_conversions.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "d85c7f7e5d21377019303697666704226087ddc46f3381f8471f1adcf12444bf"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Lib/N_Z_nat_conversions.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 6
+    },
+    "hash": "d85c7f7e5d21377019303697666704226087ddc46f3381f8471f1adcf12444bf"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Lib/N_Z_nat_conversions.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 6
+    },
+    "hash": "d85c7f7e5d21377019303697666704226087ddc46f3381f8471f1adcf12444bf"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Lib/N_Z_nat_conversions.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 6
+    },
+    "hash": "d85c7f7e5d21377019303697666704226087ddc46f3381f8471f1adcf12444bf"
+  }
+]

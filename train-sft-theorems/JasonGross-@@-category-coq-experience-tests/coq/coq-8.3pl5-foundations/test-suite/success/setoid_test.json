@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/setoid_test.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "b9852f83c757a048c38938e02e13a55ba72ba6ac42059a2058b0cc2096ae98b4"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/setoid_test.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "b9852f83c757a048c38938e02e13a55ba72ba6ac42059a2058b0cc2096ae98b4"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/setoid_test.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "b9852f83c757a048c38938e02e13a55ba72ba6ac42059a2058b0cc2096ae98b4"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/setoid_test.v",
+    "theorem_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 96,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 104,
+      "column": 4
+    },
+    "hash": "b9852f83c757a048c38938e02e13a55ba72ba6ac42059a2058b0cc2096ae98b4"
+  }
+]

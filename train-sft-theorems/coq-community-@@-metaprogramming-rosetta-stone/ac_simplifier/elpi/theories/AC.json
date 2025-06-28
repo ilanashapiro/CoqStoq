@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ac_simplifier/elpi/theories/AC.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 139,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 155,
+      "column": 4
+    },
+    "hash": "c5954333d11b2e0dff8c838b2865ab83870dbec083260a421e5cd9eba7b263c5"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ac_simplifier/elpi/theories/AC.v",
+    "theorem_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 160,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 161,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 169,
+      "column": 4
+    },
+    "hash": "c5954333d11b2e0dff8c838b2865ab83870dbec083260a421e5cd9eba7b263c5"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ac_simplifier/elpi/theories/AC.v",
+    "theorem_start_pos": {
+      "line": 173,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 175,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 178,
+      "column": 4
+    },
+    "hash": "c5954333d11b2e0dff8c838b2865ab83870dbec083260a421e5cd9eba7b263c5"
+  }
+]

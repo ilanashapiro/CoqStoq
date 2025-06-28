@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Elvecent-@@-compHW",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Main.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 4
+    },
+    "hash": "5b86547497cd18a4f4239be12d1bc53a92b9948fbd05bbcfe08f6ded834e429b"
+  }
+]

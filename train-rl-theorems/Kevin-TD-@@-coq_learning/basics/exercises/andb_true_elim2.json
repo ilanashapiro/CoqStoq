@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Kevin-TD-@@-coq_learning",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basics/exercises/andb_true_elim2.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "a19e67d102eac3c8187ff9ec1426b0bdda2a6959a7117171cefcdf7d1765324f"
+  }
+]

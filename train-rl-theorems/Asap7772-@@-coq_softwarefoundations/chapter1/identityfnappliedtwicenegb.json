@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Asap7772-@@-coq_softwarefoundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter1/identityfnappliedtwicenegb.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "3e54bb673b59c95e9abcc086aeb16c75683a2f24f25946178b609bd38ab1bb38"
+  }
+]

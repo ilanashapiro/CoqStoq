@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Category/Core.v",
+    "theorem_start_pos": {
+      "line": 127,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 130,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 131,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 6
+    },
+    "hash": "7d5e5961c4c86f5d1a5eb7c8538889114916b4b39fcc8841877ac8f5f8b1730d"
+  }
+]

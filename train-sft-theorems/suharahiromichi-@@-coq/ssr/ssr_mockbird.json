@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssr/ssr_mockbird.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 6
+    },
+    "hash": "1872cd123fc65c01e282ce5505db4b861a6a35748780c7e7b0fa30560ab85b76"
+  }
+]

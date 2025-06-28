@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "plclub-@@-cis670-16fa",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/GenericMagic.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 4
+    },
+    "hash": "9e2555fb14523fadb8557340aa93d88dae3dba85fc97133bfcd7dd076c37991a"
+  }
+]

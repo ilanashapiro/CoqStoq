@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/cttwc/leibniz.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "48d8e9be05edc3442689d8574c51963ceed4ebc709406f6081d0eaed177e575b"
+  },
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/cttwc/leibniz.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "48d8e9be05edc3442689d8574c51963ceed4ebc709406f6081d0eaed177e575b"
+  }
+]

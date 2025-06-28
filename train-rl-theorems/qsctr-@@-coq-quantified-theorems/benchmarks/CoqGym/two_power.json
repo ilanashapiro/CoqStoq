@@ -1,0 +1,176 @@
+[
+  {
+    "project": {
+      "dir_name": "qsctr-@@-coq-quantified-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmarks/CoqGym/two_power.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "0f01ff4e6ba25afe145b1e7cd60d2ddf9c1047f8a4b49f98208c1467a015270e"
+  },
+  {
+    "project": {
+      "dir_name": "qsctr-@@-coq-quantified-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmarks/CoqGym/two_power.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "0f01ff4e6ba25afe145b1e7cd60d2ddf9c1047f8a4b49f98208c1467a015270e"
+  },
+  {
+    "project": {
+      "dir_name": "qsctr-@@-coq-quantified-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmarks/CoqGym/two_power.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "0f01ff4e6ba25afe145b1e7cd60d2ddf9c1047f8a4b49f98208c1467a015270e"
+  },
+  {
+    "project": {
+      "dir_name": "qsctr-@@-coq-quantified-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmarks/CoqGym/two_power.v",
+    "theorem_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 64,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "0f01ff4e6ba25afe145b1e7cd60d2ddf9c1047f8a4b49f98208c1467a015270e"
+  },
+  {
+    "project": {
+      "dir_name": "qsctr-@@-coq-quantified-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmarks/CoqGym/two_power.v",
+    "theorem_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "0f01ff4e6ba25afe145b1e7cd60d2ddf9c1047f8a4b49f98208c1467a015270e"
+  },
+  {
+    "project": {
+      "dir_name": "qsctr-@@-coq-quantified-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmarks/CoqGym/two_power.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "0f01ff4e6ba25afe145b1e7cd60d2ddf9c1047f8a4b49f98208c1467a015270e"
+  }
+]

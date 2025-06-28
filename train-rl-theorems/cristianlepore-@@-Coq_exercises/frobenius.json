@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "cristianlepore-@@-Coq_exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "frobenius.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "b774a5ec2b1c3304eb395c15115f4106d4f027b1fc25ab719b849aadf072cc4f"
+  }
+]

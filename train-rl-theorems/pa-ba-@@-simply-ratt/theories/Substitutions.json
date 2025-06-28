@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "pa-ba-@@-simply-ratt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Substitutions.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 4
+    },
+    "hash": "381fa32b22280761d5ade0f359c552d1423a415d24f0358b4e1247e52e7ba32f"
+  }
+]

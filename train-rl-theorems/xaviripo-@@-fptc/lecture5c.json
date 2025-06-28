@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "xaviripo-@@-fptc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lecture5c.v",
+    "theorem_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 143,
+      "column": 1
+    },
+    "proof_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 170,
+      "column": 4
+    },
+    "hash": "9bf448363bc6bc17990052be1bbe0eddcb871a5ef1db2af1d227894b625d2e70"
+  },
+  {
+    "project": {
+      "dir_name": "xaviripo-@@-fptc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lecture5c.v",
+    "theorem_start_pos": {
+      "line": 181,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 183,
+      "column": 1
+    },
+    "proof_start_pos": {
+      "line": 184,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 217,
+      "column": 4
+    },
+    "hash": "9bf448363bc6bc17990052be1bbe0eddcb871a5ef1db2af1d227894b625d2e70"
+  }
+]

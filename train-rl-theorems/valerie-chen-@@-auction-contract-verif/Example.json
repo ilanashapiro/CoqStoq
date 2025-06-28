@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "valerie-chen-@@-auction-contract-verif",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Example.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 49
+    },
+    "hash": "0d51e004bfa2796e1fd28e45d39ef4fbce6892cec5e2fffe6e0fd8a4b6bcfb93"
+  }
+]

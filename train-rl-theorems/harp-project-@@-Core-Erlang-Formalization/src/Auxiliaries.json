@@ -1,0 +1,698 @@
+[
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 435,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 438,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 439,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 449,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 451,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 454,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 455,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 483,
+      "column": 6
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 485,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 486,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 487,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 503,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 505,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 508,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 509,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 548,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 550,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 553,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 554,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 559,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 562,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 563,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 564,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 584,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 586,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 587,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 588,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 591,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 593,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 596,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 597,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 606,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 608,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 611,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 612,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 621,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 623,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 626,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 627,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 650,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 652,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 655,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 656,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 661,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 663,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 666,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 667,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 672,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 674,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 677,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 678,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 681,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 683,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 686,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 687,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 692,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 694,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 697,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 698,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 703,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 705,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 707,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 708,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 711,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 713,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 715,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 716,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 719,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 721,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 724,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 725,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 737,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 739,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 740,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 741,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 743,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 745,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 748,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 749,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 820,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 822,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 824,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 825,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 828,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 830,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 832,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 833,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 836,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 838,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 840,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 841,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 851,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Auxiliaries.v",
+    "theorem_start_pos": {
+      "line": 853,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 855,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 856,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 861,
+      "column": 4
+    },
+    "hash": "662750d29fb0c56e21ea8ec7898d80a8b8fdf44669b4ebd163272994ce6ec48f"
+  }
+]

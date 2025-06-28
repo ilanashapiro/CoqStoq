@@ -1,0 +1,205 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "real_simplifier/elpi/theories/Theory.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 4
+    },
+    "hash": "778e58c2a3eed7ab8629c58633d114f49e1e86e7f311f91ba1a7c1d6c30d1150"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "real_simplifier/elpi/theories/Theory.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 149,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 150,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 161,
+      "column": 4
+    },
+    "hash": "778e58c2a3eed7ab8629c58633d114f49e1e86e7f311f91ba1a7c1d6c30d1150"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "real_simplifier/elpi/theories/Theory.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 164,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 165,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 182,
+      "column": 4
+    },
+    "hash": "778e58c2a3eed7ab8629c58633d114f49e1e86e7f311f91ba1a7c1d6c30d1150"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "real_simplifier/elpi/theories/Theory.v",
+    "theorem_start_pos": {
+      "line": 184,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 185,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 194,
+      "column": 4
+    },
+    "hash": "778e58c2a3eed7ab8629c58633d114f49e1e86e7f311f91ba1a7c1d6c30d1150"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "real_simplifier/elpi/theories/Theory.v",
+    "theorem_start_pos": {
+      "line": 196,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 197,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 208,
+      "column": 4
+    },
+    "hash": "778e58c2a3eed7ab8629c58633d114f49e1e86e7f311f91ba1a7c1d6c30d1150"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "real_simplifier/elpi/theories/Theory.v",
+    "theorem_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 211,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 212,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 248,
+      "column": 4
+    },
+    "hash": "778e58c2a3eed7ab8629c58633d114f49e1e86e7f311f91ba1a7c1d6c30d1150"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-metaprogramming-rosetta-stone",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "real_simplifier/elpi/theories/Theory.v",
+    "theorem_start_pos": {
+      "line": 250,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 251,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 252,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 256,
+      "column": 4
+    },
+    "hash": "778e58c2a3eed7ab8629c58633d114f49e1e86e7f311f91ba1a7c1d6c30d1150"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Init/Tactics.v",
+    "theorem_start_pos": {
+      "line": 201,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 202,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 205,
+      "column": 4
+    },
+    "hash": "65606cc9771af0d357c32371699052bc82ca2b571c004d557545c5766263ce1f"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Init/Tactics.v",
+    "theorem_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 208,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 211,
+      "column": 4
+    },
+    "hash": "65606cc9771af0d357c32371699052bc82ca2b571c004d557545c5766263ce1f"
+  }
+]

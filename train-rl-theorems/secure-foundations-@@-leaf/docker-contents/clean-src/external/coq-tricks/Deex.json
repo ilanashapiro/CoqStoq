@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "secure-foundations-@@-leaf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "docker-contents/clean-src/external/coq-tricks/Deex.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "b7383f7c011d3982e5c1e5bcf2db45937d1c934e32cca2b4b4af6a5a48373dfd"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Algebra/Lattice.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 102,
+      "column": 6
+    },
+    "hash": "78ba69fa724e5cb4d9ba39bf945b9ccbe64ba17b068844b3aafb6849fa482424"
+  },
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Algebra/Lattice.v",
+    "theorem_start_pos": {
+      "line": 104,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 106,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 107,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 141,
+      "column": 6
+    },
+    "hash": "78ba69fa724e5cb4d9ba39bf945b9ccbe64ba17b068844b3aafb6849fa482424"
+  },
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Algebra/Lattice.v",
+    "theorem_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 203,
+      "column": 4
+    },
+    "hash": "78ba69fa724e5cb4d9ba39bf945b9ccbe64ba17b068844b3aafb6849fa482424"
+  }
+]

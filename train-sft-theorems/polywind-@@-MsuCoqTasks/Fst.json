@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "polywind-@@-MsuCoqTasks",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Fst.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "c28c754790277f63ff068f2f78205bee3ef8033fad92b2ae045edc2e6bd1a749"
+  },
+  {
+    "project": {
+      "dir_name": "polywind-@@-MsuCoqTasks",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Fst.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "c28c754790277f63ff068f2f78205bee3ef8033fad92b2ae045edc2e6bd1a749"
+  },
+  {
+    "project": {
+      "dir_name": "polywind-@@-MsuCoqTasks",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Fst.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "c28c754790277f63ff068f2f78205bee3ef8033fad92b2ae045edc2e6bd1a749"
+  },
+  {
+    "project": {
+      "dir_name": "polywind-@@-MsuCoqTasks",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Fst.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "c28c754790277f63ff068f2f78205bee3ef8033fad92b2ae045edc2e6bd1a749"
+  }
+]

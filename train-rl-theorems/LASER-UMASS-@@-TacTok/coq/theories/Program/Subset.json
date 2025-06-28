@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Program/Subset.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 68,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "dc857b191751f74672c0aadf4e85e328dccf7cef62c56c00cb0a8f47f4e98374"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Program/Subset.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 92,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 4
+    },
+    "hash": "dc857b191751f74672c0aadf4e85e328dccf7cef62c56c00cb0a8f47f4e98374"
+  }
+]

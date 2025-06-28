@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "lastland-@@-ProgramAdverbs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Eq/EqInParallel.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 6
+    },
+    "hash": "b9a5dde5804026aab93c09b7632e01cfdd3b72fd4d04995739874e9cc83fc3cb"
+  }
+]

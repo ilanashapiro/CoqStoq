@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "d-krylov-@@-coq_examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Replace.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "020ebddacb0ef5ba872b5c72c48b01f2be2031b112ab13db35668b168ff557e1"
+  }
+]

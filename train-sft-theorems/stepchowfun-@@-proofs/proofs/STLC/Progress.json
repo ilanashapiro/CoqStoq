@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/STLC/Progress.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "cb87ec43e8bc99908c12f9c07b1f541c7fe1bd53f3267611a9621c16c8939aa9"
+  }
+]

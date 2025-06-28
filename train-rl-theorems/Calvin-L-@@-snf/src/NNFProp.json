@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Calvin-L-@@-snf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/NNFProp.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "2155b03bbc229766b86d68988e9152488b2535aad2f6e659eec2d2a7ac33ab54"
+  },
+  {
+    "project": {
+      "dir_name": "Calvin-L-@@-snf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/NNFProp.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "hash": "2155b03bbc229766b86d68988e9152488b2535aad2f6e659eec2d2a7ac33ab54"
+  }
+]

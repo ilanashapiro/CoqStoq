@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "magret2canard-@@-master1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LOGIQUE/Brouillon/preuves.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 5
+    },
+    "hash": "74202cf1da24e4b4036a9d0c3ce8e1088131f2f700a0930e558713503f43ef3b"
+  }
+]

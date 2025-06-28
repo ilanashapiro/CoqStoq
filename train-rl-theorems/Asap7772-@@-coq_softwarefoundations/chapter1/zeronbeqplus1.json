@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Asap7772-@@-coq_softwarefoundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter1/zeronbeqplus1.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "88ae95dfdb1890634dc4a39622e00fdb1985ff202e030eb670660179dc477fc1"
+  }
+]

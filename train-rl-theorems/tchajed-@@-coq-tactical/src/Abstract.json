@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tactical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Abstract.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4,
+      "column": 4
+    },
+    "hash": "8622221f3402bbb095c1892a86005f5e42894cfa38ee90e6c4b7f02b2d6f552a"
+  }
+]

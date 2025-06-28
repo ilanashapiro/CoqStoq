@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/sf/and.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "ddc5239de9bcac15e988e0c6ef5af125b8d53e4236e6ba4704c2abcbda5df675"
+  },
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/sf/and.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "ddc5239de9bcac15e988e0c6ef5af125b8d53e4236e6ba4704c2abcbda5df675"
+  }
+]

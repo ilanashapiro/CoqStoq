@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Ediff/Evect.v",
+    "theorem_start_pos": {
+      "line": 137,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 137,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 142,
+      "column": 4
+    },
+    "hash": "ede5e553810cb479054e51c86d3c4c080001a54ed2f8cecd52be92675c5d0863"
+  }
+]

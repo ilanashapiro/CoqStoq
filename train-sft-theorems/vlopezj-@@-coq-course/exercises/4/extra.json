@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "vlopezj-@@-coq-course",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exercises/4/extra.v",
+    "theorem_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 127,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 21
+    },
+    "hash": "c497c5ef04aca3e00ab260a97abae3ac3620282863c7749422a57d2c5686f302"
+  }
+]

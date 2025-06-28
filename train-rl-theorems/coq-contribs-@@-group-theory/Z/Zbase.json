@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-group-theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Z/Zbase.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "hash": "d38f95e754dfb123baedebeaacd217d4bd9c8cb330f0b47517c05b681e36b572"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-group-theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Z/Zbase.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "d38f95e754dfb123baedebeaacd217d4bd9c8cb330f0b47517c05b681e36b572"
+  }
+]

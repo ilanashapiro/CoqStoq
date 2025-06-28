@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "spicy-paper-@@-spicy",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/MyPrelude.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "49a811411a0391461ab38f2d46a478c98046192fd28dde78b96e52ddfcd9f3fd"
+  }
+]

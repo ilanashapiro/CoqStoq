@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Asap7772-@@-coq_softwarefoundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter2/inductionbasics.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "404d2cb2d42424271d869b979041764f63e8c461c317c994b343ff9d81035ed3"
+  },
+  {
+    "project": {
+      "dir_name": "Asap7772-@@-coq_softwarefoundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter2/inductionbasics.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "404d2cb2d42424271d869b979041764f63e8c461c317c994b343ff9d81035ed3"
+  },
+  {
+    "project": {
+      "dir_name": "Asap7772-@@-coq_softwarefoundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter2/inductionbasics.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "404d2cb2d42424271d869b979041764f63e8c461c317c994b343ff9d81035ed3"
+  }
+]

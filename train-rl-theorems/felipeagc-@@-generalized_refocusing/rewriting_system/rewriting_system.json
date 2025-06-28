@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "felipeagc-@@-generalized_refocusing",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "rewriting_system/rewriting_system.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 6
+    },
+    "hash": "8d0e7fd1a2447deb35582cfcf06775e603ac28ebc7a9472585421c9ccd971531"
+  },
+  {
+    "project": {
+      "dir_name": "felipeagc-@@-generalized_refocusing",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "rewriting_system/rewriting_system.v",
+    "theorem_start_pos": {
+      "line": 114,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 116,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 118,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 6
+    },
+    "hash": "8d0e7fd1a2447deb35582cfcf06775e603ac28ebc7a9472585421c9ccd971531"
+  }
+]

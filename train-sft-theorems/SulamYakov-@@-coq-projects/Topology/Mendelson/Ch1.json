@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "SulamYakov-@@-coq-projects",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Topology/Mendelson/Ch1.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "f88152155e317aba8f956254acf27f194ce66a20dce37af81756e180e9a06624"
+  },
+  {
+    "project": {
+      "dir_name": "SulamYakov-@@-coq-projects",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Topology/Mendelson/Ch1.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "f88152155e317aba8f956254acf27f194ce66a20dce37af81756e180e9a06624"
+  },
+  {
+    "project": {
+      "dir_name": "SulamYakov-@@-coq-projects",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Topology/Mendelson/Ch1.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 4
+    },
+    "hash": "f88152155e317aba8f956254acf27f194ce66a20dce37af81756e180e9a06624"
+  }
+]

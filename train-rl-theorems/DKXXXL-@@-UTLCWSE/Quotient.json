@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DKXXXL-@@-UTLCWSE",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Quotient.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "969a0599a34187f96cec45971ba6afc8809639b2b9b972da0ee021197d6707d9"
+  }
+]

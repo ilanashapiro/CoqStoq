@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "gogabr-@@-lambekMikulas",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SyntaxOps.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "e55a4ead26b04ca6e82134484bbb438d6b7d22552f737bdc9785c673db706862"
+  }
+]

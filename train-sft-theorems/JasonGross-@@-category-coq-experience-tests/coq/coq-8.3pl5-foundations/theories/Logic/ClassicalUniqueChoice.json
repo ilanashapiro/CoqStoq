@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/ClassicalUniqueChoice.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 4
+    },
+    "hash": "18fc64e2fd73d41ff750da4c4420e0e8046a380ee125beaf6bd751199cc13790"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/ClassicalUniqueChoice.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 4
+    },
+    "hash": "18fc64e2fd73d41ff750da4c4420e0e8046a380ee125beaf6bd751199cc13790"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/ClassicalUniqueChoice.v",
+    "theorem_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "18fc64e2fd73d41ff750da4c4420e0e8046a380ee125beaf6bd751199cc13790"
+  }
+]

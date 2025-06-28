@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "GavinMendelGleason-@@-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/NoIntermediate.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "2027d864e49f43125c33263ad85dcef86720ad4deedd0cb0b223b7a155a81443"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mozow01-@@-bizcoq2021",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hallgatoi/gabormarton/bizcoq_2_hf_1_b.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "e5cda8954551b7fdd4c7c2965e6d3eff1034fbcecedac6de2f1aeb6aa2e163e0"
+  }
+]

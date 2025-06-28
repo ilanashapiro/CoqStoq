@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "alvarofpp-@@-course-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "logica_proposicional_e_predicados/disjuncao/exercicio_07.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "b06ad242c4070b95b953bcf70d43610bd7e2c357cac68026ac9afb767d6589cb"
+  }
+]

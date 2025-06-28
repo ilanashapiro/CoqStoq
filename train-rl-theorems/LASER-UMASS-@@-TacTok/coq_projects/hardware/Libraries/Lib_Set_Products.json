@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/hardware/Libraries/Lib_Set_Products.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "260462544586dd8c1f7dc949ed67833004d174e3cecd6b6e483fe4c4e3e8c9f7"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/hardware/Libraries/Lib_Set_Products.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "260462544586dd8c1f7dc949ed67833004d174e3cecd6b6e483fe4c4e3e8c9f7"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/hardware/Libraries/Lib_Set_Products.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "260462544586dd8c1f7dc949ed67833004d174e3cecd6b6e483fe4c4e3e8c9f7"
+  }
+]

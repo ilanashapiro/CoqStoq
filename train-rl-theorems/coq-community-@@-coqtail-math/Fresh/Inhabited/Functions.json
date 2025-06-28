@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Fresh/Inhabited/Functions.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 6
+    },
+    "hash": "e5b9445e31f9d2768327766d8ad78f4fa920b8c4fde2b9f4bc1da014168ab07c"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Fresh/Inhabited/Functions.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 6
+    },
+    "hash": "e5b9445e31f9d2768327766d8ad78f4fa920b8c4fde2b9f4bc1da014168ab07c"
+  }
+]

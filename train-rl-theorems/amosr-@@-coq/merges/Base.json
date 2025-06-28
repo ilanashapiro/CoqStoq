@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "amosr-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "merges/Base.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "06bc4176e5c6e758859a4c06cc044b98d5fefe864d599b6ffea65170560ee52a"
+  }
+]

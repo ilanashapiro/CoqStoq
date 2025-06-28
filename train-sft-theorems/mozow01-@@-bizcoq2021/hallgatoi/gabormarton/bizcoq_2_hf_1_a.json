@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mozow01-@@-bizcoq2021",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hallgatoi/gabormarton/bizcoq_2_hf_1_a.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "135f907fdcb5da23b5ef0647bec43ccc7979f7e2b14f9153feed6e3d3d81055d"
+  },
+  {
+    "project": {
+      "dir_name": "mozow01-@@-bizcoq2021",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hallgatoi/gabormarton/bizcoq_2_hf_1_a.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "135f907fdcb5da23b5ef0647bec43ccc7979f7e2b14f9153feed6e3d3d81055d"
+  }
+]

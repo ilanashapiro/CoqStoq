@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/mynat.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "9230951dd9a4aed0ef1af7d522a19f624783849c5978e767392ebeb423fda320"
+  }
+]

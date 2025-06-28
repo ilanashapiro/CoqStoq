@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "HarvardPL-@@-CIFC",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/InductionPrinciple.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "3ab6c9b31a5ae182e43078d3a4d1f8c1b0ff46b6619dcbc6d538c3a9c2108187"
+  },
+  {
+    "project": {
+      "dir_name": "HarvardPL-@@-CIFC",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/InductionPrinciple.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "3ab6c9b31a5ae182e43078d3a4d1f8c1b0ff46b6619dcbc6d538c3a9c2108187"
+  },
+  {
+    "project": {
+      "dir_name": "HarvardPL-@@-CIFC",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/InductionPrinciple.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "3ab6c9b31a5ae182e43078d3a4d1f8c1b0ff46b6619dcbc6d538c3a9c2108187"
+  },
+  {
+    "project": {
+      "dir_name": "HarvardPL-@@-CIFC",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/InductionPrinciple.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "3ab6c9b31a5ae182e43078d3a4d1f8c1b0ff46b6619dcbc6d538c3a9c2108187"
+  }
+]

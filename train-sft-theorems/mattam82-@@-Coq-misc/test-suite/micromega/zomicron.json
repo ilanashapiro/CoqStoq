@@ -1,0 +1,147 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/micromega/zomicron.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "88620a546f47cd6c624864ee2f5676d1276621b52ad31aaf28835e1362feeef9"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/micromega/zomicron.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "88620a546f47cd6c624864ee2f5676d1276621b52ad31aaf28835e1362feeef9"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/micromega/zomicron.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "88620a546f47cd6c624864ee2f5676d1276621b52ad31aaf28835e1362feeef9"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/micromega/zomicron.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 103
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "88620a546f47cd6c624864ee2f5676d1276621b52ad31aaf28835e1362feeef9"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/micromega/zomicron.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "88620a546f47cd6c624864ee2f5676d1276621b52ad31aaf28835e1362feeef9"
+  }
+]

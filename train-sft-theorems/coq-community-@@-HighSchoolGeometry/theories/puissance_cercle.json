@@ -1,0 +1,147 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/puissance_cercle.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "6f66c1b28ecce17f085e8df3a5fa9f7dcdf24dbed1cec1c93bff554e6fd8d370"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/puissance_cercle.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "6f66c1b28ecce17f085e8df3a5fa9f7dcdf24dbed1cec1c93bff554e6fd8d370"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/puissance_cercle.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 122,
+      "column": 4
+    },
+    "hash": "6f66c1b28ecce17f085e8df3a5fa9f7dcdf24dbed1cec1c93bff554e6fd8d370"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/puissance_cercle.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 131,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 205,
+      "column": 4
+    },
+    "hash": "6f66c1b28ecce17f085e8df3a5fa9f7dcdf24dbed1cec1c93bff554e6fd8d370"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/puissance_cercle.v",
+    "theorem_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 213,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 214,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 226,
+      "column": 4
+    },
+    "hash": "6f66c1b28ecce17f085e8df3a5fa9f7dcdf24dbed1cec1c93bff554e6fd8d370"
+  }
+]

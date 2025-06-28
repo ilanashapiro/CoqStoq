@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "thiagomael-@@-proof-assistants-poc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq/Probabilities.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "f5e53310dc66e3e96740f13dbcc6cf23e63bc833106c6cbf7b99c23d78db07fb"
+  }
+]

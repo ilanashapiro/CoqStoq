@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "palmskog-@@-pcc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/security_defs.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "5b839fe7a1e379775fdf11a8a4a5089371dad6eb1cb14b82c1417d63f32d5b5c"
+  }
+]

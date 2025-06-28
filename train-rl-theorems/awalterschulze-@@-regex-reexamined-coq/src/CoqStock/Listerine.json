@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "awalterschulze-@@-regex-reexamined-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqStock/Listerine.v",
+    "theorem_start_pos": {
+      "line": 328,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 335,
+      "column": 4
+    },
+    "proof_start_pos": {
+      "line": 336,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 350,
+      "column": 4
+    },
+    "hash": "6b5dd3543b7bf827706f869794500bd632b731e34048b4f8ae523498c6c3b928"
+  }
+]

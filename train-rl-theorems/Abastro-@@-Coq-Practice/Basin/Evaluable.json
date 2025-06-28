@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Abastro-@@-Coq-Practice",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Basin/Evaluable.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 39
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 55
+    },
+    "hash": "288724c7b1bb198e260c569117c29c769c5a855e5b2eda726f5711d27f118c07"
+  }
+]

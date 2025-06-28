@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/FunctionalExtensionality.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "8e257979d2672a69ab6a2e6d054caa3ce091089457298a40d5c6034fb5b18bbb"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/FunctionalExtensionality.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "8e257979d2672a69ab6a2e6d054caa3ce091089457298a40d5c6034fb5b18bbb"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/FunctionalExtensionality.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "8e257979d2672a69ab6a2e6d054caa3ce091089457298a40d5c6034fb5b18bbb"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/FunctionalExtensionality.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 4
+    },
+    "hash": "8e257979d2672a69ab6a2e6d054caa3ce091089457298a40d5c6034fb5b18bbb"
+  }
+]

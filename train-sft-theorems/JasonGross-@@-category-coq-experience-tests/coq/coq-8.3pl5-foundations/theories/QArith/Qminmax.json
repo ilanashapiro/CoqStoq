@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/QArith/Qminmax.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "0f665eeff6ee2b4a08c2218f12a30386824698ea9af813d3feed8edd587777fa"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/QArith/Qminmax.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "hash": "0f665eeff6ee2b4a08c2218f12a30386824698ea9af813d3feed8edd587777fa"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/QArith/Qminmax.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "0f665eeff6ee2b4a08c2218f12a30386824698ea9af813d3feed8edd587777fa"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/QArith/Qminmax.v",
+    "theorem_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 4
+    },
+    "hash": "0f665eeff6ee2b4a08c2218f12a30386824698ea9af813d3feed8edd587777fa"
+  }
+]

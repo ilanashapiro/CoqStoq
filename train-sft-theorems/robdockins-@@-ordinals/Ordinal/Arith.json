@@ -1,0 +1,2322 @@
+[
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 116,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 150,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 152,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 183,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 192,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 193,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 197,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 197,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 201,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 208,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 220,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 222,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 223,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 227,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 229,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 229,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 244,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 246,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 247,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 259,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 261,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 262,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 263,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 267,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 269,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 270,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 271,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 274,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 276,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 277,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 278,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 281,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 305,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 306,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 307,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 311,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 313,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 314,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 315,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 345,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 347,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 348,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 349,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 377,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 380,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 381,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 382,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 384,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 386,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 386,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 387,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 395,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 397,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 397,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 398,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 412,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 414,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 415,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 416,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 421,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 423,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 426,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 427,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 439,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 441,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 442,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 443,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 450,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 452,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 453,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 454,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 484,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 487,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 489,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 490,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 521,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 533,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 535,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 536,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 538,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 540,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 540,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 541,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 547,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 549,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 549,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 550,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 575,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 577,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 580,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 581,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 592,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 610,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 610,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 611,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 616,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 618,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 618,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 619,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 627,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 629,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 629,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 630,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 635,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 637,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 637,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 638,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 643,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 645,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 645,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 646,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 654,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 656,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 657,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 658,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 662,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 664,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 664,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 665,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 687,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 689,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 692,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 693,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 707,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 709,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 711,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 712,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 726,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 728,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 728,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 729,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 755,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 758,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 759,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 760,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 797,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 799,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 800,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 801,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 821,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 823,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 824,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 825,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 832,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 839,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 841,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 842,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 844,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 846,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 846,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 847,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 851,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 853,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 853,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 854,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 856,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 858,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 860,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 861,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 868,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 870,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 872,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 873,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 876,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 878,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 880,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 881,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 893,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 910,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 913,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 914,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 923,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 925,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 927,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 928,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 932,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 934,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 935,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 936,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 938,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 940,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 941,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 942,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 954,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 957,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 957,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 958,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 967,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 969,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 969,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 970,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 984,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 986,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 986,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 987,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 993,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 995,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 996,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 997,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1003,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1005,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1006,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 1007,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1053,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1056,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1057,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 1058,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1084,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1089,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1089,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 1090,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1092,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1094,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1094,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 1095,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1099,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1120,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1120,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 1121,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1121,
+      "column": 24
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1123,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1123,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 1124,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1124,
+      "column": 24
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1126,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 1127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1127,
+      "column": 24
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1129,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1129,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 1130,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1130,
+      "column": 24
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1132,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1135,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 1136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1153,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1155,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1157,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 1158,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1160,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1162,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1164,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 1165,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1194,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1197,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1200,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 1201,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1238,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1240,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1243,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1244,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1255,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1257,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1259,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 1260,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1270,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1272,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1274,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1275,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1284,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1292,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1293,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 1294,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1300,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-ordinals",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ordinal/Arith.v",
+    "theorem_start_pos": {
+      "line": 1302,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1303,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 1304,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1310,
+      "column": 4
+    },
+    "hash": "1087c6d15d2139b65ad56a17cbd2f59e8cda0e55a8bdfa6174ec69a3c204549b"
+  }
+]

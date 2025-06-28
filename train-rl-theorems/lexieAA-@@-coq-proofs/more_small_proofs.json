@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "lexieAA-@@-coq-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "more_small_proofs.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "30b3ef6a385638c1670bd56fd1f6d014bb21f1b4aa7f405b7cf0b628a9e64123"
+  },
+  {
+    "project": {
+      "dir_name": "lexieAA-@@-coq-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "more_small_proofs.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "30b3ef6a385638c1670bd56fd1f6d014bb21f1b4aa7f405b7cf0b628a9e64123"
+  },
+  {
+    "project": {
+      "dir_name": "lexieAA-@@-coq-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "more_small_proofs.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "30b3ef6a385638c1670bd56fd1f6d014bb21f1b4aa7f405b7cf0b628a9e64123"
+  }
+]

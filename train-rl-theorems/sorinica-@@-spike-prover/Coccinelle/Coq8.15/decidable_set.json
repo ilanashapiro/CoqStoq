@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.15/decidable_set.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 4
+    },
+    "hash": "fcdd9284305ac09bd05e6326ff952e2be6b132b3d27799eb5acc8c51a81f3b34"
+  }
+]

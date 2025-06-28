@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "plclub-@@-metalib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Metalib/CoqUniquenessTac.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 28
+    },
+    "hash": "077110001c25172361a76b56d3da198421ed4f840e9298a492e1919ebd8635fd"
+  },
+  {
+    "project": {
+      "dir_name": "plclub-@@-metalib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Metalib/CoqUniquenessTac.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 104,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 28
+    },
+    "hash": "077110001c25172361a76b56d3da198421ed4f840e9298a492e1919ebd8635fd"
+  }
+]

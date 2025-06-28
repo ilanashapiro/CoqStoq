@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_practice.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 4
+    },
+    "hash": "2029e24204168e6198dec49fbf44727d6ac6a66435f6a832273fdc3dd5cf7a1e"
+  }
+]

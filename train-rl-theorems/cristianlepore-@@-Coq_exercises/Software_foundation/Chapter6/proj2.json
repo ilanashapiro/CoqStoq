@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "cristianlepore-@@-Coq_exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Software_foundation/Chapter6/proj2.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 17
+    },
+    "hash": "0f7245b88453aeb1326f7291416fe347a22c7bc45c5eaccb47beced960ec9f7b"
+  },
+  {
+    "project": {
+      "dir_name": "cristianlepore-@@-Coq_exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Software_foundation/Chapter6/proj2.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "0f7245b88453aeb1326f7291416fe347a22c7bc45c5eaccb47beced960ec9f7b"
+  }
+]

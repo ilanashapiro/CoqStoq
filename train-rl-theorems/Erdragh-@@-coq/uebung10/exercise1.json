@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Erdragh-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "uebung10/exercise1.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "d0e505f0aa0a439893a141cc635c58e4fc176fcca9a402ca60a32ee6df9c4346"
+  }
+]

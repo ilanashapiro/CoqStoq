@@ -1,0 +1,872 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 100,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 112,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 126,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 142,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 143,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 175,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 178,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 181,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 190,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 225,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 226,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 230,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 247,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 248,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 249,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 256,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 263,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 264,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 265,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 268,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 270,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 271,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 272,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 276,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 281,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 282,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 283,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 288,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 291,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 292,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 298,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 300,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 301,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 308,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 333,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 334,
+      "column": 95
+    },
+    "proof_start_pos": {
+      "line": 335,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 339,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 344,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 345,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 346,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 350,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 352,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 353,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 354,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 360,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 362,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 363,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 364,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 371,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 375,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 376,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 377,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 384,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 386,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 387,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 388,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 395,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 397,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 398,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 399,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 401,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 412,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 413,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 414,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 422,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 423,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 426,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 427,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 434,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 435,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 436,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 437,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 441,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 446,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 447,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 448,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 452,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 465,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 466,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 467,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 472,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 474,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 475,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 476,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 480,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 482,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 483,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 484,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 490,
+      "column": 6
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/wfrec.v",
+    "theorem_start_pos": {
+      "line": 496,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 497,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 498,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 502,
+      "column": 4
+    },
+    "hash": "cd8917b906ec8aaab50e6f8053c96ea5929e42a82ebc8d5558aea118e181fe84"
+  }
+]

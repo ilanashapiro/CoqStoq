@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Reals/Rtrigo_fun.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "53125efc8d94fb99f729764a7b1900a5e4fb9c421d9475e4cd846b2ed5286983"
+  }
+]

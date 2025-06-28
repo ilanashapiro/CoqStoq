@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-algebra",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Nakayama.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "hash": "9d296191d9d61dd331fb4389f2cf070268aa07792bc9751af356d11b6a054d69"
+  },
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-algebra",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Nakayama.v",
+    "theorem_start_pos": {
+      "line": 121,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 125,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 4
+    },
+    "hash": "9d296191d9d61dd331fb4389f2cf070268aa07792bc9751af356d11b6a054d69"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "atlanmod-@@-coqtl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "transformations/Class2Relational/theorems/Relational_resolve_spec.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "f8f3fabb2c3ea14fc42658c41ed0c9fa5a5385fbdac5cdbc7178cf4c7908ca87"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "chekkal-@@-software-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter7_Library_MoreCoq/practice.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "5c59820fe6336909adee0f086ce9d88246f17b8ae69b40c935e79640eb3b55dc"
+  },
+  {
+    "project": {
+      "dir_name": "chekkal-@@-software-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter7_Library_MoreCoq/practice.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "5c59820fe6336909adee0f086ce9d88246f17b8ae69b40c935e79640eb3b55dc"
+  }
+]

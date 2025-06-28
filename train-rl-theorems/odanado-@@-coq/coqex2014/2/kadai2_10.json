@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "odanado-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqex2014/2/kadai2_10.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "c1cd46577c4082c703af533c5854a0813835a093d8e0f5bb1da651f3808c1331"
+  },
+  {
+    "project": {
+      "dir_name": "odanado-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqex2014/2/kadai2_10.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 4
+    },
+    "hash": "c1cd46577c4082c703af533c5854a0813835a093d8e0f5bb1da651f3808c1331"
+  }
+]

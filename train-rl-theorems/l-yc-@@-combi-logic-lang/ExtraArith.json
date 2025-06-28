@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "l-yc-@@-combi-logic-lang",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtraArith.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "a1761f8305ceb175ed500eb8280d04572d4595f1b24f66396a4a1408d1a25873"
+  },
+  {
+    "project": {
+      "dir_name": "l-yc-@@-combi-logic-lang",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtraArith.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 4
+    },
+    "hash": "a1761f8305ceb175ed500eb8280d04572d4595f1b24f66396a4a1408d1a25873"
+  }
+]

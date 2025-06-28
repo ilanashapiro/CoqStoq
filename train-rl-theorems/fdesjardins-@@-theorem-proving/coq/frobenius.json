@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "fdesjardins-@@-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/frobenius.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "6682b28789aed70538f0b992f06406d0a8c36d15e6357949d8fb5d475cc47bcc"
+  }
+]

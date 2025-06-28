@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "andreistefanescu-@@-matching-logic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/all_shallow/proofsystem.v",
+    "theorem_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 109,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 118,
+      "column": 4
+    },
+    "hash": "0d29ffe2e674f8c22f4346d1e72babf720c40bf5a459de43553e2f426e4594bb"
+  },
+  {
+    "project": {
+      "dir_name": "andreistefanescu-@@-matching-logic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/all_shallow/proofsystem.v",
+    "theorem_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 127,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 140,
+      "column": 4
+    },
+    "hash": "0d29ffe2e674f8c22f4346d1e72babf720c40bf5a459de43553e2f426e4594bb"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "bsall-@@-thesis-dev",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/theory/HoareWp.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 4
+    },
+    "hash": "2bef83f30e5dd8e78d812863596d26ff392d3189fee00526840c3444ac51be05"
+  }
+]

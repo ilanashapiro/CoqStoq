@@ -1,0 +1,234 @@
+[
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresRoundtrip.v",
+    "theorem_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 109,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 112,
+      "column": 4
+    },
+    "hash": "2424987c8c0ea8854543ddf5293f5631c246470ae2866894d8ee96f79b0a792b"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresRoundtrip.v",
+    "theorem_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 130,
+      "column": 4
+    },
+    "hash": "2424987c8c0ea8854543ddf5293f5631c246470ae2866894d8ee96f79b0a792b"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresRoundtrip.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 4
+    },
+    "hash": "2424987c8c0ea8854543ddf5293f5631c246470ae2866894d8ee96f79b0a792b"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresRoundtrip.v",
+    "theorem_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 146,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 147,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 162,
+      "column": 4
+    },
+    "hash": "2424987c8c0ea8854543ddf5293f5631c246470ae2866894d8ee96f79b0a792b"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresRoundtrip.v",
+    "theorem_start_pos": {
+      "line": 213,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 215,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 220,
+      "column": 4
+    },
+    "hash": "2424987c8c0ea8854543ddf5293f5631c246470ae2866894d8ee96f79b0a792b"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresRoundtrip.v",
+    "theorem_start_pos": {
+      "line": 238,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 240,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 241,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 245,
+      "column": 4
+    },
+    "hash": "2424987c8c0ea8854543ddf5293f5631c246470ae2866894d8ee96f79b0a792b"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresRoundtrip.v",
+    "theorem_start_pos": {
+      "line": 297,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 300,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 301,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 312,
+      "column": 4
+    },
+    "hash": "2424987c8c0ea8854543ddf5293f5631c246470ae2866894d8ee96f79b0a792b"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresRoundtrip.v",
+    "theorem_start_pos": {
+      "line": 322,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 324,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 325,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 330,
+      "column": 4
+    },
+    "hash": "2424987c8c0ea8854543ddf5293f5631c246470ae2866894d8ee96f79b0a792b"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Steven-Klinger-@@-Preuve",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "list_ind.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 6
+    },
+    "hash": "3a5bcea211ea72b9253c44e971df0f58c2bb0794b1318e711191da88a0365ff3"
+  }
+]

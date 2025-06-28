@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-DataStrucutre",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coin.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 4
+    },
+    "hash": "97c112012487c3bb5c33766359278edcf4901a7f81c9ba591666fb53d2f6c9f5"
+  }
+]

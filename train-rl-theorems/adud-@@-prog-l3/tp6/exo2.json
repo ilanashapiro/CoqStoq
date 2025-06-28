@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "adud-@@-prog-l3",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tp6/exo2.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 6
+    },
+    "hash": "de9c044a2a5ef3f5eb647b3c56d5f635a7f7ce0136b306a1bbdedf58dcb6c197"
+  }
+]

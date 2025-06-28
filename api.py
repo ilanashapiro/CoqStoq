@@ -10,7 +10,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 from coqstoq.check import get_ground_truth, get_prefix, get_suffix, get_theorem_text
-from coqstoq.scripts import num_theorems, get_theorem 
+from coqstoq.scripts import num_theorems, get_theorem, get_theorem_list
 
 COQSTOQ_LOC = Path.cwd()
 
@@ -71,6 +71,16 @@ def get_theorem_info(split: str, idx: int) -> GetTheoremInfoResult:
     )
 
 
+@dataclass
+class GetTheoremRangeResult:
+    theorems: list[GetTheoremInfoResult]
+
+    def to_json(self) -> Any:
+        return {
+            "theorems": [thm.to_json() for thm in self.theorems]
+        }
+
+
 def handle_get_splits(args: argparse.Namespace) -> None:
     result = get_splits()
     json_str = json.dumps(result.to_json(), indent=2)
@@ -92,6 +102,37 @@ def handle_get_theorem_info(args: argparse.Namespace) -> None:
     sys.stdout.write(json_str)
     sys.stdout.flush()
 
+def handle_get_theorem_range(args: argparse.Namespace) -> None:
+    split = args.split
+    start = args.start
+    end = args.end
+    assert start <= end, "Start index must be less than or equal to end index"
+    all_theorems = get_theorem_list(split, COQSTOQ_LOC)
+    assert 0 <= start, f"Start index must be non-negative, got {start}"
+    assert start < len(all_theorems), f"Start index is out of bounds. Must be less than {len(all_theorems)}"
+    assert 0 <= end, f"End index must be non-negative, got {end}"
+    assert end <= len(all_theorems), f"End index must be less than or equal to {len(all_theorems)}"
+    sub_theorems = all_theorems[start:end]
+    thm_infos: list[GetTheoremInfoResult] = []
+    for i, thm in enumerate(sub_theorems):
+        ground_truth = get_ground_truth(thm, COQSTOQ_LOC)
+        prefix = get_prefix(thm, COQSTOQ_LOC)
+        suffix = get_suffix(thm, COQSTOQ_LOC)
+        theorem = get_theorem_text(thm, COQSTOQ_LOC)
+        thm_info = GetTheoremInfoResult(
+            split=split,
+            index=start + i,
+            prefix=prefix,
+            suffix=suffix,
+            theorem=theorem,
+            ground_truth=ground_truth,
+        )
+        thm_infos.append(thm_info)
+    result = GetTheoremRangeResult(theorems=thm_infos)
+    json_str = json.dumps(result.to_json(), indent=2)
+    sys.stdout.write(json_str)
+    sys.stdout.flush()
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="CoqStoq API")
@@ -108,6 +149,12 @@ if __name__ == "__main__":
     thm_info_parser.add_argument("split", type=str, help="Split name (e.g., 'train-sft', 'train-rl', 'val', 'test', 'cutoff')")
     thm_info_parser.add_argument("index", type=int, help="Index of the theorem in the split")
     thm_info_parser.set_defaults(func=handle_get_theorem_info)
+
+    thm_range_parser = subparsers.add_parser("get_theorem_range", help="Get a range of theorems from a split")
+    thm_range_parser.add_argument("split", type=str, help="Split name (e.g., 'train-sft', 'train-rl', 'val', 'test', 'cutoff')")
+    thm_range_parser.add_argument("start", type=int, help="Start index of the theorem range")
+    thm_range_parser.add_argument("end", type=int, help="End index of the theorem range (exclusive)")
+    thm_range_parser.set_defaults(func=handle_get_theorem_range)
 
     args = parser.parse_args()
     args.func(args)

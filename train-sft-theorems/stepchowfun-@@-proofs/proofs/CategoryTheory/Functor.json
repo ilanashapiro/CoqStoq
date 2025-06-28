@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/CategoryTheory/Functor.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 4
+    },
+    "hash": "63537fecca8f010d8222fb99d83411334ada589654e5c642bce3f24d4d2673b2"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/CategoryTheory/Functor.v",
+    "theorem_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "63537fecca8f010d8222fb99d83411334ada589654e5c642bce3f24d4d2673b2"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/CategoryTheory/Functor.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "63537fecca8f010d8222fb99d83411334ada589654e5c642bce3f24d4d2673b2"
+  }
+]

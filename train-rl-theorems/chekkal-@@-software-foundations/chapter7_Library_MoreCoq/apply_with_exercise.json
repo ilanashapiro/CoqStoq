@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "chekkal-@@-software-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter7_Library_MoreCoq/apply_with_exercise.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "d26776025bd2631e95a0fdabac9c2f5cedf659563094a9c80d43f2c86c9167cb"
+  }
+]

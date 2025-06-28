@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-lambda2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lambda2.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 113,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 114,
+      "column": 46
+    },
+    "hash": "22e26a391bdbe04d9e61deee534ac0e1fe343e1c0bfa64f4a4270220937e0bb3"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-lambda2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lambda2.v",
+    "theorem_start_pos": {
+      "line": 116,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 116,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 117,
+      "column": 44
+    },
+    "hash": "22e26a391bdbe04d9e61deee534ac0e1fe343e1c0bfa64f4a4270220937e0bb3"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-lambda2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lambda2.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 4
+    },
+    "hash": "22e26a391bdbe04d9e61deee534ac0e1fe343e1c0bfa64f4a4270220937e0bb3"
+  }
+]

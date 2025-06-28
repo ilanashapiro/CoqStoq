@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "esilkensen-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lambda.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "c2889f9923fc545b7d24ebb38c143c62b0eb7c6127128e7abed6b17dfa24290f"
+  }
+]

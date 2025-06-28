@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "seisyuu-hantatsushi-@@-coq_ssreflect_practice",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "practices/ensumble_example.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 6
+    },
+    "hash": "3a7a875ab32b6b5d482611743bf97e5d6fc556f1ef7374cf06bc57591eb87003"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-serapi/tests/genarg/rename.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "6eaba9b7e532f0adbc509254f71497f066560bc77f8477273179b6cfbf50ba3d"
+  }
+]

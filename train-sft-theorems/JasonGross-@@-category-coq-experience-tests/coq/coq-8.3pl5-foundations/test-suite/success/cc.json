@@ -1,0 +1,350 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 36
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/success/cc.v",
+    "theorem_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 102,
+      "column": 4
+    },
+    "hash": "60a4968f8beb19dc450f10dea961b487e780a701baa2808ae11eb509911f6cff"
+  }
+]

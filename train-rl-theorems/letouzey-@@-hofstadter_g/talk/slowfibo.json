@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "letouzey-@@-hofstadter_g",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "talk/slowfibo.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "5d1276d92b82564b9fbea285f0358607825a87324e74126ab74496d0c28a9dc9"
+  },
+  {
+    "project": {
+      "dir_name": "letouzey-@@-hofstadter_g",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "talk/slowfibo.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "5d1276d92b82564b9fbea285f0358607825a87324e74126ab74496d0c28a9dc9"
+  }
+]

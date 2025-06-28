@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "TorosFanny-@@-my_Coq_experiment",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "propositional_extentionality.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4,
+      "column": 4
+    },
+    "hash": "2156f9138af7e7216dc9abfa5bfe6729f27873420cc25b066cb0b4f05f02d917"
+  },
+  {
+    "project": {
+      "dir_name": "TorosFanny-@@-my_Coq_experiment",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "propositional_extentionality.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "2156f9138af7e7216dc9abfa5bfe6729f27873420cc25b066cb0b4f05f02d917"
+  }
+]

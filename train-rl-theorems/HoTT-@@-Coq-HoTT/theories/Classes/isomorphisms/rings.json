@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/isomorphisms/rings.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 4
+    },
+    "hash": "ebe525dc33fdc8a8e773ed8b7f1a1ed735f7f811447c714f63bfc6eb26c18a2f"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/isomorphisms/rings.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "ebe525dc33fdc8a8e773ed8b7f1a1ed735f7f811447c714f63bfc6eb26c18a2f"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/isomorphisms/rings.v",
+    "theorem_start_pos": {
+      "line": 100,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 125,
+      "column": 4
+    },
+    "hash": "ebe525dc33fdc8a8e773ed8b7f1a1ed735f7f811447c714f63bfc6eb26c18a2f"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/isomorphisms/rings.v",
+    "theorem_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 127,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "hash": "ebe525dc33fdc8a8e773ed8b7f1a1ed735f7f811447c714f63bfc6eb26c18a2f"
+  }
+]

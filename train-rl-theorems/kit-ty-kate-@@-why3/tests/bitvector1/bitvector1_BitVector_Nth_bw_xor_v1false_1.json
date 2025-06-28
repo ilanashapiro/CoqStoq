@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "kit-ty-kate-@@-why3",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/bitvector1/bitvector1_BitVector_Nth_bw_xor_v1false_1.v",
+    "theorem_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 200,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 202,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 209,
+      "column": 4
+    },
+    "hash": "bf065827a80f6da88ea3e5c56500c9677f42c5c1449390d72b0723802960bf60"
+  }
+]

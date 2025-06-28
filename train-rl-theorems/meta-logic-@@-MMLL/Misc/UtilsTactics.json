@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "meta-logic-@@-MMLL",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Misc/UtilsTactics.v",
+    "theorem_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 160,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 161,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 166,
+      "column": 6
+    },
+    "hash": "00fa8b8e04ae895a66a18c902af7d76c2807391dcdcb80a142f1b6e3d702fa51"
+  }
+]

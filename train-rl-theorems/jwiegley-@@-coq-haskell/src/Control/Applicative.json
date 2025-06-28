@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Applicative.v",
+    "theorem_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "add145e1e5efcadebacbaa26e2c0004c87ccec3cc03a113632c7e3f737e18a72"
+  },
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Applicative.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 4
+    },
+    "hash": "add145e1e5efcadebacbaa26e2c0004c87ccec3cc03a113632c7e3f737e18a72"
+  }
+]

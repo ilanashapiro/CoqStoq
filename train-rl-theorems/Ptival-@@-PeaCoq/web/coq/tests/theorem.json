@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Ptival-@@-PeaCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "web/coq/tests/theorem.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1,
+      "column": 71
+    },
+    "hash": "fef9c8f3d37b94db4e3e1932af4ce7d2fc5db42c3609c6321c84146d98db9138"
+  }
+]

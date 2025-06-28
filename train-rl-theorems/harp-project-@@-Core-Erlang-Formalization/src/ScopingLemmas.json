@@ -1,0 +1,2264 @@
+[
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 39
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 181,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 184,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 186,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 193,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 195,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 196,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 200,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 205,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 210,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 223,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 245,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 249,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 250,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 251,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 255,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 258,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 259,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 260,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 264,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 268,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 269,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 273,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 277,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 280,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 281,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 288,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 291,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 292,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 294,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 296,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 297,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 298,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 300,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 303,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 304,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 306,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 308,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 309,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 310,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 316,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 319,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 319,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 320,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 322,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 327,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 327,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 328,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 330,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 335,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 337,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 338,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 349,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 352,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 354,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 355,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 359,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 367,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 381,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 382,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 905,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 908,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 912,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 913,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 916,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 919,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 923,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 924,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 927,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 930,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 934,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 935,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 938,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 940,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 948,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 949,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 955,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 957,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 959,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 960,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 974,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 978,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 980,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 981,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 985,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 989,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 992,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 993,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 999,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1002,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1005,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 1006,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1010,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1012,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1014,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 1015,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1018,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1023,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1037,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 1038,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1449,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1451,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1455,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 1456,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1459,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1461,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1465,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 1466,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1469,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1472,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1476,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 1477,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1480,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1491,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1493,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 1494,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1499,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1501,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1503,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 1504,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1511,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1513,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1515,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 1516,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1523,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1525,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1531,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 1532,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1746,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1748,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1750,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 1751,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1756,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1758,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1760,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 1761,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1766,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1768,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1770,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 1771,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1776,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1786,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1787,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 1788,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1798,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1800,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1801,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 1802,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1809,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1811,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1811,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1812,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1818,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1820,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1820,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 1821,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1824,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1826,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1826,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 1827,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1831,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1833,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1834,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 1835,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1846,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 1848,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1854,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 1855,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2057,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2059,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 2065,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 2066,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2074,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2076,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 2079,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 2080,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2084,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2086,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 2089,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 2090,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2094,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2096,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 2099,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 2100,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2104,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2106,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 2107,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 2108,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2110,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2112,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 2115,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 2116,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2121,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2125,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 2128,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 2129,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2144,
+      "column": 6
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2158,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2159,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 2160,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2168,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2170,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2173,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 2174,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2180,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2182,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2183,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 2184,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2188,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2191,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2192,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 2193,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2197,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2200,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2201,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 2202,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2206,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2210,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2211,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 2212,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2216,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2219,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2220,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 2221,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2225,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2229,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2230,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 2231,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2235,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2239,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2241,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 2242,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2247,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2249,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2254,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 2255,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2257,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2259,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2261,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 2262,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2268,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2270,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2273,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 2274,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2281,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2283,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2289,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 2290,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2305,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2307,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2309,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 2310,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2319,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2321,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2324,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 2325,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2346,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2348,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2352,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 2353,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2374,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2376,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2378,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 2379,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2383,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2385,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2387,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 2388,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2394,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2396,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2398,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 2399,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2401,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2403,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2405,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 2406,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2409,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2412,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2413,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 2414,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2419,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2421,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2423,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 2424,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2427,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ScopingLemmas.v",
+    "theorem_start_pos": {
+      "line": 2432,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2433,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 2434,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2436,
+      "column": 4
+    },
+    "hash": "8833c25d41dec7d6a80cd7b27c39daa50e0bec2839af5624b7a1ef8f92cfb1f9"
+  }
+]

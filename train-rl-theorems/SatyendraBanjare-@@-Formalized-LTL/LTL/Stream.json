@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "SatyendraBanjare-@@-Formalized-LTL",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LTL/Stream.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 6
+    },
+    "hash": "8f548dd3ca2c2c70c5d27f52c87d4a5535440da3756bc1a91c432252dcc8822a"
+  }
+]

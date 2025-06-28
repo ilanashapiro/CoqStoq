@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-autosubst-metacoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/static/core.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "314ff304b8bb1450a71d7cd244838d26ae6162a4da92799525707a6b75fd55d0"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-autosubst-metacoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/static/core.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "314ff304b8bb1450a71d7cd244838d26ae6162a4da92799525707a6b75fd55d0"
+  }
+]

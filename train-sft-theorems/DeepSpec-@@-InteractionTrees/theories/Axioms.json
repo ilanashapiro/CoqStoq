@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DeepSpec-@@-InteractionTrees",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Axioms.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "248a3ef182c2cf4a78ab9c54c61338bcabdabc58f2c8b4802df40f7d69e76fae"
+  }
+]

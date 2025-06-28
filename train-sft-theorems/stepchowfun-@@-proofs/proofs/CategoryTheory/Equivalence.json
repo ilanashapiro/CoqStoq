@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/CategoryTheory/Equivalence.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "de657bf1df8ac8ad768e0b76598c8effb82d3e136bad4fd50e7782dac5f5af4d"
+  }
+]

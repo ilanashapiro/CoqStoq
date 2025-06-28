@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "acorrenson-@@-Defaultt",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/lprop.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "754ccfa67a7530b68d1d9f5e2e77860b7e154f52d459cc0e66a5df63a62ac34e"
+  },
+  {
+    "project": {
+      "dir_name": "acorrenson-@@-Defaultt",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/lprop.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 102,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 103,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 106,
+      "column": 4
+    },
+    "hash": "754ccfa67a7530b68d1d9f5e2e77860b7e154f52d459cc0e66a5df63a62ac34e"
+  }
+]

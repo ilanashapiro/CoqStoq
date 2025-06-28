@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "aweinstock314-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "expression_language.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 73
+    },
+    "hash": "eba13d646ce4533a52dd2dd03036cd387c65f91cbabcc828251e044b00eac5e9"
+  },
+  {
+    "project": {
+      "dir_name": "aweinstock314-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "expression_language.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 73
+    },
+    "hash": "eba13d646ce4533a52dd2dd03036cd387c65f91cbabcc828251e044b00eac5e9"
+  },
+  {
+    "project": {
+      "dir_name": "aweinstock314-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "expression_language.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 99
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 52
+    },
+    "hash": "eba13d646ce4533a52dd2dd03036cd387c65f91cbabcc828251e044b00eac5e9"
+  },
+  {
+    "project": {
+      "dir_name": "aweinstock314-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "expression_language.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 106
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 8
+    },
+    "hash": "eba13d646ce4533a52dd2dd03036cd387c65f91cbabcc828251e044b00eac5e9"
+  }
+]

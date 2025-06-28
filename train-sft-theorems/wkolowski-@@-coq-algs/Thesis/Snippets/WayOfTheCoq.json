@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-coq-algs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Thesis/Snippets/WayOfTheCoq.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "80927e3375521a3b3f09fdfba573adb70853c68abb5eeb7e0cd9eaa4940ae5ba"
+  }
+]

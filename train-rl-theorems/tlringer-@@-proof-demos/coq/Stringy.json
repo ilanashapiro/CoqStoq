@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "tlringer-@@-proof-demos",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/Stringy.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "6f4cea0f88c6d03e5f57f293c76876c8afae0a6473327ec6f5d601e69d5dc036"
+  },
+  {
+    "project": {
+      "dir_name": "tlringer-@@-proof-demos",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/Stringy.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "6f4cea0f88c6d03e5f57f293c76876c8afae0a6473327ec6f5d601e69d5dc036"
+  }
+]

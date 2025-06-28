@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Wellfounded/Inclusion.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 6
+    },
+    "hash": "e0d3303a53c3184977f1c7382c7d379724b9cd365c97bafddd156b5d891cef28"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Wellfounded/Inclusion.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 6
+    },
+    "hash": "e0d3303a53c3184977f1c7382c7d379724b9cd365c97bafddd156b5d891cef28"
+  }
+]

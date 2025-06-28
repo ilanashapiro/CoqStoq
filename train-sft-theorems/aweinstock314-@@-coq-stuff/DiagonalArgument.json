@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "aweinstock314-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "DiagonalArgument.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "7a3945ec34573a1113f944dcfe53155bb2e24ce046bfc05f82fcface42ae2b5d"
+  }
+]

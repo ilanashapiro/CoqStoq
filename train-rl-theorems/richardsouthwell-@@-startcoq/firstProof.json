@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "richardsouthwell-@@-startcoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "firstProof.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "2291ba62f7bbd9dc7bc03f1bbb1f65c35e2fc823a66027fc3be03a342bf1feb7"
+  }
+]

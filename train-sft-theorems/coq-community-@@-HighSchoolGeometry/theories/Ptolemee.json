@@ -1,0 +1,263 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Ptolemee.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "a448d69b2012118223c6b2fad420cf0fc6d19f59eb9ea0c171ada3feac5a0063"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Ptolemee.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 107
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "a448d69b2012118223c6b2fad420cf0fc6d19f59eb9ea0c171ada3feac5a0063"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Ptolemee.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 140,
+      "column": 4
+    },
+    "hash": "a448d69b2012118223c6b2fad420cf0fc6d19f59eb9ea0c171ada3feac5a0063"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Ptolemee.v",
+    "theorem_start_pos": {
+      "line": 143,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 150,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 174,
+      "column": 4
+    },
+    "hash": "a448d69b2012118223c6b2fad420cf0fc6d19f59eb9ea0c171ada3feac5a0063"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Ptolemee.v",
+    "theorem_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 182,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 206,
+      "column": 4
+    },
+    "hash": "a448d69b2012118223c6b2fad420cf0fc6d19f59eb9ea0c171ada3feac5a0063"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Ptolemee.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 213,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 214,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 250,
+      "column": 4
+    },
+    "hash": "a448d69b2012118223c6b2fad420cf0fc6d19f59eb9ea0c171ada3feac5a0063"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Ptolemee.v",
+    "theorem_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 267,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 268,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 278,
+      "column": 4
+    },
+    "hash": "a448d69b2012118223c6b2fad420cf0fc6d19f59eb9ea0c171ada3feac5a0063"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Ptolemee.v",
+    "theorem_start_pos": {
+      "line": 280,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 282,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 283,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 290,
+      "column": 4
+    },
+    "hash": "a448d69b2012118223c6b2fad420cf0fc6d19f59eb9ea0c171ada3feac5a0063"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Ptolemee.v",
+    "theorem_start_pos": {
+      "line": 293,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 298,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 299,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 416,
+      "column": 4
+    },
+    "hash": "a448d69b2012118223c6b2fad420cf0fc6d19f59eb9ea0c171ada3feac5a0063"
+  }
+]

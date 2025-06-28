@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "prog/ssr_isort2_prog.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "365e6e3956198e01e31088d91292d36f460121f996fe5222ab10777c93bf4806"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "prog/ssr_isort2_prog.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "365e6e3956198e01e31088d91292d36f460121f996fe5222ab10777c93bf4806"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "prog/ssr_isort2_prog.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "365e6e3956198e01e31088d91292d36f460121f996fe5222ab10777c93bf4806"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "prog/ssr_isort2_prog.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 4
+    },
+    "hash": "365e6e3956198e01e31088d91292d36f460121f996fe5222ab10777c93bf4806"
+  }
+]

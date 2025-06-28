@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Coda-Coda-@@-MartinLoefTheorem-Dissertation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ch1_The_Coq_Proof_Assistant.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "921052006c73182a80045224c311437ee08145410c17d188ea574dac9697ac1a"
+  }
+]

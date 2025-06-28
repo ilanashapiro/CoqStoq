@@ -1,0 +1,176 @@
+[
+  {
+    "project": {
+      "dir_name": "MathiasVP-@@-Zee-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/dec.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "bd74bb6d55452ef3d48da5f395397fa661af96e7c4239de62f7385585aac79ab"
+  },
+  {
+    "project": {
+      "dir_name": "MathiasVP-@@-Zee-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/dec.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "bd74bb6d55452ef3d48da5f395397fa661af96e7c4239de62f7385585aac79ab"
+  },
+  {
+    "project": {
+      "dir_name": "MathiasVP-@@-Zee-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/dec.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 4
+    },
+    "hash": "bd74bb6d55452ef3d48da5f395397fa661af96e7c4239de62f7385585aac79ab"
+  },
+  {
+    "project": {
+      "dir_name": "MathiasVP-@@-Zee-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/dec.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "bd74bb6d55452ef3d48da5f395397fa661af96e7c4239de62f7385585aac79ab"
+  },
+  {
+    "project": {
+      "dir_name": "MathiasVP-@@-Zee-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/dec.v",
+    "theorem_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 96,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 113,
+      "column": 4
+    },
+    "hash": "bd74bb6d55452ef3d48da5f395397fa661af96e7c4239de62f7385585aac79ab"
+  },
+  {
+    "project": {
+      "dir_name": "MathiasVP-@@-Zee-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/dec.v",
+    "theorem_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 116,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "hash": "bd74bb6d55452ef3d48da5f395397fa661af96e7c4239de62f7385585aac79ab"
+  }
+]

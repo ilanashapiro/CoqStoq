@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tricks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Deex.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "28ebf5b169c378c25eff8205551f5fd3a1eda03f25ccd797423396c66d68a5f1"
+  }
+]

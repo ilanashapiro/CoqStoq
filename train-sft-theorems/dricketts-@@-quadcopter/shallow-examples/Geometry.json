@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "dricketts-@@-quadcopter",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "shallow-examples/Geometry.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "fa7ecbf39b51a21982ede4b75a6b3a5a285d5519842e0e8500771c6d06dcdaf8"
+  },
+  {
+    "project": {
+      "dir_name": "dricketts-@@-quadcopter",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "shallow-examples/Geometry.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "fa7ecbf39b51a21982ede4b75a6b3a5a285d5519842e0e8500771c6d06dcdaf8"
+  }
+]

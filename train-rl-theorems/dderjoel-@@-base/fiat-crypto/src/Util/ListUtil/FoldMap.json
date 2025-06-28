@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dderjoel-@@-base",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat-crypto/src/Util/ListUtil/FoldMap.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 126
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 73
+    },
+    "hash": "51d88e3219039530eb8e720ddde75d5ee28a8087217426b8305657df26b3bf83"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/MemAsync.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 6
+    },
+    "hash": "62f23baf9b26bd71a5f2c724efaa14776d6d87d4abd00227d7fe20989119b856"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/MemAsync.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 81,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 6
+    },
+    "hash": "62f23baf9b26bd71a5f2c724efaa14776d6d87d4abd00227d7fe20989119b856"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/MemAsync.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 6
+    },
+    "hash": "62f23baf9b26bd71a5f2c724efaa14776d6d87d4abd00227d7fe20989119b856"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/MemAsync.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 6
+    },
+    "hash": "62f23baf9b26bd71a5f2c724efaa14776d6d87d4abd00227d7fe20989119b856"
+  }
+]

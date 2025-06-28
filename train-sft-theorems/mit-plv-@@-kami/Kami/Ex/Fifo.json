@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/Fifo.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 21
+    },
+    "hash": "b7bbfa8aff987ddc328e28ef5364c03dca0c83d158d129ce47828db6c4cadf45"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/Fifo.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 21
+    },
+    "hash": "b7bbfa8aff987ddc328e28ef5364c03dca0c83d158d129ce47828db6c4cadf45"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/Fifo.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 18
+    },
+    "hash": "b7bbfa8aff987ddc328e28ef5364c03dca0c83d158d129ce47828db6c4cadf45"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/Fifo.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 18
+    },
+    "hash": "b7bbfa8aff987ddc328e28ef5364c03dca0c83d158d129ce47828db6c4cadf45"
+  }
+]

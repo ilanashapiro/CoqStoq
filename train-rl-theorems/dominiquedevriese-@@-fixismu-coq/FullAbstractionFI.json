@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "dominiquedevriese-@@-fixismu-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FullAbstractionFI.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "hash": "aac1ea60b09e85fb9c1ae50b707511b4b0a4906cecb785aa9cb2da9f8f393f5d"
+  },
+  {
+    "project": {
+      "dir_name": "dominiquedevriese-@@-fixismu-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FullAbstractionFI.v",
+    "theorem_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 95,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "aac1ea60b09e85fb9c1ae50b707511b4b0a4906cecb785aa9cb2da9f8f393f5d"
+  }
+]

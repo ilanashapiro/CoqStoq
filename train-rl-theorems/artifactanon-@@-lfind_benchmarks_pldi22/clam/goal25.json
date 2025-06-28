@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "artifactanon-@@-lfind_benchmarks_pldi22",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "clam/goal25.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 106
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "29060fa54f33ef1a6762904442f7c4281daed1aaae06f07393845ecd20405a30"
+  }
+]

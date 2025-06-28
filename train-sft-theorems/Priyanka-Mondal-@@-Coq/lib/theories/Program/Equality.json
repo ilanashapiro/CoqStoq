@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Program/Equality.v",
+    "theorem_start_pos": {
+      "line": 168,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 168,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 169,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 169,
+      "column": 22
+    },
+    "hash": "06fe36fd6e388921bf532ae26989277cc08cb0ad5d019f813033054a58725c6d"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Program/Equality.v",
+    "theorem_start_pos": {
+      "line": 171,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 172,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 173,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 173,
+      "column": 27
+    },
+    "hash": "06fe36fd6e388921bf532ae26989277cc08cb0ad5d019f813033054a58725c6d"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Program/Equality.v",
+    "theorem_start_pos": {
+      "line": 175,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 27
+    },
+    "hash": "06fe36fd6e388921bf532ae26989277cc08cb0ad5d019f813033054a58725c6d"
+  }
+]

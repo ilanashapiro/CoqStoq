@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch6_inductive_data/SRC/is_January.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 24
+    },
+    "hash": "8ca3cdd2cbd67b1103fd31e6ea52e8740c4fed60ee176ae49ba6b1e6399ec3dc"
+  }
+]

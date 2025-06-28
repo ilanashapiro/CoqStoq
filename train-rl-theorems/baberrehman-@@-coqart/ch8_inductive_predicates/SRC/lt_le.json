@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-coqart",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch8_inductive_predicates/SRC/lt_le.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "8f35a63227b7f75af8781ac38c8179207113850123e3b556ae13578c3ec409d5"
+  }
+]

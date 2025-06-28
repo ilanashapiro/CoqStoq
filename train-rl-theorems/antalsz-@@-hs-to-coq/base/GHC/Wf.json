@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "antalsz-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "base/GHC/Wf.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "b72aa1ae6d6f39005fe8072b9b8d8e214fc0074bd47051a09f06f8c977c179fd"
+  },
+  {
+    "project": {
+      "dir_name": "antalsz-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "base/GHC/Wf.v",
+    "theorem_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "b72aa1ae6d6f39005fe8072b9b8d8e214fc0074bd47051a09f06f8c977c179fd"
+  },
+  {
+    "project": {
+      "dir_name": "antalsz-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "base/GHC/Wf.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 98
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "b72aa1ae6d6f39005fe8072b9b8d8e214fc0074bd47051a09f06f8c977c179fd"
+  }
+]

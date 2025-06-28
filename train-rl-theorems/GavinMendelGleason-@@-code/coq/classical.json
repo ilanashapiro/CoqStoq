@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "GavinMendelGleason-@@-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/classical.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "2f144342bd8bad894522b8b9b0cd237a96103013fe7269268a16e0c3adf04882"
+  }
+]

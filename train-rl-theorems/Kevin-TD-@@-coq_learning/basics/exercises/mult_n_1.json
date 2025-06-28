@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Kevin-TD-@@-coq_learning",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basics/exercises/mult_n_1.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 21
+    },
+    "hash": "ce692fb1b6468919b3f05d1268b9ef52ebdf7ee35d2e8f2411bcd45612a727a1"
+  }
+]

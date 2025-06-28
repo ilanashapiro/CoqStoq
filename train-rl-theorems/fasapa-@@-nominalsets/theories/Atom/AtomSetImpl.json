@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "fasapa-@@-nominalsets",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Atom/AtomSetImpl.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "6a6cd63cf4cb2c347c1721adff33a372cf8a96ad103b7863daf6615b1c601fa4"
+  },
+  {
+    "project": {
+      "dir_name": "fasapa-@@-nominalsets",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Atom/AtomSetImpl.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 47
+    },
+    "hash": "6a6cd63cf4cb2c347c1721adff33a372cf8a96ad103b7863daf6615b1c601fa4"
+  }
+]

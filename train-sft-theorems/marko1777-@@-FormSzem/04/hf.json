@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "marko1777-@@-FormSzem",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "04/hf.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 24
+    },
+    "hash": "da4c2d9a3b20d3bdb2fd598c355e6e40d8655d9db1afdb59d32dc0b763a3dd03"
+  },
+  {
+    "project": {
+      "dir_name": "marko1777-@@-FormSzem",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "04/hf.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "da4c2d9a3b20d3bdb2fd598c355e6e40d8655d9db1afdb59d32dc0b763a3dd03"
+  }
+]

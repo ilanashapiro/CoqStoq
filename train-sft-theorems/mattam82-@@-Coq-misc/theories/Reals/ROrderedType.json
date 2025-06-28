@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Reals/ROrderedType.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "46297645118180fbe3e333b42754005fbec6bc1b286f78bcf803983e68ae2a69"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Reals/ROrderedType.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "46297645118180fbe3e333b42754005fbec6bc1b286f78bcf803983e68ae2a69"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Reals/ROrderedType.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 4
+    },
+    "hash": "46297645118180fbe3e333b42754005fbec6bc1b286f78bcf803983e68ae2a69"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Reals/ROrderedType.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 37
+    },
+    "hash": "46297645118180fbe3e333b42754005fbec6bc1b286f78bcf803983e68ae2a69"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch6_inductive_data/SRC/exo_frac.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "55b8fbe3c4bf650d103eb7132547d357c7afd20baaf8ba3b7c01b126ab710230"
+  },
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch6_inductive_data/SRC/exo_frac.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "55b8fbe3c4bf650d103eb7132547d357c7afd20baaf8ba3b7c01b126ab710230"
+  },
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch6_inductive_data/SRC/exo_frac.v",
+    "theorem_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "55b8fbe3c4bf650d103eb7132547d357c7afd20baaf8ba3b7c01b126ab710230"
+  },
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch6_inductive_data/SRC/exo_frac.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 4
+    },
+    "hash": "55b8fbe3c4bf650d103eb7132547d357c7afd20baaf8ba3b7c01b126ab710230"
+  }
+]

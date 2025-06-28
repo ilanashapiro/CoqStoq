@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "pa-ba-@@-calc-comp",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LambdaCBNeed.v",
+    "theorem_start_pos": {
+      "line": 189,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 190,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 194,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 274,
+      "column": 4
+    },
+    "hash": "414944911f0f4e2a2be0c0c1686d2fe855acbb24f2a6045014f1e544273a7fc9"
+  },
+  {
+    "project": {
+      "dir_name": "pa-ba-@@-calc-comp",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LambdaCBNeed.v",
+    "theorem_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 290,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 291,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 292,
+      "column": 4
+    },
+    "hash": "414944911f0f4e2a2be0c0c1686d2fe855acbb24f2a6045014f1e544273a7fc9"
+  },
+  {
+    "project": {
+      "dir_name": "pa-ba-@@-calc-comp",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LambdaCBNeed.v",
+    "theorem_start_pos": {
+      "line": 297,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 299,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 300,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 307,
+      "column": 4
+    },
+    "hash": "414944911f0f4e2a2be0c0c1686d2fe855acbb24f2a6045014f1e544273a7fc9"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tabareau-@@-lmfi_hott",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Russell_explicit.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "36cd27c8823757877f2a839c98a9dddc04772f317522f8cd436db53caa24f594"
+  }
+]

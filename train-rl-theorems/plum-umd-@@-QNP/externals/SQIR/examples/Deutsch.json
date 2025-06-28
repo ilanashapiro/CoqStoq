@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "plum-umd-@@-QNP",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "externals/SQIR/examples/Deutsch.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "07c3488dc013e4591245752f3af4801f6e50b2a1b979b6046e074af24adcaac2"
+  },
+  {
+    "project": {
+      "dir_name": "plum-umd-@@-QNP",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "externals/SQIR/examples/Deutsch.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "07c3488dc013e4591245752f3af4801f6e50b2a1b979b6046e074af24adcaac2"
+  }
+]

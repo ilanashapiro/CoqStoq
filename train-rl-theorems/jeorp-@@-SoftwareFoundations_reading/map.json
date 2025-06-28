@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "jeorp-@@-SoftwareFoundations_reading",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "map.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 31
+    },
+    "hash": "bc64cf8e9bc81d0acf7dd94c7bf63858edcd313cac09e1f36b86e9ff00f89680"
+  },
+  {
+    "project": {
+      "dir_name": "jeorp-@@-SoftwareFoundations_reading",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "map.v",
+    "theorem_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 131,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 135,
+      "column": 44
+    },
+    "hash": "bc64cf8e9bc81d0acf7dd94c7bf63858edcd313cac09e1f36b86e9ff00f89680"
+  },
+  {
+    "project": {
+      "dir_name": "jeorp-@@-SoftwareFoundations_reading",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "map.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 139,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 72
+    },
+    "hash": "bc64cf8e9bc81d0acf7dd94c7bf63858edcd313cac09e1f36b86e9ff00f89680"
+  }
+]

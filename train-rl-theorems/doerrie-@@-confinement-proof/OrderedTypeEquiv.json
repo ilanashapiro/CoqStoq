@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "doerrie-@@-confinement-proof",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "OrderedTypeEquiv.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 6
+    },
+    "hash": "968c007415dcd49c523fe5768b7923d5fd7f8e3a28d5a31c5f539e7cabad987a"
+  },
+  {
+    "project": {
+      "dir_name": "doerrie-@@-confinement-proof",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "OrderedTypeEquiv.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 6
+    },
+    "hash": "968c007415dcd49c523fe5768b7923d5fd7f8e3a28d5a31c5f539e7cabad987a"
+  }
+]

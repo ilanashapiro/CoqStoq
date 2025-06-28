@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "artifactanon-@@-lfind_benchmarks_pldi22",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "clam/goal13.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "40b6adbac040f67d4667d92184c4a4be2423e352343bc3460d2d25874a99e94d"
+  },
+  {
+    "project": {
+      "dir_name": "artifactanon-@@-lfind_benchmarks_pldi22",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "clam/goal13.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 4
+    },
+    "hash": "40b6adbac040f67d4667d92184c4a4be2423e352343bc3460d2d25874a99e94d"
+  }
+]

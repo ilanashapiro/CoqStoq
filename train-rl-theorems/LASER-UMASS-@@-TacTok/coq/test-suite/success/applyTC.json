@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/success/applyTC.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "e6f4e1c37d8d5b60e67bfc5369249e873b76c1dd81878351e3b18eafe1ebf24e"
+  }
+]

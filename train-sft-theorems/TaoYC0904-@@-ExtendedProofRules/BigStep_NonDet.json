@@ -1,0 +1,466 @@
+[
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 324,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 326,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 327,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 363,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 365,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 367,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 368,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 395,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 408,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 410,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 411,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 434,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 436,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 439,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 440,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 450,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 452,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 454,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 455,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 472,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 474,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 476,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 477,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 493,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 495,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 499,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 500,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 515,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 526,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 529,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 530,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 565,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 567,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 568,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 569,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 578,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 580,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 582,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 583,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 595,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 597,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 600,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 601,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 636,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 638,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 639,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 640,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 648,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 650,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 651,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 652,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 660,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 662,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 668,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 669,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 678,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 680,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 682,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 683,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 741,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStep_NonDet.v",
+    "theorem_start_pos": {
+      "line": 743,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 744,
+      "column": 92
+    },
+    "proof_start_pos": {
+      "line": 745,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 769,
+      "column": 4
+    },
+    "hash": "64982ee444a7ec49c361b0cc3b476ba5ccbdc3642acf8eed21e3a7b917638100"
+  }
+]

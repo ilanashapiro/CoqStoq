@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Structures/DecidableTypeEx.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 5
+    },
+    "hash": "6bad18e25c88d9b9e9445593a1f80b438198a9012529e184b649bdf0e7d6c47e"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Structures/DecidableTypeEx.v",
+    "theorem_start_pos": {
+      "line": 60,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 5
+    },
+    "hash": "6bad18e25c88d9b9e9445593a1f80b438198a9012529e184b649bdf0e7d6c47e"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Structures/DecidableTypeEx.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 5
+    },
+    "hash": "6bad18e25c88d9b9e9445593a1f80b438198a9012529e184b649bdf0e7d6c47e"
+  }
+]

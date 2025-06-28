@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "emarzion-@@-combinator-confluence",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Rels.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "51e2ec2bb33a40cef75e92661dac9e9d3913478451ded4d03920ce9fc1c49568"
+  },
+  {
+    "project": {
+      "dir_name": "emarzion-@@-combinator-confluence",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Rels.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "51e2ec2bb33a40cef75e92661dac9e9d3913478451ded4d03920ce9fc1c49568"
+  },
+  {
+    "project": {
+      "dir_name": "emarzion-@@-combinator-confluence",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Rels.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "51e2ec2bb33a40cef75e92661dac9e9d3913478451ded4d03920ce9fc1c49568"
+  },
+  {
+    "project": {
+      "dir_name": "emarzion-@@-combinator-confluence",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Rels.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 4
+    },
+    "hash": "51e2ec2bb33a40cef75e92661dac9e9d3913478451ded4d03920ce9fc1c49568"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "momohatt-@@-cpdt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exercise/ex01_1.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "c619a51a0d65b33319ab176799f9a063fbcea56e72c7b10f1196d2ffad4142d1"
+  },
+  {
+    "project": {
+      "dir_name": "momohatt-@@-cpdt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exercise/ex01_1.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "c619a51a0d65b33319ab176799f9a063fbcea56e72c7b10f1196d2ffad4142d1"
+  }
+]

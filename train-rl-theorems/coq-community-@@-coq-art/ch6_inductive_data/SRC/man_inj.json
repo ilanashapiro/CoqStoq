@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch6_inductive_data/SRC/man_inj.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "5eb47047920c530015764e36f0dfb3dd40f69bc585a5a2f899014a263215d0ed"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "margrit-@@-Code",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Code/workon/Definitions_vector.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "b14770f3185528f23f6c31c79163f462c8b5ef60dd0fcd49f1f1c94b1277b23b"
+  }
+]

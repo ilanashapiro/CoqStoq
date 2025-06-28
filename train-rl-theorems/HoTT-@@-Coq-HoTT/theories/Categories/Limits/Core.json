@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Limits/Core.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 8
+    },
+    "hash": "12c95036750d2d87c38092092e1393e8a7a0e53b861e4b6151f419d8b414df8c"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Limits/Core.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 68,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 69,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 6
+    },
+    "hash": "12c95036750d2d87c38092092e1393e8a7a0e53b861e4b6151f419d8b414df8c"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "project": {
+      "dir_name": "riku-sakamoto-@@-DemoCoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "three_terms.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 4
+    },
+    "hash": "f86cbd90e646e37547da53b2a17f3bc2f0e3036d81df140026d51ee048f62677"
+  },
+  {
+    "project": {
+      "dir_name": "riku-sakamoto-@@-DemoCoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "three_terms.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 153,
+      "column": 4
+    },
+    "hash": "f86cbd90e646e37547da53b2a17f3bc2f0e3036d81df140026d51ee048f62677"
+  },
+  {
+    "project": {
+      "dir_name": "riku-sakamoto-@@-DemoCoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "three_terms.v",
+    "theorem_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 167,
+      "column": 4
+    },
+    "hash": "f86cbd90e646e37547da53b2a17f3bc2f0e3036d81df140026d51ee048f62677"
+  },
+  {
+    "project": {
+      "dir_name": "riku-sakamoto-@@-DemoCoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "three_terms.v",
+    "theorem_start_pos": {
+      "line": 171,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 172,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 174,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 181,
+      "column": 4
+    },
+    "hash": "f86cbd90e646e37547da53b2a17f3bc2f0e3036d81df140026d51ee048f62677"
+  },
+  {
+    "project": {
+      "dir_name": "riku-sakamoto-@@-DemoCoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "three_terms.v",
+    "theorem_start_pos": {
+      "line": 184,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 185,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 4
+    },
+    "hash": "f86cbd90e646e37547da53b2a17f3bc2f0e3036d81df140026d51ee048f62677"
+  }
+]

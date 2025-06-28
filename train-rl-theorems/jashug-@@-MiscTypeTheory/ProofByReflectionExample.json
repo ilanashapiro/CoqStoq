@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "jashug-@@-MiscTypeTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ProofByReflectionExample.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "1ff53ba8ff46e4717bb3d79a369aa2b6b87413595b1ce38335ce86e1357703e3"
+  },
+  {
+    "project": {
+      "dir_name": "jashug-@@-MiscTypeTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ProofByReflectionExample.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 102
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "1ff53ba8ff46e4717bb3d79a369aa2b6b87413595b1ce38335ce86e1357703e3"
+  }
+]

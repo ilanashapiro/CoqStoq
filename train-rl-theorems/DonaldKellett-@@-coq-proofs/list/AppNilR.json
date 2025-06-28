@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DonaldKellett-@@-coq-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "list/AppNilR.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "1827be9d17072e8ef185a9ceba6a03f3d29116062258cc59cadc7e05983f0af8"
+  }
+]

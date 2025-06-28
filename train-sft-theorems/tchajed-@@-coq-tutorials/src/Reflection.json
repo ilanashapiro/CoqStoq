@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tutorials",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Reflection.v",
+    "theorem_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 70,
+      "column": 4
+    },
+    "hash": "49669118e199ed54036e64a4735f00778ad845b575b981c2902209ec4197b077"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tutorials",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Reflection.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "49669118e199ed54036e64a4735f00778ad845b575b981c2902209ec4197b077"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tutorials",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Reflection.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 104,
+      "column": 4
+    },
+    "hash": "49669118e199ed54036e64a4735f00778ad845b575b981c2902209ec4197b077"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tutorials",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Reflection.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 115,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 116,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 122,
+      "column": 4
+    },
+    "hash": "49669118e199ed54036e64a4735f00778ad845b575b981c2902209ec4197b077"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-cdf-program-logics",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Monads.v",
+    "theorem_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "hash": "8e42c9b6b48722bd31ded54381a55b60b2927485ec59a27ecd3a6174ddb70a44"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-cdf-program-logics",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Monads.v",
+    "theorem_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 137,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "8e42c9b6b48722bd31ded54381a55b60b2927485ec59a27ecd3a6174ddb70a44"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 131,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 139,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 147,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 182,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 186,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 199,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 201,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 205,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 219,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 231,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complements_cercle.v",
+    "theorem_start_pos": {
+      "line": 233,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 235,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 236,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 243,
+      "column": 4
+    },
+    "hash": "6e230d29a42874ad91f59d112afac8743f124905add2e0863fcb86b723a35f8b"
+  }
+]

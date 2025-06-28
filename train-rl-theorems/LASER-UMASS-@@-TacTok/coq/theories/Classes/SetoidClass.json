@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Classes/SetoidClass.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 87,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 93,
+      "column": 4
+    },
+    "hash": "e3df43fc61a161f94e85540ab58970db892abddef5c6869eb3094f3f6bcb5b30"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Classes/SetoidClass.v",
+    "theorem_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 95,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 4
+    },
+    "hash": "e3df43fc61a161f94e85540ab58970db892abddef5c6869eb3094f3f6bcb5b30"
+  }
+]

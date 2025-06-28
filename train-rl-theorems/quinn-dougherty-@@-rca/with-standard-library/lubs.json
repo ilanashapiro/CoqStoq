@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "quinn-dougherty-@@-rca",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "with-standard-library/lubs.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "9867b9be582e16a876127e168c4f68e3dec3b719254b89ace110afb313bf593f"
+  },
+  {
+    "project": {
+      "dir_name": "quinn-dougherty-@@-rca",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "with-standard-library/lubs.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "9867b9be582e16a876127e168c4f68e3dec3b719254b89ace110afb313bf593f"
+  },
+  {
+    "project": {
+      "dir_name": "quinn-dougherty-@@-rca",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "with-standard-library/lubs.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 4
+    },
+    "hash": "9867b9be582e16a876127e168c4f68e3dec3b719254b89ace110afb313bf593f"
+  }
+]

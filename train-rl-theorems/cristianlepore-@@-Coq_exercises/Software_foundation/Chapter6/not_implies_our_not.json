@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "cristianlepore-@@-Coq_exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Software_foundation/Chapter6/not_implies_our_not.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "b15f6b09b912ead38f764c70012d790b6ca7cd72e5515a0c69384de72a1105e2"
+  }
+]

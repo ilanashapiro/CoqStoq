@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-record-update",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/coqpl_2021.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 24
+    },
+    "hash": "66a9825fc8fef0fd6f4973c74379bb4a120bde454d3f0a1120eb18f749ed7af2"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-record-update",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/coqpl_2021.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "66a9825fc8fef0fd6f4973c74379bb4a120bde454d3f0a1120eb18f749ed7af2"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-record-update",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/coqpl_2021.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "66a9825fc8fef0fd6f4973c74379bb4a120bde454d3f0a1120eb18f749ed7af2"
+  }
+]

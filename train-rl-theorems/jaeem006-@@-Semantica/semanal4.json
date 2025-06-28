@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jaeem006-@@-Semantica",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "semanal4.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "78a72f8a697145b599a7115c1b79542162d6389f32422ac96b59bf1c6527d1d7"
+  }
+]

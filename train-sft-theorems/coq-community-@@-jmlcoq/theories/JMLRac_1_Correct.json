@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLRac_1_Correct.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 104,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 294,
+      "column": 4
+    },
+    "hash": "2fe5e342bff1dda129b2e486897883faaee8fc9c53d2bd6e4b7747cda9bc38bf"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLRac_1_Correct.v",
+    "theorem_start_pos": {
+      "line": 298,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 330,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 331,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 524,
+      "column": 4
+    },
+    "hash": "2fe5e342bff1dda129b2e486897883faaee8fc9c53d2bd6e4b7747cda9bc38bf"
+  }
+]

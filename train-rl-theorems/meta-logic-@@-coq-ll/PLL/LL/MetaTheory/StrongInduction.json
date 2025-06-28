@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "meta-logic-@@-coq-ll",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "PLL/LL/MetaTheory/StrongInduction.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 6
+    },
+    "hash": "685b9e1166d04fdce1e16e898bacab34ef95b474e98ebff0d3cf64d97181077d"
+  },
+  {
+    "project": {
+      "dir_name": "meta-logic-@@-coq-ll",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "PLL/LL/MetaTheory/StrongInduction.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 6
+    },
+    "hash": "685b9e1166d04fdce1e16e898bacab34ef95b474e98ebff0d3cf64d97181077d"
+  }
+]

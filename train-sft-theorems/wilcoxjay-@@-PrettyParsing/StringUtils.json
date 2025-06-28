@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "wilcoxjay-@@-PrettyParsing",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StringUtils.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "413a2001be61f1a19d45149e600f652c738221cb65e5d287ed639a0175c809f5"
+  },
+  {
+    "project": {
+      "dir_name": "wilcoxjay-@@-PrettyParsing",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StringUtils.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "413a2001be61f1a19d45149e600f652c738221cb65e5d287ed639a0175c809f5"
+  }
+]

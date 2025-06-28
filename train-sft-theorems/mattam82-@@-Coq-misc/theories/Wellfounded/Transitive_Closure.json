@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Wellfounded/Transitive_Closure.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 6
+    },
+    "hash": "ec161be00ea4b380e0ef06113d1ccb3d418f4cd19ba56d324aa5a2b8da572dfc"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Wellfounded/Transitive_Closure.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 6
+    },
+    "hash": "ec161be00ea4b380e0ef06113d1ccb3d418f4cd19ba56d324aa5a2b8da572dfc"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "jtassarotti-@@-coq-proba",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/basic/nify.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 22
+    },
+    "hash": "b95c8e42f08fd92328b72d7c9d55dfc4d22eddec3cd3b1addfac0c7c9b84c982"
+  },
+  {
+    "project": {
+      "dir_name": "jtassarotti-@@-coq-proba",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/basic/nify.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 22
+    },
+    "hash": "b95c8e42f08fd92328b72d7c9d55dfc4d22eddec3cd3b1addfac0c7c9b84c982"
+  },
+  {
+    "project": {
+      "dir_name": "jtassarotti-@@-coq-proba",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/basic/nify.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 22
+    },
+    "hash": "b95c8e42f08fd92328b72d7c9d55dfc4d22eddec3cd3b1addfac0c7c9b84c982"
+  }
+]

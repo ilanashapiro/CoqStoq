@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "lastland-@@-ProgramAdverbs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GHC/Num.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "b4c3294b7261177c6547ff183e3015bba137d85a3084e55a814ff2414006ce19"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Wellfounded/Well_Ordering.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 6
+    },
+    "hash": "4089e44f64680072ed66da8c69e9ec2cf757e73e02b44b6464a3fc89f6fdabbe"
+  }
+]

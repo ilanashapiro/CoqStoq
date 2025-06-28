@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "cigarcial-@@-VF2020II",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Tarea2/Props_LI.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "5aa898c32937c007557cbca7deaa9eea4186261fe9d023c34b2a0ac54ad6a122"
+  }
+]

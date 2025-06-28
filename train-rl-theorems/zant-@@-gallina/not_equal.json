@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "zant-@@-gallina",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "not_equal.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "09a0fa2c9f32d58b9d0c3d32b8d5a711a496557d02e69f68af8bb8487dede0bb"
+  }
+]

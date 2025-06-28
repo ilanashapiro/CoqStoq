@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "thery-@@-coqprime",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Coqprime/examples/russell1.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 177
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "aa23dbc51ddf1939e5ccde5935af2f2620a840b68fd8b6be6f3b427d1b803dc8"
+  }
+]

@@ -1,0 +1,930 @@
+[
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 102,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 118,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 149,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 152,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 153,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 180,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 182,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 183,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 184,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 187,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 188,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 188,
+      "column": 32
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 190,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 192,
+      "column": 32
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 194,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 195,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 196,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 196,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 199,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 200,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 200,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 202,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 207,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 214,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 217,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 218,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 221,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 223,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 224,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 228,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 231,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 232,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 235,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 238,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 239,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 251,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 253,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 254,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 255,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 259,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 261,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 262,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 263,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 267,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 269,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 270,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 271,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 290,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 292,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 293,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 294,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 296,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 297,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 298,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 298,
+      "column": 21
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-coq-classical-ensembles",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ClassicalEnsembles/Product.v",
+    "theorem_start_pos": {
+      "line": 300,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 301,
+      "column": 125
+    },
+    "proof_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 311,
+      "column": 4
+    },
+    "hash": "67625b05343ffe9871296a491a31742bc704f9afe94bf26d4923c50cb833d35d"
+  }
+]

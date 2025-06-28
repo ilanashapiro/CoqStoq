@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "JoanDaniel18-@@-Coq_Test-Projects",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqprojects/practicamidterm.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 181
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "5bef478828ed1083f6920a75c19cfea40086840c7e341fba650744d1f45e4a06"
+  },
+  {
+    "project": {
+      "dir_name": "JoanDaniel18-@@-Coq_Test-Projects",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqprojects/practicamidterm.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 145
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "5bef478828ed1083f6920a75c19cfea40086840c7e341fba650744d1f45e4a06"
+  }
+]

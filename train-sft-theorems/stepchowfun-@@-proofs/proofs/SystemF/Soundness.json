@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/SystemF/Soundness.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "5b1573fc76d78a6996179e9232ac54eddd4bc0a660f06aee9e1a89d70037f4c3"
+  }
+]

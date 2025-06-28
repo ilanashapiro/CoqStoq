@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "uncomputable-@@-natural-number-game",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Game/Mynat/Pow.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "54690da40f93f98bbc0ce682838dc2b30c4344b87905658c1867d195c8620be0"
+  },
+  {
+    "project": {
+      "dir_name": "uncomputable-@@-natural-number-game",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Game/Mynat/Pow.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "54690da40f93f98bbc0ce682838dc2b30c4344b87905658c1867d195c8620be0"
+  }
+]

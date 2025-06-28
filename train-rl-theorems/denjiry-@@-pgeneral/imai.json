@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "denjiry-@@-pgeneral",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "imai.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "edb84ecb6316d274d15f486dd82d01f54e240b9c7371ba66c3ffcf93a203e3d7"
+  },
+  {
+    "project": {
+      "dir_name": "denjiry-@@-pgeneral",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "imai.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 7
+    },
+    "hash": "edb84ecb6316d274d15f486dd82d01f54e240b9c7371ba66c3ffcf93a203e3d7"
+  }
+]

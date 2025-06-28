@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "pa-ba-@@-Rattus-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Typing.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "e29b7fb3f27b502eb4490caa0366bb8dc468edf435f372ffb76e260b396fa8da"
+  },
+  {
+    "project": {
+      "dir_name": "pa-ba-@@-Rattus-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Typing.v",
+    "theorem_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 93,
+      "column": 4
+    },
+    "hash": "e29b7fb3f27b502eb4490caa0366bb8dc468edf435f372ffb76e260b396fa8da"
+  }
+]

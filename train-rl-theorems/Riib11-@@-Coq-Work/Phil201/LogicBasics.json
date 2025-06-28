@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Riib11-@@-Coq-Work",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Phil201/LogicBasics.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "5aaa0e58ff39b307652efcb759d0e4eee36e031f5c7b98cd892df0c9457b524c"
+  }
+]

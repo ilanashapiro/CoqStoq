@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Matafou-@@-ill_narratives",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ILLVarInt.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 6
+    },
+    "hash": "b8266ea784bf3eade2449b92d56034e1d3e5186e84061dc0f187e535856c55d1"
+  }
+]

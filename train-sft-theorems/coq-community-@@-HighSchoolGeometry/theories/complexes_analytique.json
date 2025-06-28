@@ -1,0 +1,147 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_analytique.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "4d610209dcd4d5757c292cac3dbe5c6197dc1d3f18c745d39ece9db23af6a72f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_analytique.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "4d610209dcd4d5757c292cac3dbe5c6197dc1d3f18c745d39ece9db23af6a72f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_analytique.v",
+    "theorem_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "4d610209dcd4d5757c292cac3dbe5c6197dc1d3f18c745d39ece9db23af6a72f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_analytique.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 111,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 112,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 147,
+      "column": 4
+    },
+    "hash": "4d610209dcd4d5757c292cac3dbe5c6197dc1d3f18c745d39ece9db23af6a72f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_analytique.v",
+    "theorem_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 155,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 183,
+      "column": 4
+    },
+    "hash": "4d610209dcd4d5757c292cac3dbe5c6197dc1d3f18c745d39ece9db23af6a72f"
+  }
+]

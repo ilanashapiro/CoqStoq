@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Kevin-TD-@@-coq_learning",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lists/exercises/eqblist.v",
+    "theorem_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 114,
+      "column": 8
+    },
+    "hash": "bb90ff235a899776e72e6d72103d6198ae4e27cd3d2d13da3539c52467220885"
+  }
+]

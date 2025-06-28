@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "TorosFanny-@@-my_Coq_experiment",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "eq_comm.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "6303900b05ee44a786f071337234880e56f358d03e7b49f6ae4cca1df6dab2b4"
+  }
+]

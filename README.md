@@ -63,6 +63,33 @@ Expected output:
   "theorem": ... # the theorem statement
   "groud_truth": ... # the human-written proof
 }
+
+
+Get the relevant information about a range of examples:
+docker run coqstoq-full poetry run python3 api.py get_theorem_range train-sft 3 5 
+
+Expected output:
+[
+  {
+    "split": "train-rl",
+    "index": 3,
+    "prefix": ...,
+    "suffix": ...,
+    "theorem": ...,
+    "ground_truth": ...,
+  },
+  {
+    "split": "train-rl",
+    "index": 4,
+    "prefix": ...,
+    "suffix": ...,
+    "theorem": ...,
+    "ground_truth": ...,
+  },
+]
+
+
+
 ```
 
 3. Run the verification server: \
@@ -71,8 +98,9 @@ Expected output:
 # "train-rl" is the split where checking is happening
 # 1 is the theorem index in the split
 
-docker run -p 8080:8080 coqstoq-full poetry run python3 coqstoq/checker_server/server.py train-rl 77777 . 
+docker run -p 8080:8080 coqstoq-full poetry run python3 coqstoq/checker_server/server.py train-rl 77785 . 
 ```
+
   
   Sending requests:
 ```
@@ -83,7 +111,7 @@ curl -X POST http://localhost:8080 \
   -d '{
     "jsonrpc": "2.0",
     "method": "check_proof",
-    "params": {"proof": "Proof. intros l H. destruct l; auto. absurd (In t nil); auto."},
+    "params": {"proof": "Proof. intros. rewrite -> plus_O_n. reflexivity."},
     "id": 1
   }'
 
@@ -96,10 +124,10 @@ curl -X POST http://localhost:8080 \
   -d '{
     "jsonrpc": "2.0",
     "method": "check_proof",
-    "params": {"proof": "Proof. reflexivity. Qed."},
+    "params": {"proof": "Proof. simpl. Qed."},
     "id": 1
   }'
 
 # Expected result:
-{"result": {"score": 0, "messages": ["In environment\nT : Type\nT_eq_dec : forall x y : T, {x = y} + {x <> y}\nl : list T\nH : incl l nil\nUnable to unify \"nil\" with \"l\".", " (in proof incl_l_nil): Attempt to save an incomplete proof", "In environment\nT : Type\nT_eq_dec : forall x y : T, {x = y} + {x <> y}\nl : list T\nH : incl l nil\nUnable to unify \"nil\" with \"l\".", "In environment\nT : Type\nT_eq_dec : forall x y : T, {x = y} + {x <> y}\nl : list T\nH : incl l nil\nUnable to unify \"nil\" with \"l\".", " (in proof incl_l_nil): Attempt to save an incomplete proof"]}, "id": 1, "jsonrpc": "2.0"}
+{"result": {"score": 0, "messages": [" (in proof trivial_three): Attempt to save an incomplete proof", " (in proof trivial_three): Attempt to save an incomplete proof"]}, "id": 1, "jsonrpc": "2.0"}
 ```

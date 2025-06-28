@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "h0nzZik-@@-ml-institutions",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/AML_test.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 48
+    },
+    "hash": "162a7d6d5c7202446fe656f2f2205a8fe0886f78668be4ef5d9af4bba1d81f37"
+  }
+]

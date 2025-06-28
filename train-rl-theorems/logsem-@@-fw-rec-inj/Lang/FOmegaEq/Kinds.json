@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "logsem-@@-fw-rec-inj",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lang/FOmegaEq/Kinds.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 6
+    },
+    "hash": "b36d6c41c33d8f8156db29c6c401a19fd1c793c4a9c4119d77f37ed13ea779f2"
+  }
+]

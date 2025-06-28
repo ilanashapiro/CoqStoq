@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "amintimany-@@-Categories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Basic_Cons/Equalizer.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 6
+    },
+    "hash": "18079dce792adafdc3a1ad331af858bdcbf735af78a262ea6e5da872403b23f8"
+  }
+]

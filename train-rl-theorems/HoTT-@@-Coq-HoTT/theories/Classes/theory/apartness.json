@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/apartness.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "d1a22540ec3f8630821545ca10bbff3e70375de9160ffd199b7c4bd179a2e49f"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/apartness.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "d1a22540ec3f8630821545ca10bbff3e70375de9160ffd199b7c4bd179a2e49f"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/apartness.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 112,
+      "column": 6
+    },
+    "hash": "d1a22540ec3f8630821545ca10bbff3e70375de9160ffd199b7c4bd179a2e49f"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/apartness.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 120,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 121,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 126,
+      "column": 6
+    },
+    "hash": "d1a22540ec3f8630821545ca10bbff3e70375de9160ffd199b7c4bd179a2e49f"
+  }
+]

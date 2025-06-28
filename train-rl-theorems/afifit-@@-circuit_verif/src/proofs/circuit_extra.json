@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "afifit-@@-circuit_verif",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/proofs/circuit_extra.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3,
+      "column": 4
+    },
+    "hash": "22c30dea9daaa0146e89b780b00d920d61671393f889cacef56a7642e95d04a6"
+  }
+]

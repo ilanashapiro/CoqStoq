@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-FormalSystems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logic/ClassicalLogic.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "1c73093017bde29df25067816dab5be1923ca1c7f29ef8c69b42ad88178423b2"
+  }
+]

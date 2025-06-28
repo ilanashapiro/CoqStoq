@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "thery-@@-coqprime",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Coqprime/examples/t50/prime2.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "93a510a8e265c27a28e2806a1ad18355f53580d78349e69173f25d38d266780c"
+  },
+  {
+    "project": {
+      "dir_name": "thery-@@-coqprime",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Coqprime/examples/t50/prime2.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 121
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 9
+    },
+    "hash": "93a510a8e265c27a28e2806a1ad18355f53580d78349e69173f25d38d266780c"
+  }
+]

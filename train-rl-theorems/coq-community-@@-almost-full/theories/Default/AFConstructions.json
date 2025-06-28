@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-almost-full",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Default/AFConstructions.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 176,
+      "column": 4
+    },
+    "hash": "b000c68bc6bcb2e399153497b00e4ba12a2d473fc29f6c140762550badfb7cc3"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "samuelgruetter-@@-ltac-sat",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "testout.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "e942adb49ea4d476f298a4ac3fc9e37f8fc143b7d16641a9db0791c0d46e834c"
+  },
+  {
+    "project": {
+      "dir_name": "samuelgruetter-@@-ltac-sat",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "testout.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "e942adb49ea4d476f298a4ac3fc9e37f8fc143b7d16641a9db0791c0d46e834c"
+  }
+]

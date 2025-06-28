@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Comma/ProjectionFunctors.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 8
+    },
+    "proof_start_pos": {
+      "line": 100,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 6
+    },
+    "hash": "b3793249da8a57aa5637520ef4c17a7ce9945da74addc3027818eb2b85898fc5"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Comma/ProjectionFunctors.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 111,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 112,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 118,
+      "column": 6
+    },
+    "hash": "b3793249da8a57aa5637520ef4c17a7ce9945da74addc3027818eb2b85898fc5"
+  }
+]

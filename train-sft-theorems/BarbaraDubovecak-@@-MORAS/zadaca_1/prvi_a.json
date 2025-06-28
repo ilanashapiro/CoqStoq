@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "BarbaraDubovecak-@@-MORAS",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "zadaca_1/prvi_a.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "b321001ade1e73f27bc83d49232436b0478227bf4522637deed0a2edfb6f183d"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-curry-howard",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CurryHoward.v",
+    "theorem_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "hash": "9d7299601c7dbc7b1b9d3e2d046b6616c837d37de34a2eca7488963d47e3f494"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-curry-howard",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CurryHoward.v",
+    "theorem_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 239,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 240,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 245,
+      "column": 4
+    },
+    "hash": "9d7299601c7dbc7b1b9d3e2d046b6616c837d37de34a2eca7488963d47e3f494"
+  }
+]

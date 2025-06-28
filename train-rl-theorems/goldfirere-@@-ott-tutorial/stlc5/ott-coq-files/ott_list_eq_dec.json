@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "goldfirere-@@-ott-tutorial",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc5/ott-coq-files/ott_list_eq_dec.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 50
+    },
+    "hash": "801be42955a2cfea695dd07b2449dec6705c3b7249e03a8c937780d562fdc890"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Cpdt/mcb_indspec.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "7a495d692449e4ea54695bf96cc0fdfc4abadd252e974c3bbc0319f6a31bac30"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Anabra-@@-type-systems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unicity.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 2
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "850304747f78bfa996bf2903ad1790261c5f2a9d4764f0a29d6da36790691f75"
+  }
+]

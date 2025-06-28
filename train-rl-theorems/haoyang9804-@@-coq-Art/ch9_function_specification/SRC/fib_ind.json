@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch9_function_specification/SRC/fib_ind.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "5f072af4422e30d30405fcac770a7a94ad83da65522f63967bf1961244014c4e"
+  },
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch9_function_specification/SRC/fib_ind.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 24
+    },
+    "hash": "5f072af4422e30d30405fcac770a7a94ad83da65522f63967bf1961244014c4e"
+  },
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch9_function_specification/SRC/fib_ind.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 4
+    },
+    "hash": "5f072af4422e30d30405fcac770a7a94ad83da65522f63967bf1961244014c4e"
+  }
+]

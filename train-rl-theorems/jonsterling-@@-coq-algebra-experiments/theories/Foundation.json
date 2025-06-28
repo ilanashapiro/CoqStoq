@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-algebra-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Foundation.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 95
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "ce12449541603c4294dfb10f4d411c5398d99c7cec5b7b6712528ac94e7a5b03"
+  }
+]

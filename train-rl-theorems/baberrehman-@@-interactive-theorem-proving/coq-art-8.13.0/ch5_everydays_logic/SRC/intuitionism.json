@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch5_everydays_logic/SRC/intuitionism.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3,
+      "column": 4
+    },
+    "hash": "8455abeb2fc5d3ccaa5400b0856ce594d81df3557bf6be74bd69b94d46e8d8ee"
+  },
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch5_everydays_logic/SRC/intuitionism.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "8455abeb2fc5d3ccaa5400b0856ce594d81df3557bf6be74bd69b94d46e8d8ee"
+  },
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch5_everydays_logic/SRC/intuitionism.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "8455abeb2fc5d3ccaa5400b0856ce594d81df3557bf6be74bd69b94d46e8d8ee"
+  },
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch5_everydays_logic/SRC/intuitionism.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "8455abeb2fc5d3ccaa5400b0856ce594d81df3557bf6be74bd69b94d46e8d8ee"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Wellfounded/Inclusion.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 6
+    },
+    "hash": "0b0d0a1d5f9888f5fd676491221a51c772fd2c67f5f92a5e668c13fa699276f7"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Wellfounded/Inclusion.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 6
+    },
+    "hash": "0b0d0a1d5f9888f5fd676491221a51c772fd2c67f5f92a5e668c13fa699276f7"
+  }
+]

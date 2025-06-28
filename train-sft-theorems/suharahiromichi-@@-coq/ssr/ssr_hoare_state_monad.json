@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssr/ssr_hoare_state_monad.v",
+    "theorem_start_pos": {
+      "line": 197,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 198,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 199,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 205,
+      "column": 4
+    },
+    "hash": "b96c1c05d27b333a7b031856465484d9a0181e7810a1adf45e629b42fa417517"
+  }
+]

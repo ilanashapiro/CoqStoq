@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/test_sem.v",
+    "theorem_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "hash": "559861016b46dd72fdfdf9a8209c156b1ab293f8118e934a37b73fa4b254865b"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/test_sem.v",
+    "theorem_start_pos": {
+      "line": 134,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 149,
+      "column": 4
+    },
+    "hash": "559861016b46dd72fdfdf9a8209c156b1ab293f8118e934a37b73fa4b254865b"
+  }
+]

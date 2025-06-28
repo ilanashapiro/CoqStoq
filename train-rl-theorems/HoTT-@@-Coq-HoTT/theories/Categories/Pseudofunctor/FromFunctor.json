@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Pseudofunctor/FromFunctor.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 110,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 111,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 114,
+      "column": 6
+    },
+    "hash": "c94ebecec90b3ae7d687b2b4f1a1c9125d31950496daf007db752739dd0346dc"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Pseudofunctor/FromFunctor.v",
+    "theorem_start_pos": {
+      "line": 116,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 125,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 126,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 6
+    },
+    "hash": "c94ebecec90b3ae7d687b2b4f1a1c9125d31950496daf007db752739dd0346dc"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Pseudofunctor/FromFunctor.v",
+    "theorem_start_pos": {
+      "line": 131,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 144,
+      "column": 6
+    },
+    "hash": "c94ebecec90b3ae7d687b2b4f1a1c9125d31950496daf007db752739dd0346dc"
+  }
+]

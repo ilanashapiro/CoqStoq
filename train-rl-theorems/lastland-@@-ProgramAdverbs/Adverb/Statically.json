@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "lastland-@@-ProgramAdverbs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Adverb/Statically.v",
+    "theorem_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 175,
+      "column": 4
+    },
+    "hash": "8d1de6887e6202de8e881ce502be718d4b7076f4b16642de80c40e022d04ff5e"
+  }
+]

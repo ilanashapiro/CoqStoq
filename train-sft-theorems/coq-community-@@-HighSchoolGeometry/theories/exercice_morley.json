@@ -1,0 +1,814 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 100,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 114,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 157,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 172,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 177,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 178,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 204,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 205,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 227,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 234,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 235,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 242,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 244,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 247,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 254,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 268,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 270,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 271,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 274,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 278,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 285,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 286,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 306,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 311,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 313,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 314,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 318,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 331,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 333,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 334,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 339,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 341,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 343,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 344,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 349,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 351,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 353,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 354,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 359,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 362,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 369,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 370,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 376,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 378,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 385,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 386,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 392,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 394,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 394,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 395,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 400,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 404,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 418,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 419,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 478,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 481,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 495,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 496,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 525,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 528,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 542,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 543,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 634,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 637,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 651,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 652,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 664,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 667,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 690,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 691,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 713,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 716,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 737,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 738,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 743,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/exercice_morley.v",
+    "theorem_start_pos": {
+      "line": 748,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 768,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 769,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 863,
+      "column": 4
+    },
+    "hash": "9c5074a40e4d6a23738f9a7fbd8cca436016500bc3d47d275c27e0dc7c77db9d"
+  }
+]

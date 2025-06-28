@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-serapi/tests/genarg/symmetry.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 6
+    },
+    "hash": "2a341c16bb5578837c0ad6d74ce4ae08c4d87a449ca51ea5ae3fd28eabd5ba35"
+  }
+]

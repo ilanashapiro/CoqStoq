@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch15_general_recursion/SRC/factZ_it.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "2038f88a88241f1c2c34601842c366c637d12b5972c587610113da375121b394"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-float",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sTactic.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "fa22ec9a6a7db8abe5e9ad1f2df4ec97aebfd477e84792aa2abe26e4009d1ec7"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-float",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sTactic.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "fa22ec9a6a7db8abe5e9ad1f2df4ec97aebfd477e84792aa2abe26e4009d1ec7"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-float",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sTactic.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "fa22ec9a6a7db8abe5e9ad1f2df4ec97aebfd477e84792aa2abe26e4009d1ec7"
+  }
+]

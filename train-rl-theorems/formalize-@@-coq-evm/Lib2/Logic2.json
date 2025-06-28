@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-evm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib2/Logic2.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "f2a7f13b80dd010cab2ef6578cf03c7ad867f842408bdcbffe45e82010499cd5"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-evm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib2/Logic2.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "f2a7f13b80dd010cab2ef6578cf03c7ad867f842408bdcbffe45e82010499cd5"
+  }
+]

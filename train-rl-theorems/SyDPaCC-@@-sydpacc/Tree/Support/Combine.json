@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "SyDPaCC-@@-sydpacc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Tree/Support/Combine.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "db667a54f48c61634d8e573a98ae0734fa8e0a7136b2ab2590cadec687e5850f"
+  },
+  {
+    "project": {
+      "dir_name": "SyDPaCC-@@-sydpacc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Tree/Support/Combine.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "db667a54f48c61634d8e573a98ae0734fa8e0a7136b2ab2590cadec687e5850f"
+  }
+]

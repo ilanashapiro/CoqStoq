@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "aymanosman-@@-coq-art-exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "05_everyday_logic/exercise_02.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "4e70c40c16ed440991b21d95f4a035eedf102a5abadccc8e24bd5d407df2c557"
+  },
+  {
+    "project": {
+      "dir_name": "aymanosman-@@-coq-art-exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "05_everyday_logic/exercise_02.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "4e70c40c16ed440991b21d95f4a035eedf102a5abadccc8e24bd5d407df2c557"
+  }
+]

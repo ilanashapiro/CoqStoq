@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-The-Braga-Method",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/nm/nm_graph_def.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "cf63838428e2adaa4c310b266187298b7b0062f1471a3e2243537eacd9841059"
+  }
+]

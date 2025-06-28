@@ -1,0 +1,2119 @@
+[
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 37
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 61
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 24
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 24
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 81,
+      "column": 54
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 102,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 103,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 117,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 118,
+      "column": 52
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 124,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 138,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 145,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 145,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 146,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 174,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 55
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 179,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 180,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 180,
+      "column": 69
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 182,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 182,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 183,
+      "column": 65
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 185,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 185,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 192,
+      "column": 86
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 194,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 42
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 198,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 199,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 202,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 204,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 205,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 205,
+      "column": 47
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 207,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 208,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 208,
+      "column": 52
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 211,
+      "column": 43
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 213,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 214,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 215,
+      "column": 43
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 217,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 218,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 219,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 219,
+      "column": 43
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 221,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 222,
+      "column": 43
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 224,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 225,
+      "column": 43
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 227,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 227,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 228,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 228,
+      "column": 43
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 230,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 231,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 231,
+      "column": 29
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 233,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 233,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 234,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 234,
+      "column": 36
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 236,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 236,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 237,
+      "column": 29
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 239,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 239,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 240,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 240,
+      "column": 29
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 242,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 242,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 243,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 243,
+      "column": 29
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 245,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 246,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 246,
+      "column": 29
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 248,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 248,
+      "column": 39
+    },
+    "proof_end_pos": {
+      "line": 248,
+      "column": 56
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 250,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 250,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 250,
+      "column": 39
+    },
+    "proof_end_pos": {
+      "line": 250,
+      "column": 68
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 252,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 252,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 252,
+      "column": 47
+    },
+    "proof_end_pos": {
+      "line": 252,
+      "column": 64
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 254,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 254,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 254,
+      "column": 47
+    },
+    "proof_end_pos": {
+      "line": 254,
+      "column": 76
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 258,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 258,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 259,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 265,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 267,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 268,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 273,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 283,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 283,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 284,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 291,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 293,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 293,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 302,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 324,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 324,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 325,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 331,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 335,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 335,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 336,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 343,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 345,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 345,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 346,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 350,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 352,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 352,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 353,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 359,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 364,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 364,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 365,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 413,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 415,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 415,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 416,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 422,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 424,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 424,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 425,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 431,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 437,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 437,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 438,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 443,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 445,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 445,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 446,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 459,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 465,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 465,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 466,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 471,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 473,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 473,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 473,
+      "column": 32
+    },
+    "proof_end_pos": {
+      "line": 473,
+      "column": 56
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 475,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 475,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 476,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 483,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 485,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 485,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 486,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 486,
+      "column": 47
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 488,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 488,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 489,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 495,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 497,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 497,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 498,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 507,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 514,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 515,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 516,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 525,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 529,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 530,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 531,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 580,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 582,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 582,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 583,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 583,
+      "column": 36
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 585,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 585,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 586,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 596,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 600,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 600,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 601,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 601,
+      "column": 43
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 606,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 606,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 607,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 623,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 625,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 625,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 626,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 635,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 637,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 637,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 638,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 649,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 651,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 651,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 652,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 667,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 672,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 672,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 673,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 689,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 691,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 691,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 692,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 705,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 707,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 707,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 708,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 729,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 733,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 733,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 734,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 745,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 747,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 747,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 748,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 762,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 764,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 764,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 765,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 771,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 773,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 773,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 774,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 777,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  },
+  {
+    "project": {
+      "dir_name": "TypicalMath-@@-subst-interpol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Finset.v",
+    "theorem_start_pos": {
+      "line": 779,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 779,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 780,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 784,
+      "column": 4
+    },
+    "hash": "f157fdaa71e37f75628de2213ed2ae3cbaf5fd3133739be00dd220a88cb2284c"
+  }
+]

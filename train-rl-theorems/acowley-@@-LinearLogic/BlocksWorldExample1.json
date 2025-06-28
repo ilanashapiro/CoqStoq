@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "acowley-@@-LinearLogic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BlocksWorldExample1.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "502c182326d17466fbb865217bce73484d3c9e17c5b535822f5b39c85ea35f44"
+  }
+]

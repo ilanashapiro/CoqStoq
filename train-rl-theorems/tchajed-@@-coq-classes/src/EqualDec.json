@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-classes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/EqualDec.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "18d69a03bb8db556a89f24ba77f149d524f544b588a2e2870c87a423e2b617ed"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-classes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/EqualDec.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "18d69a03bb8db556a89f24ba77f149d524f544b588a2e2870c87a423e2b617ed"
+  }
+]

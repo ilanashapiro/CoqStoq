@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "imaxw-@@-Ordinal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/WellOrderClass.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 6
+    },
+    "hash": "80413980ccce6a4fa86a0e7523c93a7f15792017993d1624b6bece915e3ea227"
+  }
+]

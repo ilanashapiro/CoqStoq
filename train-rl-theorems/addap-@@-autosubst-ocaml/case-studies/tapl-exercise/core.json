@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "addap-@@-autosubst-ocaml",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "case-studies/tapl-exercise/core.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "19671de7761351c10cb5c1a7184eca5bcf5051f76a2d527102396d54a26cf918"
+  },
+  {
+    "project": {
+      "dir_name": "addap-@@-autosubst-ocaml",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "case-studies/tapl-exercise/core.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 103,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 106,
+      "column": 4
+    },
+    "hash": "19671de7761351c10cb5c1a7184eca5bcf5051f76a2d527102396d54a26cf918"
+  }
+]

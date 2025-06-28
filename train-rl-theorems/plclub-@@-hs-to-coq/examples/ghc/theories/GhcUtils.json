@@ -1,0 +1,205 @@
+[
+  {
+    "project": {
+      "dir_name": "plclub-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/ghc/theories/GhcUtils.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "d380169411681835d4813e82755ba80623765ec83b7c7232c3b91b2ac80c2864"
+  },
+  {
+    "project": {
+      "dir_name": "plclub-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/ghc/theories/GhcUtils.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "d380169411681835d4813e82755ba80623765ec83b7c7232c3b91b2ac80c2864"
+  },
+  {
+    "project": {
+      "dir_name": "plclub-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/ghc/theories/GhcUtils.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "d380169411681835d4813e82755ba80623765ec83b7c7232c3b91b2ac80c2864"
+  },
+  {
+    "project": {
+      "dir_name": "plclub-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/ghc/theories/GhcUtils.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "d380169411681835d4813e82755ba80623765ec83b7c7232c3b91b2ac80c2864"
+  },
+  {
+    "project": {
+      "dir_name": "plclub-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/ghc/theories/GhcUtils.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "d380169411681835d4813e82755ba80623765ec83b7c7232c3b91b2ac80c2864"
+  },
+  {
+    "project": {
+      "dir_name": "plclub-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/ghc/theories/GhcUtils.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 70,
+      "column": 4
+    },
+    "hash": "d380169411681835d4813e82755ba80623765ec83b7c7232c3b91b2ac80c2864"
+  },
+  {
+    "project": {
+      "dir_name": "plclub-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/ghc/theories/GhcUtils.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 4
+    },
+    "hash": "d380169411681835d4813e82755ba80623765ec83b7c7232c3b91b2ac80c2864"
+  }
+]

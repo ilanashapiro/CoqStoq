@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "ml4tp-@@-gamepad",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/foo6.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "e8439f814c28ed3706285505c003fe3b26a8e45d9ad4d9d1ab8029b7de15a2ce"
+  },
+  {
+    "project": {
+      "dir_name": "ml4tp-@@-gamepad",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/foo6.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "e8439f814c28ed3706285505c003fe3b26a8e45d9ad4d9d1ab8029b7de15a2ce"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "project": {
+      "dir_name": "cobbal-@@-ppl-ctx-equiv-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "auto-subst/examples/ssr/BetaSubstitution.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "6b96d80d6ff18ae7282e2a58e875f6a384bc41fcfee4966249fe487c7bce0f68"
+  },
+  {
+    "project": {
+      "dir_name": "cobbal-@@-ppl-ctx-equiv-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "auto-subst/examples/ssr/BetaSubstitution.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "6b96d80d6ff18ae7282e2a58e875f6a384bc41fcfee4966249fe487c7bce0f68"
+  },
+  {
+    "project": {
+      "dir_name": "cobbal-@@-ppl-ctx-equiv-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "auto-subst/examples/ssr/BetaSubstitution.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "6b96d80d6ff18ae7282e2a58e875f6a384bc41fcfee4966249fe487c7bce0f68"
+  },
+  {
+    "project": {
+      "dir_name": "cobbal-@@-ppl-ctx-equiv-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "auto-subst/examples/ssr/BetaSubstitution.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "6b96d80d6ff18ae7282e2a58e875f6a384bc41fcfee4966249fe487c7bce0f68"
+  },
+  {
+    "project": {
+      "dir_name": "cobbal-@@-ppl-ctx-equiv-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "auto-subst/examples/ssr/BetaSubstitution.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "6b96d80d6ff18ae7282e2a58e875f6a384bc41fcfee4966249fe487c7bce0f68"
+  }
+]

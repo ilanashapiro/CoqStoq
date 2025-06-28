@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "lastland-@@-ProgramAdverbs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Adverb/Conditionally.v",
+    "theorem_start_pos": {
+      "line": 178,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 314,
+      "column": 4
+    },
+    "hash": "f3037e93920306d56a492d7b570ba814ad77bedd354aca9d3626efd6367b4f78"
+  }
+]

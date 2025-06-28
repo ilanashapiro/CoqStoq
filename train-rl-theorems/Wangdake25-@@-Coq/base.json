@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Wangdake25-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "base.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 68,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "c16a8cd58fae2f210d91502a5484d22d3d6cd85ececea45d0c4a3929564fc493"
+  },
+  {
+    "project": {
+      "dir_name": "Wangdake25-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "base.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "c16a8cd58fae2f210d91502a5484d22d3d6cd85ececea45d0c4a3929564fc493"
+  }
+]

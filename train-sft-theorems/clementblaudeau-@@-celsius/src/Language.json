@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "clementblaudeau-@@-celsius",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Language.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 49
+    },
+    "hash": "f14b7cc5cbb9eb0c00cbd2ab0580bd00aef0fe012e250063a4cd7f77af8fe12a"
+  }
+]

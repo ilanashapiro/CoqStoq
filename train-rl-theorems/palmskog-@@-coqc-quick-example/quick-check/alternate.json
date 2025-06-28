@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "palmskog-@@-coqc-quick-example",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "quick-check/alternate.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "cd16ad75d5444f7b32c87c9faedf23b41f2f8f04907976acb1c0165bb00b0044"
+  }
+]

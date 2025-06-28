@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mirithering-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lambekScott.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "b8b6791c947821eea3b6e1e3cb8d06bfd394ee4225003a1031b7c8e009e51996"
+  }
+]

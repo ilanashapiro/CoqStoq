@@ -1,0 +1,1336 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 87,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 88,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 92,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 111,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 111,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 112,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 114,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 128,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 129,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 130,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 134,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 156,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 180,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 180,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 181,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 197,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 197,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 198,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 202,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 212,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 212,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 213,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 216,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 218,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 218,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 219,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 221,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 234,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 234,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 235,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 237,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 239,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 239,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 240,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 247,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 249,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 249,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 250,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 253,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 255,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 256,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 268,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 270,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 270,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 271,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 286,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 288,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 288,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 289,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 312,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 329,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 330,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 331,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 333,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 335,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 335,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 336,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 340,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 342,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 343,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 344,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 349,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 355,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 355,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 356,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 358,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 360,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 361,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 362,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 376,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 400,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 400,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 401,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 406,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 409,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 410,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 411,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 416,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 418,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 418,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 419,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 422,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 424,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 424,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 425,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 431,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 433,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 433,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 434,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 437,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 439,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 440,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 441,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 469,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 471,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 471,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 472,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 474,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 476,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 476,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 477,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 479,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 481,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 485,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 486,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 494,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 496,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 498,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 499,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 501,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 522,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 523,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 524,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 534,
+      "column": 4
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 536,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 537,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 538,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 557,
+      "column": 4
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 600,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 600,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 601,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 613,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 630,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 630,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 631,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 654,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 656,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 656,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 657,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 661,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 664,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 664,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 665,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 676,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 709,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 710,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 712,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 723,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 725,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 726,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 727,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 753,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 769,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 770,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 771,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 774,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 776,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 779,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 780,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 787,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 791,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 792,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 793,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 795,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 797,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 800,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 801,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 818,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 821,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 822,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 823,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 826,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "unify/ssr_unify_bool.v",
+    "theorem_start_pos": {
+      "line": 830,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 832,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 833,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 835,
+      "column": 6
+    },
+    "hash": "48d9507e3222c0c62afcd95b8ef73d69acbc2b63ac863c686756f4b007ec5a41"
+  }
+]

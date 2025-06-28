@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Ptival-@@-HaysTac",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Examples/in_prod_iff.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "8d63ea2234fea417d37c5dccec8aa820e0b9bb247d82de3aeba950fd53ce2077"
+  }
+]

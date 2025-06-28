@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "tiaguu-@@-PL1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "AdditionalProperties.v",
+    "theorem_start_pos": {
+      "line": 182,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 184,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 185,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 190,
+      "column": 4
+    },
+    "hash": "ec9b4608fc92109e672220c814931c4c98731c43d65545dd16d937ed035df800"
+  },
+  {
+    "project": {
+      "dir_name": "tiaguu-@@-PL1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "AdditionalProperties.v",
+    "theorem_start_pos": {
+      "line": 217,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 220,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 232,
+      "column": 5
+    },
+    "hash": "ec9b4608fc92109e672220c814931c4c98731c43d65545dd16d937ed035df800"
+  }
+]

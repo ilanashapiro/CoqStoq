@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "memoryleak47-@@-coq-minirust",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proof/lemma/canonicalize.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "c55eb2862642bbef10e8b1f84a797709a9e3ecf24307a2daa644958f886352a0"
+  },
+  {
+    "project": {
+      "dir_name": "memoryleak47-@@-coq-minirust",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proof/lemma/canonicalize.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "c55eb2862642bbef10e8b1f84a797709a9e3ecf24307a2daa644958f886352a0"
+  },
+  {
+    "project": {
+      "dir_name": "memoryleak47-@@-coq-minirust",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proof/lemma/canonicalize.v",
+    "theorem_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "c55eb2862642bbef10e8b1f84a797709a9e3ecf24307a2daa644958f886352a0"
+  },
+  {
+    "project": {
+      "dir_name": "memoryleak47-@@-coq-minirust",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proof/lemma/canonicalize.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 72,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "c55eb2862642bbef10e8b1f84a797709a9e3ecf24307a2daa644958f886352a0"
+  }
+]

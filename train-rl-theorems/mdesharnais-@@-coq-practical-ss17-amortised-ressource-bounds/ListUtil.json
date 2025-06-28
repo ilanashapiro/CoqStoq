@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-amortised-ressource-bounds",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ListUtil.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "cc778b98ab04f3e2217b55784dbc36fceffae2cec5fdf463007d60cc7935bb32"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-amortised-ressource-bounds",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ListUtil.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "cc778b98ab04f3e2217b55784dbc36fceffae2cec5fdf463007d60cc7935bb32"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-canon-bdds",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "canonicite/Prelude1.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "68c3ffdd8d36ff7b984c180e4715131d63ca44ffb28e682970c46db4ee26ca07"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-canon-bdds",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "canonicite/Prelude1.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "68c3ffdd8d36ff7b984c180e4715131d63ca44ffb28e682970c46db4ee26ca07"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-canon-bdds",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "canonicite/Prelude1.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "68c3ffdd8d36ff7b984c180e4715131d63ca44ffb28e682970c46db4ee26ca07"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-canon-bdds",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "canonicite/Prelude1.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "68c3ffdd8d36ff7b984c180e4715131d63ca44ffb28e682970c46db4ee26ca07"
+  }
+]

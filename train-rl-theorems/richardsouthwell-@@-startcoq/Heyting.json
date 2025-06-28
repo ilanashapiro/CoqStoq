@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "richardsouthwell-@@-startcoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Heyting.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "8761032c3a00c096d26bc590ad7370b3cc08ec6fe515307aa4d841301e3ca50e"
+  }
+]

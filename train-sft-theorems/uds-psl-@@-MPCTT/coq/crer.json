@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/crer.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "8c48a1a8e3b877714b30af14d1e1e6ba6d063e00e09fabf8b4187544df79fcc3"
+  }
+]

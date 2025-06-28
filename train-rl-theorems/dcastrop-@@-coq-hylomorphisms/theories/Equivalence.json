@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dcastrop-@@-coq-hylomorphisms",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Equivalence.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 6
+    },
+    "hash": "9194c9ffb52db763ab7005d6a26cdb5a2c612cbea2ed51ef51d69118e590c6e1"
+  }
+]

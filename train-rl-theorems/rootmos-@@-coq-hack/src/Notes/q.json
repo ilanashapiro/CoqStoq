@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "rootmos-@@-coq-hack",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Notes/q.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "e1602b56d4dc22e082a56d99fdb92fe50f813c3a17ffef0b17600a5a792e2b82"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "amintimany-@@-Categories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Cat/Exponential_Facts.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 6
+    },
+    "hash": "9621a0c7d31d46893b0f8ff2f92686d8ac2d583d7dd2d50996892e80434ca3e0"
+  }
+]

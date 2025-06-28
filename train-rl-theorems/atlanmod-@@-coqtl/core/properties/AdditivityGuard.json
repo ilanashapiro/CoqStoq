@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "atlanmod-@@-coqtl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "core/properties/AdditivityGuard.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 4
+    },
+    "hash": "e15c797945a8d51e93085ea7dae53da6412bf0c75c553d4c356f1f152c5cd528"
+  },
+  {
+    "project": {
+      "dir_name": "atlanmod-@@-coqtl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "core/properties/AdditivityGuard.v",
+    "theorem_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 134,
+      "column": 4
+    },
+    "hash": "e15c797945a8d51e93085ea7dae53da6412bf0c75c553d4c356f1f152c5cd528"
+  },
+  {
+    "project": {
+      "dir_name": "atlanmod-@@-coqtl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "core/properties/AdditivityGuard.v",
+    "theorem_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 139,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 145,
+      "column": 4
+    },
+    "hash": "e15c797945a8d51e93085ea7dae53da6412bf0c75c553d4c356f1f152c5cd528"
+  }
+]

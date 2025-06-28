@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Ohyoukillkenny-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "binary_unary.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "b84090ab1a66f150211d3d2696cd3b1e1928a52ad45e0b070a88c21237af156f"
+  }
+]

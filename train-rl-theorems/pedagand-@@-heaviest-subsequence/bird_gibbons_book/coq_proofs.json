@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "pedagand-@@-heaviest-subsequence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "bird_gibbons_book/coq_proofs.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 178
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "afc1b179b46919bc693cfaa69d0dfdb8327f04bed096a27fde4a8b711d99ff7f"
+  },
+  {
+    "project": {
+      "dir_name": "pedagand-@@-heaviest-subsequence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "bird_gibbons_book/coq_proofs.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 110
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "afc1b179b46919bc693cfaa69d0dfdb8327f04bed096a27fde4a8b711d99ff7f"
+  },
+  {
+    "project": {
+      "dir_name": "pedagand-@@-heaviest-subsequence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "bird_gibbons_book/coq_proofs.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "afc1b179b46919bc693cfaa69d0dfdb8327f04bed096a27fde4a8b711d99ff7f"
+  }
+]

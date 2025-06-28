@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Logic/ConstructiveEpsilon.v",
+    "theorem_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 118,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 122,
+      "column": 4
+    },
+    "hash": "952cfaf206fb2e686bd7c374aad9c4344d5cd278b2cc2864f0ecb6a96b658d5f"
+  }
+]

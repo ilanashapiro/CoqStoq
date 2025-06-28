@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mozow01-@@-Summer_camp_2023",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "3_session/logic_1.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "ec1f82905b2fe9a1fcb0619d05628dadf6161818d00ee527fd8eea24cec31d28"
+  },
+  {
+    "project": {
+      "dir_name": "mozow01-@@-Summer_camp_2023",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "3_session/logic_1.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "ec1f82905b2fe9a1fcb0619d05628dadf6161818d00ee527fd8eea24cec31d28"
+  }
+]

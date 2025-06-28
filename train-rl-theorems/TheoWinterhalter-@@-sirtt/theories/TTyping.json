@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "TheoWinterhalter-@@-sirtt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/TTyping.v",
+    "theorem_start_pos": {
+      "line": 162,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 165,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 172,
+      "column": 4
+    },
+    "hash": "49c2d77f8a55cb20faf8868908011a3e3195fa96601f25249f52e647c8f0f21b"
+  },
+  {
+    "project": {
+      "dir_name": "TheoWinterhalter-@@-sirtt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/TTyping.v",
+    "theorem_start_pos": {
+      "line": 305,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 309,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 310,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 312,
+      "column": 4
+    },
+    "hash": "49c2d77f8a55cb20faf8868908011a3e3195fa96601f25249f52e647c8f0f21b"
+  }
+]

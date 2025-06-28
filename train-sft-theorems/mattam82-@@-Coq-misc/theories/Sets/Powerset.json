@@ -1,0 +1,495 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 100,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 106,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 108,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 113,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 116,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 121,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 123,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 125,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 127,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 129,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 147,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 151,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 152,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 157,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Powerset.v",
+    "theorem_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 164,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 165,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 173,
+      "column": 4
+    },
+    "hash": "c7000721b454e9edce66513f6e6b1066457a888b5ef8100c3c1c5db1472c8628"
+  }
+]

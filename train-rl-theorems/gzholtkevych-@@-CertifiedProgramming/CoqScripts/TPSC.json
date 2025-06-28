@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "gzholtkevych-@@-CertifiedProgramming",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqScripts/TPSC.v",
+    "theorem_start_pos": {
+      "line": 243,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 245,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 246,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 251,
+      "column": 4
+    },
+    "hash": "3051b20a57afc317e1d0eda25d5eb4d6ff148b013f3fb7d66313a0089f3fa2eb"
+  },
+  {
+    "project": {
+      "dir_name": "gzholtkevych-@@-CertifiedProgramming",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqScripts/TPSC.v",
+    "theorem_start_pos": {
+      "line": 253,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 254,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 255,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 265,
+      "column": 4
+    },
+    "hash": "3051b20a57afc317e1d0eda25d5eb4d6ff148b013f3fb7d66313a0089f3fa2eb"
+  },
+  {
+    "project": {
+      "dir_name": "gzholtkevych-@@-CertifiedProgramming",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqScripts/TPSC.v",
+    "theorem_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 268,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 269,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 269,
+      "column": 39
+    },
+    "hash": "3051b20a57afc317e1d0eda25d5eb4d6ff148b013f3fb7d66313a0089f3fa2eb"
+  }
+]

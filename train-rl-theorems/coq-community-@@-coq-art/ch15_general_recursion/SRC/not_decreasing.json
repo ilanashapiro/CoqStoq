@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch15_general_recursion/SRC/not_decreasing.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 5
+    },
+    "hash": "197f172891fb7f870d84e8a91913502cd210b5a3642cba7cab42ed048d10e948"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch15_general_recursion/SRC/not_decreasing.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 5
+    },
+    "hash": "197f172891fb7f870d84e8a91913502cd210b5a3642cba7cab42ed048d10e948"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch15_general_recursion/SRC/not_decreasing.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 5
+    },
+    "hash": "197f172891fb7f870d84e8a91913502cd210b5a3642cba7cab42ed048d10e948"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch15_general_recursion/SRC/not_decreasing.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 5
+    },
+    "hash": "197f172891fb7f870d84e8a91913502cd210b5a3642cba7cab42ed048d10e948"
+  }
+]

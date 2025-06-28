@@ -1,0 +1,2293 @@
+[
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 109,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 113,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 115,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 116,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 120,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 122,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 123,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 127,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 145,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 145,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 146,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 59
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 151,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 152,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 156,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 163,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 165,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 165,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 166,
+      "column": 45
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 168,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 168,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 169,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 173,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 175,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 175,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 179,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 184,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 184,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 185,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 192,
+      "column": 74
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 194,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 201,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 209,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 211,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 212,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 212,
+      "column": 49
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 225,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 226,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 230,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 232,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 232,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 233,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 239,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 249,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 249,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 250,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 254,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 256,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 256,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 257,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 261,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 267,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 268,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 272,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 274,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 274,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 275,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 275,
+      "column": 73
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 279,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 279,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 280,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 280,
+      "column": 45
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 282,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 282,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 283,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 283,
+      "column": 65
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 285,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 285,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 286,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 286,
+      "column": 45
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 290,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 291,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 295,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 297,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 297,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 298,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 298,
+      "column": 72
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 302,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 303,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 303,
+      "column": 45
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 305,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 305,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 306,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 306,
+      "column": 65
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 308,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 308,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 309,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 314,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 316,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 316,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 317,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 317,
+      "column": 55
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 321,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 321,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 322,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 322,
+      "column": 68
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 324,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 324,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 325,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 325,
+      "column": 46
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 327,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 327,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 328,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 332,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 334,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 334,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 335,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 335,
+      "column": 48
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 346,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 346,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 347,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 347,
+      "column": 23
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 349,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 349,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 350,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 350,
+      "column": 43
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 352,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 352,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 353,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 356,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 358,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 358,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 359,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 362,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 364,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 364,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 365,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 382,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 384,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 384,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 385,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 385,
+      "column": 23
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 387,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 387,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 388,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 388,
+      "column": 71
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 390,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 390,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 391,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 391,
+      "column": 50
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 393,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 393,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 394,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 394,
+      "column": 44
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 396,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 396,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 397,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 402,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 404,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 404,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 405,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 405,
+      "column": 54
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 407,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 408,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 409,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 422,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 437,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 437,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 438,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 444,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 446,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 446,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 447,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 455,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 457,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 457,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 458,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 461,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 463,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 463,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 464,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 467,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 469,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 469,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 470,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 477,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 479,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 479,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 480,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 489,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 491,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 491,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 492,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 502,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 504,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 504,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 505,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 515,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 517,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 517,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 518,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 531,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 533,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 533,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 534,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 541,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 543,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 543,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 544,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 549,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 551,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 551,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 552,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 555,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 561,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 562,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 563,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 576,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 578,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 578,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 579,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 590,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 599,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 599,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 600,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 600,
+      "column": 27
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 602,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 602,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 603,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 603,
+      "column": 27
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 608,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 608,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 609,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 609,
+      "column": 69
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 611,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 611,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 612,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 619,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 621,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 621,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 622,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 622,
+      "column": 25
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 634,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 634,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 635,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 654,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 664,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 664,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 665,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 672,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 674,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 674,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 675,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 675,
+      "column": 30
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 680,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 680,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 681,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 687,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 689,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 689,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 690,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 693,
+      "column": 4
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 695,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 695,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 696,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 696,
+      "column": 55
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 700,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 700,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 701,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 701,
+      "column": 65
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-StructuralSetTheory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordinal.v",
+    "theorem_start_pos": {
+      "line": 703,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 703,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 704,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 704,
+      "column": 47
+    },
+    "hash": "09935abb640fe538a6d7978c37d0f71a75e72b9bf24a335e635abedff3edba52"
+  }
+]

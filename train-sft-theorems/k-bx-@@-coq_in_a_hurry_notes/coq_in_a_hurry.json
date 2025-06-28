@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "k-bx-@@-coq_in_a_hurry_notes",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_in_a_hurry.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 117,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 4
+    },
+    "hash": "6bc78d679b41153a84f90857c8909607be2df6292fe97a4e4df1af6e7ac07ecb"
+  },
+  {
+    "project": {
+      "dir_name": "k-bx-@@-coq_in_a_hurry_notes",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_in_a_hurry.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "hash": "6bc78d679b41153a84f90857c8909607be2df6292fe97a4e4df1af6e7ac07ecb"
+  }
+]

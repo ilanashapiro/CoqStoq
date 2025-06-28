@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Algebra/Universal/TermAlgebra.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 101,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 102,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 6
+    },
+    "hash": "693a5188b7c701600f33fd13b35454d01ea0be1df3ab36b3f69945ffe85106a0"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Algebra/Universal/TermAlgebra.v",
+    "theorem_start_pos": {
+      "line": 120,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 127,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 128,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 144,
+      "column": 6
+    },
+    "hash": "693a5188b7c701600f33fd13b35454d01ea0be1df3ab36b3f69945ffe85106a0"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Algebra/Universal/TermAlgebra.v",
+    "theorem_start_pos": {
+      "line": 257,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 258,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 259,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 264,
+      "column": 4
+    },
+    "hash": "693a5188b7c701600f33fd13b35454d01ea0be1df3ab36b3f69945ffe85106a0"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Algebra/Universal/TermAlgebra.v",
+    "theorem_start_pos": {
+      "line": 266,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 268,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 269,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 277,
+      "column": 4
+    },
+    "hash": "693a5188b7c701600f33fd13b35454d01ea0be1df3ab36b3f69945ffe85106a0"
+  }
+]

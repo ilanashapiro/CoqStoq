@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Structures/Equalities.v",
+    "theorem_start_pos": {
+      "line": 157,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 157,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 158,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 162,
+      "column": 5
+    },
+    "hash": "9300f831e8d8618b32e257533c61bd92dd51998d2640eea65b350ed862c714b0"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Structures/Equalities.v",
+    "theorem_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 204,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 205,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 207,
+      "column": 4
+    },
+    "hash": "9300f831e8d8618b32e257533c61bd92dd51998d2640eea65b350ed862c714b0"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Structures/Equalities.v",
+    "theorem_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 211,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 212,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 214,
+      "column": 4
+    },
+    "hash": "9300f831e8d8618b32e257533c61bd92dd51998d2640eea65b350ed862c714b0"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Structures/Equalities.v",
+    "theorem_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 216,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 217,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 219,
+      "column": 4
+    },
+    "hash": "9300f831e8d8618b32e257533c61bd92dd51998d2640eea65b350ed862c714b0"
+  }
+]

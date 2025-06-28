@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-serapi/tests/genarg/instantiate.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "047906f8caf4a4ff868ce635ef70ff6be134fdd9603a7758be62c3dbdb43dcf8"
+  }
+]

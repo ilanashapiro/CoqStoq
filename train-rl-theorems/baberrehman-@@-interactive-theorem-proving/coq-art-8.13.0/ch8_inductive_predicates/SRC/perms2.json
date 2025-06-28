@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch8_inductive_predicates/SRC/perms2.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "hash": "341434fca5b7f1b6027a6291bf0471c1fa2ea5e89f39a38b3f84578cf9d16e45"
+  },
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch8_inductive_predicates/SRC/perms2.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "341434fca5b7f1b6027a6291bf0471c1fa2ea5e89f39a38b3f84578cf9d16e45"
+  }
+]

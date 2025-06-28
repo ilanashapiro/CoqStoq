@@ -1,0 +1,292 @@
+[
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 8
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 117,
+      "column": 8
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 120,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 121,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 127,
+      "column": 8
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 141,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 141,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 142,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 193,
+      "column": 10
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 195,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 195,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 196,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 200,
+      "column": 10
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 263,
+      "column": 8
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 265,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 265,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 266,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 271,
+      "column": 8
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 273,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 274,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 275,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 289,
+      "column": 8
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 313,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 314,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 315,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 326,
+      "column": 6
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  },
+  {
+    "project": {
+      "dir_name": "robdockins-@@-coqutils",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/bourbaki.v",
+    "theorem_start_pos": {
+      "line": 328,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 329,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 330,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 384,
+      "column": 6
+    },
+    "hash": "89f4a29ea61ee231caff47d80e85d24042970f7d62f28bba4321add09db127ee"
+  }
+]

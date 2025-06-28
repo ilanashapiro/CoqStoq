@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/SystemF/Name.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 6
+    },
+    "hash": "eff5a4a76b4b226922b7e0f2e7cdf6a563203490e11de527e672d58604d52e6c"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/SystemF/Name.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 6
+    },
+    "hash": "eff5a4a76b4b226922b7e0f2e7cdf6a563203490e11de527e672d58604d52e6c"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/SystemF/Name.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "eff5a4a76b4b226922b7e0f2e7cdf6a563203490e11de527e672d58604d52e6c"
+  }
+]

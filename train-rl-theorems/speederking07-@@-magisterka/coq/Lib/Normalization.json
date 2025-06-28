@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "speederking07-@@-magisterka",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/Lib/Normalization.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "934effa74bcdf4d69e3a3cf4557b8b2dc4034e585304a3cc5ef577c7de898855"
+  },
+  {
+    "project": {
+      "dir_name": "speederking07-@@-magisterka",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/Lib/Normalization.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "934effa74bcdf4d69e3a3cf4557b8b2dc4034e585304a3cc5ef577c7de898855"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "gutorsantos-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "inducao_equivalencia.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "d93170693da42da1cd33cd5c6a9ec8f511ee649553a6fc4e690c0bb91d45b3bf"
+  },
+  {
+    "project": {
+      "dir_name": "gutorsantos-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "inducao_equivalencia.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "d93170693da42da1cd33cd5c6a9ec8f511ee649553a6fc4e690c0bb91d45b3bf"
+  },
+  {
+    "project": {
+      "dir_name": "gutorsantos-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "inducao_equivalencia.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "d93170693da42da1cd33cd5c6a9ec8f511ee649553a6fc4e690c0bb91d45b3bf"
+  }
+]

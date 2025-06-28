@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SideEffects.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "99b6adb76203686421465c1b4cb317aa02237bac965ada4b2b95c044a6995dde"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SideEffects.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "99b6adb76203686421465c1b4cb317aa02237bac965ada4b2b95c044a6995dde"
+  }
+]

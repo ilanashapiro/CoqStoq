@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dario-santos-@@-deductive-verification",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TP2/ex3.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 4
+    },
+    "hash": "8de77db1e539a4d9ed71aa4f72c992339e84c5aaf39b76f54d33179a8d00bb4c"
+  }
+]

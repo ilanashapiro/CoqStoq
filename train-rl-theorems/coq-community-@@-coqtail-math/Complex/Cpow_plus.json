@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Complex/Cpow_plus.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "cfb0be6994b56a748425efbb90dd52ce9c822a8a146b172999b6ec33fb54829d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Complex/Cpow_plus.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 108,
+      "column": 4
+    },
+    "hash": "cfb0be6994b56a748425efbb90dd52ce9c822a8a146b172999b6ec33fb54829d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Complex/Cpow_plus.v",
+    "theorem_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 118,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 125,
+      "column": 4
+    },
+    "hash": "cfb0be6994b56a748425efbb90dd52ce9c822a8a146b172999b6ec33fb54829d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Complex/Cpow_plus.v",
+    "theorem_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 129,
+      "column": 125
+    },
+    "proof_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 182,
+      "column": 4
+    },
+    "hash": "cfb0be6994b56a748425efbb90dd52ce9c822a8a146b172999b6ec33fb54829d"
+  }
+]

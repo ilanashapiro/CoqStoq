@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Data/Functor.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 4
+    },
+    "hash": "8b557fc048ba230c21e78fb977215cb2334b4886a7a794b3bf03132dde946fca"
+  },
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Data/Functor.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "8b557fc048ba230c21e78fb977215cb2334b4886a7a794b3bf03132dde946fca"
+  }
+]

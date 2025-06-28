@@ -1,0 +1,1336 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 64,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 65,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 112,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 115,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 116,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 128,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 130,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 131,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 132,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 139,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 140,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 144,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 146,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 149,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 150,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 170,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 172,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 173,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 174,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 179,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 196,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 202,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 203,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 233,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 235,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 241,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 242,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 259,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 261,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 262,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 263,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 271,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 303,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 308,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 309,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 338,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 340,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 347,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 348,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 369,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 371,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 372,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 373,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 381,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 400,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 406,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 407,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 439,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 441,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 448,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 449,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 467,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 469,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 470,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 471,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 479,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 534,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 540,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 541,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 552,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 601,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 605,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 606,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 619,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 621,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 636,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 637,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 648,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 650,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 655,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 656,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 668,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 670,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 674,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 675,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 705,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 707,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 710,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 711,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 726,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 728,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 734,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 735,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 775,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 777,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 783,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 784,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 791,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 793,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 794,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 795,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 815,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 871,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 879,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 880,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 891,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 942,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 947,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 948,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 961,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 963,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 978,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 979,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 990,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 992,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 997,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 998,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 1010,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1012,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 1016,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 1017,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 1047,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1049,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 1053,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 1054,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 1071,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1073,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 1079,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 1080,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 1118,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1120,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 1126,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 1127,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 1134,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1136,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 1143,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 1144,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 1163,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1165,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 1172,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 1173,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 1191,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1193,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 1194,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 1195,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 1203,
+      "column": 10
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1248,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1252,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 1253,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1259,
+      "column": 8
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1261,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1264,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 1265,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1269,
+      "column": 8
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1271,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1275,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 1276,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1309,
+      "column": 8
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1311,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1315,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 1316,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1327,
+      "column": 8
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1329,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1333,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 1334,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1339,
+      "column": 8
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1341,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1342,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 1343,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1349,
+      "column": 8
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1374,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1378,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 1379,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1385,
+      "column": 6
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1394,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1398,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1399,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1411,
+      "column": 6
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1413,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1418,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 1419,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1426,
+      "column": 6
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1428,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1432,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 1433,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1438,
+      "column": 6
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Decomposition.v",
+    "theorem_start_pos": {
+      "line": 1440,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1443,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 1444,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1447,
+      "column": 6
+    },
+    "hash": "f48f1c280956dddf5ac8af086f5df48ae45db7e6b9c4ed2bc4987b832ad8041c"
+  }
+]

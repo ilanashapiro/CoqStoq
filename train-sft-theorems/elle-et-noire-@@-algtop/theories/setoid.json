@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-algtop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/setoid.v",
+    "theorem_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 129,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 130,
+      "column": 24
+    },
+    "hash": "661b0ea54b68e944672200e6c2d63a9b1af5ae648017ebb863bd2a0dd87df37e"
+  },
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-algtop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/setoid.v",
+    "theorem_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 207,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 208,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 208,
+      "column": 24
+    },
+    "hash": "661b0ea54b68e944672200e6c2d63a9b1af5ae648017ebb863bd2a0dd87df37e"
+  },
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-algtop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/setoid.v",
+    "theorem_start_pos": {
+      "line": 359,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 360,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 361,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 364,
+      "column": 4
+    },
+    "hash": "661b0ea54b68e944672200e6c2d63a9b1af5ae648017ebb863bd2a0dd87df37e"
+  },
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-algtop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/setoid.v",
+    "theorem_start_pos": {
+      "line": 366,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 367,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 368,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 368,
+      "column": 44
+    },
+    "hash": "661b0ea54b68e944672200e6c2d63a9b1af5ae648017ebb863bd2a0dd87df37e"
+  }
+]

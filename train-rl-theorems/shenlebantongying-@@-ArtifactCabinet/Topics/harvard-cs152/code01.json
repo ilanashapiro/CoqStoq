@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "shenlebantongying-@@-ArtifactCabinet",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Topics/harvard-cs152/code01.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "7b4b1aa19ada9ff05e6183e1f87608533331028c51c51b57fb7103a38b8fad26"
+  }
+]

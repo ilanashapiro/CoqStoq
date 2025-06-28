@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "JohnBSmith-@@-misc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/logic/dt.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 4
+    },
+    "hash": "2dbe00ccc777d59359eb46a1b1dbe0e8bcd1516f7fc334536b98cf3fe01f8934"
+  },
+  {
+    "project": {
+      "dir_name": "JohnBSmith-@@-misc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/logic/dt.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "2dbe00ccc777d59359eb46a1b1dbe0e8bcd1516f7fc334536b98cf3fe01f8934"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "wags-1314-@@-coq-hypermaps",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hypermap.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "a1ff590f075fcd0e1de5bbe90db098d3ca2cbda5eea41411be767c26ee362db8"
+  },
+  {
+    "project": {
+      "dir_name": "wags-1314-@@-coq-hypermaps",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hypermap.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "a1ff590f075fcd0e1de5bbe90db098d3ca2cbda5eea41411be767c26ee362db8"
+  }
+]

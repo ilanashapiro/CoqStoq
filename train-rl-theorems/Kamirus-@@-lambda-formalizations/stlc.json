@@ -1,0 +1,524 @@
+[
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 356,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 356,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 357,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 357,
+      "column": 45
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 359,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 359,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 360,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 360,
+      "column": 45
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 426,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 427,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 428,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 428,
+      "column": 31
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 430,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 432,
+      "column": 8
+    },
+    "proof_start_pos": {
+      "line": 433,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 438,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 440,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 441,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 442,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 450,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 460,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 460,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 461,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 469,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 471,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 474,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 475,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 479,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 484,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 486,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 487,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 497,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 550,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 552,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 553,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 568,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 570,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 572,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 573,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 575,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 577,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 579,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 580,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 587,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 591,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 593,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 594,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 596,
+      "column": 6
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 621,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 627,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 628,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 646,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 651,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 654,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 655,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 665,
+      "column": 6
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 719,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 721,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 722,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 726,
+      "column": 6
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 748,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 754,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 755,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 769,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 771,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 774,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 775,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 781,
+      "column": 6
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  },
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-lambda-formalizations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "stlc.v",
+    "theorem_start_pos": {
+      "line": 783,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 785,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 786,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 793,
+      "column": 4
+    },
+    "hash": "7bf39f446c92e9e942b2bb1789ee19e586ea1a521ab903d4892afae14d185eb2"
+  }
+]

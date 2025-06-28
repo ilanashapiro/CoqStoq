@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "japiirainen-@@-coq_pg",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pierce_lem.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "daaf1e3d37eeace8fd12102fc812702fd8b5dfb8c272e16986c7696d96a30cb5"
+  }
+]

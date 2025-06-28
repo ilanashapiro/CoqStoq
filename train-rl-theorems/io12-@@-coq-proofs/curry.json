@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "io12-@@-coq-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "curry.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "eee8f86258dd311e2f1cac163b71275f9b17ab29f64d8ebdeb9d7c4d74514a9f"
+  }
+]

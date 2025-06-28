@@ -1,0 +1,147 @@
+[
+  {
+    "project": {
+      "dir_name": "finegeometer-@@-coq-primality-example",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Main.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "c607aa211323408f936ba8ea1e3b9e849b9b3f073dc161f10ce0bb4169ab8af7"
+  },
+  {
+    "project": {
+      "dir_name": "finegeometer-@@-coq-primality-example",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Main.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "c607aa211323408f936ba8ea1e3b9e849b9b3f073dc161f10ce0bb4169ab8af7"
+  },
+  {
+    "project": {
+      "dir_name": "finegeometer-@@-coq-primality-example",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Main.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "c607aa211323408f936ba8ea1e3b9e849b9b3f073dc161f10ce0bb4169ab8af7"
+  },
+  {
+    "project": {
+      "dir_name": "finegeometer-@@-coq-primality-example",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Main.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "c607aa211323408f936ba8ea1e3b9e849b9b3f073dc161f10ce0bb4169ab8af7"
+  },
+  {
+    "project": {
+      "dir_name": "finegeometer-@@-coq-primality-example",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Main.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 81,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 4
+    },
+    "hash": "c607aa211323408f936ba8ea1e3b9e849b9b3f073dc161f10ce0bb4169ab8af7"
+  }
+]

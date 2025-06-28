@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Ptival-@@-extensible-nanopass-compiler",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Test/Semantics/Dynamic/Soundness/If2.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 68,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "2e8f840dc1f0aeb5a5bdccdcaf523d728a990226a7eb5286f8c39fc66e652a95"
+  }
+]

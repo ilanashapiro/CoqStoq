@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-atbr",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Model_StdRelations.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 83,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 34
+    },
+    "hash": "1befb72d8a83ba5cccaab0d62228088c42fc3f09db599f715497128afc474e05"
+  }
+]

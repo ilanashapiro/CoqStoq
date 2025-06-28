@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-cdf-mech-sem",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Simulation.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "f5f6a025da9daeab0604ec339ee3966066da53282a2bda363d5db134ab89d2ac"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-cdf-mech-sem",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Simulation.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "hash": "f5f6a025da9daeab0604ec339ee3966066da53282a2bda363d5db134ab89d2ac"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-cdf-mech-sem",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Simulation.v",
+    "theorem_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "f5f6a025da9daeab0604ec339ee3966066da53282a2bda363d5db134ab89d2ac"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DonaldKellett-@@-coq-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "list/CorrectnessOfHd.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "73f245eb455acd72bc27427736cf76fd3a3589771ef7c266350ccf6d81de10a4"
+  }
+]

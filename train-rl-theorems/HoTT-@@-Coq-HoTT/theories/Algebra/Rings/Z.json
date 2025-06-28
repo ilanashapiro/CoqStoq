@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Algebra/Rings/Z.v",
+    "theorem_start_pos": {
+      "line": 165,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 167,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 168,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 4
+    },
+    "hash": "44d5fb2e7276a7449dd6f71889ea6053fc85aa8d6f308d71a18706a093b33160"
+  }
+]

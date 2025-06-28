@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "SwampertX-@@-undergraduate-thesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ca-presentation/code/playground.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "2de1e7b132cba1e564202360cc1b10b2cfeeabd0f85b32c6ad3e20f7a4f01817"
+  }
+]

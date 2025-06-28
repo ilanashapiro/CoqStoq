@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch13_co_inductive_types/SRC/graft.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "6e9725bfcdd398cb2c16b4531b47a70707573eec28a81d7a52987d5b54d9c2fb"
+  },
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch13_co_inductive_types/SRC/graft.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "6e9725bfcdd398cb2c16b4531b47a70707573eec28a81d7a52987d5b54d9c2fb"
+  },
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch13_co_inductive_types/SRC/graft.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "6e9725bfcdd398cb2c16b4531b47a70707573eec28a81d7a52987d5b54d9c2fb"
+  }
+]

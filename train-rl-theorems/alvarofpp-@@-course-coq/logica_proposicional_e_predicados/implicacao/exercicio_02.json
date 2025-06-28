@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "alvarofpp-@@-course-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "logica_proposicional_e_predicados/implicacao/exercicio_02.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "2d8e4f69bdfc8b38ff8b3656c3f04599f510011c0f6833f42b319897eab98175"
+  }
+]

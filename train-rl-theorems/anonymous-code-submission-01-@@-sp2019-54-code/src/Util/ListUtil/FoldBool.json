@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "anonymous-code-submission-01-@@-sp2019-54-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Util/ListUtil/FoldBool.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4,
+      "column": 69
+    },
+    "hash": "83346ef53210a48b95c16b3d50f2d8c7dd0be5582b72f694633bb4806c8cdaf0"
+  },
+  {
+    "project": {
+      "dir_name": "anonymous-code-submission-01-@@-sp2019-54-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Util/ListUtil/FoldBool.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 67
+    },
+    "hash": "83346ef53210a48b95c16b3d50f2d8c7dd0be5582b72f694633bb4806c8cdaf0"
+  }
+]

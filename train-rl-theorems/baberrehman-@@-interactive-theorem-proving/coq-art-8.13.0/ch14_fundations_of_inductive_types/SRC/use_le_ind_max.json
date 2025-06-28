@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch14_fundations_of_inductive_types/SRC/use_le_ind_max.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "9a10bbb4b11b626f2d1642d717361a088ad0c7b76957c0507f6af1631036d183"
+  },
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch14_fundations_of_inductive_types/SRC/use_le_ind_max.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "9a10bbb4b11b626f2d1642d717361a088ad0c7b76957c0507f6af1631036d183"
+  }
+]

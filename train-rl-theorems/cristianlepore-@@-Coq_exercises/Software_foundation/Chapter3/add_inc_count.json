@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "cristianlepore-@@-Coq_exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Software_foundation/Chapter3/add_inc_count.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "bc4b9129a03b012619004277743acb154c8dac982d46a28187a90efbfe521d18"
+  },
+  {
+    "project": {
+      "dir_name": "cristianlepore-@@-Coq_exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Software_foundation/Chapter3/add_inc_count.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 103,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 4
+    },
+    "hash": "bc4b9129a03b012619004277743acb154c8dac982d46a28187a90efbfe521d18"
+  }
+]

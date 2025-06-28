@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dderjoel-@@-base",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat-crypto/rupicola/bedrock2/deps/riscv-coq/src/riscv/Utility/record_set_why_anonymous_getters.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "8a04dea05043c9c057686b925a66c5aa917524a7602f62a5d2f254bbf1023cbb"
+  }
+]

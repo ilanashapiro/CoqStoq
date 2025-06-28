@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tlringer-@@-proof-demos",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/Intermediate.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 4
+    },
+    "hash": "d0bd751114a757e8c799e4f97f6cf60ca045ecb12e4934c1676757830eae5076"
+  }
+]

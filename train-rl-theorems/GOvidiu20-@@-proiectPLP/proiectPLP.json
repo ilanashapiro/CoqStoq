@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "GOvidiu20-@@-proiectPLP",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proiectPLP.v",
+    "theorem_start_pos": {
+      "line": 897,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 900,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 901,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 919,
+      "column": 4
+    },
+    "hash": "d2881f87cb913290b96e0512547ca4b045e786aa38191c35d58c6b5f505a250d"
+  },
+  {
+    "project": {
+      "dir_name": "GOvidiu20-@@-proiectPLP",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proiectPLP.v",
+    "theorem_start_pos": {
+      "line": 921,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 924,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 925,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 930,
+      "column": 4
+    },
+    "hash": "d2881f87cb913290b96e0512547ca4b045e786aa38191c35d58c6b5f505a250d"
+  }
+]

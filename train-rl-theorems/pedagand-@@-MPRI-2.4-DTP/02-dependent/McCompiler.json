@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "pedagand-@@-MPRI-2.4-DTP",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "02-dependent/McCompiler.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "0246fae615a95a4647e6a41d2cf4871f14799d4624e6e31e3329b7ebfbea5595"
+  }
+]

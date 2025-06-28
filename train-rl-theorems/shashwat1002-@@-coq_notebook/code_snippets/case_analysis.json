@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "shashwat1002-@@-coq_notebook",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code_snippets/case_analysis.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "d1cdde22172ad511a7df2846e899f5b36868fb1dbcad89ae5260b31da8372848"
+  },
+  {
+    "project": {
+      "dir_name": "shashwat1002-@@-coq_notebook",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code_snippets/case_analysis.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "d1cdde22172ad511a7df2846e899f5b36868fb1dbcad89ae5260b31da8372848"
+  }
+]

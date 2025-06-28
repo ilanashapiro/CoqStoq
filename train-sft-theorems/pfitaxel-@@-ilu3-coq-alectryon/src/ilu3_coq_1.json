@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "pfitaxel-@@-ilu3-coq-alectryon",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ilu3_coq_1.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 148,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 152,
+      "column": 4
+    },
+    "hash": "b1059ebbe8286c39c85004723892d289d076a3f53d748f7a48525f1cc35f3514"
+  },
+  {
+    "project": {
+      "dir_name": "pfitaxel-@@-ilu3-coq-alectryon",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ilu3_coq_1.v",
+    "theorem_start_pos": {
+      "line": 224,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 224,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 225,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 225,
+      "column": 19
+    },
+    "hash": "b1059ebbe8286c39c85004723892d289d076a3f53d748f7a48525f1cc35f3514"
+  },
+  {
+    "project": {
+      "dir_name": "pfitaxel-@@-ilu3-coq-alectryon",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ilu3_coq_1.v",
+    "theorem_start_pos": {
+      "line": 234,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 234,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 235,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 235,
+      "column": 30
+    },
+    "hash": "b1059ebbe8286c39c85004723892d289d076a3f53d748f7a48525f1cc35f3514"
+  }
+]

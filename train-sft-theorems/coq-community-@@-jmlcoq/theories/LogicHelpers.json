@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/LogicHelpers.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 135
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "018fcc8f52061d11f8c0f4546be9a6adc7e02e79092e64660d018e0353a04e7a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/LogicHelpers.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 138
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "018fcc8f52061d11f8c0f4546be9a6adc7e02e79092e64660d018e0353a04e7a"
+  }
+]

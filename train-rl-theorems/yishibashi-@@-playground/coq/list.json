@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "yishibashi-@@-playground",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/list.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "c9d1d2de954da50ca29e8de09dd99ad614f332983684d3e4247ecce5e540e840"
+  },
+  {
+    "project": {
+      "dir_name": "yishibashi-@@-playground",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/list.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 4
+    },
+    "hash": "c9d1d2de954da50ca29e8de09dd99ad614f332983684d3e4247ecce5e540e840"
+  }
+]

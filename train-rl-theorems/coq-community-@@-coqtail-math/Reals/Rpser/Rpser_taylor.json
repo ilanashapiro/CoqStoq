@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rpser/Rpser_taylor.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "f95733a5b4b5f065ed98812f07c037fc396427da8b614183a3001af0f9720208"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rpser/Rpser_taylor.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "f95733a5b4b5f065ed98812f07c037fc396427da8b614183a3001af0f9720208"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rpser/Rpser_taylor.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 230,
+      "column": 4
+    },
+    "hash": "f95733a5b4b5f065ed98812f07c037fc396427da8b614183a3001af0f9720208"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rpser/Rpser_taylor.v",
+    "theorem_start_pos": {
+      "line": 232,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 234,
+      "column": 109
+    },
+    "proof_start_pos": {
+      "line": 235,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 245,
+      "column": 4
+    },
+    "hash": "f95733a5b4b5f065ed98812f07c037fc396427da8b614183a3001af0f9720208"
+  }
+]

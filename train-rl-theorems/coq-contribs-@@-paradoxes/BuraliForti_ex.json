@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-paradoxes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BuraliForti_ex.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "hash": "c597cbea78e90431731c0af9c85c8c8a542b57932e7e231b7a961d8517b63e55"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-paradoxes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BuraliForti_ex.v",
+    "theorem_start_pos": {
+      "line": 245,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 247,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 253,
+      "column": 4
+    },
+    "hash": "c597cbea78e90431731c0af9c85c8c8a542b57932e7e231b7a961d8517b63e55"
+  }
+]

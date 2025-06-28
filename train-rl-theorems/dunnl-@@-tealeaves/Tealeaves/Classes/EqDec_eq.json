@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dunnl-@@-tealeaves",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Tealeaves/Classes/EqDec_eq.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "1d7bd4ee29a5bbd37f9f98677980c0e7ee1db0ef071e9ac9666db02fc47dc8fe"
+  }
+]

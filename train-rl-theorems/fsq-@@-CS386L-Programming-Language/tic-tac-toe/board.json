@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "fsq-@@-CS386L-Programming-Language",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tic-tac-toe/board.v",
+    "theorem_start_pos": {
+      "line": 184,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 186,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 190,
+      "column": 4
+    },
+    "hash": "76bb17aabea505dd121e2fc70a7a059ec9c590e965d79d31b65a9367c9d8ea81"
+  }
+]

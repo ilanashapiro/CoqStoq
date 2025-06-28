@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "amintimany-@@-Categories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Basic_Cons/Product.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 81,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "135ba14749497e7e1c443eb4921253ff0af0a0c2c28f9a5c11ae0a17b1e80cd3"
+  }
+]

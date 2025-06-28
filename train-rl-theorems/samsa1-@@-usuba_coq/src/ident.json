@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ident.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "e4d6c7ef5e59c20373777adff243b5a037f81de43158ad49509fe7da9b4b007f"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ident.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 8
+    },
+    "hash": "e4d6c7ef5e59c20373777adff243b5a037f81de43158ad49509fe7da9b4b007f"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ident.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 8
+    },
+    "hash": "e4d6c7ef5e59c20373777adff243b5a037f81de43158ad49509fe7da9b4b007f"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ident.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 153,
+      "column": 8
+    },
+    "hash": "e4d6c7ef5e59c20373777adff243b5a037f81de43158ad49509fe7da9b4b007f"
+  }
+]

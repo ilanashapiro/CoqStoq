@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "d-krylov-@@-coq_examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Pattern.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "63c818448d7ad7fa6936a794a29a91ee535c6e7f1f0f3fc09fa2a2a3099916c4"
+  },
+  {
+    "project": {
+      "dir_name": "d-krylov-@@-coq_examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Pattern.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "63c818448d7ad7fa6936a794a29a91ee535c6e7f1f0f3fc09fa2a2a3099916c4"
+  }
+]

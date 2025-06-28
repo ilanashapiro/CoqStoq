@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "xavierdpt-@@-research",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sf/V2/Equiv.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "363d3fa017630ae59e2614cb58a19d0a0da5a39b0b33c43a0f4dca703e985467"
+  }
+]

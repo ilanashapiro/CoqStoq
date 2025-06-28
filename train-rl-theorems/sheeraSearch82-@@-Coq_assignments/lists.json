@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "sheeraSearch82-@@-Coq_assignments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lists.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 81,
+      "column": 4
+    },
+    "hash": "4b84c3827e597645f6350621881cd066266eafedf1f3583b25c7b4d67ff9b96f"
+  },
+  {
+    "project": {
+      "dir_name": "sheeraSearch82-@@-Coq_assignments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lists.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "4b84c3827e597645f6350621881cd066266eafedf1f3583b25c7b4d67ff9b96f"
+  }
+]

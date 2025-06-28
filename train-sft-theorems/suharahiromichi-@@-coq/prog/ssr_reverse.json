@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "prog/ssr_reverse.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 6
+    },
+    "hash": "bf643c22c431a341df1e4ae15e8748e3ebacaba65429a3868d98810538fc09e5"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "prog/ssr_reverse.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 68,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 69,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 6
+    },
+    "hash": "bf643c22c431a341df1e4ae15e8748e3ebacaba65429a3868d98810538fc09e5"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "prog/ssr_reverse.v",
+    "theorem_start_pos": {
+      "line": 100,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 109,
+      "column": 6
+    },
+    "hash": "bf643c22c431a341df1e4ae15e8748e3ebacaba65429a3868d98810538fc09e5"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "prog/ssr_reverse.v",
+    "theorem_start_pos": {
+      "line": 168,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 169,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 170,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 178,
+      "column": 6
+    },
+    "hash": "bf643c22c431a341df1e4ae15e8748e3ebacaba65429a3868d98810538fc09e5"
+  }
+]

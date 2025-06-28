@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/Powerdomain/PowerdomainProperties.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "3b6e0c8dd14b9b76c3b6821def915ff8e697718d49bef3e2540400e15e75bc9f"
+  },
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/Powerdomain/PowerdomainProperties.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "3b6e0c8dd14b9b76c3b6821def915ff8e697718d49bef3e2540400e15e75bc9f"
+  },
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/Powerdomain/PowerdomainProperties.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "3b6e0c8dd14b9b76c3b6821def915ff8e697718d49bef3e2540400e15e75bc9f"
+  }
+]

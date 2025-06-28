@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "KevinFroissart-@@-coqTP",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "liflc/LIFLC_TPC_ex_tp_note.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "eb50e7416d0fdf523c49199ee573bd9fbbfb779aa568272ea42b9c55ad937f91"
+  },
+  {
+    "project": {
+      "dir_name": "KevinFroissart-@@-coqTP",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "liflc/LIFLC_TPC_ex_tp_note.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "eb50e7416d0fdf523c49199ee573bd9fbbfb779aa568272ea42b9c55ad937f91"
+  }
+]

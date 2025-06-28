@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "TheoWinterhalter-@@-pdm4all",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/DM4FreeState.v",
+    "theorem_start_pos": {
+      "line": 74,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 80,
+      "column": 6
+    },
+    "hash": "9c6fa3f5eda2401f5cdbbca46e40e4932eda3efeb14c8f8e4b298af7d58e5946"
+  }
+]

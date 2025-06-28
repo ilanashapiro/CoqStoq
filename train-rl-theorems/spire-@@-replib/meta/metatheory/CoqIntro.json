@@ -1,0 +1,2177 @@
+[
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 373,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 375,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 376,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 396,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 459,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 461,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 462,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 488,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 518,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 520,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 521,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 536,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 632,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 635,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 636,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 643,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 666,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 668,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 669,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 675,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 684,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 686,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 687,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 695,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 701,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 705,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 706,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 714,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 732,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 733,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 734,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 738,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 745,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 747,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 748,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 756,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 787,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 790,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 791,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 798,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 828,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 831,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 832,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 840,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 848,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 850,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 851,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 857,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 912,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 916,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 917,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 927,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 974,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 976,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 977,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 981,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 987,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 989,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 990,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 997,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1005,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1007,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 1008,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1013,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1021,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1023,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 1024,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1029,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1091,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1093,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 1094,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1100,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1122,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1124,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 1125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1127,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1139,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1143,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 1144,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1151,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1185,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1190,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 1191,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1194,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1204,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1207,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 1208,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1210,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1212,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1215,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 1216,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1218,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1225,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1229,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 1230,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1234,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1245,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1247,
+      "column": 8
+    },
+    "proof_start_pos": {
+      "line": 1248,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1250,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1266,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1268,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 1269,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1271,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1327,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1329,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 1330,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1336,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1425,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1427,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 1428,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1437,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1466,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1468,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 1469,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1473,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1479,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1481,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 1482,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1486,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1498,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1503,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 1504,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1518,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1574,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1576,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 1577,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1583,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1589,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1590,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 1591,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1593,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1617,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1621,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 1622,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1624,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1638,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1642,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 1643,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1645,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1654,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1657,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 1658,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1660,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1860,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1861,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1862,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1869,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1874,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1876,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 1877,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1891,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1913,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1914,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 1915,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1919,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1927,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1929,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 1930,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1945,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 1969,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1975,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 1976,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1982,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2043,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2045,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 2046,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2050,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2052,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2055,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 2056,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2060,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2062,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2065,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 2066,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2073,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2075,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2078,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 2079,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2092,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2094,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2098,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 2099,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2108,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2110,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2113,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 2114,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2120,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2122,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2124,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 2125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2132,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2134,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2136,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 2137,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2143,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2145,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2147,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 2148,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2158,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2160,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2162,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 2163,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2165,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2167,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2169,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 2170,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2180,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2182,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2184,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 2185,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2188,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2190,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2192,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 2193,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2196,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2198,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2201,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 2202,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2207,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2212,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 2213,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2217,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2219,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2220,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 2221,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2230,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2232,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2235,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 2236,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2241,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2243,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2248,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 2249,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2257,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2259,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2262,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 2263,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2267,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2269,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2271,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 2272,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2305,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2307,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2310,
+      "column": 8
+    },
+    "proof_start_pos": {
+      "line": 2311,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2335,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2337,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2339,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 2340,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2346,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2348,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2351,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 2352,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2393,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2395,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2398,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 2399,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2458,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2460,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2463,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 2464,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2470,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2472,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2473,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 2474,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2476,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2478,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2480,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 2481,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2484,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2486,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2488,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 2489,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2492,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2528,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2529,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 2530,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2534,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2536,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2537,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 2538,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2547,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2549,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2550,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 2551,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2556,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2558,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2559,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 2560,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2572,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2574,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2575,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 2576,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2630,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  },
+  {
+    "project": {
+      "dir_name": "spire-@@-replib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "meta/metatheory/CoqIntro.v",
+    "theorem_start_pos": {
+      "line": 2632,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2633,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 2634,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2679,
+      "column": 4
+    },
+    "hash": "e4e167a080b3ebc8ed2865f5b168593fb695e12ed2e7ca40942fda44f4702694"
+  }
+]

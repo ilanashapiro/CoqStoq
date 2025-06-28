@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/HIT/surjective_factor.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 103
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 6
+    },
+    "hash": "f1f57acc3a956a4ce088a0f89e0a84e930edb52d69740f31e5d45b2aee1b90fa"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/HIT/surjective_factor.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 6
+    },
+    "hash": "f1f57acc3a956a4ce088a0f89e0a84e930edb52d69740f31e5d45b2aee1b90fa"
+  }
+]

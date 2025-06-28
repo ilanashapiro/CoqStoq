@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Ptival-@@-PeaCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "uw-cse-505/e04/E04_OperationalSemantics.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "7885c0824d36df0d3243349a2bb435e871c460975ca330552c1a5272794df1da"
+  }
+]

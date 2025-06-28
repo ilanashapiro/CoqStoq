@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/MuRec/Util/minimizer.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 41
+    },
+    "hash": "8ff6e30d22a3508253477e8942a120bbaf9c87ecbcaef515d8bc9f2ae2fec561"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/MuRec/Util/minimizer.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 6
+    },
+    "hash": "8ff6e30d22a3508253477e8942a120bbaf9c87ecbcaef515d8bc9f2ae2fec561"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "geohot-@@-coq-hardy",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter_1.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "e57c61a3a5528f33b0a083007d9b2e30a63ee49df32169d6d07675b9e40a1471"
+  }
+]

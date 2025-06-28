@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Monads/Reader.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "721c5f5b0e32ebaef40ea05cd05a6bada7b1fd75257e54aca9506f7c7718b714"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Monads/Reader.v",
+    "theorem_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 121,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 4
+    },
+    "hash": "721c5f5b0e32ebaef40ea05cd05a6bada7b1fd75257e54aca9506f7c7718b714"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Monads/Reader.v",
+    "theorem_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 142,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 143,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 148,
+      "column": 4
+    },
+    "hash": "721c5f5b0e32ebaef40ea05cd05a6bada7b1fd75257e54aca9506f7c7718b714"
+  }
+]

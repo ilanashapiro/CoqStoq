@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jeromesimeon-@@-CoqMicroTutorial",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Sum.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "95d51876d7c65b098a2b95b97831ef30b44680b5d34f060b0438b2ee407c5486"
+  }
+]

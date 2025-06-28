@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "joasyannick-@@-in-school",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "final-year-internship/src/theories/Classes/PartialOp.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "5e1282564f06a687d08e978cf291393c33c641c4dd03cdc87bc5a7ffb7bc794a"
+  }
+]

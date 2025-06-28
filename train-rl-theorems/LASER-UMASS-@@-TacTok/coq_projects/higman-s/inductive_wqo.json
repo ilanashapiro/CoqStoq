@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/higman-s/inductive_wqo.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "c6768f126cf6d6202720c81eae5631c3eff74e735ccda2725ad7bf513ef355bd"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/higman-s/inductive_wqo.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "c6768f126cf6d6202720c81eae5631c3eff74e735ccda2725ad7bf513ef355bd"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/higman-s/inductive_wqo.v",
+    "theorem_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 4
+    },
+    "hash": "c6768f126cf6d6202720c81eae5631c3eff74e735ccda2725ad7bf513ef355bd"
+  }
+]

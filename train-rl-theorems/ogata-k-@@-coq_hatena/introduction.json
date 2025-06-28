@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ogata-k-@@-coq_hatena",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "introduction.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 6
+    },
+    "hash": "22e7700efeb39fdc5c554a69e23a3b36f20bf77ba3da62ce8ea750126ddce150"
+  }
+]

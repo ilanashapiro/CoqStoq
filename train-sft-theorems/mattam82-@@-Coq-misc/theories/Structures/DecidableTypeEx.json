@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Structures/DecidableTypeEx.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 5
+    },
+    "hash": "3927a83555a238bc2d5e9319f8da424b45131b2bb31d8417489e5b36dd9e2840"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Structures/DecidableTypeEx.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 5
+    },
+    "hash": "3927a83555a238bc2d5e9319f8da424b45131b2bb31d8417489e5b36dd9e2840"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Structures/DecidableTypeEx.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 5
+    },
+    "hash": "3927a83555a238bc2d5e9319f8da424b45131b2bb31d8417489e5b36dd9e2840"
+  }
+]

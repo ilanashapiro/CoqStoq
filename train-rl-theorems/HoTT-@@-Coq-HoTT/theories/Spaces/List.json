@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Spaces/List.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 6
+    },
+    "hash": "d0a3836d509c42af930cd4fc147de3af6a17c8f14ae603f07ed25571676c2650"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Spaces/List.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 6
+    },
+    "hash": "d0a3836d509c42af930cd4fc147de3af6a17c8f14ae603f07ed25571676c2650"
+  }
+]

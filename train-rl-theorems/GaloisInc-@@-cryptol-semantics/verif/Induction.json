@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "GaloisInc-@@-cryptol-semantics",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "verif/Induction.v",
+    "theorem_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 190,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 221,
+      "column": 4
+    },
+    "hash": "2937a4d7f219fe2bd49dd6731f038077670d68f902fca930a32f667c5e148172"
+  }
+]

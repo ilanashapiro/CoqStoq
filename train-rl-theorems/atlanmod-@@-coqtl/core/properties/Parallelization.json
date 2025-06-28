@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "atlanmod-@@-coqtl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "core/properties/Parallelization.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "hash": "761ff1136f9211a91edd0015f644b87108359233522fa8048db6db8318c16b4e"
+  },
+  {
+    "project": {
+      "dir_name": "atlanmod-@@-coqtl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "core/properties/Parallelization.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "761ff1136f9211a91edd0015f644b87108359233522fa8048db6db8318c16b4e"
+  }
+]

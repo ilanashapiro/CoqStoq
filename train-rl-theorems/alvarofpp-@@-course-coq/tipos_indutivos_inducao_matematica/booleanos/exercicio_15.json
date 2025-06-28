@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "alvarofpp-@@-course-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tipos_indutivos_inducao_matematica/booleanos/exercicio_15.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "0455c799c9d37ac53a1bdf1ec26dd69594b39b8923450540d2255a202f178343"
+  }
+]

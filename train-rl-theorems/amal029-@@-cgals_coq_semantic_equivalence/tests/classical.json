@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "amal029-@@-cgals_coq_semantic_equivalence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/classical.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 6
+    },
+    "hash": "1f7a2d78ec83dcabf0b8e56de00bdfd78a724d34405152252911a985c1e36088"
+  },
+  {
+    "project": {
+      "dir_name": "amal029-@@-cgals_coq_semantic_equivalence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/classical.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 6
+    },
+    "hash": "1f7a2d78ec83dcabf0b8e56de00bdfd78a724d34405152252911a985c1e36088"
+  }
+]

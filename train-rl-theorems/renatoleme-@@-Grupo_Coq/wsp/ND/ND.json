@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "renatoleme-@@-Grupo_Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "wsp/ND/ND.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "8b6170351218b239ac4a5df86f960b4d45bdd3dbadba6bd087481f6f4224a8a3"
+  },
+  {
+    "project": {
+      "dir_name": "renatoleme-@@-Grupo_Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "wsp/ND/ND.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "8b6170351218b239ac4a5df86f960b4d45bdd3dbadba6bd087481f6f4224a8a3"
+  }
+]

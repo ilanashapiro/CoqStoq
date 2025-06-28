@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "math-comp-@@-trajectories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/smooth_trajectories.v",
+    "theorem_start_pos": {
+      "line": 1265,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1267,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 1268,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1268,
+      "column": 17
+    },
+    "hash": "4f3776cd0a41dbad5e1ec5da456a23c4d3cb5ca56a83fab4d447cd2694dca31c"
+  },
+  {
+    "project": {
+      "dir_name": "math-comp-@@-trajectories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/smooth_trajectories.v",
+    "theorem_start_pos": {
+      "line": 1284,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1287,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 1288,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1288,
+      "column": 17
+    },
+    "hash": "4f3776cd0a41dbad5e1ec5da456a23c4d3cb5ca56a83fab4d447cd2694dca31c"
+  },
+  {
+    "project": {
+      "dir_name": "math-comp-@@-trajectories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/smooth_trajectories.v",
+    "theorem_start_pos": {
+      "line": 1293,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1301,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 1302,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1302,
+      "column": 17
+    },
+    "hash": "4f3776cd0a41dbad5e1ec5da456a23c4d3cb5ca56a83fab4d447cd2694dca31c"
+  }
+]

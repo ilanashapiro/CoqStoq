@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-bedrock2-old",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "platform/Cito/MaxFacts.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "33eb4836269395ab34c8dc00987d02b38969a5df1be2712d0d04baff83daacc2"
+  }
+]

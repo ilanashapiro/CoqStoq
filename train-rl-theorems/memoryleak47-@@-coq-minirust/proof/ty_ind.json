@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "memoryleak47-@@-coq-minirust",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proof/ty_ind.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 4
+    },
+    "hash": "c7ca2e781985644042510ce1373770a17edc4f5cd4dbea8b738c3497c1e62092"
+  }
+]

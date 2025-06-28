@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "imaxw-@@-Ordinal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Finite.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 8
+    },
+    "hash": "b948bca2c5cf338614b16e28950ee2189e05d8c89320f9feaaee1decb4ccf20a"
+  },
+  {
+    "project": {
+      "dir_name": "imaxw-@@-Ordinal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Finite.v",
+    "theorem_start_pos": {
+      "line": 66,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 6
+    },
+    "hash": "b948bca2c5cf338614b16e28950ee2189e05d8c89320f9feaaee1decb4ccf20a"
+  }
+]

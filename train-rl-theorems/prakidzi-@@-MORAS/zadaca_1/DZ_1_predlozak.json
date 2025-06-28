@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "prakidzi-@@-MORAS",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "zadaca_1/DZ_1_predlozak.v",
+    "theorem_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 137,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 140,
+      "column": 4
+    },
+    "hash": "21f838484be9d2c5943dbfd7165fe6e1be77d3e7e97ab024e113843d67446cac"
+  }
+]

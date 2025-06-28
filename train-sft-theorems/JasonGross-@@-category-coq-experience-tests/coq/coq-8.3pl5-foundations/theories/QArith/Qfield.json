@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/QArith/Qfield.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "4fdefb150e72df0538511cd6b33f2122fb1658439fab209e4ea8b1b48ffb12fb"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/QArith/Qfield.v",
+    "theorem_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 4
+    },
+    "hash": "4fdefb150e72df0538511cd6b33f2122fb1658439fab209e4ea8b1b48ffb12fb"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/QArith/Qfield.v",
+    "theorem_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "4fdefb150e72df0538511cd6b33f2122fb1658439fab209e4ea8b1b48ffb12fb"
+  }
+]

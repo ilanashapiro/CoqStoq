@@ -1,0 +1,408 @@
+[
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 135,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 138,
+      "column": 163
+    },
+    "proof_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 141,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 143,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 143,
+      "column": 144
+    },
+    "proof_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 148,
+      "column": 151
+    },
+    "proof_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 151,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 153,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 153,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 156,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 163,
+      "column": 122
+    },
+    "proof_start_pos": {
+      "line": 164,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 166,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 184,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 184,
+      "column": 133
+    },
+    "proof_start_pos": {
+      "line": 185,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 187,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 194,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 104
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 204,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 205,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 207,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 214,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 214,
+      "column": 213
+    },
+    "proof_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 217,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 219,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 219,
+      "column": 225
+    },
+    "proof_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 222,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 224,
+      "column": 249
+    },
+    "proof_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 227,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 231,
+      "column": 157
+    },
+    "proof_start_pos": {
+      "line": 232,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 242,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "xc/tactics.v",
+    "theorem_start_pos": {
+      "line": 244,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 244,
+      "column": 215
+    },
+    "proof_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 247,
+      "column": 4
+    },
+    "hash": "69a6b4f9c33e9c1c7c0e4b68fa7de7007f6ae0ea544b6b95313ea49617b67864"
+  }
+]

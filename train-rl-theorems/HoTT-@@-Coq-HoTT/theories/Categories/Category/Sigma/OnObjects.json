@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Category/Sigma/OnObjects.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 6
+    },
+    "hash": "5ea46ed1752598ad8f39238106bb3f7e1de5527a392c19cc188900b9ffddaa80"
+  }
+]

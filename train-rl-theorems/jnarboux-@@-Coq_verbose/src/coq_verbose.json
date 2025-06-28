@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jnarboux-@@-Coq_verbose",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/coq_verbose.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "889c9ba0861d4a957556ae20794cc69b24a7452a0a71ef511fd5fb320478af51"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "danmvas-@@-Metodos-Formais-MFO0001",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Listas/Lista_1_Daniella.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "01fb51dd5cd2a721f4d194383d8ebf82b91d43f918676d1082c0e19fac492467"
+  },
+  {
+    "project": {
+      "dir_name": "danmvas-@@-Metodos-Formais-MFO0001",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Listas/Lista_1_Daniella.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "01fb51dd5cd2a721f4d194383d8ebf82b91d43f918676d1082c0e19fac492467"
+  }
+]

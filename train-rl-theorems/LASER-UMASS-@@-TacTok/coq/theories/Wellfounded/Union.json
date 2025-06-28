@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Wellfounded/Union.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 6
+    },
+    "hash": "8489099550123a522df28a1a35a1778306ae0435695b2089821cc70d9cd1c528"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Wellfounded/Union.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 6
+    },
+    "hash": "8489099550123a522df28a1a35a1778306ae0435695b2089821cc70d9cd1c528"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Wellfounded/Union.v",
+    "theorem_start_pos": {
+      "line": 66,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 6
+    },
+    "hash": "8489099550123a522df28a1a35a1778306ae0435695b2089821cc70d9cd1c528"
+  }
+]

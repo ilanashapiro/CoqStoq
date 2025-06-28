@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "xu-hao-@@-irods-rfc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "irods_v5_api_rfc.v",
+    "theorem_start_pos": {
+      "line": 507,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 509,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 510,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 512,
+      "column": 4
+    },
+    "hash": "f826d77f95b194e01bd6b34eb8b2f41dce9fbc0c1a4e2dfcbd68cf42f909cd4b"
+  }
+]

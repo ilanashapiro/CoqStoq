@@ -1,0 +1,234 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/EqBoolAux.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 69
+    },
+    "hash": "8689e94bbe6fc2816c4e6ba9cc0bf31c708a098d44da5944f4e26c3848217357"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/EqBoolAux.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 5
+    },
+    "hash": "8689e94bbe6fc2816c4e6ba9cc0bf31c708a098d44da5944f4e26c3848217357"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/EqBoolAux.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 5
+    },
+    "hash": "8689e94bbe6fc2816c4e6ba9cc0bf31c708a098d44da5944f4e26c3848217357"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/EqBoolAux.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 6
+    },
+    "hash": "8689e94bbe6fc2816c4e6ba9cc0bf31c708a098d44da5944f4e26c3848217357"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/EqBoolAux.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 5
+    },
+    "hash": "8689e94bbe6fc2816c4e6ba9cc0bf31c708a098d44da5944f4e26c3848217357"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/EqBoolAux.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 6
+    },
+    "hash": "8689e94bbe6fc2816c4e6ba9cc0bf31c708a098d44da5944f4e26c3848217357"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/EqBoolAux.v",
+    "theorem_start_pos": {
+      "line": 94,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 6
+    },
+    "hash": "8689e94bbe6fc2816c4e6ba9cc0bf31c708a098d44da5944f4e26c3848217357"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/EqBoolAux.v",
+    "theorem_start_pos": {
+      "line": 112,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 6
+    },
+    "hash": "8689e94bbe6fc2816c4e6ba9cc0bf31c708a098d44da5944f4e26c3848217357"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "imaxw-@@-Ordinal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CommonHeader.v",
+    "theorem_start_pos": {
+      "line": 123,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 123,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 43
+    },
+    "hash": "e5aa7b971042069ba8b99f4522193a4c547ca806d39a45ab702eac90e4977a7e"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Kamirus-@@-coq-course",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 6
+    },
+    "hash": "d8f6163b48c3cbfdeb79d9bd89291efb2b7c4bc5e184337acfc8cebaff233466"
+  }
+]

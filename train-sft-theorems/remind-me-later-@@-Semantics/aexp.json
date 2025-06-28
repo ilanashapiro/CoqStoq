@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "remind-me-later-@@-Semantics",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "aexp.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "a9e78e49d5bc69e6f1a72acfec20bccee5cc409cbf13ea9704fa9260921796f7"
+  }
+]

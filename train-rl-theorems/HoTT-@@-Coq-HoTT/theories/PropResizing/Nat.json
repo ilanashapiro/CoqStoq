@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/PropResizing/Nat.v",
+    "theorem_start_pos": {
+      "line": 243,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 243,
+      "column": 87
+    },
+    "proof_start_pos": {
+      "line": 244,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 258,
+      "column": 6
+    },
+    "hash": "5f1cfbb9b09162944b76afb597474b66312124eab9aa598336f1bcea64bf00b0"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/PropResizing/Nat.v",
+    "theorem_start_pos": {
+      "line": 601,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 601,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 602,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 608,
+      "column": 6
+    },
+    "hash": "5f1cfbb9b09162944b76afb597474b66312124eab9aa598336f1bcea64bf00b0"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/PropResizing/Nat.v",
+    "theorem_start_pos": {
+      "line": 784,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 784,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 785,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 816,
+      "column": 8
+    },
+    "hash": "5f1cfbb9b09162944b76afb597474b66312124eab9aa598336f1bcea64bf00b0"
+  }
+]

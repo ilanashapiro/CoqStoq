@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "i321takeji-@@-tapl-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch03/bool.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "b406b9833ca8b18925c8e94c189da8af97d77d0b0117479e71cad48795f55ee9"
+  }
+]

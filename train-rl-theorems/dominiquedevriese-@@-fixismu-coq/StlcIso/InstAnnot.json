@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dominiquedevriese-@@-fixismu-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StlcIso/InstAnnot.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 72,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 73,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 74
+    },
+    "hash": "3249620b10644d30b98e0ec38d42c21ce6ca65307e2a9bdeebbb5ddc707adf1f"
+  }
+]

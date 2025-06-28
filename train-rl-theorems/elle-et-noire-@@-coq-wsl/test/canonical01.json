@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-coq-wsl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test/canonical01.v",
+    "theorem_start_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 113,
+      "column": 81
+    },
+    "hash": "9bcb2dba3e08bfa24c1c3068c57a23728124241dd1f3b5636a01b45fcf7750aa"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "JohnBSmith-@@-misc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/nat/basic.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "1ee94cc2c9a83772714c3dcc4745ce0b54f16812d21cc3a3786f25afa566d51e"
+  }
+]

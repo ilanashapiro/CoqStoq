@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "hidden-author-@@-ecoop22-coq-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "first_method/colists/Sequences.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "da2c769c48c4d7c694c51fd036e004254a417532a6739b1a042a9402a929b6b4"
+  },
+  {
+    "project": {
+      "dir_name": "hidden-author-@@-ecoop22-coq-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "first_method/colists/Sequences.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "da2c769c48c4d7c694c51fd036e004254a417532a6739b1a042a9402a929b6b4"
+  }
+]

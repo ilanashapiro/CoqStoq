@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mmaleki-@@-LogicalDifferentiation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lattice.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 4
+    },
+    "hash": "e3c740cdec42451846fdfb388d80cdc433995f95ce3f770ec059e17bddeb3e7f"
+  },
+  {
+    "project": {
+      "dir_name": "mmaleki-@@-LogicalDifferentiation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lattice.v",
+    "theorem_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 4
+    },
+    "hash": "e3c740cdec42451846fdfb388d80cdc433995f95ce3f770ec059e17bddeb3e7f"
+  }
+]

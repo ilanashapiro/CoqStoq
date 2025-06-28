@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "snu-sf-@@-Ordinal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Totalness.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "4e20abc922ad9ae6fbece4df94ae0cf358e7050acf5a8ca3e7bc9651c6b12657"
+  },
+  {
+    "project": {
+      "dir_name": "snu-sf-@@-Ordinal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Totalness.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "4e20abc922ad9ae6fbece4df94ae0cf358e7050acf5a8ca3e7bc9651c6b12657"
+  },
+  {
+    "project": {
+      "dir_name": "snu-sf-@@-Ordinal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Totalness.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "4e20abc922ad9ae6fbece4df94ae0cf358e7050acf5a8ca3e7bc9651c6b12657"
+  },
+  {
+    "project": {
+      "dir_name": "snu-sf-@@-Ordinal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Totalness.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 4
+    },
+    "hash": "4e20abc922ad9ae6fbece4df94ae0cf358e7050acf5a8ca3e7bc9651c6b12657"
+  }
+]

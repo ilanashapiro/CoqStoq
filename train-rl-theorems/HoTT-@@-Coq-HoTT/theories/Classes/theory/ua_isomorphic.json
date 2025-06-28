@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/ua_isomorphic.v",
+    "theorem_start_pos": {
+      "line": 112,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 114,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 125,
+      "column": 4
+    },
+    "hash": "f4510b730e18f45aac9ea05deb793b806b899ab8f4357a198f4548224b05e875"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/ua_isomorphic.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 133,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 134,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 6
+    },
+    "hash": "f4510b730e18f45aac9ea05deb793b806b899ab8f4357a198f4548224b05e875"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/ua_isomorphic.v",
+    "theorem_start_pos": {
+      "line": 145,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 145,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 146,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 151,
+      "column": 6
+    },
+    "hash": "f4510b730e18f45aac9ea05deb793b806b899ab8f4357a198f4548224b05e875"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "klao-@@-coq-learning",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "work_sheets/Seminar1edited.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 24
+    },
+    "hash": "3261b24b89914929ebcbfa8902f6359c0e6db7fbafc934be0dc2fcf8f615d5f5"
+  },
+  {
+    "project": {
+      "dir_name": "klao-@@-coq-learning",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "work_sheets/Seminar1edited.v",
+    "theorem_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 110,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 4
+    },
+    "hash": "3261b24b89914929ebcbfa8902f6359c0e6db7fbafc934be0dc2fcf8f615d5f5"
+  }
+]

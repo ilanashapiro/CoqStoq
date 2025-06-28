@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "ybertot-@@-reachout_math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "counter_example.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "b3a8b6f9bc20ffd4131eb1627f083ca9f0f614dfdd41b2ba659c17a75194592f"
+  },
+  {
+    "project": {
+      "dir_name": "ybertot-@@-reachout_math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "counter_example.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "b3a8b6f9bc20ffd4131eb1627f083ca9f0f614dfdd41b2ba659c17a75194592f"
+  },
+  {
+    "project": {
+      "dir_name": "ybertot-@@-reachout_math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "counter_example.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 104,
+      "column": 4
+    },
+    "hash": "b3a8b6f9bc20ffd4131eb1627f083ca9f0f614dfdd41b2ba659c17a75194592f"
+  }
+]

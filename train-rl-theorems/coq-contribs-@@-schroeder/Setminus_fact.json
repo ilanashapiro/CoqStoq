@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-schroeder",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Setminus_fact.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "f34786ec4244c3fa8441cf57eb777da12f101cffd2aaa59b26546ce246dd9e73"
+  }
+]

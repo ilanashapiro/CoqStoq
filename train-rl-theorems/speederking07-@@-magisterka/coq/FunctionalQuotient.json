@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "speederking07-@@-magisterka",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/FunctionalQuotient.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "3e27ee2c2e478af549d549c9577bdb5ddfa60d86f591111a44da742694fc4283"
+  },
+  {
+    "project": {
+      "dir_name": "speederking07-@@-magisterka",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/FunctionalQuotient.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "3e27ee2c2e478af549d549c9577bdb5ddfa60d86f591111a44da742694fc4283"
+  }
+]

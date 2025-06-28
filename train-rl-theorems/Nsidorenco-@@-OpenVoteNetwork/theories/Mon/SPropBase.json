@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Nsidorenco-@@-OpenVoteNetwork",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Mon/SPropBase.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 6
+    },
+    "hash": "3c6733b6b7385cfa929ed98ae2a1c10b48a04b0d0bf97faa540a8248b08be633"
+  },
+  {
+    "project": {
+      "dir_name": "Nsidorenco-@@-OpenVoteNetwork",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Mon/SPropBase.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 6
+    },
+    "hash": "3c6733b6b7385cfa929ed98ae2a1c10b48a04b0d0bf97faa540a8248b08be633"
+  }
+]

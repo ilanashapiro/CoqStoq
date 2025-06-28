@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Adjoint/UnitCounitCoercions.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 10
+    },
+    "hash": "d92ca5cb6f944b64aa794b29a7954b66163b13e10171bb2d229688f614e98b39"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "katayamak-@@-Coq2014",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ex02_2.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "7e3dd8c61dfb2c4ade4417a7ef3b92f79632d715ad60d245290cd42b6af5f441"
+  },
+  {
+    "project": {
+      "dir_name": "katayamak-@@-Coq2014",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ex02_2.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "7e3dd8c61dfb2c4ade4417a7ef3b92f79632d715ad60d245290cd42b6af5f441"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/automata/Relations.v",
+    "theorem_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 122,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 123,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 140,
+      "column": 4
+    },
+    "hash": "45d4392e0e4d4cf63e07ee091dd55c030d1d9f7bf3056894a1a49c39b161d372"
+  }
+]

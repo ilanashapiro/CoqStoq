@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tinkerrobot-@@-Software_Foundations_Solutions2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "assignments/04/D.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 4
+    },
+    "hash": "1ace1aa4dffa0aa4ed7d6fb416a44320df864c5e89502cb003a6912875b0760b"
+  }
+]

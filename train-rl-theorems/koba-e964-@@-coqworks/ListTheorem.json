@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "koba-e964-@@-coqworks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ListTheorem.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "102b4bf151a14d49c7132d0318c97f18621e9a0a3f57bf69bfbc3c02a0b5931d"
+  }
+]

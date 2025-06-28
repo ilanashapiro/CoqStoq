@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "nullpointersetc-@@-Coq_sessions",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Articles/Article_2_A_Little_Sentential_Calculus.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 209,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 221,
+      "column": 4
+    },
+    "hash": "b6ab4e8ae1fe17a8bf6f6b4368ee12be2811ae65b2e18e7a2596711aad2facbd"
+  },
+  {
+    "project": {
+      "dir_name": "nullpointersetc-@@-Coq_sessions",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Articles/Article_2_A_Little_Sentential_Calculus.v",
+    "theorem_start_pos": {
+      "line": 311,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 311,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 313,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 332,
+      "column": 4
+    },
+    "hash": "b6ab4e8ae1fe17a8bf6f6b4368ee12be2811ae65b2e18e7a2596711aad2facbd"
+  }
+]

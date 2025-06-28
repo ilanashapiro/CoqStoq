@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "PRECISE-@@-smedl-fiat-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat/src/Narcissus/Common/Monoid.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 6
+    },
+    "hash": "278ab61488ffd3b28e565fe07c0212fc5acb3c1819482155308aa5afdfbf7b27"
+  }
+]

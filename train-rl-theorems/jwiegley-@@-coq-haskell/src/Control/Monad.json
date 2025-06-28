@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Monad.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 149,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 150,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 156,
+      "column": 4
+    },
+    "hash": "6b477270339bc7f022f8bdf3af49858e2d4863d1b35779a801faff38f9e988ba"
+  },
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Monad.v",
+    "theorem_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 159,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 165,
+      "column": 4
+    },
+    "hash": "6b477270339bc7f022f8bdf3af49858e2d4863d1b35779a801faff38f9e988ba"
+  },
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Monad.v",
+    "theorem_start_pos": {
+      "line": 167,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 168,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 169,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 173,
+      "column": 4
+    },
+    "hash": "6b477270339bc7f022f8bdf3af49858e2d4863d1b35779a801faff38f9e988ba"
+  },
+  {
+    "project": {
+      "dir_name": "jwiegley-@@-coq-haskell",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Monad.v",
+    "theorem_start_pos": {
+      "line": 175,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 183,
+      "column": 4
+    },
+    "hash": "6b477270339bc7f022f8bdf3af49858e2d4863d1b35779a801faff38f9e988ba"
+  }
+]

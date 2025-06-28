@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "annenkov-@@-stlcnorm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc/stlc.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 4
+    },
+    "hash": "e521fe03d7e392b80217f8b990db93bf05c451002a84e4958706169cf95478b8"
+  },
+  {
+    "project": {
+      "dir_name": "annenkov-@@-stlcnorm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc/stlc.v",
+    "theorem_start_pos": {
+      "line": 131,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 145,
+      "column": 4
+    },
+    "hash": "e521fe03d7e392b80217f8b990db93bf05c451002a84e4958706169cf95478b8"
+  },
+  {
+    "project": {
+      "dir_name": "annenkov-@@-stlcnorm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc/stlc.v",
+    "theorem_start_pos": {
+      "line": 162,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 164,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 165,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 4
+    },
+    "hash": "e521fe03d7e392b80217f8b990db93bf05c451002a84e4958706169cf95478b8"
+  },
+  {
+    "project": {
+      "dir_name": "annenkov-@@-stlcnorm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc/stlc.v",
+    "theorem_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 189,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 190,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 4
+    },
+    "hash": "e521fe03d7e392b80217f8b990db93bf05c451002a84e4958706169cf95478b8"
+  }
+]

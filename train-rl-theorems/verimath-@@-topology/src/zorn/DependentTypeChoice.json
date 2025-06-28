@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "verimath-@@-topology",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/zorn/DependentTypeChoice.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "c27f594b57e2c412e4953e4ba4afc8daab45dc1b79f034aeb57b10de70e84562"
+  }
+]

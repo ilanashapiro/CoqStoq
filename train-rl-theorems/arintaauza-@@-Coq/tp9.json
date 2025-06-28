@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "arintaauza-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tp9.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "930459b69897fb4332de59b8670152cf44d6a821545824b214904fd978e04c7a"
+  }
+]

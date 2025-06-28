@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jadephilipoom-@@-optimizer",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ProofOfConcept/Registers.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 37
+    },
+    "hash": "ea0e7148d25c40686d4627272470810a5e64da8f98c3190af791397a868ca5dc"
+  }
+]

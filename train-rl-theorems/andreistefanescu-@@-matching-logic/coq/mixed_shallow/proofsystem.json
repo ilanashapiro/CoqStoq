@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "andreistefanescu-@@-matching-logic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/mixed_shallow/proofsystem.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 4
+    },
+    "hash": "a87da30481126d4acaf98ea53633ab345da15f70039bcdd358004636aaee1e19"
+  },
+  {
+    "project": {
+      "dir_name": "andreistefanescu-@@-matching-logic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/mixed_shallow/proofsystem.v",
+    "theorem_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 167,
+      "column": 4
+    },
+    "hash": "a87da30481126d4acaf98ea53633ab345da15f70039bcdd358004636aaee1e19"
+  },
+  {
+    "project": {
+      "dir_name": "andreistefanescu-@@-matching-logic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/mixed_shallow/proofsystem.v",
+    "theorem_start_pos": {
+      "line": 169,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 4
+    },
+    "hash": "a87da30481126d4acaf98ea53633ab345da15f70039bcdd358004636aaee1e19"
+  }
+]

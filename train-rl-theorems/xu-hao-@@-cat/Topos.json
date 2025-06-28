@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "xu-hao-@@-cat",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Topos.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "93c010eba0679c04f79b63519b44bcbbc6f0e1d5787d3aad88f1069935ceacbc"
+  }
+]

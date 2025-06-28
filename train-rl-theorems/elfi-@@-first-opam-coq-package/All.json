@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "elfi-@@-first-opam-coq-package",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "All.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3,
+      "column": 4
+    },
+    "hash": "f03a13a68d88ed2f67e11ee4d7063ddc9afbd47c6c7c2431a3934f496ba6b87e"
+  }
+]

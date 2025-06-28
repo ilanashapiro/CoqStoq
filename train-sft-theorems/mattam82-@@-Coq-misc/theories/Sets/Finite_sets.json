@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Finite_sets.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 62,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 6
+    },
+    "hash": "ae94b9a1014dd01bd5edb9a3057ea9b9de0137a97aea8469c399af4b0afc6c89"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Finite_sets.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 6
+    },
+    "hash": "ae94b9a1014dd01bd5edb9a3057ea9b9de0137a97aea8469c399af4b0afc6c89"
+  }
+]

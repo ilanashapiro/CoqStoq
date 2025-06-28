@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Darius60-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "epreuve_12_resolu.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 388,
+      "column": 4
+    },
+    "hash": "333b61938a482a14ed3f1df0336b6584a06412b9809d8100384138921ba2ec88"
+  }
+]

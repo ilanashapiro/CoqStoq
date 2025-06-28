@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/HIT/epi.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 6
+    },
+    "hash": "6f2076dcb8cc8be2f2e0708be2f3b4d62f24ed9ea09b9722f92abf727307753b"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/HIT/epi.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 108,
+      "column": 4
+    },
+    "hash": "6f2076dcb8cc8be2f2e0708be2f3b4d62f24ed9ea09b9722f92abf727307753b"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/HIT/epi.v",
+    "theorem_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 167,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 168,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 178,
+      "column": 4
+    },
+    "hash": "6f2076dcb8cc8be2f2e0708be2f3b4d62f24ed9ea09b9722f92abf727307753b"
+  }
+]

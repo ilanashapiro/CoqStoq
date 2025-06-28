@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "alvarofpp-@@-course-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "logica_proposicional_e_predicados/conjuncao/exercicio_06.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "5032f29707772271d5d67df9bbcd6fa2776a76ee2985e153a4d7ba7c02f85670"
+  }
+]

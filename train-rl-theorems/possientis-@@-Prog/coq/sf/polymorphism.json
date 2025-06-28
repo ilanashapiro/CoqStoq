@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/sf/polymorphism.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 4
+    },
+    "hash": "64cd602c6fd0b261600c788931168128846c6d7b3b5497ba4b1d47adae5137d5"
+  }
+]

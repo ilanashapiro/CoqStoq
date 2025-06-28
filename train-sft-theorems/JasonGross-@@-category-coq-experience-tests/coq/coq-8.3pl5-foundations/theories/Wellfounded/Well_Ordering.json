@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Wellfounded/Well_Ordering.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 6
+    },
+    "hash": "bce6709c914b502f4b71031550fb20ccbded28f609fc277ef0885e74f4d920bd"
+  }
+]

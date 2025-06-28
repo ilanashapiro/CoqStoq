@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jflopezfernandez-@@-Coq-Math-Modules",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/NaturalNumbers.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "3d0537e01ee52a56f6081fb18c3922fbf9014f70b306a272f166bb1c1bb889fd"
+  }
+]

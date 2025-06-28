@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Typonomikon",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/CoqSpecific/PrimitiveProjections.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "a9b10a1d23e452681ba56e03476f4555b2eee28cd5871f2d8dbc5d968c6c9c3f"
+  },
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Typonomikon",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/CoqSpecific/PrimitiveProjections.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "a9b10a1d23e452681ba56e03476f4555b2eee28cd5871f2d8dbc5d968c6c9c3f"
+  }
+]

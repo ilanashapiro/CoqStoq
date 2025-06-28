@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "davidjao-@@-zfc-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "groups.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 6
+    },
+    "hash": "8e6c0db4cf34bae623a4135ecd57719e6141bc224a7419cbe37266446ccdc0a1"
+  },
+  {
+    "project": {
+      "dir_name": "davidjao-@@-zfc-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "groups.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 6
+    },
+    "hash": "8e6c0db4cf34bae623a4135ecd57719e6141bc224a7419cbe37266446ccdc0a1"
+  },
+  {
+    "project": {
+      "dir_name": "davidjao-@@-zfc-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "groups.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 6
+    },
+    "hash": "8e6c0db4cf34bae623a4135ecd57719e6141bc224a7419cbe37266446ccdc0a1"
+  }
+]

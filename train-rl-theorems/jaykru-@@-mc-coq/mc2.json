@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jaykru-@@-mc-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mc2.v",
+    "theorem_start_pos": {
+      "line": 260,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 264,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 380,
+      "column": 4
+    },
+    "hash": "f79276f5c597ea58a0ecb4a514994f6f857be125aa28f9f11516e71e88596b0f"
+  }
+]

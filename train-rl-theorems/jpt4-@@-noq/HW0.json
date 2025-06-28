@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jpt4-@@-noq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "HW0.v",
+    "theorem_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 95,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 105,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 4
+    },
+    "hash": "0cc0362a298f8d8b257345655fc3fb9b69b45048464f393b8b0af925f8f63a3f"
+  }
+]

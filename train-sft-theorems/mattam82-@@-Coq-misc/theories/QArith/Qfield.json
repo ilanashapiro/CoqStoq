@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/QArith/Qfield.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "ce3cf4497ecdcb1b5ade8ba7f5ee0e164864a4b9f3b91ce616037dc88a5163d8"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/QArith/Qfield.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 133,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 134,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 4
+    },
+    "hash": "ce3cf4497ecdcb1b5ade8ba7f5ee0e164864a4b9f3b91ce616037dc88a5163d8"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/QArith/Qfield.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 138,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 141,
+      "column": 4
+    },
+    "hash": "ce3cf4497ecdcb1b5ade8ba7f5ee0e164864a4b9f3b91ce616037dc88a5163d8"
+  }
+]

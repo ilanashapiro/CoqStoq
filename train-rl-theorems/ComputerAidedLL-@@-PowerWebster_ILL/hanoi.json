@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "ComputerAidedLL-@@-PowerWebster_ILL",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hanoi.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 4
+    },
+    "hash": "85ea57bc744f6001ded923c6fb6e91c16e828aa48624faf71207cd372603d6e3"
+  },
+  {
+    "project": {
+      "dir_name": "ComputerAidedLL-@@-PowerWebster_ILL",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hanoi.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 106,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "85ea57bc744f6001ded923c6fb6e91c16e828aa48624faf71207cd372603d6e3"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "CoqHott-@@-univalent_parametricity",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/HoTT.v",
+    "theorem_start_pos": {
+      "line": 613,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 613,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 614,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 643,
+      "column": 4
+    },
+    "hash": "ac7532524231f265fddfd9756b08fdde4471797337e1105b54dfb29857fbecf8"
+  }
+]

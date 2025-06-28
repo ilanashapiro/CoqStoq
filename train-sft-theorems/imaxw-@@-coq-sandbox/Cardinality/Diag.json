@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "imaxw-@@-coq-sandbox",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Cardinality/Diag.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 6
+    },
+    "hash": "1bdc1fcad7bd42a150bf23c5c430a17c77476a952fa9397fb4ea21c9918a0123"
+  },
+  {
+    "project": {
+      "dir_name": "imaxw-@@-coq-sandbox",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Cardinality/Diag.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 6
+    },
+    "hash": "1bdc1fcad7bd42a150bf23c5c430a17c77476a952fa9397fb4ea21c9918a0123"
+  }
+]

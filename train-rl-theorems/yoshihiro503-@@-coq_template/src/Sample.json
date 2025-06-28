@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "yoshihiro503-@@-coq_template",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Sample.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "ba0c20b03a469a8f23904090cbe8ddd70c15bd630c0efd334b0e7fa0f5f16dd0"
+  }
+]

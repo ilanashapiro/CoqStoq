@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mgrabovsky-@@-fm-notes",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sketches/Vector2.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 87
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 4
+    },
+    "hash": "be104bb795317c1a7ce98a4135338a25ba3b23e4814064594ea01ad83f22bebc"
+  },
+  {
+    "project": {
+      "dir_name": "mgrabovsky-@@-fm-notes",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sketches/Vector2.v",
+    "theorem_start_pos": {
+      "line": 103,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 103,
+      "column": 99
+    },
+    "proof_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 114,
+      "column": 4
+    },
+    "hash": "be104bb795317c1a7ce98a4135338a25ba3b23e4814064594ea01ad83f22bebc"
+  },
+  {
+    "project": {
+      "dir_name": "mgrabovsky-@@-fm-notes",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sketches/Vector2.v",
+    "theorem_start_pos": {
+      "line": 116,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 117,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 122,
+      "column": 4
+    },
+    "hash": "be104bb795317c1a7ce98a4135338a25ba3b23e4814064594ea01ad83f22bebc"
+  }
+]

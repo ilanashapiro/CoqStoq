@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "elpi/coq_elpi_tactic_sample_1.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "41195c9d66f1d8f672c1520fcdaa39292f7fb0d96baa9308cb41c911a0d93c5e"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "elpi/coq_elpi_tactic_sample_1.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "41195c9d66f1d8f672c1520fcdaa39292f7fb0d96baa9308cb41c911a0d93c5e"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "elpi/coq_elpi_tactic_sample_1.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 212,
+      "column": 4
+    },
+    "hash": "41195c9d66f1d8f672c1520fcdaa39292f7fb0d96baa9308cb41c911a0d93c5e"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "elpi/coq_elpi_tactic_sample_1.v",
+    "theorem_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 245,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 246,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 249,
+      "column": 4
+    },
+    "hash": "41195c9d66f1d8f672c1520fcdaa39292f7fb0d96baa9308cb41c911a0d93c5e"
+  }
+]

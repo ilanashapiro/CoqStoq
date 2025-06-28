@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "aidatorajiro-@@-WorksOfProof",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "suretu.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 160
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "e45d86b62a082d1f66d2d39e928c6ea2c54cdee4113551eff19e47597f2977d7"
+  },
+  {
+    "project": {
+      "dir_name": "aidatorajiro-@@-WorksOfProof",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "suretu.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 163
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "e45d86b62a082d1f66d2d39e928c6ea2c54cdee4113551eff19e47597f2977d7"
+  },
+  {
+    "project": {
+      "dir_name": "aidatorajiro-@@-WorksOfProof",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "suretu.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 111
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "e45d86b62a082d1f66d2d39e928c6ea2c54cdee4113551eff19e47597f2977d7"
+  }
+]

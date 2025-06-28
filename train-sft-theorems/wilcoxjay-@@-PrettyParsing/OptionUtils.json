@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "wilcoxjay-@@-PrettyParsing",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "OptionUtils.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "28c1f8bfd3e51e0d7e60721474559b808efd2ed8b100f5b269233a9e56e4272a"
+  }
+]

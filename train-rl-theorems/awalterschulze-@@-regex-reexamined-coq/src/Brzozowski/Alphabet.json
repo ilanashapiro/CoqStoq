@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "awalterschulze-@@-regex-reexamined-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Brzozowski/Alphabet.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "00d681d8a8967e3f5c457162ab1a3a6c96f47605931ab79dab40a65ed4e2b8a1"
+  },
+  {
+    "project": {
+      "dir_name": "awalterschulze-@@-regex-reexamined-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Brzozowski/Alphabet.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "00d681d8a8967e3f5c457162ab1a3a6c96f47605931ab79dab40a65ed4e2b8a1"
+  }
+]

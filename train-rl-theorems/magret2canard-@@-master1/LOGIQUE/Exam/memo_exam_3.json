@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "magret2canard-@@-master1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LOGIQUE/Exam/memo_exam_3.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 4
+    },
+    "hash": "e24d1d7a83751c79a06589f26f7a13fc5aa74e6e1f8494478f57570c5c7d7c06"
+  },
+  {
+    "project": {
+      "dir_name": "magret2canard-@@-master1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LOGIQUE/Exam/memo_exam_3.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 175,
+      "column": 4
+    },
+    "hash": "e24d1d7a83751c79a06589f26f7a13fc5aa74e6e1f8494478f57570c5c7d7c06"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dinosaure-@@--",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "first.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "9d85b7fd70e327283986c63ab1869650b2156e98f52e30c57c014ad01e0d168b"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "AU-PL-@@-lectures",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "02-08-2021/note.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "3a257aa5f2f3aef4898b4311bb2723069a7294243bb5eaf41089780fdcce3dd0"
+  },
+  {
+    "project": {
+      "dir_name": "AU-PL-@@-lectures",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "02-08-2021/note.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 81,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "hash": "3a257aa5f2f3aef4898b4311bb2723069a7294243bb5eaf41089780fdcce3dd0"
+  }
+]

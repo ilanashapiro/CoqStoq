@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "gmalecha-@@-coq-refinement",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/Dependent.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "3535c2e493039bcd9b329e87ed8c2b3db454016ae4b63690756f48d75974dfd6"
+  }
+]

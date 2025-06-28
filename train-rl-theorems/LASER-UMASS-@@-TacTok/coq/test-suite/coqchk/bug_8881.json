@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/coqchk/bug_8881.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 6
+    },
+    "hash": "41d363979df83ee883ec933fd91ac6bc71cca80b73854702d2e7a32b094061af"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "rsidhoum-@@-comp_cert_lambda_cam",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CAM.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 101
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "37c18c3e8b7d6d0e7cb8183a42620b93179bbfdc2f25aa8cf8a20c806265ab96"
+  },
+  {
+    "project": {
+      "dir_name": "rsidhoum-@@-comp_cert_lambda_cam",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CAM.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 157
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 4
+    },
+    "hash": "37c18c3e8b7d6d0e7cb8183a42620b93179bbfdc2f25aa8cf8a20c806265ab96"
+  }
+]

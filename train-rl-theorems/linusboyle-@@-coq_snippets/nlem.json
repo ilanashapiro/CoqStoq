@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "linusboyle-@@-coq_snippets",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "nlem.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "cc43c216174dfaf07b6d8a43038d36cfe95dc9f0689fa250ad6c41bfab62cb32"
+  }
+]

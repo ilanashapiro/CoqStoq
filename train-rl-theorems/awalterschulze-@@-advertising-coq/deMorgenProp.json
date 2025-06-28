@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "awalterschulze-@@-advertising-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "deMorgenProp.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "461f27f5ea4772ca3e6c74fcee9f37b8afcf59a2d7ec787a0d1af45d46829f21"
+  }
+]

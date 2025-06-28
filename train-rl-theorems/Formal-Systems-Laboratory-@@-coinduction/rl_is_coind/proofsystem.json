@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Formal-Systems-Laboratory-@@-coinduction",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "rl_is_coind/proofsystem.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 4
+    },
+    "hash": "d2ee0bfe51acf6c459545099b5d8d7cceb5d4c516f84be77538b9856d99a38f4"
+  },
+  {
+    "project": {
+      "dir_name": "Formal-Systems-Laboratory-@@-coinduction",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "rl_is_coind/proofsystem.v",
+    "theorem_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 167,
+      "column": 4
+    },
+    "hash": "d2ee0bfe51acf6c459545099b5d8d7cceb5d4c516f84be77538b9856d99a38f4"
+  },
+  {
+    "project": {
+      "dir_name": "Formal-Systems-Laboratory-@@-coinduction",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "rl_is_coind/proofsystem.v",
+    "theorem_start_pos": {
+      "line": 169,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 4
+    },
+    "hash": "d2ee0bfe51acf6c459545099b5d8d7cceb5d4c516f84be77538b9856d99a38f4"
+  }
+]

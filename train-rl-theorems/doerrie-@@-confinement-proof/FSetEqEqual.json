@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "doerrie-@@-confinement-proof",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FSetEqEqual.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 6
+    },
+    "hash": "2681529809ff95c153a52b5c37f94f49791c7f4aa02cccb49185ad347f0c01d7"
+  }
+]

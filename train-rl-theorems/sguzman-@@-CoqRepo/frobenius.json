@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "sguzman-@@-CoqRepo",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "frobenius.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "f0bdcb89cda818efc83cca685534b53106b30597e55578a052ddcc7f6c056dee"
+  }
+]

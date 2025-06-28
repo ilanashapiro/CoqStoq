@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-fairisle",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Libraries/Lib_Basis/Lib_Set_Products.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "f9a9b4ade431614e5261f0cff811fca30e46bf5dfb7d213f3a47ff0f9f48f88f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-fairisle",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Libraries/Lib_Basis/Lib_Set_Products.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "f9a9b4ade431614e5261f0cff811fca30e46bf5dfb7d213f3a47ff0f9f48f88f"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-fairisle",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Libraries/Lib_Basis/Lib_Set_Products.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "f9a9b4ade431614e5261f0cff811fca30e46bf5dfb7d213f3a47ff0f9f48f88f"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "ghulette-@@-coq-abstract-datatypes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Monoid.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 6
+    },
+    "hash": "eed7a0ecc6022c3c8fab3173ebb343ed775a96ff30d371c960e4dab569c1d341"
+  },
+  {
+    "project": {
+      "dir_name": "ghulette-@@-coq-abstract-datatypes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Monoid.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 6
+    },
+    "hash": "eed7a0ecc6022c3c8fab3173ebb343ed775a96ff30d371c960e4dab569c1d341"
+  },
+  {
+    "project": {
+      "dir_name": "ghulette-@@-coq-abstract-datatypes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Monoid.v",
+    "theorem_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 4
+    },
+    "hash": "eed7a0ecc6022c3c8fab3173ebb343ed775a96ff30d371c960e4dab569c1d341"
+  },
+  {
+    "project": {
+      "dir_name": "ghulette-@@-coq-abstract-datatypes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Monoid.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "eed7a0ecc6022c3c8fab3173ebb343ed775a96ff30d371c960e4dab569c1d341"
+  }
+]

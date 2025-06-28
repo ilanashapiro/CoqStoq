@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/LaxComma/CoreLaws.v",
+    "theorem_start_pos": {
+      "line": 156,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 197,
+      "column": 109
+    },
+    "proof_start_pos": {
+      "line": 198,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 200,
+      "column": 8
+    },
+    "hash": "b6503ca402e7cd874b6702d2ff2f73f5e689b622c53bf995e68c96c639a79d64"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/LaxComma/CoreLaws.v",
+    "theorem_start_pos": {
+      "line": 275,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 295,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 296,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 298,
+      "column": 8
+    },
+    "hash": "b6503ca402e7cd874b6702d2ff2f73f5e689b622c53bf995e68c96c639a79d64"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/LaxComma/CoreLaws.v",
+    "theorem_start_pos": {
+      "line": 371,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 392,
+      "column": 109
+    },
+    "proof_start_pos": {
+      "line": 393,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 395,
+      "column": 8
+    },
+    "hash": "b6503ca402e7cd874b6702d2ff2f73f5e689b622c53bf995e68c96c639a79d64"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "ZiruiOu-@@-MathCoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/irrational.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 8
+    },
+    "hash": "66b989864ee222cd1ec9b4cfc30ab6e68d56a46367e01bf0105b6f57237beada"
+  },
+  {
+    "project": {
+      "dir_name": "ZiruiOu-@@-MathCoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/irrational.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 8
+    },
+    "hash": "66b989864ee222cd1ec9b4cfc30ab6e68d56a46367e01bf0105b6f57237beada"
+  },
+  {
+    "project": {
+      "dir_name": "ZiruiOu-@@-MathCoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/irrational.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 8
+    },
+    "hash": "66b989864ee222cd1ec9b4cfc30ab6e68d56a46367e01bf0105b6f57237beada"
+  },
+  {
+    "project": {
+      "dir_name": "ZiruiOu-@@-MathCoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/irrational.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 72,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 8
+    },
+    "hash": "66b989864ee222cd1ec9b4cfc30ab6e68d56a46367e01bf0105b6f57237beada"
+  }
+]

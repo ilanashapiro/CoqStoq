@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "itleigns-@@-CoqLibrary",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LibraryExtension/DatatypesExtension.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "94221a2435549d312acd22a51c4dc1807e0ea4693a0685b57566f7f4525d30c6"
+  },
+  {
+    "project": {
+      "dir_name": "itleigns-@@-CoqLibrary",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LibraryExtension/DatatypesExtension.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "94221a2435549d312acd22a51c4dc1807e0ea4693a0685b57566f7f4525d30c6"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "amintimany-@@-Categories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "PreSheaf/SubObject_Classifier.v",
+    "theorem_start_pos": {
+      "line": 346,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 346,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 347,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 441,
+      "column": 6
+    },
+    "hash": "a7898fb91e974568a901235ca95c5328e45d1a1b92588273804bb90252ab52ba"
+  }
+]

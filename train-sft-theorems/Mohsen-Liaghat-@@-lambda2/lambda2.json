@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Mohsen-Liaghat-@@-lambda2",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lambda2.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 116
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 4
+    },
+    "hash": "1a97743dbbb18f99ace3f41ca5be1351d27c0b4562b8308d3dd44c79fd228537"
+  }
+]

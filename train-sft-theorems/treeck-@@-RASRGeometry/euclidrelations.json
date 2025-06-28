@@ -1,0 +1,843 @@
+[
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 103,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 123,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 124,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 143,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 147,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 153,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 158,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 165,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 170,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 206,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 272,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 272,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 273,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 273,
+      "column": 46
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 404,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 405,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 406,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 409,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 413,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 414,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 415,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 431,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 434,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 434,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 435,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 438,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 441,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 442,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 443,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 452,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 455,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 456,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 457,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 460,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 463,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 464,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 465,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 465,
+      "column": 68
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 482,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 484,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 485,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 485,
+      "column": 42
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 488,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 490,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 491,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 494,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 497,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 499,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 500,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 533,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 537,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 541,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 542,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 555,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 572,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 581,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 582,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 592,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 621,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 630,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 631,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 640,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 643,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 652,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 653,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 671,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 679,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 706,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 707,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 788,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 795,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 848,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 849,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 920,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 924,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 982,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 983,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1009,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 1037,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1040,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 1041,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1059,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 1061,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1068,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 1069,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1076,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 1088,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1092,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 1093,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1101,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 1106,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1114,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 1115,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1150,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 1154,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1157,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 1158,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1164,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  },
+  {
+    "project": {
+      "dir_name": "treeck-@@-RASRGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "euclidrelations.v",
+    "theorem_start_pos": {
+      "line": 1178,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1189,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 1190,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1205,
+      "column": 4
+    },
+    "hash": "3f0c1f8b3538634a9eae6ed9620bafdf9420259c1cb7335b3a99e8b188076f8b"
+  }
+]

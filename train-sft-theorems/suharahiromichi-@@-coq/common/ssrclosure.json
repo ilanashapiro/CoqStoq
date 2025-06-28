@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "common/ssrclosure.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 6
+    },
+    "hash": "6778ad4d598ad53dfd9728bca16ebfbf1c916b30c312ecaad98e8a1288fe7d57"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "common/ssrclosure.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 6
+    },
+    "hash": "6778ad4d598ad53dfd9728bca16ebfbf1c916b30c312ecaad98e8a1288fe7d57"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Monads/Retract.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "4b954c294056fda125e7026749e582d9c682e73a2723111cb29aa7afb4edf346"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Monads/Retract.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "4b954c294056fda125e7026749e582d9c682e73a2723111cb29aa7afb4edf346"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Monads/Retract.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 125,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 135,
+      "column": 4
+    },
+    "hash": "4b954c294056fda125e7026749e582d9c682e73a2723111cb29aa7afb4edf346"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Monads/Retract.v",
+    "theorem_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 156,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 168,
+      "column": 4
+    },
+    "hash": "4b954c294056fda125e7026749e582d9c682e73a2723111cb29aa7afb4edf346"
+  }
+]

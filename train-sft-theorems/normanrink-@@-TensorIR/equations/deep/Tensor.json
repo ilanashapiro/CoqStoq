@@ -1,0 +1,379 @@
+[
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 116,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 151,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 164,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 165,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 192,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 193,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 209,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 223,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 224,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 233,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 250,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 251,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 269,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 287,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 289,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 306,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 308,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 310,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 311,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 328,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 330,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 331,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 332,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 338,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 356,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 359,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 360,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 378,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 380,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 383,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 384,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 401,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/deep/Tensor.v",
+    "theorem_start_pos": {
+      "line": 403,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 404,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 405,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 409,
+      "column": 4
+    },
+    "hash": "27f91c611889d5f58f2f59b678a2af5791c30f67c835a4fc0b9baeace63dc2e2"
+  }
+]

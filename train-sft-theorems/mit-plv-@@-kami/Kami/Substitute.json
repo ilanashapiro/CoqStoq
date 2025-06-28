@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Substitute.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 6
+    },
+    "hash": "99312bde9e1ceb8c21379c7015776e3269d77decefee33f8e37dbc1487792dbc"
+  }
+]

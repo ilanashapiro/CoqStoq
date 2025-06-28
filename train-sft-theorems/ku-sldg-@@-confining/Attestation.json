@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-confining",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Attestation.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "hash": "8218bc8b8ff80def115754f3d1e8b9cfcbda5efc3a7b541c3de7fd099bdd30bf"
+  },
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-confining",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Attestation.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 6
+    },
+    "hash": "8218bc8b8ff80def115754f3d1e8b9cfcbda5efc3a7b541c3de7fd099bdd30bf"
+  }
+]

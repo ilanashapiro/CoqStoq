@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "RSilviu-@@-coq2sol",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "main/Semantics.v",
+    "theorem_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 220,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 226,
+      "column": 4
+    },
+    "hash": "ac17e415cd729708bd76a246c6ffb429b9d70a6d4e015a49c68a8de05d3acce2"
+  }
+]

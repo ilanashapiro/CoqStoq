@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch3_propositions_proofs/SRC/cut_example.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 5
+    },
+    "hash": "5c37e6c9a12536abf7019ce4003f812d973e93b905ffa728211d25d6485bb69e"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch3_propositions_proofs/SRC/cut_example.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 5
+    },
+    "hash": "5c37e6c9a12536abf7019ce4003f812d973e93b905ffa728211d25d6485bb69e"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch3_propositions_proofs/SRC/cut_example.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 5
+    },
+    "hash": "5c37e6c9a12536abf7019ce4003f812d973e93b905ffa728211d25d6485bb69e"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch3_propositions_proofs/SRC/cut_example.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 21
+    },
+    "hash": "5c37e6c9a12536abf7019ce4003f812d973e93b905ffa728211d25d6485bb69e"
+  }
+]

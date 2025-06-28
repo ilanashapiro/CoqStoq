@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "chdoc-@@-comp-dec-modal-libs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "induced_sym.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "5361afee02ff7c379d70d5a52540aead10f4ea9b3bc53fb8d1ee32cc157fad30"
+  },
+  {
+    "project": {
+      "dir_name": "chdoc-@@-comp-dec-modal-libs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "induced_sym.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 51
+    },
+    "hash": "5361afee02ff7c379d70d5a52540aead10f4ea9b3bc53fb8d1ee32cc157fad30"
+  },
+  {
+    "project": {
+      "dir_name": "chdoc-@@-comp-dec-modal-libs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "induced_sym.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 92
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "5361afee02ff7c379d70d5a52540aead10f4ea9b3bc53fb8d1ee32cc157fad30"
+  }
+]

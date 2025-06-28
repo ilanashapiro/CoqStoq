@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "klara-zielinska-@@-refocusing2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/Vector2.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "be55e9a373dd4a414625a7908388db1d8928d4d12f8c8ca6abc575aaddc5654d"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-slow-coq-examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "slow_fiat_eapply_example/src/Common/SetoidInstances.v",
+    "theorem_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 161,
+      "column": 4
+    },
+    "hash": "6fadbe869cd9cc1ad714ef6ec45108821ac560e8f3224ba63648253679aec5b3"
+  }
+]

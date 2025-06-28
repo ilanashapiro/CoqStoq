@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "IonitaCatalin-@@-programming-language-principle",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_arc/curs2_arbori.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "1b07ddf90d972100c753a83ef2331fc830e251ee0bf08a3c1401d8195f2372e2"
+  }
+]

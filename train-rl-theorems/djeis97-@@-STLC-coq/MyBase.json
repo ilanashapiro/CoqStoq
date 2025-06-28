@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "djeis97-@@-STLC-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "MyBase.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "6e8767c866046f9df9c6079f656ce88d3286c5b0f897585b1e6e48c0e0a2a87c"
+  }
+]

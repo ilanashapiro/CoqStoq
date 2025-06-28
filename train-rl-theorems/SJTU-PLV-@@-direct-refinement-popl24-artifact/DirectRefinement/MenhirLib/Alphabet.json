@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "SJTU-PLV-@@-direct-refinement-popl24-artifact",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "DirectRefinement/MenhirLib/Alphabet.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "3ece689c424959f10893551f5cf29d90a424c91949d251d4e3ce4fbb77ed3c6e"
+  },
+  {
+    "project": {
+      "dir_name": "SJTU-PLV-@@-direct-refinement-popl24-artifact",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "DirectRefinement/MenhirLib/Alphabet.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 134,
+      "column": 4
+    },
+    "hash": "3ece689c424959f10893551f5cf29d90a424c91949d251d4e3ce4fbb77ed3c6e"
+  },
+  {
+    "project": {
+      "dir_name": "SJTU-PLV-@@-direct-refinement-popl24-artifact",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "DirectRefinement/MenhirLib/Alphabet.v",
+    "theorem_start_pos": {
+      "line": 235,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 235,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 236,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 236,
+      "column": 57
+    },
+    "hash": "3ece689c424959f10893551f5cf29d90a424c91949d251d4e3ce4fbb77ed3c6e"
+  },
+  {
+    "project": {
+      "dir_name": "SJTU-PLV-@@-direct-refinement-popl24-artifact",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "DirectRefinement/MenhirLib/Alphabet.v",
+    "theorem_start_pos": {
+      "line": 237,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 238,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 239,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 241,
+      "column": 6
+    },
+    "hash": "3ece689c424959f10893551f5cf29d90a424c91949d251d4e3ce4fbb77ed3c6e"
+  }
+]

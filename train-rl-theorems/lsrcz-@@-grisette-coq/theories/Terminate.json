@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "lsrcz-@@-grisette-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Terminate.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 349,
+      "column": 4
+    },
+    "hash": "cf4eb0c2eb3ace3f94c4e2ee05838843d11a19d7b0824bb8fac2cd68e3d9e1c7"
+  },
+  {
+    "project": {
+      "dir_name": "lsrcz-@@-grisette-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Terminate.v",
+    "theorem_start_pos": {
+      "line": 357,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 360,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 361,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 370,
+      "column": 4
+    },
+    "hash": "cf4eb0c2eb3ace3f94c4e2ee05838843d11a19d7b0824bb8fac2cd68e3d9e1c7"
+  }
+]

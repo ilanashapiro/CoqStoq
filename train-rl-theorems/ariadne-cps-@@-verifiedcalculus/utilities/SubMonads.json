@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ariadne-cps-@@-verifiedcalculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "utilities/SubMonads.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "hash": "ce25793c3f6598093f8dfdebcbffae80c1e166b62a7970dbde6e60cf3586a8f5"
+  }
+]

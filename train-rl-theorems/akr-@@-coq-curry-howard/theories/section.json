@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "akr-@@-coq-curry-howard",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/section.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 17
+    },
+    "hash": "82466a1435aa7547a19ffa7681533fdaab51db48a28b050c12a5b6d8d97ebb0b"
+  }
+]

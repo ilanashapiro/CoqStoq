@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "inQWIRE-@@-QWIRE",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Monoid.v",
+    "theorem_start_pos": {
+      "line": 262,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 263,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 264,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 267,
+      "column": 6
+    },
+    "hash": "ed1cd79873b70b47ee70586469c4fca6dfb38d895371653de5f0509ec7fac336"
+  }
+]

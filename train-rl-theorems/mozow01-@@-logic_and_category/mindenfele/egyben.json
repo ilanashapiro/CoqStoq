@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mozow01-@@-logic_and_category",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mindenfele/egyben.v",
+    "theorem_start_pos": {
+      "line": 152,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 153,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 206,
+      "column": 4
+    },
+    "hash": "4ac6e47d2ddc9c1e14144941675ce957a5b509f45ad22376ca605fa180b9e0b7"
+  }
+]

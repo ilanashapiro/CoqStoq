@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-coqart",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch6_inductive_data/SRC/mult2.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "2b3f78c0c574422ff290ea40e47513ec08fe789e9f805f52bd7903cf4e665f37"
+  }
+]

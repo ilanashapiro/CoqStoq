@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/cttwc/sigma.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "0cd8ef654a8336893ceadc26dbecf712dbcabdc82f772367a34ade205e1ab162"
+  },
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/cttwc/sigma.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 150,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 156,
+      "column": 4
+    },
+    "hash": "0cd8ef654a8336893ceadc26dbecf712dbcabdc82f772367a34ade205e1ab162"
+  },
+  {
+    "project": {
+      "dir_name": "possientis-@@-Prog",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/cttwc/sigma.v",
+    "theorem_start_pos": {
+      "line": 162,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 164,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 165,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 167,
+      "column": 4
+    },
+    "hash": "0cd8ef654a8336893ceadc26dbecf712dbcabdc82f772367a34ade205e1ab162"
+  }
+]

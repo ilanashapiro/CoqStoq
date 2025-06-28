@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "yskim5892-@@-Coq_math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Relation.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "7a3f9c82c405166ca6c93364d4da53e378e88840c64cf3cc6932104ceb044b79"
+  }
+]

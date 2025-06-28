@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "pa-ba-@@-calc-comp",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Arith.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "hash": "a849d239dc10643c55dd28269c84ed5cb6ec25f47c23d44ceead7444fb2f0759"
+  },
+  {
+    "project": {
+      "dir_name": "pa-ba-@@-calc-comp",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Arith.v",
+    "theorem_start_pos": {
+      "line": 100,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 102,
+      "column": 4
+    },
+    "hash": "a849d239dc10643c55dd28269c84ed5cb6ec25f47c23d44ceead7444fb2f0759"
+  },
+  {
+    "project": {
+      "dir_name": "pa-ba-@@-calc-comp",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Arith.v",
+    "theorem_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "a849d239dc10643c55dd28269c84ed5cb6ec25f47c23d44ceead7444fb2f0759"
+  }
+]

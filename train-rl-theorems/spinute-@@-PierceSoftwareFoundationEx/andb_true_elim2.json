@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "spinute-@@-PierceSoftwareFoundationEx",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "andb_true_elim2.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 5
+    },
+    "hash": "b182b97c84633487dd9b0ea847f5ac59839f4735a7d854e334e15c9df4480e6b"
+  }
+]

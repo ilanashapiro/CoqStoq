@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "alvarofpp-@@-course-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "logica_proposicional_e_predicados/quantificadores_universal_existencial/exercicio_12.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 116
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "a0c6278229a420a3f899ed5ddedbf698f5b99569304c031f0ceb9c87ba949b19"
+  }
+]

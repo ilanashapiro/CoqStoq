@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "serid-@@-coq-theories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Functor/Even2.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "1c034508b8334c2e2a67f70fe45b34ed1edd983fd11a3f5f3a15afebb491732e"
+  }
+]

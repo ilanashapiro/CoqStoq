@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "emarzion-@@-lc-self-interpreter",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Util/Fin.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "391d523ac88ffad2c47eab27aa9d8610701bb313e666741f610cb8e268317198"
+  },
+  {
+    "project": {
+      "dir_name": "emarzion-@@-lc-self-interpreter",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Util/Fin.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 81,
+      "column": 4
+    },
+    "hash": "391d523ac88ffad2c47eab27aa9d8610701bb313e666741f610cb8e268317198"
+  }
+]

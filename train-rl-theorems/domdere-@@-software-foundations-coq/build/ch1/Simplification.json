@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "domdere-@@-software-foundations-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "build/ch1/Simplification.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2,
+      "column": 31
+    },
+    "hash": "39e90e3abb16098549197ef81d76926a5dfacc02b3a0968cc525fa030f326a86"
+  },
+  {
+    "project": {
+      "dir_name": "domdere-@@-software-foundations-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "build/ch1/Simplification.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 29
+    },
+    "hash": "39e90e3abb16098549197ef81d76926a5dfacc02b3a0968cc525fa030f326a86"
+  },
+  {
+    "project": {
+      "dir_name": "domdere-@@-software-foundations-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "build/ch1/Simplification.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 29
+    },
+    "hash": "39e90e3abb16098549197ef81d76926a5dfacc02b3a0968cc525fa030f326a86"
+  }
+]

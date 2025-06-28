@@ -1,0 +1,205 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/SetConstraints/Util/Facts.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "02ef65a56f24b487ab489ee63bc2411bc8901b3bcb084bf8c5216e5f6678c8e8"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/SetConstraints/Util/Facts.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 17
+    },
+    "hash": "02ef65a56f24b487ab489ee63bc2411bc8901b3bcb084bf8c5216e5f6678c8e8"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/SetConstraints/Util/Facts.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 48
+    },
+    "hash": "02ef65a56f24b487ab489ee63bc2411bc8901b3bcb084bf8c5216e5f6678c8e8"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/SetConstraints/Util/Facts.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "02ef65a56f24b487ab489ee63bc2411bc8901b3bcb084bf8c5216e5f6678c8e8"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/SetConstraints/Util/Facts.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 92
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "02ef65a56f24b487ab489ee63bc2411bc8901b3bcb084bf8c5216e5f6678c8e8"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/SetConstraints/Util/Facts.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 25
+    },
+    "hash": "02ef65a56f24b487ab489ee63bc2411bc8901b3bcb084bf8c5216e5f6678c8e8"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/SetConstraints/Util/Facts.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "02ef65a56f24b487ab489ee63bc2411bc8901b3bcb084bf8c5216e5f6678c8e8"
+  }
+]

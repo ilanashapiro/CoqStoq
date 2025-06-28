@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "corwin-of-amber-@@-various-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "funcprogs/wf_cruft.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 8
+    },
+    "hash": "07297e50fb16181d18352e71020e8a103f9b1f8d3692d4bfcafad2b773c24242"
+  }
+]

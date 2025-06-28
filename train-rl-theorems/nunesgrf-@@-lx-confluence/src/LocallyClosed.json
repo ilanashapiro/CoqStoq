@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "nunesgrf-@@-lx-confluence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/LocallyClosed.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "989e1197dcc54626c06e6169026212ad5c644ed633bf1a365f6067ed7c7b0aaa"
+  },
+  {
+    "project": {
+      "dir_name": "nunesgrf-@@-lx-confluence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/LocallyClosed.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "989e1197dcc54626c06e6169026212ad5c644ed633bf1a365f6067ed7c7b0aaa"
+  }
+]

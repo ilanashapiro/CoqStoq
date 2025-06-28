@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "awalterschulze-@@-regex-reexamined-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqStock/Truthy.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "74efc9eef4378602c024235d1bc5ff489db71dbc7a8671982de27644641b2f6a"
+  }
+]

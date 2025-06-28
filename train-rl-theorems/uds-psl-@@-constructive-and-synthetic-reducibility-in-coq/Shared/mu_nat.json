@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-constructive-and-synthetic-reducibility-in-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Shared/mu_nat.v",
+    "theorem_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "de07d60ff50f28f4e858056b8a0ca8586335af14d243da319df8442e669b2bc6"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-constructive-and-synthetic-reducibility-in-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Shared/mu_nat.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "de07d60ff50f28f4e858056b8a0ca8586335af14d243da319df8442e669b2bc6"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Aqissiaq-@@-ICTAC-DenotSymbEx",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigStepExamples.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 74
+    },
+    "hash": "80fb6115d07f9735051af3384cf8981e7e08c42560983ecfa142fcf44bf2ee5a"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Baidicoot-@@-types-in-sets-in-types",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CZF.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 6
+    },
+    "hash": "d360ced3279be3ae79e8315125f7fb741e229e874f8c263a64945e4025377496"
+  },
+  {
+    "project": {
+      "dir_name": "Baidicoot-@@-types-in-sets-in-types",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CZF.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 81,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 6
+    },
+    "hash": "d360ced3279be3ae79e8315125f7fb741e229e874f8c263a64945e4025377496"
+  }
+]

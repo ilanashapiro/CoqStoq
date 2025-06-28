@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Skyb0rg007-@@-CategoryTheoryForCoqProgrammers",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Challenges/Chapter1.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "cd426ef9afec0a2f21056e96f21f3c3ad616f22ea49b3055be97a30a385d0327"
+  }
+]

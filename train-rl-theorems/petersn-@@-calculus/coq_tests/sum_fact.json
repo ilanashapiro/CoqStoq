@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "petersn-@@-calculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_tests/sum_fact.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "b3633316cd1bb17ddc2ad41a53bcdb557e38018a3ccde5b94bdcab7c64370830"
+  }
+]

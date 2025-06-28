@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "zant-@@-gallina",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mult_n_1.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "63a762eeb192490a19d7cff0ae0c4542b0b1f58fd1b3368c27b954026a331d8f"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Instance/Functor/ComposeFunctor.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "cb00e6f27a26faed0d016f32b25cfd0fa57692b8b1bb5162f411f926cd9065e2"
+  }
+]

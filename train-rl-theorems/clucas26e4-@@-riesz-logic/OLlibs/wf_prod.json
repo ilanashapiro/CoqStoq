@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "clucas26e4-@@-riesz-logic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "OLlibs/wf_prod.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 6
+    },
+    "hash": "92c0895e61a861ac7a27116a31955cf38faefbe5ba3184070cfee8d0841b9e17"
+  }
+]

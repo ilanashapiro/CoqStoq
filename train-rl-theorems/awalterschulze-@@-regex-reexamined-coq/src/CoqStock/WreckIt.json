@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "awalterschulze-@@-regex-reexamined-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqStock/WreckIt.v",
+    "theorem_start_pos": {
+      "line": 223,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 224,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 228,
+      "column": 4
+    },
+    "hash": "e345a1409f92c1a3f060d73fe3287887ba182a826052e99cb9203e34b799e672"
+  }
+]

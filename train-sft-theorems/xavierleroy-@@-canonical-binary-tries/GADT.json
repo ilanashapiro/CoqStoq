@@ -1,0 +1,582 @@
+[
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 167,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 168,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 168,
+      "column": 29
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 170,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 171,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 172,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 172,
+      "column": 32
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 174,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 179,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 181,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 182,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 185,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 189,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 190,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 193,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 197,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 200,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 202,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 205,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 210,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 212,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 215,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 218,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 223,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 226,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 228,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 229,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 233,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 235,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 236,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 239,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 241,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 243,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 244,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 250,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 252,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 254,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 255,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 257,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 268,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 269,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 276,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 283,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 285,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 286,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 289,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 296,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 299,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 300,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 315,
+      "column": 6
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GADT.v",
+    "theorem_start_pos": {
+      "line": 317,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 320,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 321,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 325,
+      "column": 4
+    },
+    "hash": "f4b4cc03526e25d2bbb2467190986c9474ddd3f6493eaa105b2c52095c3259e3"
+  }
+]

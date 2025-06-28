@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "SyDPaCC-@@-sydpacc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Support/UIP.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 6
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 8
+    },
+    "hash": "4c669c8adc6c4f70beeed9ed591e5010a2b2ba9b1c5b1181d6bcff49ee0f18f4"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-atbr",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/StrictKleeneAlgebra.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 6
+    },
+    "hash": "3cad7af0a50573b1be6ffa898f75bf7031e9a1b881e6c069166dcfe09da7b11a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-atbr",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/StrictKleeneAlgebra.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 6
+    },
+    "hash": "3cad7af0a50573b1be6ffa898f75bf7031e9a1b881e6c069166dcfe09da7b11a"
+  }
+]

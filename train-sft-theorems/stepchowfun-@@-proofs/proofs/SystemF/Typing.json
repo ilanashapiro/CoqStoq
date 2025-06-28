@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/SystemF/Typing.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 4
+    },
+    "hash": "419effd885dcbc86e0c0dbd45576ad5f96c4fb56bcd7471c0180cb8e271544a5"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/SystemF/Typing.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 110,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 150,
+      "column": 4
+    },
+    "hash": "419effd885dcbc86e0c0dbd45576ad5f96c4fb56bcd7471c0180cb8e271544a5"
+  }
+]

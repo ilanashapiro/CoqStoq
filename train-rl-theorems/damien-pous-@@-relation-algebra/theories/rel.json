@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "damien-pous-@@-relation-algebra",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/rel.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 148,
+      "column": 96
+    },
+    "proof_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 152,
+      "column": 4
+    },
+    "hash": "00c15b4b4047db18c1fc2e2537fd429c8644f4822478d2e89b980734d0d9aa81"
+  }
+]

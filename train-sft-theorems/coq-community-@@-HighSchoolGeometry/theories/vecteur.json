@@ -1,0 +1,785 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 101,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 106,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 108,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 110,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 112,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 114,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 116,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 120,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 121,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 130,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 141,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 142,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 145,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 147,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 151,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 153,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 154,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 155,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 165,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 167,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 168,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 169,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 181,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 182,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 197,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 198,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 199,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 202,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 206,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 214,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 226,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 227,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 230,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 232,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 233,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 234,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 239,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 247,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 249,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 250,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 255,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/vecteur.v",
+    "theorem_start_pos": {
+      "line": 257,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 259,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 260,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 269,
+      "column": 4
+    },
+    "hash": "33da078738665e060548f172ad51945f10a5a6e6c70f3803f12e445fc479f15d"
+  }
+]

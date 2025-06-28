@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Ptival-@@-extensible-nanopass-compiler",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Semantics/Static/TypeEqualityCorrectness.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "0d9640f8792dcb3989122a37220b0c2da0359027aea67a46d0f47a6732df410c"
+  }
+]

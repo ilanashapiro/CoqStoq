@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "debilausaure-@@-cryspen_itw",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BigNum.v",
+    "theorem_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 231,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 232,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 260,
+      "column": 4
+    },
+    "hash": "81a439a1cc83531c1ec8de885ae2dc866430f2861865eeed71779cfc45f4de5d"
+  }
+]

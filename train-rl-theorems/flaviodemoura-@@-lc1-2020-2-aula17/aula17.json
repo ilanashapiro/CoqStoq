@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "flaviodemoura-@@-lc1-2020-2-aula17",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "aula17.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "81682ec750a97ce31e9ea196bfb7c7ec9b6b56e8f6e1d2baa4442794f265c90a"
+  },
+  {
+    "project": {
+      "dir_name": "flaviodemoura-@@-lc1-2020-2-aula17",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "aula17.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "81682ec750a97ce31e9ea196bfb7c7ec9b6b56e8f6e1d2baa4442794f265c90a"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "viampietro-@@-ver-hilecop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hvhdl/Stabilization.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 4
+    },
+    "hash": "a1bd0951643cab0af30783295b7d169784807582e38449592ff7dbdb040bfa4f"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "hidden-author-@@-ecoop22-coq-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "second_method/EqvClasses.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 4
+    },
+    "hash": "194e66305e81583de49b6c4435b5affd901a59f2a9f8b4b425601534ab16e760"
+  },
+  {
+    "project": {
+      "dir_name": "hidden-author-@@-ecoop22-coq-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "second_method/EqvClasses.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 4
+    },
+    "hash": "194e66305e81583de49b6c4435b5affd901a59f2a9f8b4b425601534ab16e760"
+  },
+  {
+    "project": {
+      "dir_name": "hidden-author-@@-ecoop22-coq-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "second_method/EqvClasses.v",
+    "theorem_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 87,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 4
+    },
+    "hash": "194e66305e81583de49b6c4435b5affd901a59f2a9f8b4b425601534ab16e760"
+  }
+]

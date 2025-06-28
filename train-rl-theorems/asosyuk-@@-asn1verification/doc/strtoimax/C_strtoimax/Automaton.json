@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "asosyuk-@@-asn1verification",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "doc/strtoimax/C_strtoimax/Automaton.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 6
+    },
+    "hash": "c7341aa55774366f96b77bcf206edff49235eca08ea15fe9042e9b191073c272"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "hidden-author-@@-ecoop22-coq-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "second_method/WfInf.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 6
+    },
+    "hash": "bc4e8e7b56888b5dc745aad2c34bdefeb561d729d34523ebee4e00d0f9a9b51e"
+  }
+]

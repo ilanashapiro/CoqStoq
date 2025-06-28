@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "aigarashi-@@-TPP2017",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TPPmark/inoue.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 6
+    },
+    "hash": "2d6ee2f34622a9f7f4982fc2f1c1aaac4954e55e6bdcc86241f76c8055e4eee5"
+  },
+  {
+    "project": {
+      "dir_name": "aigarashi-@@-TPP2017",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TPPmark/inoue.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 6
+    },
+    "hash": "2d6ee2f34622a9f7f4982fc2f1c1aaac4954e55e6bdcc86241f76c8055e4eee5"
+  },
+  {
+    "project": {
+      "dir_name": "aigarashi-@@-TPP2017",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TPPmark/inoue.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 6
+    },
+    "hash": "2d6ee2f34622a9f7f4982fc2f1c1aaac4954e55e6bdcc86241f76c8055e4eee5"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "wdomitrz-@@-Coq-Exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ZPF/Slajdy19/PlikiCoqa/lastOfNonemptyTuple.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "ba1bc4263c47689dc919696ea5880a9c96b604a29054197e45223f7ca38d49cc"
+  },
+  {
+    "project": {
+      "dir_name": "wdomitrz-@@-Coq-Exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ZPF/Slajdy19/PlikiCoqa/lastOfNonemptyTuple.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 4
+    },
+    "hash": "ba1bc4263c47689dc919696ea5880a9c96b604a29054197e45223f7ca38d49cc"
+  }
+]

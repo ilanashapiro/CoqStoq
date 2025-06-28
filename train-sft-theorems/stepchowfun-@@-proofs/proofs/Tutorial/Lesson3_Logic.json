@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/Tutorial/Lesson3_Logic.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 106,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "hash": "20670a17a75857f06ed75d81dcfa4379784172a43a09c416de98cdd4a265c2ca"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/Tutorial/Lesson3_Logic.v",
+    "theorem_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 4
+    },
+    "hash": "20670a17a75857f06ed75d81dcfa4379784172a43a09c416de98cdd4a265c2ca"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HermesMarc-@@-Coq_files",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Enum_WO.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "c883810b0a740f7100b5120355c3c9399717d83c023c4f70effcdc3eecf68f7d"
+  }
+]

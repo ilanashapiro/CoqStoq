@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FrameStack/Termination.v",
+    "theorem_start_pos": {
+      "line": 273,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 274,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 275,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 282,
+      "column": 4
+    },
+    "hash": "b2d92e42a898ba4e40974a0d940192a4ae129f0e6c077f91606db66f4e93d45f"
+  }
+]

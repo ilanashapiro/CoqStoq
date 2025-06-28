@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "zigaLuksic-@@-coq-workshop",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "solutions/things_coq_can_do.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "dc68d1baffccccf8b9eb7b80763db5216023078042a64f330dcdd9ed838252de"
+  },
+  {
+    "project": {
+      "dir_name": "zigaLuksic-@@-coq-workshop",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "solutions/things_coq_can_do.v",
+    "theorem_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 70,
+      "column": 4
+    },
+    "hash": "dc68d1baffccccf8b9eb7b80763db5216023078042a64f330dcdd9ed838252de"
+  }
+]

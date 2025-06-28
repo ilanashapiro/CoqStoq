@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "bsdinis-@@-ist-programming-languages",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lectures/lectures.v",
+    "theorem_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 177,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 183,
+      "column": 4
+    },
+    "hash": "a66e0b69b44cdf27c08f38449626167638ee1eb8117d3fd6a717c0cb3d7ef2cd"
+  }
+]

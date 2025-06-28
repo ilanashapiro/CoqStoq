@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Typonomikon",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "book/BC2d.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "4be480b2db6f1dc175a61ebf716857a106304a6515339924bab28278571a48bf"
+  }
+]

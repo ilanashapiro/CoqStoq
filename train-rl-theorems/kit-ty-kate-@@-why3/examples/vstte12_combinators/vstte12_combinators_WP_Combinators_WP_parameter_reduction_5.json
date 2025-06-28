@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "kit-ty-kate-@@-why3",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/vstte12_combinators/vstte12_combinators_WP_Combinators_WP_parameter_reduction_5.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 100,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 116,
+      "column": 4
+    },
+    "hash": "0f529c4f0a2f9e4ad01fa40c6e4b60e0cdb3d547b3acd655f9e20d40a337c52d"
+  }
+]

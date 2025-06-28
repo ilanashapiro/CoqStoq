@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mozow01-@@-logic_and_category",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mindenfele/F_alg_1.v",
+    "theorem_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 193,
+      "column": 4
+    },
+    "hash": "38d13acfcf87d3bc7b5f6b2a656e9debb5e31359e82991571ebb70e14694af33"
+  }
+]

@@ -66,8 +66,6 @@ def get_arbitrary_tasks(coqstoq_loc: Path, timeout: int) -> list[Task]:
                 compile_args=[],
             )
             for file in project.workspace.glob("**/*.v"):
-                if ("coq-community-@@" not in project.dir_name) and ("coq-contrib-@@" not in project.dir_name):
-                    continue
                 if file.is_file():
                     tasks.append(Task(project, file, timeout))
     return tasks

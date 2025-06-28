@@ -1,0 +1,379 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 80,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 104,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 112,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 130,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 131,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 146,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 146,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 147,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 150,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 152,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 152,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 153,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 157,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 161,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 162,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 171,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 173,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 175,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 178,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 189,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 190,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 201,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 201,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 202,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 207,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 209,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 215,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_multiple_of_3.v",
+    "theorem_start_pos": {
+      "line": 217,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 217,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 218,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 224,
+      "column": 4
+    },
+    "hash": "165cce95d29c7b081603155eeb31cca1249d77435964c918cc6a2ac865e34cf4"
+  }
+]

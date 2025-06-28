@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "shashwat1002-@@-coq_notebook",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code_snippets/proof_by_simplification.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 38
+    },
+    "hash": "e71f235dc119bc8b3c6b1d1855c6f5f6289a8199f1719964c89c540356fc78ee"
+  }
+]

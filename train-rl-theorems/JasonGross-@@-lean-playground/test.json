@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-lean-playground",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 119
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "62aa63df2e8e05f683d0396a742ecb06ec8a7d2a36978c865039534e8d01ef25"
+  }
+]

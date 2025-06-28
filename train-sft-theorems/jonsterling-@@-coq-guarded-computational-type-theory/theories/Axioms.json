@@ -1,0 +1,205 @@
+[
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Axioms.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "9c51fa5902021cc1ecd399027098f076659d5bff9b94b87dc8dd975d61aa5103"
+  },
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Axioms.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "9c51fa5902021cc1ecd399027098f076659d5bff9b94b87dc8dd975d61aa5103"
+  },
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Axioms.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "9c51fa5902021cc1ecd399027098f076659d5bff9b94b87dc8dd975d61aa5103"
+  },
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Axioms.v",
+    "theorem_start_pos": {
+      "line": 60,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 6
+    },
+    "hash": "9c51fa5902021cc1ecd399027098f076659d5bff9b94b87dc8dd975d61aa5103"
+  },
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Axioms.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 6
+    },
+    "hash": "9c51fa5902021cc1ecd399027098f076659d5bff9b94b87dc8dd975d61aa5103"
+  },
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Axioms.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 117,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 118,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 120,
+      "column": 6
+    },
+    "hash": "9c51fa5902021cc1ecd399027098f076659d5bff9b94b87dc8dd975d61aa5103"
+  },
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Axioms.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 125,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 126,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 6
+    },
+    "hash": "9c51fa5902021cc1ecd399027098f076659d5bff9b94b87dc8dd975d61aa5103"
+  }
+]

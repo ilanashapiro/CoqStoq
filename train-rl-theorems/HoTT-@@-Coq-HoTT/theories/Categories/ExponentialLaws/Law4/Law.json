@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/ExponentialLaws/Law4/Law.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 6
+    },
+    "hash": "203ad830167d2013cbeb7f35ace32aa899e5a1b402a7342c288d12af383ed6a4"
+  }
+]

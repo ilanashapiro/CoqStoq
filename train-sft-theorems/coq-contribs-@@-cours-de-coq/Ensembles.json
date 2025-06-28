@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-cours-de-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ensembles.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 3
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 3
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 7
+    },
+    "hash": "1654ff4621c7076c68b11bbea84f0e183b870b48571d1664587749c4a0e20e62"
+  }
+]

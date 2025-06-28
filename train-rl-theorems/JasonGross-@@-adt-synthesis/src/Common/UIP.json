@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-adt-synthesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Common/UIP.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "7ce76cf51f4f6079c555b64a7750b1f3bdb2da9f4a797c5bd2a456a6abd1d531"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-adt-synthesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Common/UIP.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 8
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "7ce76cf51f4f6079c555b64a7750b1f3bdb2da9f4a797c5bd2a456a6abd1d531"
+  }
+]

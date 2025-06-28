@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "caitlindabrera-@@-Sahlqvist",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "vsSahlq/coq_code/Modal_syntax.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "fc59f98cbb13b1f4bea068c9cfca67120d24518740cba8de65c0ed667cbf40fe"
+  }
+]

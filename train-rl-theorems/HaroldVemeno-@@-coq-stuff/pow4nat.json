@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HaroldVemeno-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pow4nat.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "d823ae67b0e3f9aea00ea0f83ff55f96e9eda432a2a2fcb0dd5b4e0bf516f49a"
+  }
+]

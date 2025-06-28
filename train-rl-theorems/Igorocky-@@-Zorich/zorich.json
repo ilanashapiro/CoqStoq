@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Igorocky-@@-Zorich",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "zorich.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "0cb2ac7f66f7f072d5b9e840a13b0e5792942650da3f2182952e3a052dd7df7b"
+  },
+  {
+    "project": {
+      "dir_name": "Igorocky-@@-Zorich",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "zorich.v",
+    "theorem_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 4
+    },
+    "hash": "0cb2ac7f66f7f072d5b9e840a13b0e5792942650da3f2182952e3a052dd7df7b"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "adityachandla-@@-PCA_coq_files",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_tree_03.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "0386b5f8455c9f7c2f982a6ff5381ce3c06f60005d412ab97b3573eff0fd88a2"
+  }
+]

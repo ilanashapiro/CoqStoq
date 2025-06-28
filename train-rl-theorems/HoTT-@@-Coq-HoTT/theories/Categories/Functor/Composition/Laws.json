@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Functor/Composition/Laws.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 103,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 104,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 106,
+      "column": 6
+    },
+    "hash": "deb239e6147be4e479d287826288ab630e9998b43255aa7d75f2fe6872092b99"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Functor/Composition/Laws.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 129,
+      "column": 121
+    },
+    "proof_start_pos": {
+      "line": 130,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 6
+    },
+    "hash": "deb239e6147be4e479d287826288ab630e9998b43255aa7d75f2fe6872092b99"
+  }
+]

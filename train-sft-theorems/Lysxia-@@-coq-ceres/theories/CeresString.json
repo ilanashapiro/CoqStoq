@@ -1,0 +1,205 @@
+[
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresString.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "172841da93d62d3f0b1882cdaa057f68d6538445ebdc4f6a671fb1b3a0a97d70"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresString.v",
+    "theorem_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 96,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 104,
+      "column": 4
+    },
+    "hash": "172841da93d62d3f0b1882cdaa057f68d6538445ebdc4f6a671fb1b3a0a97d70"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresString.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 106,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "172841da93d62d3f0b1882cdaa057f68d6538445ebdc4f6a671fb1b3a0a97d70"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresString.v",
+    "theorem_start_pos": {
+      "line": 181,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 181,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 182,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 4
+    },
+    "hash": "172841da93d62d3f0b1882cdaa057f68d6538445ebdc4f6a671fb1b3a0a97d70"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresString.v",
+    "theorem_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 189,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 190,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 193,
+      "column": 4
+    },
+    "hash": "172841da93d62d3f0b1882cdaa057f68d6538445ebdc4f6a671fb1b3a0a97d70"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresString.v",
+    "theorem_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 196,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 197,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 199,
+      "column": 4
+    },
+    "hash": "172841da93d62d3f0b1882cdaa057f68d6538445ebdc4f6a671fb1b3a0a97d70"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-ceres",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/CeresString.v",
+    "theorem_start_pos": {
+      "line": 201,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 202,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 207,
+      "column": 4
+    },
+    "hash": "172841da93d62d3f0b1882cdaa057f68d6538445ebdc4f6a671fb1b3a0a97d70"
+  }
+]

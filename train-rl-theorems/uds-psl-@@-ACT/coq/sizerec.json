@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-ACT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/sizerec.v",
+    "theorem_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 137,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "5c19edff2edce4384c4699814df34234eedf769c563ab8e7f9cd4953b65762ca"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-ACT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/sizerec.v",
+    "theorem_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 157,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 166,
+      "column": 4
+    },
+    "hash": "5c19edff2edce4384c4699814df34234eedf769c563ab8e7f9cd4953b65762ca"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-ACT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/sizerec.v",
+    "theorem_start_pos": {
+      "line": 172,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 173,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 174,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 178,
+      "column": 4
+    },
+    "hash": "5c19edff2edce4384c4699814df34234eedf769c563ab8e7f9cd4953b65762ca"
+  }
+]

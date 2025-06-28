@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Kokan-@@-elte_msc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalsemantics/zh08.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "11ec325c10603a7c45d9b17b4d80d61ac5398c64bcd4e80fab903d3671597f23"
+  },
+  {
+    "project": {
+      "dir_name": "Kokan-@@-elte_msc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalsemantics/zh08.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "11ec325c10603a7c45d9b17b4d80d61ac5398c64bcd4e80fab903d3671597f23"
+  }
+]

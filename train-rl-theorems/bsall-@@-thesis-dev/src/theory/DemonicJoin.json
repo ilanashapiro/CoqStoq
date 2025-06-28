@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "bsall-@@-thesis-dev",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/theory/DemonicJoin.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 126
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 23
+    },
+    "hash": "9dfea08b6f0106469e8abf74b60cb6e4b372cb2950e1d47cc0c34894a1fd569d"
+  },
+  {
+    "project": {
+      "dir_name": "bsall-@@-thesis-dev",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/theory/DemonicJoin.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 126
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 23
+    },
+    "hash": "9dfea08b6f0106469e8abf74b60cb6e4b372cb2950e1d47cc0c34894a1fd569d"
+  },
+  {
+    "project": {
+      "dir_name": "bsall-@@-thesis-dev",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/theory/DemonicJoin.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 123
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 23
+    },
+    "hash": "9dfea08b6f0106469e8abf74b60cb6e4b372cb2950e1d47cc0c34894a1fd569d"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/Berardi.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "hash": "23cb40e84ad7f4491b3fb0277700b08c01f2383a1c01f58c75553904dcb06aab"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/Berardi.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "23cb40e84ad7f4491b3fb0277700b08c01f2383a1c01f58c75553904dcb06aab"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/Berardi.v",
+    "theorem_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 4
+    },
+    "hash": "23cb40e84ad7f4491b3fb0277700b08c01f2383a1c01f58c75553904dcb06aab"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/Berardi.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 113,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 121,
+      "column": 4
+    },
+    "hash": "23cb40e84ad7f4491b3fb0277700b08c01f2383a1c01f58c75553904dcb06aab"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/Berardi.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 139,
+      "column": 4
+    },
+    "hash": "23cb40e84ad7f4491b3fb0277700b08c01f2383a1c01f58c75553904dcb06aab"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/Berardi.v",
+    "theorem_start_pos": {
+      "line": 142,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 142,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 143,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 152,
+      "column": 4
+    },
+    "hash": "23cb40e84ad7f4491b3fb0277700b08c01f2383a1c01f58c75553904dcb06aab"
+  }
+]

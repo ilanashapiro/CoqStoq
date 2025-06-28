@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "spgroup-@@-theory-pl-refinement-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "typeclass/Proofs/maps_proofs.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 6
+    },
+    "hash": "c22c8cfecd8a6a17e777a07925b1acea5576c4d93385be299d8adf506b6a87d8"
+  }
+]

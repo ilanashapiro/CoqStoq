@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-Dlog-zkp",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Algebra/Hierarchy.v",
+    "theorem_start_pos": {
+      "line": 295,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 295,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 296,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 300,
+      "column": 6
+    },
+    "hash": "00389e839ffde769e0a5c87308d36a4a897a930d20cff7a2fff9a56878681c65"
+  }
+]

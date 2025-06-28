@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "gpt/gpt_cps_fact.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 109,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 114,
+      "column": 4
+    },
+    "hash": "a732005a0fd8256be3a5f1a6460c01456ff634edcf67de22f2e7cc0caa869fe2"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "gpt/gpt_cps_fact.v",
+    "theorem_start_pos": {
+      "line": 116,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 4
+    },
+    "hash": "a732005a0fd8256be3a5f1a6460c01456ff634edcf67de22f2e7cc0caa869fe2"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "gpt/gpt_cps_fact.v",
+    "theorem_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 158,
+      "column": 4
+    },
+    "hash": "a732005a0fd8256be3a5f1a6460c01456ff634edcf67de22f2e7cc0caa869fe2"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "gpt/gpt_cps_fact.v",
+    "theorem_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 161,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 162,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 165,
+      "column": 4
+    },
+    "hash": "a732005a0fd8256be3a5f1a6460c01456ff634edcf67de22f2e7cc0caa869fe2"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Riib11-@@-Coq-Work",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "SoftwareFoundations/Basics/subst.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "332af69fce60018bfcd003d5b482971fba824542db0fca678827557285d527de"
+  }
+]

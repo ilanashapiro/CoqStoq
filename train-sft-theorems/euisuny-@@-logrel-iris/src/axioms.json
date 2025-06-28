@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "euisuny-@@-logrel-iris",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/axioms.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "5f3bb18d65ace8c14376a3caa0abadf7620c622efb97ccc47393e1b6392ddf59"
+  }
+]

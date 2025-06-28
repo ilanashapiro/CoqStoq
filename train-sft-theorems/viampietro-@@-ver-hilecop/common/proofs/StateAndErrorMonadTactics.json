@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "viampietro-@@-ver-hilecop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "common/proofs/StateAndErrorMonadTactics.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "d7d6f3b28e4f9dc9f510abb08e68df793568f4860ea2ca89d3a1a0135a615f99"
+  }
+]

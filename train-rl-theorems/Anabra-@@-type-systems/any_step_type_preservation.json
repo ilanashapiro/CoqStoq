@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Anabra-@@-type-systems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "any_step_type_preservation.v",
+    "theorem_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 1
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 173,
+      "column": 4
+    },
+    "hash": "b64290131d07757ab693a7e55a167687d948ecf6be36ad8734157f8638939668"
+  },
+  {
+    "project": {
+      "dir_name": "Anabra-@@-type-systems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "any_step_type_preservation.v",
+    "theorem_start_pos": {
+      "line": 182,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 184,
+      "column": 1
+    },
+    "proof_start_pos": {
+      "line": 185,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 191,
+      "column": 4
+    },
+    "hash": "b64290131d07757ab693a7e55a167687d948ecf6be36ad8734157f8638939668"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Zimmi48-@@-transfer",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/NArithTransfer.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "c2ecf0aff60facb3a98d7ce48b308808a0bf37b6bc2df2dbe0581959292df224"
+  },
+  {
+    "project": {
+      "dir_name": "Zimmi48-@@-transfer",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/NArithTransfer.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "c2ecf0aff60facb3a98d7ce48b308808a0bf37b6bc2df2dbe0581959292df224"
+  }
+]

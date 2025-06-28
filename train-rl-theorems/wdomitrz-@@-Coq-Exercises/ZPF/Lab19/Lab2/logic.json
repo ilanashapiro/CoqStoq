@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "wdomitrz-@@-Coq-Exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ZPF/Lab19/Lab2/logic.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "d7858108f30ce1f5b44b2141d8f02a6e399dd3c19a944e2b1d9b3323695de097"
+  },
+  {
+    "project": {
+      "dir_name": "wdomitrz-@@-Coq-Exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ZPF/Lab19/Lab2/logic.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "d7858108f30ce1f5b44b2141d8f02a6e399dd3c19a944e2b1d9b3323695de097"
+  }
+]

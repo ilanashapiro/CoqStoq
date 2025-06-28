@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "shenlebantongying-@@-ArtifactCabinet",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Languages/coq/sf_v1/1-basic/p005_proof_simpl.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "e1e2d51244a1be686990e447aae57b6c24782284e51249812e2a7ef76b9311d8"
+  },
+  {
+    "project": {
+      "dir_name": "shenlebantongying-@@-ArtifactCabinet",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Languages/coq/sf_v1/1-basic/p005_proof_simpl.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "e1e2d51244a1be686990e447aae57b6c24782284e51249812e2a7ef76b9311d8"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch8_inductive_predicates/SRC/weird_induc.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 5
+    },
+    "hash": "e10929241f1363a496d12a71006d9abf9379d3c27c91ab1cf4da7f9bd7ea4c48"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch8_inductive_predicates/SRC/weird_induc.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 5
+    },
+    "hash": "e10929241f1363a496d12a71006d9abf9379d3c27c91ab1cf4da7f9bd7ea4c48"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch8_inductive_predicates/SRC/weird_induc.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 5
+    },
+    "hash": "e10929241f1363a496d12a71006d9abf9379d3c27c91ab1cf4da7f9bd7ea4c48"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch8_inductive_predicates/SRC/weird_induc.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 5
+    },
+    "hash": "e10929241f1363a496d12a71006d9abf9379d3c27c91ab1cf4da7f9bd7ea4c48"
+  }
+]

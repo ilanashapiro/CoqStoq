@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lm_Definitions.v",
+    "theorem_start_pos": {
+      "line": 413,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 414,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 415,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 431,
+      "column": 4
+    },
+    "hash": "d6fd0ba13ec2e599c0e65e6226c80530f5ee7d58c4d558d12adc9b99585bcced"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dominiquedevriese-@@-fixismu-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StlcFix/Inst.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 58
+    },
+    "hash": "cfac9e5117ff3f84d5f4202fcc74a08554846574eb00bdc0f2d5ad0459f35300"
+  }
+]

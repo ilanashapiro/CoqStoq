@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "remind-me-later-@@-Semantics",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "bexp.v",
+    "theorem_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "d656f7696379c325718862a9187b45f9b9b86221c5bfb21aa20acfb7745dd828"
+  },
+  {
+    "project": {
+      "dir_name": "remind-me-later-@@-Semantics",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "bexp.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "d656f7696379c325718862a9187b45f9b9b86221c5bfb21aa20acfb7745dd828"
+  },
+  {
+    "project": {
+      "dir_name": "remind-me-later-@@-Semantics",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "bexp.v",
+    "theorem_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "hash": "d656f7696379c325718862a9187b45f9b9b86221c5bfb21aa20acfb7745dd828"
+  }
+]

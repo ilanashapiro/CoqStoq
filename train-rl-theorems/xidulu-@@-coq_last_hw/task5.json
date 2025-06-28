@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "xidulu-@@-coq_last_hw",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "task5.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 9
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "bbaf6f67345d4176b5a9980104811a637901cb6de98749615634ec8b8ac99e9f"
+  }
+]

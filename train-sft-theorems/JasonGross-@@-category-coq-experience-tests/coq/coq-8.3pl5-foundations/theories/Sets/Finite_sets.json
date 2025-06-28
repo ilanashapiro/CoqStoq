@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Sets/Finite_sets.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 6
+    },
+    "hash": "a313ea835a5673961b7cc21a939fa8a4d20d92981a570324de96d33a4e1a4354"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Sets/Finite_sets.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 6
+    },
+    "hash": "a313ea835a5673961b7cc21a939fa8a4d20d92981a570324de96d33a4e1a4354"
+  }
+]

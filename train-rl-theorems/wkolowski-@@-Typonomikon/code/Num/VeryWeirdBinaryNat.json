@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Typonomikon",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/Num/VeryWeirdBinaryNat.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "de89820d6c5d7d2bb6f1341eb614f61cf87c4be08c23f7406de2f3bd23d0d063"
+  },
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Typonomikon",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/Num/VeryWeirdBinaryNat.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "de89820d6c5d7d2bb6f1341eb614f61cf87c4be08c23f7406de2f3bd23d0d063"
+  }
+]

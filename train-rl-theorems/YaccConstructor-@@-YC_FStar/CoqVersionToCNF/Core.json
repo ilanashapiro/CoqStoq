@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "YaccConstructor-@@-YC_FStar",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqVersionToCNF/Core.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "493e35385ba1236b396b1654c238ef0153499b5a6609f27f4ac5d302066703b6"
+  },
+  {
+    "project": {
+      "dir_name": "YaccConstructor-@@-YC_FStar",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqVersionToCNF/Core.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "493e35385ba1236b396b1654c238ef0153499b5a6609f27f4ac5d302066703b6"
+  }
+]

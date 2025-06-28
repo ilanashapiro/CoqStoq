@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mht208-@@-coq-ssrlib",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Compatibility.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 42
+    },
+    "hash": "fdf5dbd696758b2419b35e8e5ee53c98474bfbd904ac771ed9809a8db56fc65c"
+  },
+  {
+    "project": {
+      "dir_name": "mht208-@@-coq-ssrlib",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Compatibility.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 42
+    },
+    "hash": "fdf5dbd696758b2419b35e8e5ee53c98474bfbd904ac771ed9809a8db56fc65c"
+  },
+  {
+    "project": {
+      "dir_name": "mht208-@@-coq-ssrlib",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Compatibility.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 39
+    },
+    "hash": "fdf5dbd696758b2419b35e8e5ee53c98474bfbd904ac771ed9809a8db56fc65c"
+  }
+]

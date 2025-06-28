@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "shenlebantongying-@@-ArtifactCabinet",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Languages/coq/sf_v1/1-basic/p006_proof_rewriting.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "d96cf4ead368024d2ed527a3f390193333a1454642057da7f4dd45fa7a0ea5c0"
+  }
+]

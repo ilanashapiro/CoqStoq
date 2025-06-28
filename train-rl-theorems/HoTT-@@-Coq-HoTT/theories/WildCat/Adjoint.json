@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/WildCat/Adjoint.v",
+    "theorem_start_pos": {
+      "line": 158,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 159,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 163,
+      "column": 6
+    },
+    "hash": "8ced913bd0dee5b8c28904e24a366fe4fd499340024d927c9d97d3bfa4c8e756"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/WildCat/Adjoint.v",
+    "theorem_start_pos": {
+      "line": 165,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 166,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 167,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 173,
+      "column": 6
+    },
+    "hash": "8ced913bd0dee5b8c28904e24a366fe4fd499340024d927c9d97d3bfa4c8e756"
+  }
+]

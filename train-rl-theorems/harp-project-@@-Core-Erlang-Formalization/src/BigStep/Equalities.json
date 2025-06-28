@@ -1,0 +1,698 @@
+[
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 80,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 87,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 88,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 254,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 256,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 271,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 273,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 274,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 275,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 294,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 296,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 297,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 298,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 302,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 304,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 305,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 306,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 312,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 362,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 363,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 364,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 382,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 415,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 417,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 418,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 421,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 423,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 427,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 428,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 434,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 436,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 437,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 438,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 449,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 451,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 463,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 464,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 468,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 470,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 471,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 472,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 503,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 505,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 506,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 507,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 516,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 518,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 519,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 520,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 539,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 541,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 544,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 545,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 592,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 594,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 608,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 609,
+      "column": 3
+    },
+    "proof_end_pos": {
+      "line": 617,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 619,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 623,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 624,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 780,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 782,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 786,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 787,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 815,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 817,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 821,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 822,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 903,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 905,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 909,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 910,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 917,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 931,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 931,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 932,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 934,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-Formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/BigStep/Equalities.v",
+    "theorem_start_pos": {
+      "line": 936,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 936,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 937,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 939,
+      "column": 6
+    },
+    "hash": "c29918efc21ef0b8f2bba9eef62a636f6d2d77b9d2bca54894245619b7e10713"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Wellfounded/Disjoint_Union.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 6
+    },
+    "hash": "2bf9829f282c1339e762e105e8635cce481c382880d252ee4dac7b25f8ae02d2"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Wellfounded/Disjoint_Union.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 6
+    },
+    "hash": "2bf9829f282c1339e762e105e8635cce481c382880d252ee4dac7b25f8ae02d2"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Wellfounded/Disjoint_Union.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 6
+    },
+    "hash": "2bf9829f282c1339e762e105e8635cce481c382880d252ee4dac7b25f8ae02d2"
+  }
+]

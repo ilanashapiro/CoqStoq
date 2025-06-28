@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/one.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 104,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 109,
+      "column": 4
+    },
+    "hash": "c653c04e1d83b4f6727c6cec254a0c7524e36941cf29968d13121ac86513096c"
+  }
+]

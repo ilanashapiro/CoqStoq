@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "lambda-11235-@@-lambda-calc-formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/LambdaCalc.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 93,
+      "column": 4
+    },
+    "hash": "3a465acf3ff6171674a8037332948ed9467a362f65e0dca46c515611965d00f1"
+  },
+  {
+    "project": {
+      "dir_name": "lambda-11235-@@-lambda-calc-formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/LambdaCalc.v",
+    "theorem_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 96,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 106,
+      "column": 4
+    },
+    "hash": "3a465acf3ff6171674a8037332948ed9467a362f65e0dca46c515611965d00f1"
+  },
+  {
+    "project": {
+      "dir_name": "lambda-11235-@@-lambda-calc-formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/LambdaCalc.v",
+    "theorem_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 109,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "hash": "3a465acf3ff6171674a8037332948ed9467a362f65e0dca46c515611965d00f1"
+  },
+  {
+    "project": {
+      "dir_name": "lambda-11235-@@-lambda-calc-formalization",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/LambdaCalc.v",
+    "theorem_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 124,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 141,
+      "column": 4
+    },
+    "hash": "3a465acf3ff6171674a8037332948ed9467a362f65e0dca46c515611965d00f1"
+  }
+]

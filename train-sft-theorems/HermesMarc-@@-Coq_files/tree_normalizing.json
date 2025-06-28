@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "HermesMarc-@@-Coq_files",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tree_normalizing.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 4
+    },
+    "hash": "3740e2fefbc5dfbeb890c2daf2d3ed63efa4261357e409af69ca02d62aaecfbc"
+  },
+  {
+    "project": {
+      "dir_name": "HermesMarc-@@-Coq_files",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tree_normalizing.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 68,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "3740e2fefbc5dfbeb890c2daf2d3ed63efa4261357e409af69ca02d62aaecfbc"
+  },
+  {
+    "project": {
+      "dir_name": "HermesMarc-@@-Coq_files",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tree_normalizing.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "hash": "3740e2fefbc5dfbeb890c2daf2d3ed63efa4261357e409af69ca02d62aaecfbc"
+  },
+  {
+    "project": {
+      "dir_name": "HermesMarc-@@-Coq_files",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tree_normalizing.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 100,
+      "column": 4
+    },
+    "hash": "3740e2fefbc5dfbeb890c2daf2d3ed63efa4261357e409af69ca02d62aaecfbc"
+  }
+]

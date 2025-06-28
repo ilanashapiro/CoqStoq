@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "fabianvf-@@-whitehouse.gov-problem",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "whitehouseproblem.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "f20f737738a612c942ef8dc082c6fe26197b37ced9e97595813fdd260e3fa95a"
+  }
+]

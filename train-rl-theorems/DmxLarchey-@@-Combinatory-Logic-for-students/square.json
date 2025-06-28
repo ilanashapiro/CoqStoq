@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Combinatory-Logic-for-students",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "square.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 6
+    },
+    "hash": "c3a37c044ea5b9b76b672861eb9ecb315d57e6d1618a6dc43d6cb29431b62140"
+  },
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Combinatory-Logic-for-students",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "square.v",
+    "theorem_start_pos": {
+      "line": 74,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 6
+    },
+    "hash": "c3a37c044ea5b9b76b672861eb9ecb315d57e6d1618a6dc43d6cb29431b62140"
+  },
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Combinatory-Logic-for-students",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "square.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 100,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 6
+    },
+    "hash": "c3a37c044ea5b9b76b672861eb9ecb315d57e6d1618a6dc43d6cb29431b62140"
+  }
+]

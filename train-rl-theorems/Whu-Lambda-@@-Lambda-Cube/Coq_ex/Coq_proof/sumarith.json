@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Whu-Lambda-@@-Lambda-Cube",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_ex/Coq_proof/sumarith.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "433af3f656782eb401e91d96d87f8c0ed40d684491bd21f8459063b1e0242bbe"
+  }
+]

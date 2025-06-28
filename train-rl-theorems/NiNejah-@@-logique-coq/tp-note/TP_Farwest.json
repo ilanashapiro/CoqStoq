@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "NiNejah-@@-logique-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tp-note/TP_Farwest.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 6
+    },
+    "hash": "bb29f1747dc8bb25f29981de45100967adbba3e6e96b520c1c5fdbe0156a64d1"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/ProcMemCorrect.v",
+    "theorem_start_pos": {
+      "line": 178,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 178,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 179,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 186,
+      "column": 8
+    },
+    "hash": "3404085085efa9b4351592eb182c09896354125c0937cb8dba28a37872c177a3"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/ProcMemCorrect.v",
+    "theorem_start_pos": {
+      "line": 188,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 188,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 189,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 194,
+      "column": 8
+    },
+    "hash": "3404085085efa9b4351592eb182c09896354125c0937cb8dba28a37872c177a3"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/ProcMemCorrect.v",
+    "theorem_start_pos": {
+      "line": 207,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 207,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 208,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 215,
+      "column": 6
+    },
+    "hash": "3404085085efa9b4351592eb182c09896354125c0937cb8dba28a37872c177a3"
+  }
+]

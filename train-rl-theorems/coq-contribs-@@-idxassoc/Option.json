@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-idxassoc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Option.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "60f7fc7b1eee3150ddb8c262b41b37ef073afd77e71038bbdb1947e8ee9baa30"
+  }
+]

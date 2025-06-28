@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mvmramos-@@-chomsky",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "misc_logic.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 100
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "9511df3d8d296bd4112d7818bcc734797327e22c33175310b3fa90ea7d0cc36a"
+  },
+  {
+    "project": {
+      "dir_name": "mvmramos-@@-chomsky",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "misc_logic.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "9511df3d8d296bd4112d7818bcc734797327e22c33175310b3fa90ea7d0cc36a"
+  }
+]

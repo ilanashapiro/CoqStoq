@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Toskah-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lab6/lab6_task1_task2.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "eb97e783791f200f7972e6a02ae79680ec5afca6fee66d1906ad5238dd28a84a"
+  },
+  {
+    "project": {
+      "dir_name": "Toskah-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lab6/lab6_task1_task2.v",
+    "theorem_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 4
+    },
+    "hash": "eb97e783791f200f7972e6a02ae79680ec5afca6fee66d1906ad5238dd28a84a"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "kogai-@@-sandbox-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "forth.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "5eb9aad1a7bea7e888f4123265d25b9709dc2ee5371b4c462c724ff253cf21ab"
+  },
+  {
+    "project": {
+      "dir_name": "kogai-@@-sandbox-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "forth.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 4
+    },
+    "hash": "5eb9aad1a7bea7e888f4123265d25b9709dc2ee5371b4c462c724ff253cf21ab"
+  }
+]

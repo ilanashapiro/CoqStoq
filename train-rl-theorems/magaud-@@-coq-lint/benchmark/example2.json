@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "magaud-@@-coq-lint",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "benchmark/example2.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "a1534719c7e2726cab18c0d6aaa078784fb9b8c13d8f4ce4afe7ab3c7ef56a74"
+  }
+]

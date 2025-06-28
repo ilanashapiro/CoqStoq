@@ -1,0 +1,292 @@
+[
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 109,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 113,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 122,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 130,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 141,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 147,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 149,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 150,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 181,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 185,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 185,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 194,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 199,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 200,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 204,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "schulze-modified/ListLemma.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 220,
+      "column": 4
+    },
+    "hash": "262b3a568a14e60bef06d14311ddd7591d46d5080359328686dcb154497addf5"
+  }
+]

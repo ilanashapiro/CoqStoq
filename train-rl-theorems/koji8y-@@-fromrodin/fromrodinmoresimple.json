@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "koji8y-@@-fromrodin",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fromrodinmoresimple.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 6
+    },
+    "hash": "2120573c5c115fb56b45b47dd475b66d5f9cf36cdcac4c54e9324d3208b3b4f4"
+  },
+  {
+    "project": {
+      "dir_name": "koji8y-@@-fromrodin",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fromrodinmoresimple.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 6
+    },
+    "hash": "2120573c5c115fb56b45b47dd475b66d5f9cf36cdcac4c54e9324d3208b3b4f4"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-schroeder",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Sums.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 4
+    },
+    "hash": "d23529961dca8405f577f2b2a021aa3f49c64334d1fcb22ddd97308b4be52fc7"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-schroeder",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Sums.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "d23529961dca8405f577f2b2a021aa3f49c64334d1fcb22ddd97308b4be52fc7"
+  }
+]

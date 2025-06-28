@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "AJGQ-@@-trabalhoVF",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Nelson/ProjProbVF.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 141,
+      "column": 4
+    },
+    "hash": "db3ae68aa0b406e5e8a33dfec4816e95f327a64e8a7dac887f6653ab8f57db2c"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/TypingProperties.v",
+    "theorem_start_pos": {
+      "line": 264,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 264,
+      "column": 96
+    },
+    "proof_start_pos": {
+      "line": 265,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 270,
+      "column": 6
+    },
+    "hash": "6aed2fd89012cde5e2ba4c352c9412fd50638d00a6b05eedccb84b9d2961e666"
+  },
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/TypingProperties.v",
+    "theorem_start_pos": {
+      "line": 677,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 677,
+      "column": 98
+    },
+    "proof_start_pos": {
+      "line": 678,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 682,
+      "column": 6
+    },
+    "hash": "6aed2fd89012cde5e2ba4c352c9412fd50638d00a6b05eedccb84b9d2961e666"
+  },
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/TypingProperties.v",
+    "theorem_start_pos": {
+      "line": 684,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 684,
+      "column": 114
+    },
+    "proof_start_pos": {
+      "line": 685,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 689,
+      "column": 6
+    },
+    "hash": "6aed2fd89012cde5e2ba4c352c9412fd50638d00a6b05eedccb84b9d2961e666"
+  }
+]

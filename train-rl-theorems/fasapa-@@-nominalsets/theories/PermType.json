@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "fasapa-@@-nominalsets",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/PermType.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 60
+    },
+    "hash": "385ff4718109596328e6acd966c512cf29762e13fbf6c6e3457ed473ebc05264"
+  },
+  {
+    "project": {
+      "dir_name": "fasapa-@@-nominalsets",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/PermType.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 59
+    },
+    "hash": "385ff4718109596328e6acd966c512cf29762e13fbf6c6e3457ed473ebc05264"
+  },
+  {
+    "project": {
+      "dir_name": "fasapa-@@-nominalsets",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/PermType.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 6
+    },
+    "hash": "385ff4718109596328e6acd966c512cf29762e13fbf6c6e3457ed473ebc05264"
+  }
+]

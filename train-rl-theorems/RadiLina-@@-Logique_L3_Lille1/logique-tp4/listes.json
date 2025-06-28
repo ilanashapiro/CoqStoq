@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "RadiLina-@@-Logique_L3_Lille1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "logique-tp4/listes.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "72d4066c17afd67998d30b5c5f9a8cc61c714a0a51d4259ca09ac0319123a350"
+  }
+]

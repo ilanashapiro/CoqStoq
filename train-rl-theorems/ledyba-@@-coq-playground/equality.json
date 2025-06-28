@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "ledyba-@@-coq-playground",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equality.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "db80d86dffff8b24a6670d8a31bab6dc7bebc4a15fabce001cb2f6fd07f952e9"
+  },
+  {
+    "project": {
+      "dir_name": "ledyba-@@-coq-playground",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equality.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "db80d86dffff8b24a6670d8a31bab6dc7bebc4a15fabce001cb2f6fd07f952e9"
+  }
+]

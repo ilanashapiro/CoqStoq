@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/ZArith/Zeuclid.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 5
+    },
+    "hash": "b2faaed9b06f489a2619f313a91e60073dbcfbeca727e2dc247bb6f20a6c69b8"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/ZArith/Zeuclid.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 5
+    },
+    "hash": "b2faaed9b06f489a2619f313a91e60073dbcfbeca727e2dc247bb6f20a6c69b8"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/ZArith/Zeuclid.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 5
+    },
+    "hash": "b2faaed9b06f489a2619f313a91e60073dbcfbeca727e2dc247bb6f20a6c69b8"
+  }
+]

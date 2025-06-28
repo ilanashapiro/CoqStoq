@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "AU-COBRA-@@-ConCert",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "execution/theories/Monad.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "6127ab4228e3045ce914ae1b2452cea1332968930cfc2dacb8a055b110b21b97"
+  }
+]

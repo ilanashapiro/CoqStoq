@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Aqissiaq-@@-ICTAC-DenotSymbEx",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Syntax.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 6
+    },
+    "hash": "bff158beb13aff76980bed065fd0cf5139e4b75f4db2a04bdad50c57fb64e382"
+  },
+  {
+    "project": {
+      "dir_name": "Aqissiaq-@@-ICTAC-DenotSymbEx",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Syntax.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 6
+    },
+    "hash": "bff158beb13aff76980bed065fd0cf5139e4b75f4db2a04bdad50c57fb64e382"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "kmicinski-@@-su-pl-quals",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "qe2019.v",
+    "theorem_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 95,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 4
+    },
+    "hash": "38182b59f8aac81bb7c86868291b98c89fb04fd78356c9685a757563d836f073"
+  }
+]

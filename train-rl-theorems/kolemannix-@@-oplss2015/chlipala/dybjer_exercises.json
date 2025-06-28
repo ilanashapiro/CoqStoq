@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "kolemannix-@@-oplss2015",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chlipala/dybjer_exercises.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 20
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 24
+    },
+    "hash": "4dafe4b6d33e5df8227e347ff0954c1be7343adbec3fbe7a04b8093e24708c1c"
+  }
+]

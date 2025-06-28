@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "amblafont-@@-dependent-eliminator-ind-ind-rec",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "conTyEl.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "a1b65b277a80f821932c5747d4d8302d719d2b05ee8c15c2caddb96af722635a"
+  },
+  {
+    "project": {
+      "dir_name": "amblafont-@@-dependent-eliminator-ind-ind-rec",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "conTyEl.v",
+    "theorem_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 165,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 198,
+      "column": 4
+    },
+    "hash": "a1b65b277a80f821932c5747d4d8302d719d2b05ee8c15c2caddb96af722635a"
+  }
+]

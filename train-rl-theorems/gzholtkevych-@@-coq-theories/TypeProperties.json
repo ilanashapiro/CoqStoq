@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "gzholtkevych-@@-coq-theories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TypeProperties.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 6
+    },
+    "hash": "184c7053d5d37aec7e4bacacff959493f992818402d58c9c11d0b45d4fa06a79"
+  },
+  {
+    "project": {
+      "dir_name": "gzholtkevych-@@-coq-theories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TypeProperties.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 87,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 88,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 100,
+      "column": 8
+    },
+    "hash": "184c7053d5d37aec7e4bacacff959493f992818402d58c9c11d0b45d4fa06a79"
+  },
+  {
+    "project": {
+      "dir_name": "gzholtkevych-@@-coq-theories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TypeProperties.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 102,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 103,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 8
+    },
+    "hash": "184c7053d5d37aec7e4bacacff959493f992818402d58c9c11d0b45d4fa06a79"
+  },
+  {
+    "project": {
+      "dir_name": "gzholtkevych-@@-coq-theories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TypeProperties.v",
+    "theorem_start_pos": {
+      "line": 110,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 110,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 111,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 6
+    },
+    "hash": "184c7053d5d37aec7e4bacacff959493f992818402d58c9c11d0b45d4fa06a79"
+  }
+]

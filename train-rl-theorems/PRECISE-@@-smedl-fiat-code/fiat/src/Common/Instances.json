@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "PRECISE-@@-smedl-fiat-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat/src/Common/Instances.v",
+    "theorem_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 149,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 150,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 150,
+      "column": 27
+    },
+    "hash": "1d9f263d39ff11bb8a6700b96a75f6599cfe2d2c237a709d3ffd0a01d93e50c8"
+  }
+]

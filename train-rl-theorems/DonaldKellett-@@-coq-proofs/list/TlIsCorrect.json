@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DonaldKellett-@@-coq-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "list/TlIsCorrect.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "e353680fdad2ad194ac58b01694360aa5f8dbbf8dd0ad0db1267e48c1d0f9bbc"
+  }
+]

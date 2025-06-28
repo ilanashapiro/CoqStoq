@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Err0rzz-@@-Softwarefoundation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "IndPrinciples.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 21
+    },
+    "hash": "aa7cf1b0894fe170985bacf2193d550c2683e876b07383320a04379030d2d49d"
+  },
+  {
+    "project": {
+      "dir_name": "Err0rzz-@@-Softwarefoundation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "IndPrinciples.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "aa7cf1b0894fe170985bacf2193d550c2683e876b07383320a04379030d2d49d"
+  }
+]

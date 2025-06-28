@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "vincent-benayoun-@@-PhD-thesis",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq-proof/utils.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "29f6a8790cde10b038741ce35af12901dd60a6808d3ecc499a272ef4e15072c3"
+  },
+  {
+    "project": {
+      "dir_name": "vincent-benayoun-@@-PhD-thesis",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq-proof/utils.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "29f6a8790cde10b038741ce35af12901dd60a6808d3ecc499a272ef4e15072c3"
+  }
+]

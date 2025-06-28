@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tkmru-@@-coq99",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_09/coq_09.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "b9be282e1534af8135b2951c7611ea2a16647b54c1c8af10827e57f5975d6e71"
+  }
+]

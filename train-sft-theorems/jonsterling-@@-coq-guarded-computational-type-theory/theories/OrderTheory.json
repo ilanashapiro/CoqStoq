@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/OrderTheory.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 6
+    },
+    "hash": "49a6385c94002690a9a3fa09421c4641ab6d6d847358be151c35c8188e260d54"
+  },
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/OrderTheory.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 6
+    },
+    "hash": "49a6385c94002690a9a3fa09421c4641ab6d6d847358be151c35c8188e260d54"
+  },
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-guarded-computational-type-theory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/OrderTheory.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 100,
+      "column": 8
+    },
+    "hash": "49a6385c94002690a9a3fa09421c4641ab6d6d847358be151c35c8188e260d54"
+  }
+]

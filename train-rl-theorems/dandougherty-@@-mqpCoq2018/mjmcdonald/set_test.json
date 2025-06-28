@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "dandougherty-@@-mqpCoq2018",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mjmcdonald/set_test.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "730c742c711b4b739b4870cdd5f918dc6d4e18d8cc8cfa6972100a0ea306e3ac"
+  },
+  {
+    "project": {
+      "dir_name": "dandougherty-@@-mqpCoq2018",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mjmcdonald/set_test.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "730c742c711b4b739b4870cdd5f918dc6d4e18d8cc8cfa6972100a0ea306e3ac"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "cobbal-@@-ppl-ctx-equiv-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "auto-subst/examples/plain/Size.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "5e5bec8b9ee48e3bd4c11ed14814b27fbf6cddfa30a835a2a93027373fbda74b"
+  },
+  {
+    "project": {
+      "dir_name": "cobbal-@@-ppl-ctx-equiv-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "auto-subst/examples/plain/Size.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 62
+    },
+    "hash": "5e5bec8b9ee48e3bd4c11ed14814b27fbf6cddfa30a835a2a93027373fbda74b"
+  },
+  {
+    "project": {
+      "dir_name": "cobbal-@@-ppl-ctx-equiv-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "auto-subst/examples/plain/Size.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 101,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 4
+    },
+    "hash": "5e5bec8b9ee48e3bd4c11ed14814b27fbf6cddfa30a835a2a93027373fbda74b"
+  }
+]

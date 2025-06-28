@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssrf02.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 17
+    },
+    "hash": "fe4d1226dc7cd78fc6ef5ab02fe26ad24167ce7906ae7c9771ce6f74c6f43342"
+  },
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssrf02.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "fe4d1226dc7cd78fc6ef5ab02fe26ad24167ce7906ae7c9771ce6f74c6f43342"
+  },
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssrf02.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "fe4d1226dc7cd78fc6ef5ab02fe26ad24167ce7906ae7c9771ce6f74c6f43342"
+  }
+]

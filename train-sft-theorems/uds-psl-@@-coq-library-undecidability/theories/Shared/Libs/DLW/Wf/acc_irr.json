@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Shared/Libs/DLW/Wf/acc_irr.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 6
+    },
+    "hash": "61731b04731977b637c7b1a6471a6523097db2c9fc82523e114cb8a66310b629"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Shared/Libs/DLW/Wf/acc_irr.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 6
+    },
+    "hash": "61731b04731977b637c7b1a6471a6523097db2c9fc82523e114cb8a66310b629"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "amintimany-@@-Categories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_Cats/Type_Cat/SubObject_Classifier.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 6
+    },
+    "hash": "e906ae4a4295d7673c00ac0ce65cdf56e5bc86bbdb75909c3328be7b3efcf614"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "limitedeternity-@@-PrPr-Labs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "PrPr-01/Idempotency.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "5edaf8d6f105256594cb0b58a24d66c26cb656569e7e933d5d223ad9d7417679"
+  },
+  {
+    "project": {
+      "dir_name": "limitedeternity-@@-PrPr-Labs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "PrPr-01/Idempotency.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "5edaf8d6f105256594cb0b58a24d66c26cb656569e7e933d5d223ad9d7417679"
+  }
+]

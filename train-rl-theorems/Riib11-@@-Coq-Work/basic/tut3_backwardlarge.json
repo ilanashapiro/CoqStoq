@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Riib11-@@-Coq-Work",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basic/tut3_backwardlarge.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "29676070337109f4a15d2c25fb7a97910f42a61861de3c6d435bacc1aca19bb6"
+  }
+]

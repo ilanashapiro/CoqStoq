@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "impermeable-@@-coq-waterproof",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Libs/Logic/InformativeEpsilon.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 4
+    },
+    "hash": "f24a4a0ccddba065472c0e07f882025dfebb6f959de40729f5bedb97c1ebce6b"
+  }
+]

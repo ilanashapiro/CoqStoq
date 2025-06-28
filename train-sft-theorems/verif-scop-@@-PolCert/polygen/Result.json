@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "verif-scop-@@-PolCert",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "polygen/Result.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "88ff9753dc9ac261d2fe2a1b38e8883908cabcc0148a56bbafa73717253663ef"
+  },
+  {
+    "project": {
+      "dir_name": "verif-scop-@@-PolCert",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "polygen/Result.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 4
+    },
+    "hash": "88ff9753dc9ac261d2fe2a1b38e8883908cabcc0148a56bbafa73717253663ef"
+  },
+  {
+    "project": {
+      "dir_name": "verif-scop-@@-PolCert",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "polygen/Result.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 104
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "88ff9753dc9ac261d2fe2a1b38e8883908cabcc0148a56bbafa73717253663ef"
+  },
+  {
+    "project": {
+      "dir_name": "verif-scop-@@-PolCert",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "polygen/Result.v",
+    "theorem_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 92
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 4
+    },
+    "hash": "88ff9753dc9ac261d2fe2a1b38e8883908cabcc0148a56bbafa73717253663ef"
+  }
+]

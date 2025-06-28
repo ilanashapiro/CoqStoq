@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "snu-sf-@@-crellvm-vellvm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Vellvm/ott_list_eq_dec.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 50
+    },
+    "hash": "d42d8e9572d6d58105cbaa068086f4521abe08ab0f2c50e05921e810ced31e77"
+  }
+]

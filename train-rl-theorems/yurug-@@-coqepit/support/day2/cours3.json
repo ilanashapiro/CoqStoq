@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "yurug-@@-coqepit",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "support/day2/cours3.v",
+    "theorem_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 294,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 295,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 295,
+      "column": 39
+    },
+    "hash": "96b67929794b9d00c43b33c787b8e611ce43ef34aa9d83a73de2e35e7b547a08"
+  },
+  {
+    "project": {
+      "dir_name": "yurug-@@-coqepit",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "support/day2/cours3.v",
+    "theorem_start_pos": {
+      "line": 357,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 357,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 358,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 360,
+      "column": 4
+    },
+    "hash": "96b67929794b9d00c43b33c787b8e611ce43ef34aa9d83a73de2e35e7b547a08"
+  }
+]

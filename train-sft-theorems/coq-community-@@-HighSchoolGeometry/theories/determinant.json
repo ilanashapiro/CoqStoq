@@ -1,0 +1,553 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 116,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 139,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 142,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 143,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 150,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 154,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 159,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 163,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 165,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 166,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 167,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 170,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 172,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 173,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 174,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 181,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 185,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 193,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 198,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 199,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 206,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 208,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 209,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 217,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 218,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 220,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/determinant.v",
+    "theorem_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 226,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 227,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 242,
+      "column": 4
+    },
+    "hash": "8794832732b909b12de85e05981c256255ffb2b49ac79d8efd39fc57b3c13df8"
+  }
+]

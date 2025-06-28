@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "hope-pdx-@@-Tagine-public",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "compcert/Wfsimpl.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "d26b187d9ef9b5f48c164c22d8af3fce223b9c011a0eddd1842fbf936fe02fd7"
+  },
+  {
+    "project": {
+      "dir_name": "hope-pdx-@@-Tagine-public",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "compcert/Wfsimpl.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "d26b187d9ef9b5f48c164c22d8af3fce223b9c011a0eddd1842fbf936fe02fd7"
+  }
+]

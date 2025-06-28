@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "atlanmod-@@-coqtl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "core/properties/AdditivityRule.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "hash": "ba1712a36d4aa87396aacccd769ace91eaf2b02c67fa7170f0b82d11f1f5be41"
+  },
+  {
+    "project": {
+      "dir_name": "atlanmod-@@-coqtl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "core/properties/AdditivityRule.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 80,
+      "column": 4
+    },
+    "hash": "ba1712a36d4aa87396aacccd769ace91eaf2b02c67fa7170f0b82d11f1f5be41"
+  },
+  {
+    "project": {
+      "dir_name": "atlanmod-@@-coqtl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "core/properties/AdditivityRule.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "ba1712a36d4aa87396aacccd769ace91eaf2b02c67fa7170f0b82d11f1f5be41"
+  }
+]

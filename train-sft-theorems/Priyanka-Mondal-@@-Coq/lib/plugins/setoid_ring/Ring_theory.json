@@ -1,0 +1,930 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 85,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 196,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 196,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 197,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 45
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 213,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 213,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 214,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 216,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 244,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 244,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 245,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 245,
+      "column": 34
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 247,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 247,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 248,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 248,
+      "column": 38
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 250,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 250,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 251,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 251,
+      "column": 38
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 272,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 272,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 273,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 273,
+      "column": 35
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 275,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 275,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 276,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 281,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 283,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 283,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 284,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 284,
+      "column": 25
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 286,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 286,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 287,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 287,
+      "column": 25
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 289,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 289,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 290,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 290,
+      "column": 25
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 319,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 321,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 322,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 324,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 345,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 345,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 346,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 353,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 355,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 355,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 356,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 362,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 364,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 364,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 365,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 381,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 383,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 383,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 384,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 389,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 430,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 430,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 431,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 441,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 443,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 443,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 444,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 447,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 463,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 463,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 464,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 467,
+      "column": 4
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 489,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 489,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 490,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 490,
+      "column": 22
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 492,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 492,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 493,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 493,
+      "column": 22
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 495,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 495,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 496,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 496,
+      "column": 22
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 498,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 498,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 499,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 501,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 503,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 503,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 504,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 506,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 508,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 508,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 509,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 511,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 513,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 513,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 514,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 516,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 518,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 518,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 519,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 521,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 523,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 523,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 524,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 527,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/Ring_theory.v",
+    "theorem_start_pos": {
+      "line": 529,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 529,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 530,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 532,
+      "column": 5
+    },
+    "hash": "462c9ecfee983b60b7087a1ac9736b234c662e1d1c438aa2e3219e7f66416f95"
+  }
+]

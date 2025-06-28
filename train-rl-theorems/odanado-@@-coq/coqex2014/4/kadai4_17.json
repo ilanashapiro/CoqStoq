@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "odanado-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqex2014/4/kadai4_17.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "d121ef1ceccfa16cf5506142254f7ec094c301780e21deed156e3080a5fbefef"
+  }
+]

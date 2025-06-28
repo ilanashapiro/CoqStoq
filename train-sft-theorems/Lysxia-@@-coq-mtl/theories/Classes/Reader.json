@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/Reader.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "dad1deeb65db085df871a905e06e852cebfd737ded5656f02ebd81e5efa49cc7"
+  }
+]

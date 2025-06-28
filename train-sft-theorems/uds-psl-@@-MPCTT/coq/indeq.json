@@ -1,0 +1,466 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 6
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 6
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 6
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 114,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 115,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 117,
+      "column": 6
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 131,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 4
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 141,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 142,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 149,
+      "column": 4
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 152,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 153,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 159,
+      "column": 4
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 161,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 162,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 168,
+      "column": 4
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 175,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 180,
+      "column": 6
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 181,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 186,
+      "column": 8
+    },
+    "proof_start_pos": {
+      "line": 187,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 6
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 190,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 196,
+      "column": 6
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 216,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 217,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 219,
+      "column": 4
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 221,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 224,
+      "column": 4
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 226,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 227,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 228,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 230,
+      "column": 4
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 233,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 234,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 235,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 240,
+      "column": 4
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/indeq.v",
+    "theorem_start_pos": {
+      "line": 241,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 242,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 243,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 247,
+      "column": 4
+    },
+    "hash": "79d20fe465739d428d25ad50586ab5b0bcb8341564f7c7f65bab92c7266fa0d7"
+  }
+]

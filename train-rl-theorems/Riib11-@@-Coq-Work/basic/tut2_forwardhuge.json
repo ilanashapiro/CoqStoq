@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Riib11-@@-Coq-Work",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basic/tut2_forwardhuge.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "22907814947a6a3f8f389bb365953b9a093b5614bb8c7eb74d86566d49bd8d3b"
+  }
+]

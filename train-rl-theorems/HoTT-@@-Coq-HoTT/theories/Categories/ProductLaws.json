@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/ProductLaws.v",
+    "theorem_start_pos": {
+      "line": 123,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 125,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 126,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 8
+    },
+    "hash": "32c619fea670c1f696c9abab1f97046e44760d5a95b5834650962f58f2b046a2"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/ProductLaws.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 8
+    },
+    "hash": "32c619fea670c1f696c9abab1f97046e44760d5a95b5834650962f58f2b046a2"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "MRandl-@@-verith",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/ZInduction.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "ca88e36c6bc0fbb48e8cdec38b853229327f8593c82d14e1d6403650180d2888"
+  }
+]

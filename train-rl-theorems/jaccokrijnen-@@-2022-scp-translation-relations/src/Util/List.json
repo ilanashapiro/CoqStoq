@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jaccokrijnen-@@-2022-scp-translation-relations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Util/List.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 31
+    },
+    "hash": "200578bac274d65995c585f3247f89b6abad65f7ddcd6c1b88a67b1cf266d2f4"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "math-comp-@@-Coq-Combi",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "doc/Talk-CRM/demo.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 65
+    },
+    "hash": "2aec16ccafdf666860ae4ef7627f4b136be42badf2a838c5d5d0d1da43550a4f"
+  },
+  {
+    "project": {
+      "dir_name": "math-comp-@@-Coq-Combi",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "doc/Talk-CRM/demo.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "2aec16ccafdf666860ae4ef7627f4b136be42badf2a838c5d5d0d1da43550a4f"
+  },
+  {
+    "project": {
+      "dir_name": "math-comp-@@-Coq-Combi",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "doc/Talk-CRM/demo.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "2aec16ccafdf666860ae4ef7627f4b136be42badf2a838c5d5d0d1da43550a4f"
+  },
+  {
+    "project": {
+      "dir_name": "math-comp-@@-Coq-Combi",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "doc/Talk-CRM/demo.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "2aec16ccafdf666860ae4ef7627f4b136be42badf2a838c5d5d0d1da43550a4f"
+  }
+]

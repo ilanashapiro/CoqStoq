@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/SetoidClass.v",
+    "theorem_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "6cdd203655cf123ae86b780c54b4e497d9665e53efc6e27dcda92d3fc078aff3"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/SetoidClass.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "6cdd203655cf123ae86b780c54b4e497d9665e53efc6e27dcda92d3fc078aff3"
+  }
+]

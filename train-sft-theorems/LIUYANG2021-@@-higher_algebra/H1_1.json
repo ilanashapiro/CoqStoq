@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LIUYANG2021-@@-higher_algebra",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "H1_1.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 32
+    },
+    "hash": "38845da2927a28cb6b50ee34ac1967d46af55d589307b7151720606daeac1b32"
+  }
+]

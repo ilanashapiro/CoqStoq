@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Pseudofunctor/RewriteLaws.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 181
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 6
+    },
+    "hash": "faeb3cf80f2512c34ed7aecd9c0b5781e4039e4ff532c8f1f255f462d5dd02cf"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Pseudofunctor/RewriteLaws.v",
+    "theorem_start_pos": {
+      "line": 88,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 6
+    },
+    "hash": "faeb3cf80f2512c34ed7aecd9c0b5781e4039e4ff532c8f1f255f462d5dd02cf"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Pseudofunctor/RewriteLaws.v",
+    "theorem_start_pos": {
+      "line": 105,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 6
+    },
+    "hash": "faeb3cf80f2512c34ed7aecd9c0b5781e4039e4ff532c8f1f255f462d5dd02cf"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Pseudofunctor/RewriteLaws.v",
+    "theorem_start_pos": {
+      "line": 121,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 135,
+      "column": 6
+    },
+    "hash": "faeb3cf80f2512c34ed7aecd9c0b5781e4039e4ff532c8f1f255f462d5dd02cf"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/ua_second_isomorphism.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 6
+    },
+    "hash": "fa0901a93a3863f81d45866c6132155718c90ef7b7883ddbc1472ce7f23bce3b"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/ua_second_isomorphism.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 6
+    },
+    "hash": "fa0901a93a3863f81d45866c6132155718c90ef7b7883ddbc1472ce7f23bce3b"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/ua_second_isomorphism.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 6
+    },
+    "hash": "fa0901a93a3863f81d45866c6132155718c90ef7b7883ddbc1472ce7f23bce3b"
+  }
+]

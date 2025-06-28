@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "sboosali-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "play.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4,
+      "column": 4
+    },
+    "hash": "2b94a1be8dd36dc577af1fce213fd201a3e9950166592a8adb99eccc905eb4ee"
+  }
+]

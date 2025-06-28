@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch8_inductive_predicates/SRC/Hoare_while_rule_bis.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 4
+    },
+    "hash": "d853e69e227c364a3a17038b817e0850be44b2817afd8e851794b8b75070e8bd"
+  },
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch8_inductive_predicates/SRC/Hoare_while_rule_bis.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 4
+    },
+    "hash": "d853e69e227c364a3a17038b817e0850be44b2817afd8e851794b8b75070e8bd"
+  }
+]

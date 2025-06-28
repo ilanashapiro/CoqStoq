@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "fajtaiandris-@@-bremen",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/harmony/PitchClass.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 108
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "b66078668e3673565a56b7d33253ee834e3b08c6e67b8b1556ca51260c578763"
+  },
+  {
+    "project": {
+      "dir_name": "fajtaiandris-@@-bremen",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/harmony/PitchClass.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "b66078668e3673565a56b7d33253ee834e3b08c6e67b8b1556ca51260c578763"
+  }
+]

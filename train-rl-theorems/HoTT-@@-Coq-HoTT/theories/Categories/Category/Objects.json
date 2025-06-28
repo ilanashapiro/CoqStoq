@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Category/Objects.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 6
+    },
+    "hash": "6159c0dfd5a057d38980c50390d4a1629546009ddc07e7c31601cd00640b3483"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Category/Objects.v",
+    "theorem_start_pos": {
+      "line": 66,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 70,
+      "column": 6
+    },
+    "hash": "6159c0dfd5a057d38980c50390d4a1629546009ddc07e7c31601cd00640b3483"
+  }
+]

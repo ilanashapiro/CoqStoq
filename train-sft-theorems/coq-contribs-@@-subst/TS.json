@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-subst",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TS.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "35aea26c9177153c9d5056c2659b6eaf3b3dea6f73fa7c005d93dcf85a17c97c"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-subst",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TS.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 4
+    },
+    "hash": "35aea26c9177153c9d5056c2659b6eaf3b3dea6f73fa7c005d93dcf85a17c97c"
+  }
+]

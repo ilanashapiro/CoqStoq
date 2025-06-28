@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch4_dependent_product/SRC/chap4.v",
+    "theorem_start_pos": {
+      "line": 137,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 137,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 24
+    },
+    "hash": "857e22317a2385ce87879f7c9961e608f273b06da2b0d44867481ad405032a1b"
+  },
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch4_dependent_product/SRC/chap4.v",
+    "theorem_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 141,
+      "column": 24
+    },
+    "hash": "857e22317a2385ce87879f7c9961e608f273b06da2b0d44867481ad405032a1b"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "HaroldVemeno-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "listmax.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 4
+    },
+    "hash": "6f8a50a0aa3c0d7680cb18c2529bbf1f48bfd0acd6064a653b2cb64d5e3dba2f"
+  },
+  {
+    "project": {
+      "dir_name": "HaroldVemeno-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "listmax.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 95,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 4
+    },
+    "hash": "6f8a50a0aa3c0d7680cb18c2529bbf1f48bfd0acd6064a653b2cb64d5e3dba2f"
+  },
+  {
+    "project": {
+      "dir_name": "HaroldVemeno-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "listmax.v",
+    "theorem_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 120,
+      "column": 4
+    },
+    "hash": "6f8a50a0aa3c0d7680cb18c2529bbf1f48bfd0acd6064a653b2cb64d5e3dba2f"
+  }
+]

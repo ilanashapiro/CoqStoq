@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DarkVanityOfLight-@@-Logic-and-Semantic-of-programming-languages",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sheet1.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "e2507981a353b30bd468c543172b03f3a7d8cfd74ab22677f18bee387eee14e9"
+  }
+]

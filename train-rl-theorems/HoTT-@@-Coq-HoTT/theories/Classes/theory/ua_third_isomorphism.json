@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/ua_third_isomorphism.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 6
+    },
+    "hash": "f91ff8e0588855bb1dd32c409e28092977250e0109c8839d782d1016575f9de7"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/ua_third_isomorphism.v",
+    "theorem_start_pos": {
+      "line": 171,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 172,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 173,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 6
+    },
+    "hash": "f91ff8e0588855bb1dd32c409e28092977250e0109c8839d782d1016575f9de7"
+  }
+]

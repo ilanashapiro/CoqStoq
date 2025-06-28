@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/Powerdomain/PowerdomainCompleteness.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 6
+    },
+    "hash": "4416cdf6e751daa458cdf4aa1074ed9f1764d7d61a407d93d980b4d58d78e609"
+  },
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/Powerdomain/PowerdomainCompleteness.v",
+    "theorem_start_pos": {
+      "line": 354,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 354,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 355,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 359,
+      "column": 6
+    },
+    "hash": "4416cdf6e751daa458cdf4aa1074ed9f1764d7d61a407d93d980b4d58d78e609"
+  }
+]

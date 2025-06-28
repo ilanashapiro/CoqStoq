@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "AU-PL-@@-lectures",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "01-27-2021/note.v",
+    "theorem_start_pos": {
+      "line": 104,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 106,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 107,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 6
+    },
+    "hash": "6d230da8935b8db10f5c595f6785bdfc124792b8bc7bd974e4418bff32bb76ea"
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 113,
+      "column": 4
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 466,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 514,
+      "column": 8
+    },
+    "proof_start_pos": {
+      "line": 515,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 517,
+      "column": 6
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 543,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 550,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 551,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 592,
+      "column": 6
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 695,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 696,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 697,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 708,
+      "column": 8
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 710,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 713,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 714,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 714,
+      "column": 83
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 716,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 717,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 718,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 730,
+      "column": 8
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 793,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 796,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 797,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 842,
+      "column": 8
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 844,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 847,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 848,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 865,
+      "column": 8
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 867,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 870,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 871,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 891,
+      "column": 8
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 893,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 896,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 897,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 901,
+      "column": 8
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 903,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 906,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 907,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 913,
+      "column": 8
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 915,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 920,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 921,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 930,
+      "column": 8
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 937,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 938,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 939,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 947,
+      "column": 8
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 973,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 974,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 975,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 978,
+      "column": 6
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 980,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 981,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 982,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 982,
+      "column": 65
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 984,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 990,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 991,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1016,
+      "column": 6
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Semantics.v",
+    "theorem_start_pos": {
+      "line": 1018,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 1023,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 1024,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1029,
+      "column": 6
+    },
+    "hash": "41e8bd74b8b0bb200c8c00ddce3db84f0ede941e39a2d7617befac20f125b3b5"
+  }
+]

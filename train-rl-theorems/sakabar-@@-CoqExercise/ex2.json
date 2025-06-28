@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "sakabar-@@-CoqExercise",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ex2.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "hash": "27b5ee75c6e795c281c99e0e5403b784318036a8d903dac58fb560c1c7f61eea"
+  },
+  {
+    "project": {
+      "dir_name": "sakabar-@@-CoqExercise",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ex2.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 4
+    },
+    "hash": "27b5ee75c6e795c281c99e0e5403b784318036a8d903dac58fb560c1c7f61eea"
+  }
+]

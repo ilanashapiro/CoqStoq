@@ -1,0 +1,814 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 92,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 100,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 102,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 103,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 112,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 116,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 126,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 130,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 131,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 145,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 147,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 152,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 155,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 161,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 167,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 168,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 180,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 189,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 190,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 217,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 219,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 221,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 231,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 233,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 235,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 236,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 240,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 242,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 248,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 249,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 255,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 257,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 264,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 271,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 273,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 279,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 280,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 291,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 293,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 299,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 300,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 323,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 325,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 331,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 332,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 366,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 368,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 374,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 375,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 386,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 388,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 394,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 395,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 417,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 419,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 425,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 426,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 433,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 435,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 443,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 444,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 470,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 472,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 480,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 481,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 501,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/complexes_inversion.v",
+    "theorem_start_pos": {
+      "line": 503,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 511,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 512,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 519,
+      "column": 4
+    },
+    "hash": "640af7651c5243894117db8728cc84bbda75437a66a642aea79e4f302f4e424b"
+  }
+]

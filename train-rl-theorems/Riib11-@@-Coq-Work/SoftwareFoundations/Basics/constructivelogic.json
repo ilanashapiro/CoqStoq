@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Riib11-@@-Coq-Work",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "SoftwareFoundations/Basics/constructivelogic.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "5fbdd33f71dc2acbe8405601800a78ebce9bd80725ca3db02755b1f0b85ead54"
+  }
+]

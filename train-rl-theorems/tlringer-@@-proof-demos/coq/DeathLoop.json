@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "tlringer-@@-proof-demos",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/DeathLoop.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "7fd7ba5ddb8627347663b98d5beaf8416b9fe3a28679c36a291bce8167947847"
+  },
+  {
+    "project": {
+      "dir_name": "tlringer-@@-proof-demos",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/DeathLoop.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 4
+    },
+    "hash": "7fd7ba5ddb8627347663b98d5beaf8416b9fe3a28679c36a291bce8167947847"
+  }
+]

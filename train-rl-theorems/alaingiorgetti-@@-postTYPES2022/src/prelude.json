@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "alaingiorgetti-@@-postTYPES2022",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/prelude.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "b95efd0079884c4687c6410638db39cb26342cbd977267a6fe857140da336812"
+  }
+]

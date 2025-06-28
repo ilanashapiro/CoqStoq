@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/AdmissibilityGraph/AdmissibilityGraph.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 4
+    },
+    "hash": "03e6591fb9347cf4ed199d6cab6d4be1770ef8bf6837447baa851749dce024dd"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/AdmissibilityGraph/AdmissibilityGraph.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "hash": "03e6591fb9347cf4ed199d6cab6d4be1770ef8bf6837447baa851749dce024dd"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/AdmissibilityGraph/AdmissibilityGraph.v",
+    "theorem_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 152,
+      "column": 4
+    },
+    "hash": "03e6591fb9347cf4ed199d6cab6d4be1770ef8bf6837447baa851749dce024dd"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/AdmissibilityGraph/AdmissibilityGraph.v",
+    "theorem_start_pos": {
+      "line": 161,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 165,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 174,
+      "column": 4
+    },
+    "hash": "03e6591fb9347cf4ed199d6cab6d4be1770ef8bf6837447baa851749dce024dd"
+  }
+]

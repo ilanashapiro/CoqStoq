@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "uwplse-@@-potpie",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "DanLogicHelpers.v",
+    "theorem_start_pos": {
+      "line": 283,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 286,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 287,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 290,
+      "column": 4
+    },
+    "hash": "e7f2f60e76c1fb5ce9dacbe45af50d38ba8b95f2673fe6fd40e026e57d59e6d0"
+  }
+]

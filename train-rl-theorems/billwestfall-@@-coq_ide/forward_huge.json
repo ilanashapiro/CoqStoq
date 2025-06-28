@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "billwestfall-@@-coq_ide",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "forward_huge.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "f386811372b1a02c52ce1cd1a6f2a9f039f4cc1503c8d3663d493f2aceebca3c"
+  }
+]

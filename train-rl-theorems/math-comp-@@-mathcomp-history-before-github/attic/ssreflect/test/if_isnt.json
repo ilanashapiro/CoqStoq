@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "math-comp-@@-mathcomp-history-before-github",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "attic/ssreflect/test/if_isnt.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 20
+    },
+    "hash": "17002ffdd5439779ab5070ced72478431421081ab28ba63fe13ab2d584f41e63"
+  }
+]

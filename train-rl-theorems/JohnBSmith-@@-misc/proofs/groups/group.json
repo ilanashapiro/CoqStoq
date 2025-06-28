@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "JohnBSmith-@@-misc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/groups/group.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "b6b8728854f4bc963848e4a4338990ac29020c335fc4759e3e91655e86e2499a"
+  }
+]

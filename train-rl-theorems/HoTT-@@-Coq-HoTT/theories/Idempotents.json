@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Idempotents.v",
+    "theorem_start_pos": {
+      "line": 530,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 538,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 539,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 565,
+      "column": 6
+    },
+    "hash": "d219aa810ba79af73f9a4377e7ad8767d40f7d585479897447b7d5cd16cfce2b"
+  }
+]

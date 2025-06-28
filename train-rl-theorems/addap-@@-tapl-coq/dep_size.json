@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "addap-@@-tapl-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "dep_size.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "5529b665f33517557cac8238ac466b59de523cbbeb9089e9ac8528a90b853ec9"
+  },
+  {
+    "project": {
+      "dir_name": "addap-@@-tapl-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "dep_size.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "5529b665f33517557cac8238ac466b59de523cbbeb9089e9ac8528a90b853ec9"
+  }
+]

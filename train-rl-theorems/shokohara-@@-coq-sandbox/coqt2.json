@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "shokohara-@@-coq-sandbox",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqt2.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "252ff5796612addb3893bc5f9ff8140f4ee3fcd5529cd5a063afed03eed986f5"
+  }
+]

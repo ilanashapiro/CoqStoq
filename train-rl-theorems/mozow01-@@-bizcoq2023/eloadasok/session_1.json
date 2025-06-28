@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mozow01-@@-bizcoq2023",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "eloadasok/session_1.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 4
+    },
+    "hash": "8c9a0b1c3a19b1780665fb3fe81de566cd0f665a1921dd82157055fd1f3f9047"
+  }
+]

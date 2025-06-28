@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "cogumbreiro-@@-aniceto-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/EqDec.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 6
+    },
+    "hash": "3d789c0066c1d5913491a59124bc53916de0efabd349482f3bdcdb6cfb1024c0"
+  },
+  {
+    "project": {
+      "dir_name": "cogumbreiro-@@-aniceto-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/EqDec.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 6
+    },
+    "hash": "3d789c0066c1d5913491a59124bc53916de0efabd349482f3bdcdb6cfb1024c0"
+  },
+  {
+    "project": {
+      "dir_name": "cogumbreiro-@@-aniceto-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/EqDec.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 6
+    },
+    "hash": "3d789c0066c1d5913491a59124bc53916de0efabd349482f3bdcdb6cfb1024c0"
+  },
+  {
+    "project": {
+      "dir_name": "cogumbreiro-@@-aniceto-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/EqDec.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 6
+    },
+    "hash": "3d789c0066c1d5913491a59124bc53916de0efabd349482f3bdcdb6cfb1024c0"
+  }
+]

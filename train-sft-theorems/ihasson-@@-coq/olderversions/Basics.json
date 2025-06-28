@@ -1,0 +1,437 @@
+[
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 240,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 240,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 241,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 242,
+      "column": 30
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 244,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 244,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 246,
+      "column": 29
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 248,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 249,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 250,
+      "column": 29
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 256,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 258,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 259,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 263,
+      "column": 19
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 266,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 273,
+      "column": 19
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 275,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 276,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 277,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 280,
+      "column": 19
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 282,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 283,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 284,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 288,
+      "column": 19
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 291,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 293,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 297,
+      "column": 4
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 299,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 300,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 301,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 305,
+      "column": 4
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 307,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 307,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 308,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 316,
+      "column": 4
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 318,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 318,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 319,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 327,
+      "column": 4
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 329,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 330,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 331,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 347,
+      "column": 4
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 349,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 350,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 351,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 355,
+      "column": 4
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 357,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 358,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 359,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 365,
+      "column": 4
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  },
+  {
+    "project": {
+      "dir_name": "ihasson-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "olderversions/Basics.v",
+    "theorem_start_pos": {
+      "line": 367,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 368,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 369,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 380,
+      "column": 4
+    },
+    "hash": "af88b315d2adee1740a8da48e1d94c288f71d623d8b466d4c16f16e1990c1ffb"
+  }
+]

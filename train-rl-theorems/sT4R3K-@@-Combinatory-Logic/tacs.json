@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "sT4R3K-@@-Combinatory-Logic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tacs.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 39
+    },
+    "hash": "7ff4ed0640a9c387320abee9b0df97462bfe0b97b5aa79cd08eb181874c323aa"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/ProcFDInv.v",
+    "theorem_start_pos": {
+      "line": 136,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 161,
+      "column": 6
+    },
+    "hash": "cad3a8a7d11814a60e33af8cda4167a41c0557b797c33ead24a575587cd82bc0"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/ProcFDInv.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 166,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 167,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 170,
+      "column": 6
+    },
+    "hash": "cad3a8a7d11814a60e33af8cda4167a41c0557b797c33ead24a575587cd82bc0"
+  }
+]

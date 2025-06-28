@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Functor.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 4
+    },
+    "hash": "0dc44966d9cb39fefb510ed7680c693943d2b59fddc2f8fcfd8ed8b546b282d0"
+  },
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Functor.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "0dc44966d9cb39fefb510ed7680c693943d2b59fddc2f8fcfd8ed8b546b282d0"
+  }
+]

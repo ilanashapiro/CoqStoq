@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "magaud-@@-ConvexHullV1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CH11_exd.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 345,
+      "column": 4
+    },
+    "hash": "4753e4e29cf39f2e830c8399d639eb3a1aa52b6c4778c2e4d894e9066bfa25e7"
+  },
+  {
+    "project": {
+      "dir_name": "magaud-@@-ConvexHullV1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CH11_exd.v",
+    "theorem_start_pos": {
+      "line": 347,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 359,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 360,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 931,
+      "column": 4
+    },
+    "hash": "4753e4e29cf39f2e830c8399d639eb3a1aa52b6c4778c2e4d894e9066bfa25e7"
+  },
+  {
+    "project": {
+      "dir_name": "magaud-@@-ConvexHullV1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CH11_exd.v",
+    "theorem_start_pos": {
+      "line": 937,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 938,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 939,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4301,
+      "column": 4
+    },
+    "hash": "4753e4e29cf39f2e830c8399d639eb3a1aa52b6c4778c2e4d894e9066bfa25e7"
+  }
+]

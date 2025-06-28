@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/Retract.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 40
+    },
+    "hash": "7bbc206d063e64c82f536e1c2c9ae6c3422e25c6dd10e6429c2af5315705dfb4"
+  },
+  {
+    "project": {
+      "dir_name": "Lysxia-@@-coq-mtl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/Retract.v",
+    "theorem_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 40
+    },
+    "hash": "7bbc206d063e64c82f536e1c2c9ae6c3422e25c6dd10e6429c2af5315705dfb4"
+  }
+]

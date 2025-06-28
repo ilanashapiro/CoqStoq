@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "egolf-cs-@@-Verbatim",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Utils/hashtrie.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 6
+    },
+    "hash": "e3c7f44d308cb50d3421f5d8cfa99c55bbeb0ccfd62df0e011c7adc064987251"
+  },
+  {
+    "project": {
+      "dir_name": "egolf-cs-@@-Verbatim",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Utils/hashtrie.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 6
+    },
+    "hash": "e3c7f44d308cb50d3421f5d8cfa99c55bbeb0ccfd62df0e011c7adc064987251"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jaykru-@@-stlc-as2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "axioms.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "994aec5f16de6aa1927fa709df9dbe857502097688f5a48bce2575d75bf499fe"
+  }
+]

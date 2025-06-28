@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/ProcDecSCN.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 6
+    },
+    "hash": "8c2de1348e3d04ac566709470e1d89303458cc06cb09bae0cbf0f0bb36ef10c9"
+  }
+]

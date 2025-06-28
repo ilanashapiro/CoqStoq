@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "TorosFanny-@@-my_Coq_experiment",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "makeAdiscriminate.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "a877a69473dda73dee8e9ac5f803a13a6a46fabbded4d10ffd64cdf2bf7a69d9"
+  }
+]

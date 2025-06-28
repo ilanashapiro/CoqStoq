@@ -1,0 +1,959 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 81,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 179,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 200,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 208,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 222,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 231,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 232,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 242,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 250,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 251,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 259,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 263,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 273,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 274,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 288,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 300,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 301,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 313,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 315,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 319,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 320,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 328,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 332,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 336,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 337,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 345,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 368,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 373,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 374,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 394,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 398,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 401,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 402,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 405,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 415,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 422,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 423,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 478,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 485,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 492,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 493,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 534,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 537,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 541,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 542,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 559,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 563,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 568,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 569,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 577,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 581,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 584,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 585,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 592,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 595,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 599,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 600,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 607,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 610,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 614,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 615,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 620,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 623,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 628,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 629,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 637,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 641,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 646,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 647,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 655,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 658,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 660,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 661,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 666,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 670,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 672,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 673,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 678,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 683,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 685,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 686,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 691,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 694,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 697,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 698,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 706,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 709,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 711,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 712,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 718,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 721,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 723,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 724,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 730,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 733,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 734,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 735,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 737,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 741,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 743,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 744,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 753,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 756,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 759,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 760,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 774,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 777,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 781,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 782,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 797,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 802,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 805,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 806,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 819,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Kripke_Trees.v",
+    "theorem_start_pos": {
+      "line": 823,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 826,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 827,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 836,
+      "column": 4
+    },
+    "hash": "dff89f67326c2b71756e093cbbfb3edae028cbf65a12daddbe01991a891b0972"
+  }
+]

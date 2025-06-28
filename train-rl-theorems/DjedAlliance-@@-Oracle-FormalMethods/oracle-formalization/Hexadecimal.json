@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DjedAlliance-@@-Oracle-FormalMethods",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "oracle-formalization/Hexadecimal.v",
+    "theorem_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 4
+    },
+    "hash": "eac696b5d34548b7538903b079e55b79e8f480544b17f6f6bf7d67042ad3350c"
+  }
+]

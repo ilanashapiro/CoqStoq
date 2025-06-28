@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "andres-erbsen-@@-coq-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "experiments/bench/big_and_1000_true.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 97
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 70
+    },
+    "hash": "3022a9475b1e6da039786e570eee26607663e3925c23b06fa67f5ad187605035"
+  },
+  {
+    "project": {
+      "dir_name": "andres-erbsen-@@-coq-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "experiments/bench/big_and_1000_true.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 77
+    },
+    "hash": "3022a9475b1e6da039786e570eee26607663e3925c23b06fa67f5ad187605035"
+  }
+]

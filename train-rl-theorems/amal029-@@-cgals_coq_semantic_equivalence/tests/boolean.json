@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "amal029-@@-cgals_coq_semantic_equivalence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/boolean.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "a775384c460389c7e5b16aedeb45bf47243304cdd16bd4181abcbf7b3538121a"
+  },
+  {
+    "project": {
+      "dir_name": "amal029-@@-cgals_coq_semantic_equivalence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/boolean.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "a775384c460389c7e5b16aedeb45bf47243304cdd16bd4181abcbf7b3538121a"
+  },
+  {
+    "project": {
+      "dir_name": "amal029-@@-cgals_coq_semantic_equivalence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/boolean.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "a775384c460389c7e5b16aedeb45bf47243304cdd16bd4181abcbf7b3538121a"
+  },
+  {
+    "project": {
+      "dir_name": "amal029-@@-cgals_coq_semantic_equivalence",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tests/boolean.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 6
+    },
+    "hash": "a775384c460389c7e5b16aedeb45bf47243304cdd16bd4181abcbf7b3538121a"
+  }
+]

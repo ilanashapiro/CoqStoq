@@ -1,0 +1,582 @@
+[
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 332,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 332,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 333,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 334,
+      "column": 35
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 336,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 336,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 337,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 338,
+      "column": 28
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 340,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 340,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 341,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 342,
+      "column": 28
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 344,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 344,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 345,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 346,
+      "column": 28
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 348,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 348,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 349,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 350,
+      "column": 28
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 352,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 354,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 356,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 360,
+      "column": 19
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 362,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 363,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 364,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 369,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 375,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 376,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 377,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 381,
+      "column": 18
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 383,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 384,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 385,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 390,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 399,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 400,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 401,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 405,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 407,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 408,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 409,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 413,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 415,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 415,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 416,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 424,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 426,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 426,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 427,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 435,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 437,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 438,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 439,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 455,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 457,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 458,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 459,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 468,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 470,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 471,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 472,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 475,
+      "column": 21
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 477,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 478,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 479,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 485,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 487,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 488,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 489,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 493,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 508,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 511,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 512,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 517,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logical-Foundations/Basics.v",
+    "theorem_start_pos": {
+      "line": 519,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 522,
+      "column": 7
+    },
+    "proof_start_pos": {
+      "line": 523,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 529,
+      "column": 4
+    },
+    "hash": "29764c1fce54edca24becfc1991f883024390d17ec0c47ca1390bf52c7358c7c"
+  }
+]

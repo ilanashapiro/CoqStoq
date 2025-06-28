@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "sudgy-@@-math-from-nothing",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Init/tlc_tactics.v",
+    "theorem_start_pos": {
+      "line": 485,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 488,
+      "column": 4
+    },
+    "proof_start_pos": {
+      "line": 489,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 489,
+      "column": 38
+    },
+    "hash": "3235950d7c4d90a42890d0ad3c514fd40b784a6950c7d999b62dc07de00a3d77"
+  },
+  {
+    "project": {
+      "dir_name": "sudgy-@@-math-from-nothing",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Init/tlc_tactics.v",
+    "theorem_start_pos": {
+      "line": 491,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 493,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 494,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 494,
+      "column": 38
+    },
+    "hash": "3235950d7c4d90a42890d0ad3c514fd40b784a6950c7d999b62dc07de00a3d77"
+  },
+  {
+    "project": {
+      "dir_name": "sudgy-@@-math-from-nothing",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Init/tlc_tactics.v",
+    "theorem_start_pos": {
+      "line": 496,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 499,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 500,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 500,
+      "column": 38
+    },
+    "hash": "3235950d7c4d90a42890d0ad3c514fd40b784a6950c7d999b62dc07de00a3d77"
+  }
+]

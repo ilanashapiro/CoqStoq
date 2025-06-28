@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "RandomActsOfGrammar-@@-public-examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mutual-induction-slowdown/short.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 4
+    },
+    "hash": "b5de2bcc5bb4c76978185b46b7ce16cef16e410428af508a84018b05f84f06c1"
+  },
+  {
+    "project": {
+      "dir_name": "RandomActsOfGrammar-@@-public-examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mutual-induction-slowdown/short.v",
+    "theorem_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 161,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 162,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 227,
+      "column": 4
+    },
+    "hash": "b5de2bcc5bb4c76978185b46b7ce16cef16e410428af508a84018b05f84f06c1"
+  }
+]

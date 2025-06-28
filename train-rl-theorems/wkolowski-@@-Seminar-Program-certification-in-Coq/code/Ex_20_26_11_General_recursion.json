@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Seminar-Program-certification-in-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/Ex_20_26_11_General_recursion.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "3d3b0b592649308bbece23a01df3d72ab048fcdcb625ed2730c145a8a40705bc"
+  },
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Seminar-Program-certification-in-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/Ex_20_26_11_General_recursion.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 115,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 116,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 118,
+      "column": 4
+    },
+    "hash": "3d3b0b592649308bbece23a01df3d72ab048fcdcb625ed2730c145a8a40705bc"
+  }
+]

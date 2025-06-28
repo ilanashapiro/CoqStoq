@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "plclub-@@-hs-to-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "base/GHC/Num.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "abde4b186ccb158c63c129f4dafa42acbfe331cd253191ca4890c74f8b75ea4f"
+  }
+]

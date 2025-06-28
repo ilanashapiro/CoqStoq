@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DonaldKellett-@@-iron-lambda",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "done/Iron/Tactics/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 359,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 359,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 360,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 360,
+      "column": 17
+    },
+    "hash": "3f6569bacec34d1d3161fb15ee9ad2cc6f507190cc52c7fd678a1c633c3e586e"
+  }
+]

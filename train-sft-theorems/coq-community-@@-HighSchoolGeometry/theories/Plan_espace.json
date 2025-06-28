@@ -1,0 +1,234 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Plan_espace.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "b318c43823e67a2eb1fb34b9152bc988aae6b3c7e438da5eb14f2369b9f1bbaa"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Plan_espace.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 4
+    },
+    "hash": "b318c43823e67a2eb1fb34b9152bc988aae6b3c7e438da5eb14f2369b9f1bbaa"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Plan_espace.v",
+    "theorem_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 147,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 175,
+      "column": 4
+    },
+    "hash": "b318c43823e67a2eb1fb34b9152bc988aae6b3c7e438da5eb14f2369b9f1bbaa"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Plan_espace.v",
+    "theorem_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 240,
+      "column": 4
+    },
+    "hash": "b318c43823e67a2eb1fb34b9152bc988aae6b3c7e438da5eb14f2369b9f1bbaa"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Plan_espace.v",
+    "theorem_start_pos": {
+      "line": 276,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 281,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 282,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 294,
+      "column": 4
+    },
+    "hash": "b318c43823e67a2eb1fb34b9152bc988aae6b3c7e438da5eb14f2369b9f1bbaa"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Plan_espace.v",
+    "theorem_start_pos": {
+      "line": 296,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 301,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 339,
+      "column": 4
+    },
+    "hash": "b318c43823e67a2eb1fb34b9152bc988aae6b3c7e438da5eb14f2369b9f1bbaa"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Plan_espace.v",
+    "theorem_start_pos": {
+      "line": 341,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 346,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 347,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 362,
+      "column": 4
+    },
+    "hash": "b318c43823e67a2eb1fb34b9152bc988aae6b3c7e438da5eb14f2369b9f1bbaa"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Plan_espace.v",
+    "theorem_start_pos": {
+      "line": 364,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 369,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 370,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 387,
+      "column": 4
+    },
+    "hash": "b318c43823e67a2eb1fb34b9152bc988aae6b3c7e438da5eb14f2369b9f1bbaa"
+  }
+]

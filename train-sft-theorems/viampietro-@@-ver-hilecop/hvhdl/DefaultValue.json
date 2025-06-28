@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "viampietro-@@-ver-hilecop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hvhdl/DefaultValue.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "ecfc7bf2a6befd21bcdafe289c644a6f3ecb206b1c77788e72917662330e61d7"
+  },
+  {
+    "project": {
+      "dir_name": "viampietro-@@-ver-hilecop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hvhdl/DefaultValue.v",
+    "theorem_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 4
+    },
+    "hash": "ecfc7bf2a6befd21bcdafe289c644a6f3ecb206b1c77788e72917662330e61d7"
+  }
+]

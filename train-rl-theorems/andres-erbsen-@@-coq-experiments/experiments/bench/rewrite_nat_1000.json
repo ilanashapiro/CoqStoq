@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "andres-erbsen-@@-coq-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "experiments/bench/rewrite_nat_1000.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 26
+    },
+    "proof_end_pos": {
+      "line": 2,
+      "column": 45
+    },
+    "hash": "ee920bc5f1132a8ac55b5b7a15fbd797eddb0c8d5222b0447fd7fbf6e5d6b9a8"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-fiat",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Narcissus/Common/Monoid.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 6
+    },
+    "hash": "22c31764115d1a176778c7eebb26dd4ec103f8d283733452fb349acd0603a12d"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-fiat",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Narcissus/Common/Monoid.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 102,
+      "column": 6
+    },
+    "hash": "22c31764115d1a176778c7eebb26dd4ec103f8d283733452fb349acd0603a12d"
+  }
+]

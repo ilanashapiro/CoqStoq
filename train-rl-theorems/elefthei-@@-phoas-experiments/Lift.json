@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "elefthei-@@-phoas-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lift.v",
+    "theorem_start_pos": {
+      "line": 174,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 179,
+      "column": 6
+    },
+    "hash": "c8d9aadef955760db45a86d80b99f6d8e2b94d150f3fe39a7f0e68efebe04a3e"
+  }
+]

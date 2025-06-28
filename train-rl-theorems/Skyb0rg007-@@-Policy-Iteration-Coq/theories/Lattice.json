@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Skyb0rg007-@@-Policy-Iteration-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Lattice.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 6
+    },
+    "hash": "490119dea1e663f605853eff4cd15ee1db1dc2444dae13ca90d30caad54fd6fa"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "zant-@@-gallina",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "andb_true_elim2.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "c4196a85ab5d53274780bdecc7cfbfb477e4d27bcf093cb8447dabc5c246a681"
+  }
+]

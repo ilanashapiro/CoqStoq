@@ -1,0 +1,988 @@
+[
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 101,
+      "column": 9
+    },
+    "proof_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 106,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 121,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 150,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 200,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 202,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 208,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 211,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 212,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 224,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 233,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 233,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 234,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 248,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 257,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 257,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 258,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 289,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 298,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 298,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 299,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 311,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 318,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 318,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 319,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 334,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 336,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 336,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 337,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 342,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 344,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 344,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 345,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 350,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 361,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 362,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 363,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 383,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 385,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 385,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 386,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 393,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 395,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 396,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 397,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 397,
+      "column": 49
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 410,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 410,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 411,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 423,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 435,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 435,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 436,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 447,
+      "column": 7
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 459,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 459,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 460,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 476,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 485,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 485,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 486,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 521,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 529,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 529,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 530,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 544,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 546,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 546,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 547,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 549,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 559,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 559,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 560,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 575,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 585,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 585,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 586,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 621,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 632,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 632,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 633,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 646,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 652,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 652,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 653,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 664,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 674,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 674,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 675,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 690,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 700,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 700,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 701,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 727,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 736,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 736,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 737,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 756,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 766,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 766,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 767,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 783,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 800,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 800,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 801,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 808,
+      "column": 6
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  },
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-exploring-robust-property-preservation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Criteria.v",
+    "theorem_start_pos": {
+      "line": 810,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 810,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 811,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 824,
+      "column": 4
+    },
+    "hash": "bd0e96a9c3accbb2e2b1ff1be0519b531b08a34a2a5377d8b305216a7074c084"
+  }
+]

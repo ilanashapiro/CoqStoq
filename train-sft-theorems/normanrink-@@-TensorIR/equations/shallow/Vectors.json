@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/shallow/Vectors.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "901f76bdadfc35441ece4bbaa7639b56c86d91eeececf4d4f64499ced50b634f"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/shallow/Vectors.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 4
+    },
+    "hash": "901f76bdadfc35441ece4bbaa7639b56c86d91eeececf4d4f64499ced50b634f"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "equations/shallow/Vectors.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "901f76bdadfc35441ece4bbaa7639b56c86d91eeececf4d4f64499ced50b634f"
+  }
+]

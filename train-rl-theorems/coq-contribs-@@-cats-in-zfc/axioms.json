@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-cats-in-zfc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "axioms.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "4f48460d8f7b90c231fb7ca50891158d3fbfed47a4fa13d0934194506e10f2fd"
+  }
+]

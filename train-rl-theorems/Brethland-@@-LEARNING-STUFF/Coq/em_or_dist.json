@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Brethland-@@-LEARNING-STUFF",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq/em_or_dist.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "3c34c8404bd15f85ca3a8077f976226a3c517fb22a9385814648b831c90b0e9f"
+  },
+  {
+    "project": {
+      "dir_name": "Brethland-@@-LEARNING-STUFF",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq/em_or_dist.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "3c34c8404bd15f85ca3a8077f976226a3c517fb22a9385814648b831c90b0e9f"
+  }
+]

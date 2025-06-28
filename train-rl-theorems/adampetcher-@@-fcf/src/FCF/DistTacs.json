@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistTacs.v",
+    "theorem_start_pos": {
+      "line": 155,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 165,
+      "column": 4
+    },
+    "hash": "e6ac371f796130e4f80d4968e000e786534a4baec6f18f691ea69417c39c2483"
+  }
+]

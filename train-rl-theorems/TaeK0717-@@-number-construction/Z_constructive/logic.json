@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "TaeK0717-@@-number-construction",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Z_constructive/logic.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3,
+      "column": 4
+    },
+    "hash": "134de623f96f7db4ed9a0d1bfb32690e90dd1c57b21b1df7bf55f699bc9a5528"
+  }
+]

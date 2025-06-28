@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "viampietro-@@-ver-hilecop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hvhdl/proofs/SemanticalDomainsFacts.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "86f72cac718ff9240e391b395ea5c08b18ddf566d74db57e56e2be53c791f3fb"
+  },
+  {
+    "project": {
+      "dir_name": "viampietro-@@-ver-hilecop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hvhdl/proofs/SemanticalDomainsFacts.v",
+    "theorem_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "hash": "86f72cac718ff9240e391b395ea5c08b18ddf566d74db57e56e2be53c791f3fb"
+  },
+  {
+    "project": {
+      "dir_name": "viampietro-@@-ver-hilecop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hvhdl/proofs/SemanticalDomainsFacts.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "86f72cac718ff9240e391b395ea5c08b18ddf566d74db57e56e2be53c791f3fb"
+  }
+]

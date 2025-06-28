@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mgrabovsky-@@-fm-notes",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sketches/AxiomK.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "562aaf91361e3245515f5783772c93e16f7968f712df7043114105478f0cd772"
+  },
+  {
+    "project": {
+      "dir_name": "mgrabovsky-@@-fm-notes",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sketches/AxiomK.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "562aaf91361e3245515f5783772c93e16f7968f712df7043114105478f0cd772"
+  },
+  {
+    "project": {
+      "dir_name": "mgrabovsky-@@-fm-notes",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sketches/AxiomK.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "562aaf91361e3245515f5783772c93e16f7968f712df7043114105478f0cd772"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Wellfounded/Disjoint_Union.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 6
+    },
+    "hash": "63c1f74fd4c1e47afc44466d7ac2fdf32d0332d4f96327be5ecd6f00cc770e8b"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Wellfounded/Disjoint_Union.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 6
+    },
+    "hash": "63c1f74fd4c1e47afc44466d7ac2fdf32d0332d4f96327be5ecd6f00cc770e8b"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Wellfounded/Disjoint_Union.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 6
+    },
+    "hash": "63c1f74fd4c1e47afc44466d7ac2fdf32d0332d4f96327be5ecd6f00cc770e8b"
+  }
+]

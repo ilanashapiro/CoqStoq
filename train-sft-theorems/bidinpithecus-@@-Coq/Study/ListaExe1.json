@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Study/ListaExe1.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "b7d586d07ab91e39347d17fa98703ac311dc15cb7c71c1977f2044da0641bb02"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Study/ListaExe1.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "b7d586d07ab91e39347d17fa98703ac311dc15cb7c71c1977f2044da0641bb02"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Study/ListaExe1.v",
+    "theorem_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 92,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 4
+    },
+    "hash": "b7d586d07ab91e39347d17fa98703ac311dc15cb7c71c1977f2044da0641bb02"
+  },
+  {
+    "project": {
+      "dir_name": "bidinpithecus-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Study/ListaExe1.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 112,
+      "column": 4
+    },
+    "hash": "b7d586d07ab91e39347d17fa98703ac311dc15cb7c71c1977f2044da0641bb02"
+  }
+]

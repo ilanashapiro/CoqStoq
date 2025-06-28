@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/TypeTheory/Church.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 6
+    },
+    "hash": "16d27d7f98535885ac539aadc1d6a01a161b67d7bf1079030d0f1f5bfe41b1e2"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/TypeTheory/Church.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 6
+    },
+    "hash": "16d27d7f98535885ac539aadc1d6a01a161b67d7bf1079030d0f1f5bfe41b1e2"
+  },
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/TypeTheory/Church.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 100,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 102,
+      "column": 6
+    },
+    "hash": "16d27d7f98535885ac539aadc1d6a01a161b67d7bf1079030d0f1f5bfe41b1e2"
+  }
+]

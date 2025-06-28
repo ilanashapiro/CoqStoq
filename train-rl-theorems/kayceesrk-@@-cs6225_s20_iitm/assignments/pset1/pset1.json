@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "kayceesrk-@@-cs6225_s20_iitm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "assignments/pset1/pset1.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 4
+    },
+    "hash": "320db099ad86c6ec6e573eb2ddbf69e5418caed891f79a86185e672ffc25e15c"
+  }
+]

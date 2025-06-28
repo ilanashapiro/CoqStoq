@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "AndressaUmetsu-@@-coqExercicios",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "aula1.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "2b90d239265e09650230ea6efbc64137db11b520a7e177816e2bf1c528eeb2c5"
+  }
+]

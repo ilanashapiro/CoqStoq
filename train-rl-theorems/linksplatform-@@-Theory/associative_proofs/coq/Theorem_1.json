@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "linksplatform-@@-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "associative_proofs/coq/Theorem_1.v",
+    "theorem_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 101,
+      "column": 4
+    },
+    "hash": "774b68c4d4b0a328eba61a08fb74e6237ca44ba8d7f0a641e528a77a3473f863"
+  },
+  {
+    "project": {
+      "dir_name": "linksplatform-@@-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "associative_proofs/coq/Theorem_1.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 124,
+      "column": 108
+    },
+    "proof_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "hash": "774b68c4d4b0a328eba61a08fb74e6237ca44ba8d7f0a641e528a77a3473f863"
+  },
+  {
+    "project": {
+      "dir_name": "linksplatform-@@-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "associative_proofs/coq/Theorem_1.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 142,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 143,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 149,
+      "column": 4
+    },
+    "hash": "774b68c4d4b0a328eba61a08fb74e6237ca44ba8d7f0a641e528a77a3473f863"
+  }
+]

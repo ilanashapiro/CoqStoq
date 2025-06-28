@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jjhugues-@@-coq-alectryon-template",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/hello.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 4
+    },
+    "hash": "03e235e019f364c2641b9b780b0ff9ab39103115c69f5601f7f7f18af33c234d"
+  }
+]

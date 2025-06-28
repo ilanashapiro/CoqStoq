@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DavidFHCh-@@-Tesis-FTW",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tesis/hs-to-coq/base/GHC/Num.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "7e4f3c18cc8a2e8c50f5a266b10fc04f634a043971db811db42a0aeeabe8dcc3"
+  }
+]

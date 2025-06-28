@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "braibant-@@-Synthesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Structures.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 6
+    },
+    "hash": "95e20564f9ec217b0b624d79d004d4b9c06e6341b2c6f60bb4e453fdec0b4c0c"
+  },
+  {
+    "project": {
+      "dir_name": "braibant-@@-Synthesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Structures.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 6
+    },
+    "hash": "95e20564f9ec217b0b624d79d004d4b9c06e6341b2c6f60bb4e453fdec0b4c0c"
+  },
+  {
+    "project": {
+      "dir_name": "braibant-@@-Synthesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Structures.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 6
+    },
+    "hash": "95e20564f9ec217b0b624d79d004d4b9c06e6341b2c6f60bb4e453fdec0b4c0c"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "inQWIRE-@@-GottesmanTypes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/Superdense.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 28
+    },
+    "hash": "effdbb5ed9f99056a158656e5da366a064490d4218d4ec2284fa8be8188be259"
+  },
+  {
+    "project": {
+      "dir_name": "inQWIRE-@@-GottesmanTypes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/Superdense.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 28
+    },
+    "hash": "effdbb5ed9f99056a158656e5da366a064490d4218d4ec2284fa8be8188be259"
+  },
+  {
+    "project": {
+      "dir_name": "inQWIRE-@@-GottesmanTypes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/Superdense.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "effdbb5ed9f99056a158656e5da366a064490d4218d4ec2284fa8be8188be259"
+  }
+]

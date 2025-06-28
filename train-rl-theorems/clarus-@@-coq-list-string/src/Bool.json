@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "clarus-@@-coq-list-string",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Bool.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "a72f4716cbe14bf482ac8a31b17ea75f3eb6e9e4e0e89e611e3874ac71a30893"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-coq-list-string",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Bool.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "a72f4716cbe14bf482ac8a31b17ea75f3eb6e9e4e0e89e611e3874ac71a30893"
+  }
+]

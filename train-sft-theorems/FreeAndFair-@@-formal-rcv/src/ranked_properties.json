@@ -1,0 +1,176 @@
+[
+  {
+    "project": {
+      "dir_name": "FreeAndFair-@@-formal-rcv",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ranked_properties.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 6
+    },
+    "hash": "837cb8e86ebe9fd085ae5f439c42d7b3ddc38d95d1370633817953700a442484"
+  },
+  {
+    "project": {
+      "dir_name": "FreeAndFair-@@-formal-rcv",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ranked_properties.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 6
+    },
+    "hash": "837cb8e86ebe9fd085ae5f439c42d7b3ddc38d95d1370633817953700a442484"
+  },
+  {
+    "project": {
+      "dir_name": "FreeAndFair-@@-formal-rcv",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ranked_properties.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 68,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 69,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 6
+    },
+    "hash": "837cb8e86ebe9fd085ae5f439c42d7b3ddc38d95d1370633817953700a442484"
+  },
+  {
+    "project": {
+      "dir_name": "FreeAndFair-@@-formal-rcv",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ranked_properties.v",
+    "theorem_start_pos": {
+      "line": 192,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 201,
+      "column": 6
+    },
+    "hash": "837cb8e86ebe9fd085ae5f439c42d7b3ddc38d95d1370633817953700a442484"
+  },
+  {
+    "project": {
+      "dir_name": "FreeAndFair-@@-formal-rcv",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ranked_properties.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 206,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 207,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 219,
+      "column": 6
+    },
+    "hash": "837cb8e86ebe9fd085ae5f439c42d7b3ddc38d95d1370633817953700a442484"
+  },
+  {
+    "project": {
+      "dir_name": "FreeAndFair-@@-formal-rcv",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ranked_properties.v",
+    "theorem_start_pos": {
+      "line": 221,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 223,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 224,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 248,
+      "column": 6
+    },
+    "hash": "837cb8e86ebe9fd085ae5f439c42d7b3ddc38d95d1370633817953700a442484"
+  }
+]

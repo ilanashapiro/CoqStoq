@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "addap-@@-tapl-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "church_sysf.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "99573b69ee6c013fcba8f59f8e44877dceca4cd494e912e0d3b776360e1e3974"
+  }
+]

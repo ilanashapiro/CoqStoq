@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/modules/ind.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 6
+    },
+    "hash": "cd6d00eb64ac342fa63e1338c9c0f647f557829ed9f237307dd9b2cc74b722c4"
+  }
+]

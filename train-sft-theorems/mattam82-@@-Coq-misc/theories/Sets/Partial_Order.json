@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Partial_Order.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 6
+    },
+    "hash": "a19298f566842e7edfe9bdb3aea731bbf0f4872d4b0856c8ac953406e1ca180c"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Partial_Order.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 6
+    },
+    "hash": "a19298f566842e7edfe9bdb3aea731bbf0f4872d4b0856c8ac953406e1ca180c"
+  },
+  {
+    "project": {
+      "dir_name": "mattam82-@@-Coq-misc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Sets/Partial_Order.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 6
+    },
+    "hash": "a19298f566842e7edfe9bdb3aea731bbf0f4872d4b0856c8ac953406e1ca180c"
+  }
+]

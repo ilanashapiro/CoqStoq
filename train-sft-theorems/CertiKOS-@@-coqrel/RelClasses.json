@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "CertiKOS-@@-coqrel",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "RelClasses.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "947beeac5e265b40ce737101f7700d51861e74c922049e3e6d035b449b4b3e4a"
+  }
+]

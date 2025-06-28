@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "o-da-@@-ElgotMonads",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_Steroids.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "8242768e889991436d3d24e102249e4c229f9251d9d47ff2fe0eea4192eb63e6"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ianshil-@@-FO_Bi_Int",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Enumerability/enum_to_encode.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 6
+    },
+    "hash": "681b1ea9bc04f0ae4deddf78f04ae2c5a1fb11a57e270f4c0acf871178e96b8e"
+  }
+]

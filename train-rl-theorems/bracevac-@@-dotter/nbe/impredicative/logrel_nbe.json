@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "bracevac-@@-dotter",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "nbe/impredicative/logrel_nbe.v",
+    "theorem_start_pos": {
+      "line": 749,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 749,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 749,
+      "column": 43
+    },
+    "proof_end_pos": {
+      "line": 749,
+      "column": 53
+    },
+    "hash": "45d2fa185a5f55edc0130e504027335f78cf0b70658bd0df25f7daecca9f1fff"
+  },
+  {
+    "project": {
+      "dir_name": "bracevac-@@-dotter",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "nbe/impredicative/logrel_nbe.v",
+    "theorem_start_pos": {
+      "line": 943,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 943,
+      "column": 104
+    },
+    "proof_start_pos": {
+      "line": 944,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 948,
+      "column": 4
+    },
+    "hash": "45d2fa185a5f55edc0130e504027335f78cf0b70658bd0df25f7daecca9f1fff"
+  }
+]

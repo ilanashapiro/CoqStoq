@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jpaykin-@@-OPLSS2023",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Maps.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 102,
+      "column": 4
+    },
+    "hash": "02d142525c5afaed5ce7fc32ad78ff253c93f60abda83d6d3ce15cb8ff831c13"
+  }
+]

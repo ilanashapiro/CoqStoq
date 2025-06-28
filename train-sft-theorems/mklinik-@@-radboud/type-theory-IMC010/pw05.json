@@ -1,0 +1,640 @@
+[
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 80,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 130,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 131,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 135,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 235,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 235,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 236,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 239,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 251,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 251,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 252,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 255,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 259,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 259,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 260,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 263,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 266,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 266,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 272,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 282,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 282,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 283,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 285,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 288,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 288,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 289,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 291,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 294,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 295,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 298,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 301,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 301,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 307,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 311,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 311,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 312,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 324,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 327,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 327,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 328,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 330,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 333,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 333,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 334,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 336,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 343,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 343,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 344,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 347,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 351,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 351,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 352,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 354,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 358,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 358,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 359,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 362,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 365,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 366,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 367,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 375,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  },
+  {
+    "project": {
+      "dir_name": "mklinik-@@-radboud",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "type-theory-IMC010/pw05.v",
+    "theorem_start_pos": {
+      "line": 383,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 386,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 387,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 392,
+      "column": 4
+    },
+    "hash": "d60e00e59885949aae55028a024689d0894d73672cc9e4673406b9adf48a9d4f"
+  }
+]

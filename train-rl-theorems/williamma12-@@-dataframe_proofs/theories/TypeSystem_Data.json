@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "williamma12-@@-dataframe_proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/TypeSystem_Data.v",
+    "theorem_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 130,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 131,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 145,
+      "column": 4
+    },
+    "hash": "c572fa26f0ecef5954728041719ca5a90334f7c5a8fbd9eddda1aae72dc5cdb2"
+  },
+  {
+    "project": {
+      "dir_name": "williamma12-@@-dataframe_proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/TypeSystem_Data.v",
+    "theorem_start_pos": {
+      "line": 147,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 150,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 155,
+      "column": 4
+    },
+    "hash": "c572fa26f0ecef5954728041719ca5a90334f7c5a8fbd9eddda1aae72dc5cdb2"
+  }
+]

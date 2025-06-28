@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "fEst1ck-@@-verified-move",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "utility.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "add8a756e653074f047a192ddfe85ffd270445facb30b97905984d5ba5914789"
+  }
+]

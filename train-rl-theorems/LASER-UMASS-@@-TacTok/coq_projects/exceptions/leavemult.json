@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/exceptions/leavemult.v",
+    "theorem_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 111,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "hash": "530fd43beeb80f36eaee4519a371e6b8ef0f50ce68ebbb6dea9441476aa48f66"
+  }
+]

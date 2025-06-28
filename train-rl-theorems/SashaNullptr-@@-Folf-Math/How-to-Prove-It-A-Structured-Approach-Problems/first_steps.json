@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "SashaNullptr-@@-Folf-Math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "How-to-Prove-It-A-Structured-Approach-Problems/first_steps.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "ab432ebe56262ea5eb4eb108733bc414cfca36369b2322121a7023db9a515a85"
+  }
+]

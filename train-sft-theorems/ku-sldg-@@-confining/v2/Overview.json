@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-confining",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "v2/Overview.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "79822bdff25413e3c6e149ed83bc2cd1ee71d96b476fc40226fd9afb3de1b9c2"
+  },
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-confining",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "v2/Overview.v",
+    "theorem_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "79822bdff25413e3c6e149ed83bc2cd1ee71d96b476fc40226fd9afb3de1b9c2"
+  },
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-confining",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "v2/Overview.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 92,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "79822bdff25413e3c6e149ed83bc2cd1ee71d96b476fc40226fd9afb3de1b9c2"
+  }
+]

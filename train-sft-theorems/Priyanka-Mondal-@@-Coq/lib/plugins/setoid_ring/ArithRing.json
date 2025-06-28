@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/ArithRing.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 5
+    },
+    "hash": "217e2f266fc77d0ce338d7db1a4f9a66d4fb8a98d0ea7b173b1e8f440d969c11"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/plugins/setoid_ring/ArithRing.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "217e2f266fc77d0ce338d7db1a4f9a66d4fb8a98d0ea7b173b1e8f440d969c11"
+  }
+]

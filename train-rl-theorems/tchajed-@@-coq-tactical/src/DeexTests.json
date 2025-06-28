@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tactical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/DeexTests.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 9
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 6
+    },
+    "hash": "95a146b667401fdf5c5a23ec6bcc2620d975a6e5de35362a230e76d3cbe8043e"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tactical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/DeexTests.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 6
+    },
+    "hash": "95a146b667401fdf5c5a23ec6bcc2620d975a6e5de35362a230e76d3cbe8043e"
+  }
+]

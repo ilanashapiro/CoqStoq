@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-interactive-theorem-proving",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-art-8.13.0/ch6_inductive_data/SRC/two_power.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 24
+    },
+    "hash": "4553c7c95c7e9ce3a643a3a34a0e5408d5d23a8ff3ba4b89069423425dad66e2"
+  }
+]

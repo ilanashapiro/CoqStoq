@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "amintimany-@@-Categories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "KanExt/LocalFacts/HomToCones.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 8
+    },
+    "hash": "cbe6cdbbe429b1428d90d0ed22e5d96bd32bee5788672f41330102ba6dd729c0"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "marcomaida-@@-coqplayground",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basics.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 78
+    },
+    "hash": "62e9513e589f4e6d9cd4c81c9465ce1c7626a99ec23dad2b1a10cf9ca19fc27c"
+  }
+]

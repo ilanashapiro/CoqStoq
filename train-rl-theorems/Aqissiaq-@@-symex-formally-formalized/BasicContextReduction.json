@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Aqissiaq-@@-symex-formally-formalized",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BasicContextReduction.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 4
+    },
+    "hash": "d34e8da9844788e55d4d9f671a01fca50926e89dcac6d7b2c121efa96a834958"
+  },
+  {
+    "project": {
+      "dir_name": "Aqissiaq-@@-symex-formally-formalized",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BasicContextReduction.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 121,
+      "column": 100
+    },
+    "proof_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 4
+    },
+    "hash": "d34e8da9844788e55d4d9f671a01fca50926e89dcac6d7b2c121efa96a834958"
+  }
+]

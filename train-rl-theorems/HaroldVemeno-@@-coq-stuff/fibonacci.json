@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HaroldVemeno-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fibonacci.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "b7dc31217cd77f7ce336128a180e1a306c7c6cb08cf72f3930717bd491eb241f"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "MiguelANunes-@@-MFO",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "SoftwareFoundations/Exercicio.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "6003146a6515dd87d970e4e44e236cffce89871853de23434b0f80c7052547c5"
+  }
+]

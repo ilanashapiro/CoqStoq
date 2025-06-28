@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-Coq-automation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Opaque.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 6
+    },
+    "hash": "de146245fe706e5727936511a1590c2c8d9b1945ba9fa1fdea17f77c94cb4633"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-Coq-automation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Opaque.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 6
+    },
+    "hash": "de146245fe706e5727936511a1590c2c8d9b1945ba9fa1fdea17f77c94cb4633"
+  }
+]

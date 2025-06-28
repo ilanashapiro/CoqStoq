@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "anshumanmohan-@@-CertiDPK",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "floyd_ext/exists_trick.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4,
+      "column": 4
+    },
+    "hash": "c027895c781ec2b6163409f197a033f74f4312ea69c0728a11c7f6ea6d7fe3ec"
+  }
+]

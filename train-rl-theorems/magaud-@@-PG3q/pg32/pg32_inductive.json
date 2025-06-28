@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "magaud-@@-PG3q",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pg32/pg32_inductive.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "099254edad8216b7c39496e604c67049c8cc047e33e8a30aa17f7f9fe870baaf"
+  },
+  {
+    "project": {
+      "dir_name": "magaud-@@-PG3q",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pg32/pg32_inductive.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "099254edad8216b7c39496e604c67049c8cc047e33e8a30aa17f7f9fe870baaf"
+  }
+]

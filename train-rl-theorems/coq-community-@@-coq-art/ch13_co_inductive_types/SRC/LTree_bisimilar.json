@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch13_co_inductive_types/SRC/LTree_bisimilar.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 5
+    },
+    "hash": "2b1bd275fafd30d07fe2a7dfcb6f4d553612d30432b95ad92af042d86f4b684d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coq-art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch13_co_inductive_types/SRC/LTree_bisimilar.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 5
+    },
+    "hash": "2b1bd275fafd30d07fe2a7dfcb6f4d553612d30432b95ad92af042d86f4b684d"
+  }
+]

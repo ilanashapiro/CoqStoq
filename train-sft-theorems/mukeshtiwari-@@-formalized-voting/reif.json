@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "reif.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "b440095330f1ff898c0d41245bb97c773b880c26a65411e733f899f3abc2fd29"
+  },
+  {
+    "project": {
+      "dir_name": "mukeshtiwari-@@-formalized-voting",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "reif.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 4
+    },
+    "hash": "b440095330f1ff898c0d41245bb97c773b880c26a65411e733f899f3abc2fd29"
+  }
+]

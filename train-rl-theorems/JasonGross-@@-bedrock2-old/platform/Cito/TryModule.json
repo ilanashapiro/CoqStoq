@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-bedrock2-old",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "platform/Cito/TryModule.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "ee7ffb82c3542ac87fb22fd90ee0d2fc86cc95ebd9d93b8e38cb4e0443604800"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-coq-library-undecidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Shared/Dec.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "30ffc2a90a45aa16497c460d8c0c8c7fe17a16a780f5d7f440b3cd59a2230cd5"
+  }
+]

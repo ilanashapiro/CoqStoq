@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-PHP-etudiants",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "list_ind.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 6
+    },
+    "hash": "5bcb798068c17f3b4ad026313cb967871681ea783a63f1bbfb5715c37222205b"
+  }
+]

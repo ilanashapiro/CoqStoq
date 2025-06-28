@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "minaminao-@@-proof-assistant-contest",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Snippets/ring.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "d4ed3122c3aa2da4d544e327deb073f5043a0594dc4af2eb6472c54807f39c93"
+  }
+]

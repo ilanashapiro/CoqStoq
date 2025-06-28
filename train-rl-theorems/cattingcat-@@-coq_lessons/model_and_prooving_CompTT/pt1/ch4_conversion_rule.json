@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "model_and_prooving_CompTT/pt1/ch4_conversion_rule.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "8f8f25a8efcf92f51d6b9324ac8cb9a431f34dc69c9e8e32c98ceda1680623d9"
+  }
+]

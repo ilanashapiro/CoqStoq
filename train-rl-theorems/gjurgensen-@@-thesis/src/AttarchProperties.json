@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "gjurgensen-@@-thesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/AttarchProperties.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 4
+    },
+    "hash": "e3a745259476d0fe8fe58d0695793edaff560c1e9766c336e88b468dbc0b78ec"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Embeddings.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "b787ab8ff97b7f07e7ba408f0ace4c16983fcefe928a241de21ed862db5161f1"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Embeddings.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 4
+    },
+    "hash": "b787ab8ff97b7f07e7ba408f0ace4c16983fcefe928a241de21ed862db5161f1"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Embeddings.v",
+    "theorem_start_pos": {
+      "line": 100,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 4
+    },
+    "hash": "b787ab8ff97b7f07e7ba408f0ace4c16983fcefe928a241de21ed862db5161f1"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Embeddings.v",
+    "theorem_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 147,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 152,
+      "column": 4
+    },
+    "hash": "b787ab8ff97b7f07e7ba408f0ace4c16983fcefe928a241de21ed862db5161f1"
+  },
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-ExtendedProofRules",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Embeddings.v",
+    "theorem_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 157,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 170,
+      "column": 4
+    },
+    "hash": "b787ab8ff97b7f07e7ba408f0ace4c16983fcefe928a241de21ed862db5161f1"
+  }
+]

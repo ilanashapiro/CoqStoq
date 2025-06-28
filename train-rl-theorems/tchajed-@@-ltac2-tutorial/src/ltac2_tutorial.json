@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-ltac2-tutorial",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/ltac2_tutorial.v",
+    "theorem_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 265,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 266,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 271,
+      "column": 4
+    },
+    "hash": "bb4c1feeb086b9799fccc1c441b1288066ac7488c5a9ecd73de2a5db02c76636"
+  }
+]

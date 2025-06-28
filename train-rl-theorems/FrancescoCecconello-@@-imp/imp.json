@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "FrancescoCecconello-@@-imp",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "imp.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 136,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 137,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 167,
+      "column": 4
+    },
+    "hash": "9f1983183205cbc087348a5c920d7b9faef2674825f7fa29fb4ec5a1e4757034"
+  }
+]

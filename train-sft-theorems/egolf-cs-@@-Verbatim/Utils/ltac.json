@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "egolf-cs-@@-Verbatim",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Utils/ltac.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "cd4e25d02c8cdf80ef34441c749ce9a3fad8a6d75d0c14c2e2e1c03d2561ca52"
+  }
+]

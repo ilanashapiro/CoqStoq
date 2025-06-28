@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Sets/Finite_sets.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 6
+    },
+    "hash": "89efdea809219252418c4a2d104e4692e54f0e47dded007b882221f07c6dbe1d"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Sets/Finite_sets.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 6
+    },
+    "hash": "89efdea809219252418c4a2d104e4692e54f0e47dded007b882221f07c6dbe1d"
+  }
+]

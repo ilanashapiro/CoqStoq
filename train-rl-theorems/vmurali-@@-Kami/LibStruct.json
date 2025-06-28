@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "vmurali-@@-Kami",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LibStruct.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "1b7f8b970326dd53798a96c6baee8fd984779da9f32f1f4d233920014c34c039"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "magaud-@@-PG3q",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "generic/wlog.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "f6a255ac5df74b7f538cf99b3ef2a7d9d9c19c721a232b6e3b1b1727a99aa40c"
+  }
+]

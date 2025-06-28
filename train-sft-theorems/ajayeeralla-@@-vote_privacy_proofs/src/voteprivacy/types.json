@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "ajayeeralla-@@-vote_privacy_proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/voteprivacy/types.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 127,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 4
+    },
+    "hash": "c6de6fedbf7cc8da1c31dadd74e9dda2160c5870138e7b6c2fa238863901ccc0"
+  },
+  {
+    "project": {
+      "dir_name": "ajayeeralla-@@-vote_privacy_proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/voteprivacy/types.v",
+    "theorem_start_pos": {
+      "line": 308,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 308,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 309,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 309,
+      "column": 69
+    },
+    "hash": "c6de6fedbf7cc8da1c31dadd74e9dda2160c5870138e7b6c2fa238863901ccc0"
+  }
+]

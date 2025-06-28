@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Normal_Forms.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "beed1068cb9de8b396e6bd51c3925bb68dc2bf94458dfbb0f0b6dd788e1319e0"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Normal_Forms.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 4
+    },
+    "hash": "beed1068cb9de8b396e6bd51c3925bb68dc2bf94458dfbb0f0b6dd788e1319e0"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-ipc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Normal_Forms.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "beed1068cb9de8b396e6bd51c3925bb68dc2bf94458dfbb0f0b6dd788e1319e0"
+  }
+]

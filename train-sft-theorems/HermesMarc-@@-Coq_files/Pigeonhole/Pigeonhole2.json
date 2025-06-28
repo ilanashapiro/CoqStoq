@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "HermesMarc-@@-Coq_files",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Pigeonhole/Pigeonhole2.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "f75572c879b56c86bd82ff59ede518870911d0c6de3ac31830e64f4038a8c951"
+  },
+  {
+    "project": {
+      "dir_name": "HermesMarc-@@-Coq_files",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Pigeonhole/Pigeonhole2.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "f75572c879b56c86bd82ff59ede518870911d0c6de3ac31830e64f4038a8c951"
+  },
+  {
+    "project": {
+      "dir_name": "HermesMarc-@@-Coq_files",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Pigeonhole/Pigeonhole2.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 4
+    },
+    "hash": "f75572c879b56c86bd82ff59ede518870911d0c6de3ac31830e64f4038a8c951"
+  }
+]

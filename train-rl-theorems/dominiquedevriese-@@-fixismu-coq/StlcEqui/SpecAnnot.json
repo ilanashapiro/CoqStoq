@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "dominiquedevriese-@@-fixismu-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StlcEqui/SpecAnnot.v",
+    "theorem_start_pos": {
+      "line": 342,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 343,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 344,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 346,
+      "column": 4
+    },
+    "hash": "8d23c5c8a0b2bb45c5cb2ebc3eaa1c7e58527647271a6a824a705bb5c3e4a9f9"
+  },
+  {
+    "project": {
+      "dir_name": "dominiquedevriese-@@-fixismu-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StlcEqui/SpecAnnot.v",
+    "theorem_start_pos": {
+      "line": 348,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 349,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 350,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 352,
+      "column": 4
+    },
+    "hash": "8d23c5c8a0b2bb45c5cb2ebc3eaa1c7e58527647271a6a824a705bb5c3e4a9f9"
+  }
+]

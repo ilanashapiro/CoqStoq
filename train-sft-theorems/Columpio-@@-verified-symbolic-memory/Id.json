@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Columpio-@@-verified-symbolic-memory",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Id.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 44
+    },
+    "hash": "e2cb12d126bbc220fd65c1f3599ffb88a51454e260ea3b3a74d3bb457c6adb1b"
+  }
+]

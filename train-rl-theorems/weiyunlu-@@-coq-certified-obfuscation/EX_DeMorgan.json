@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "weiyunlu-@@-coq-certified-obfuscation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "EX_DeMorgan.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 6
+    },
+    "hash": "3a11d65989a9f96b734029259f296390cb0576c46b1b02689b5a29b99162c5a7"
+  }
+]

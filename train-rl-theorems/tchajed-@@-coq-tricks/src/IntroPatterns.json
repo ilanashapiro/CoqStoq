@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tricks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/IntroPatterns.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 51
+    },
+    "hash": "346b9af604fa78424c5180f9231e142caca0f849863f85341699be23b7e17a58"
+  }
+]

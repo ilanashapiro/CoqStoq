@@ -1,0 +1,611 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 102,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 109,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 128,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 139,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 248,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 264,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 272,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 273,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 276,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 278,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 286,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 287,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 321,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 323,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 332,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 333,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 366,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 368,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 377,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 378,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 384,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 386,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 394,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 395,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 401,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 403,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 408,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 409,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 411,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 421,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 424,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 425,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 441,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 449,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 454,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 455,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 487,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 489,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 494,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 495,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 508,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 510,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 519,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 520,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 550,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 552,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 560,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 561,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 564,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 566,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 570,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 571,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 576,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 579,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 584,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 585,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 588,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 590,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 595,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 596,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 602,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/angles_droites.v",
+    "theorem_start_pos": {
+      "line": 604,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 608,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 609,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 614,
+      "column": 4
+    },
+    "hash": "328c5c7691d0f69471c56ca68907efc1c320ad18aa1387032b4c0f2eac73970a"
+  }
+]

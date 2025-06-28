@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "BasaltEXE-@@-shuffle",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Misc.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "a6c2c2c8aed9241da301081bda822ae3939b220c75066c82be3295a3454df616"
+  },
+  {
+    "project": {
+      "dir_name": "BasaltEXE-@@-shuffle",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Misc.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "a6c2c2c8aed9241da301081bda822ae3939b220c75066c82be3295a3454df616"
+  }
+]

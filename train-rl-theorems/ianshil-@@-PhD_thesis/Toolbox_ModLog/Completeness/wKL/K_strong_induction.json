@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ianshil-@@-PhD_thesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Toolbox_ModLog/Completeness/wKL/K_strong_induction.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "f20cbb3cc9b548b8eef965084057ef69d68625e12524fe1ee166528699016a99"
+  }
+]

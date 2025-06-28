@@ -1,0 +1,814 @@
+[
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 151,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 152,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 155,
+      "column": 61
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 177,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 178,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 46
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 196,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 197,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 202,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 205,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 210,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 212,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 213,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 214,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 220,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 223,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 229,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 244,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 244,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 251,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 263,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 264,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 269,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 299,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 300,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 301,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 305,
+      "column": 20
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 349,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 350,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 351,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 355,
+      "column": 34
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 410,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 411,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 412,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 413,
+      "column": 44
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 419,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 420,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 421,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 426,
+      "column": 47
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 507,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 508,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 509,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 514,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 520,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 521,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 522,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 532,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 547,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 548,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 549,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 553,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 555,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 556,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 557,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 559,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 561,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 562,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 563,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 565,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 567,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 568,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 569,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 574,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 576,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 577,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 578,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 584,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 586,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 586,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 587,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 589,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 591,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 596,
+      "column": 9
+    },
+    "proof_start_pos": {
+      "line": 597,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 600,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 602,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 603,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 604,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 609,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 611,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 612,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 613,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 617,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 628,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 629,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 630,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 634,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 648,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 649,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 650,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 655,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 684,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 684,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 685,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 691,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 719,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 719,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 720,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 724,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  },
+  {
+    "project": {
+      "dir_name": "Shuumatsu-@@-logical-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Induction.v",
+    "theorem_start_pos": {
+      "line": 766,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 767,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 768,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 775,
+      "column": 4
+    },
+    "hash": "e2b652598399a1056a3b284d2a9dae1f1caa7d8e5345adfce32079b13b9706ec"
+  }
+]

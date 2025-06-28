@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "aweinstock314-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fpmcs_chap1_logicpuzzle.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 155
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 8
+    },
+    "hash": "b8335f5af2e2e3215668f1817556d5cece1a98aa46cda27c2617acc2b0396e0e"
+  }
+]

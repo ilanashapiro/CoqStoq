@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "sec-bit-@@-tmap",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TMap.v",
+    "theorem_start_pos": {
+      "line": 231,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 232,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 233,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 237,
+      "column": 4
+    },
+    "hash": "95c4e5af8289768244216c9b828e3544bebff1eacde1203ed00a6015c0f8ee35"
+  }
+]

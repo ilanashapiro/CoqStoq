@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "nbun-@@-pps-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Exercises/S0/AExp.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 4
+    },
+    "hash": "c418e1d21d4bd2b2a12bae92f3906864196cdf67a68e5855774f62a902e85652"
+  }
+]

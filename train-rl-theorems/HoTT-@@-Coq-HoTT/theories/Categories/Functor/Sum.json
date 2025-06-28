@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Functor/Sum.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 6
+    },
+    "hash": "8668472de546823f66087bd1312a35ddfc6bbb5af9c205bfe3815066bca380ba"
+  }
+]

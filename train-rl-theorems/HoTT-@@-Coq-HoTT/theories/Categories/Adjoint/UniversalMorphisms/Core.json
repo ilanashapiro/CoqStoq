@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Adjoint/UniversalMorphisms/Core.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 8
+    },
+    "hash": "117d0d3285d3fb7e20a8cd6c13b1332457f81dd39c4bd3f0f83614839d271324"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Adjoint/UniversalMorphisms/Core.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 100,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 108,
+      "column": 8
+    },
+    "hash": "117d0d3285d3fb7e20a8cd6c13b1332457f81dd39c4bd3f0f83614839d271324"
+  }
+]

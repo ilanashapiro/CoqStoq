@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "soimort-@@-some-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Algebras/DeMorgan.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "776a135a7bd7a5366a272d7fecfa3d0d53fb0756fa1cc08e90d4082b491ac9ff"
+  }
+]

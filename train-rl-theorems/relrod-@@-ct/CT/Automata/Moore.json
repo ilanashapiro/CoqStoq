@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "relrod-@@-ct",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CT/Automata/Moore.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 6
+    },
+    "hash": "ee748e04fc2378c1ec2514a0183e869f46beb48edba8046a7a55a41d82a828c3"
+  }
+]

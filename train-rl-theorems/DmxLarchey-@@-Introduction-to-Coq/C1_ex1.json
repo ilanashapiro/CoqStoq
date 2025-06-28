@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Introduction-to-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "C1_ex1.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 6
+    },
+    "hash": "59703b58ca957e4367f7a322cfb1a743b0fa95850ec7e53a93e06f5b55d12c1e"
+  }
+]

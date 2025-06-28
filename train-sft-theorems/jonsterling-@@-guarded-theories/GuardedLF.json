@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-guarded-theories",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "GuardedLF.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 81,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 4
+    },
+    "hash": "3bbac378cd463298c7e51891cd802ed3698da2ea13b28a99ba1c38d80a548ab4"
+  }
+]

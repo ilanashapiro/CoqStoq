@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "itleigns-@@-CoqLibrary",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LibraryExtension/ComposeExtension.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 154
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "53c1ffa96a3dbdfc96409ec9da3d5bfaa6e32738bfb1c0aa12a6b46763a458f9"
+  },
+  {
+    "project": {
+      "dir_name": "itleigns-@@-CoqLibrary",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LibraryExtension/ComposeExtension.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 4
+    },
+    "hash": "53c1ffa96a3dbdfc96409ec9da3d5bfaa6e32738bfb1c0aa12a6b46763a458f9"
+  }
+]

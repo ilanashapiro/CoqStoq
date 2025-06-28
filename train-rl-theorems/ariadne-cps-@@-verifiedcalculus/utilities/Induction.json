@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ariadne-cps-@@-verifiedcalculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "utilities/Induction.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 132
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "22f7f459370976b7ce44ed1a5395f8a13bd68f36d2c7e63b8c930f3991ff1345"
+  }
+]

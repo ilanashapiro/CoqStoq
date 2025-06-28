@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "zant-@@-gallina",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "peano_three.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "ebcd2128eb99c823f1feb09d69e3af12702117ed378c77baf7b8d1f64889f0b3"
+  }
+]

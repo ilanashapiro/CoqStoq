@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Formal-Systems-Laboratory-@@-coinduction",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "rl_is_coind/coinduction.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 48
+    },
+    "hash": "ee1c8e94073af13f3889dfe71ba6d1f774dc8672d764b5fe8edadd6f2755ee21"
+  },
+  {
+    "project": {
+      "dir_name": "Formal-Systems-Laboratory-@@-coinduction",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "rl_is_coind/coinduction.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 4
+    },
+    "hash": "ee1c8e94073af13f3889dfe71ba6d1f774dc8672d764b5fe8edadd6f2755ee21"
+  },
+  {
+    "project": {
+      "dir_name": "Formal-Systems-Laboratory-@@-coinduction",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "rl_is_coind/coinduction.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 92,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 4
+    },
+    "hash": "ee1c8e94073af13f3889dfe71ba6d1f774dc8672d764b5fe8edadd6f2755ee21"
+  }
+]

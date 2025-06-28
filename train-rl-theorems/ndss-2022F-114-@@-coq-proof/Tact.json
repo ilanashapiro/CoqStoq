@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "ndss-2022F-114-@@-coq-proof",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Tact.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "3d71f7bf3175e23f87f1438e535afec4136a5ede952bc20532665ee161594ecf"
+  },
+  {
+    "project": {
+      "dir_name": "ndss-2022F-114-@@-coq-proof",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Tact.v",
+    "theorem_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 223,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 226,
+      "column": 4
+    },
+    "hash": "3d71f7bf3175e23f87f1438e535afec4136a5ede952bc20532665ee161594ecf"
+  }
+]

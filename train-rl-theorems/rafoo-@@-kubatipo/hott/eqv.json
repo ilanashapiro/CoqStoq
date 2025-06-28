@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "rafoo-@@-kubatipo",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hott/eqv.v",
+    "theorem_start_pos": {
+      "line": 474,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 474,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 475,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 492,
+      "column": 6
+    },
+    "hash": "31c1ba9237b97e08405f7618221da4aa839a8831747c0555d1915c76503fb267"
+  }
+]

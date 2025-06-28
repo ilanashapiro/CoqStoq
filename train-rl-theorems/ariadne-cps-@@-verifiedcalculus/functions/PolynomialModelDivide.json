@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "ariadne-cps-@@-verifiedcalculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "functions/PolynomialModelDivide.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 4
+    },
+    "hash": "81042fa3fd7125b74181269e3bcad8aa865f402dd9e287ffe7b56951c497229b"
+  },
+  {
+    "project": {
+      "dir_name": "ariadne-cps-@@-verifiedcalculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "functions/PolynomialModelDivide.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "81042fa3fd7125b74181269e3bcad8aa865f402dd9e287ffe7b56951c497229b"
+  },
+  {
+    "project": {
+      "dir_name": "ariadne-cps-@@-verifiedcalculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "functions/PolynomialModelDivide.v",
+    "theorem_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 110,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 212,
+      "column": 4
+    },
+    "hash": "81042fa3fd7125b74181269e3bcad8aa865f402dd9e287ffe7b56951c497229b"
+  },
+  {
+    "project": {
+      "dir_name": "ariadne-cps-@@-verifiedcalculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "functions/PolynomialModelDivide.v",
+    "theorem_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 219,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 226,
+      "column": 4
+    },
+    "hash": "81042fa3fd7125b74181269e3bcad8aa865f402dd9e287ffe7b56951c497229b"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "runtimeverification-@@-k-vs-coq-language-frameworks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/proof_system.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 48
+    },
+    "hash": "2c6f0ddbe9985cf76a0adaed795c8ed467cd97e23a60d2b91dbddac1a85e8bc6"
+  },
+  {
+    "project": {
+      "dir_name": "runtimeverification-@@-k-vs-coq-language-frameworks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/proof_system.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 81,
+      "column": 4
+    },
+    "hash": "2c6f0ddbe9985cf76a0adaed795c8ed467cd97e23a60d2b91dbddac1a85e8bc6"
+  },
+  {
+    "project": {
+      "dir_name": "runtimeverification-@@-k-vs-coq-language-frameworks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/proof_system.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "2c6f0ddbe9985cf76a0adaed795c8ed467cd97e23a60d2b91dbddac1a85e8bc6"
+  }
+]

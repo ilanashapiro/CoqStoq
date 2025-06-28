@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "quinn-dougherty-@@-rca",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "with-standard-library/open.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "bff2944284c1c24c44924d6e3c88271989b188bcb86c26527291fa6789941826"
+  }
+]

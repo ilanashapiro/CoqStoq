@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "andres-erbsen-@@-coq-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "experiments/bench/big_ex_1000.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 70
+    },
+    "hash": "4402dede6e9347396e5044eca4a82c23fa3ffcd43ccc50c8c42a31b2b7665096"
+  },
+  {
+    "project": {
+      "dir_name": "andres-erbsen-@@-coq-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "experiments/bench/big_ex_1000.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 125
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 70
+    },
+    "hash": "4402dede6e9347396e5044eca4a82c23fa3ffcd43ccc50c8c42a31b2b7665096"
+  },
+  {
+    "project": {
+      "dir_name": "andres-erbsen-@@-coq-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "experiments/bench/big_ex_1000.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 97
+    },
+    "hash": "4402dede6e9347396e5044eca4a82c23fa3ffcd43ccc50c8c42a31b2b7665096"
+  }
+]

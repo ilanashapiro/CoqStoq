@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "choukh-@@-Baby-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Example/Ch2_4.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 59
+    },
+    "hash": "3be7f43a17ca5cafbda93f7c2b482030aeae23843e380cc82ee95a99a87b65e9"
+  }
+]

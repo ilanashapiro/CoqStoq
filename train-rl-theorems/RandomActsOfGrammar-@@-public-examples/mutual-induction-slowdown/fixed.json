@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "RandomActsOfGrammar-@@-public-examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mutual-induction-slowdown/fixed.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 4
+    },
+    "hash": "6eceaa634412a940bed977d06cb84f8f1a0c195746e21140bc490bc3970516fb"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "scottviteri-@@-ManipulateProofTrees",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ProofSourceFiles/ev_4_alt.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 33
+    },
+    "hash": "611264b6ed6674bc999a78c3c783acea559fdfec10e0a78808abc9cce645d748"
+  },
+  {
+    "project": {
+      "dir_name": "scottviteri-@@-ManipulateProofTrees",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ProofSourceFiles/ev_4_alt.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "611264b6ed6674bc999a78c3c783acea559fdfec10e0a78808abc9cce645d748"
+  },
+  {
+    "project": {
+      "dir_name": "scottviteri-@@-ManipulateProofTrees",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ProofSourceFiles/ev_4_alt.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "611264b6ed6674bc999a78c3c783acea559fdfec10e0a78808abc9cce645d748"
+  }
+]

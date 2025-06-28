@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "choukh-@@-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/EpsilonImpliesAC.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 44
+    },
+    "hash": "653b24b0045ae2f7578e803fb2236c2c23dad985b6356f7eadca68c27d63765b"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/EpsilonImpliesAC.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "653b24b0045ae2f7578e803fb2236c2c23dad985b6356f7eadca68c27d63765b"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/EpsilonImpliesAC.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "653b24b0045ae2f7578e803fb2236c2c23dad985b6356f7eadca68c27d63765b"
+  }
+]

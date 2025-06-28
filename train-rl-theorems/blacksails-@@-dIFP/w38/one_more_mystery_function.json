@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "blacksails-@@-dIFP",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "w38/one_more_mystery_function.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "d5156a567a017c23fefeb2f175ab112586fc5739273fa296fc37e2e384ad4725"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Anabra-@@-type-systems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hw07.v",
+    "theorem_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 131,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 4
+    },
+    "hash": "bf817180d407ea23049f33ec54ba641082ca1381083331234cbeff301535b584"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coqtail-@@-coqtail",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/mytheories/MyZ.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "7d5f04d69d99fc08cea6d8fba5a0f256444bfe19008dcba85e0e7c0198bb5f9f"
+  }
+]

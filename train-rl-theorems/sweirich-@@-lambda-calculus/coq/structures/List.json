@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "sweirich-@@-lambda-calculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/structures/List.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "0db708f3ec5eecbe69316fc5af28428bc833618ee11306ff81be97a8ea8b0bf4"
+  },
+  {
+    "project": {
+      "dir_name": "sweirich-@@-lambda-calculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/structures/List.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 70,
+      "column": 4
+    },
+    "hash": "0db708f3ec5eecbe69316fc5af28428bc833618ee11306ff81be97a8ea8b0bf4"
+  },
+  {
+    "project": {
+      "dir_name": "sweirich-@@-lambda-calculus",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/structures/List.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "0db708f3ec5eecbe69316fc5af28428bc833618ee11306ff81be97a8ea8b0bf4"
+  }
+]

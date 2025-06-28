@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "uwplse-@@-potpie",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "DanImpHigherOrderRel.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "8035db9a47d50ffc2727a83d7ad47bae9072b7c49abf32a6ea48afd655392f61"
+  }
+]

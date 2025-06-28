@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "comp_sci_club-formal_verif_2021/Lesson8.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "hash": "3be628f5313c087353ca650257b124a2c50fdfc4d8443209824083578293734b"
+  },
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "comp_sci_club-formal_verif_2021/Lesson8.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "3be628f5313c087353ca650257b124a2c50fdfc4d8443209824083578293734b"
+  }
+]

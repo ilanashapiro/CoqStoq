@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-algebra-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/rings/RingHom.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "ca52d28af1506ea2a2a5add5c521060d86435e8f50ad4553b27f87de007aa68a"
+  }
+]

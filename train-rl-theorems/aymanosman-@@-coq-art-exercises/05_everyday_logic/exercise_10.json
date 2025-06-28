@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "aymanosman-@@-coq-art-exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "05_everyday_logic/exercise_10.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "f6de401c607b51b36b752c7987246a6df119d55860462370a6e504f807cbe95b"
+  }
+]

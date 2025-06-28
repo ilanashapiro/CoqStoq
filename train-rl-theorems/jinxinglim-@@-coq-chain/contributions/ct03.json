@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jinxinglim-@@-coq-chain",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "contributions/ct03.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "8ff0d7bcc4e6d2dd8426236532fa92e11437d6573f2b70970ac4de8424366a9a"
+  }
+]

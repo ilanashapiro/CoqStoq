@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/failure/subtyping2.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "c3fc7970a132c869025d99b233dd75e8bd3bca6b2d8ac83660f27792e9d01aa6"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/failure/subtyping2.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 8
+    },
+    "hash": "c3fc7970a132c869025d99b233dd75e8bd3bca6b2d8ac83660f27792e9d01aa6"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/failure/subtyping2.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 51,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 8
+    },
+    "hash": "c3fc7970a132c869025d99b233dd75e8bd3bca6b2d8ac83660f27792e9d01aa6"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/failure/subtyping2.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 8
+    },
+    "hash": "c3fc7970a132c869025d99b233dd75e8bd3bca6b2d8ac83660f27792e9d01aa6"
+  }
+]

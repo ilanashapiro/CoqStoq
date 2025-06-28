@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "luisholanda-@@-software-foundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Volume3/Binom.v",
+    "theorem_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 4
+    },
+    "hash": "7e9cab76a887d00e634d65f288265eff8d7c3fafdf1d38bb6fb2b0825d931793"
+  }
+]

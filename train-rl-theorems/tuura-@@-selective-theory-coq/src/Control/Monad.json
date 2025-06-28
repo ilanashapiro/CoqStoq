@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "tuura-@@-selective-theory-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Monad.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 4
+    },
+    "hash": "e36b5e0db73e299d51d5ed748a508bd8edec68c8eb7a2c54de08b6ad6dfa2c43"
+  },
+  {
+    "project": {
+      "dir_name": "tuura-@@-selective-theory-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Monad.v",
+    "theorem_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "e36b5e0db73e299d51d5ed748a508bd8edec68c8eb7a2c54de08b6ad6dfa2c43"
+  }
+]

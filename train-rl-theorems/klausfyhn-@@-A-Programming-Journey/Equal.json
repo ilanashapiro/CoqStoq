@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "klausfyhn-@@-A-Programming-Journey",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Equal.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "0f2ce326789aacd8e75c8a340b1329b046f73f2674b1be8cc79cb4786f31af7e"
+  }
+]

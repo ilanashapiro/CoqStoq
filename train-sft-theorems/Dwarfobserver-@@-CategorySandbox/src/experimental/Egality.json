@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "Dwarfobserver-@@-CategorySandbox",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/experimental/Egality.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "f8f25e9ee6eb4e67da025706c5372dff4b020663f0292b0f3a4e9ab72e9cd14d"
+  },
+  {
+    "project": {
+      "dir_name": "Dwarfobserver-@@-CategorySandbox",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/experimental/Egality.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "f8f25e9ee6eb4e67da025706c5372dff4b020663f0292b0f3a4e9ab72e9cd14d"
+  },
+  {
+    "project": {
+      "dir_name": "Dwarfobserver-@@-CategorySandbox",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/experimental/Egality.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "f8f25e9ee6eb4e67da025706c5372dff4b020663f0292b0f3a4e9ab72e9cd14d"
+  },
+  {
+    "project": {
+      "dir_name": "Dwarfobserver-@@-CategorySandbox",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/experimental/Egality.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "f8f25e9ee6eb4e67da025706c5372dff4b020663f0292b0f3a4e9ab72e9cd14d"
+  }
+]

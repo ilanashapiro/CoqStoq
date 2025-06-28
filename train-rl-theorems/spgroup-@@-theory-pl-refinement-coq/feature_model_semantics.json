@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "spgroup-@@-theory-pl-refinement-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "feature_model_semantics.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 4
+    },
+    "hash": "8078dd594f24783b797654e0309f23c73a61ae37aea2dc395363e00eb9138f51"
+  },
+  {
+    "project": {
+      "dir_name": "spgroup-@@-theory-pl-refinement-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "feature_model_semantics.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 4
+    },
+    "hash": "8078dd594f24783b797654e0309f23c73a61ae37aea2dc395363e00eb9138f51"
+  }
+]

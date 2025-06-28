@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "math-comp-@@-mathcomp-history-before-github",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "attic/ssreflect/attic/ssreflect1.4_v8.3/test/deferclear.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 43
+    },
+    "hash": "d1b04df572b869f9fc5d02e6955ca4955c87d41636a4931007dfe477b81952d6"
+  },
+  {
+    "project": {
+      "dir_name": "math-comp-@@-mathcomp-history-before-github",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "attic/ssreflect/attic/ssreflect1.4_v8.3/test/deferclear.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 42
+    },
+    "hash": "d1b04df572b869f9fc5d02e6955ca4955c87d41636a4931007dfe477b81952d6"
+  }
+]

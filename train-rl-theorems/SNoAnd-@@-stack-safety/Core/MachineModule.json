@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "SNoAnd-@@-stack-safety",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Core/MachineModule.v",
+    "theorem_start_pos": {
+      "line": 103,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 104,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 105,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 6
+    },
+    "hash": "d5180183057c39fc0ce4568d9f798bfa5a216f4ba3b8ffb2b28897b0089be6fe"
+  }
+]

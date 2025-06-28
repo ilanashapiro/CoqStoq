@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-coqart",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch5_everydays_logic/SRC/dyslexia.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 5
+    },
+    "hash": "a4d99f9a4513958193652f3dbcab705ae1229dd3f598af797478a4e2a35e9ce9"
+  },
+  {
+    "project": {
+      "dir_name": "baberrehman-@@-coqart",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch5_everydays_logic/SRC/dyslexia.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 5
+    },
+    "hash": "a4d99f9a4513958193652f3dbcab705ae1229dd3f598af797478a4e2a35e9ce9"
+  }
+]

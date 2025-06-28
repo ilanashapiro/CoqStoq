@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "filippovitale-@@-cufp2015",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "t12-coq/redblack_short.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "59e83985909e5685e2296b77020dbc8ef2cf0d096551a95381b97bbe5747e179"
+  }
+]

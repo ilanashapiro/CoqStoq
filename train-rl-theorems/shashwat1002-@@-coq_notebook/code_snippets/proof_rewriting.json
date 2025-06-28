@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "shashwat1002-@@-coq_notebook",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code_snippets/proof_rewriting.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "3e0e80d81d6caf1f97c56f322ca8120a7a8e79c25bd7766812a0520160cdcf12"
+  },
+  {
+    "project": {
+      "dir_name": "shashwat1002-@@-coq_notebook",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code_snippets/proof_rewriting.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "3e0e80d81d6caf1f97c56f322ca8120a7a8e79c25bd7766812a0520160cdcf12"
+  },
+  {
+    "project": {
+      "dir_name": "shashwat1002-@@-coq_notebook",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code_snippets/proof_rewriting.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "3e0e80d81d6caf1f97c56f322ca8120a7a8e79c25bd7766812a0520160cdcf12"
+  }
+]

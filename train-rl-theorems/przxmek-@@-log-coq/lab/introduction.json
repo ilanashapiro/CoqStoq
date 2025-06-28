@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "przxmek-@@-log-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lab/introduction.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "453ac5eb7df1fed6cf6e2a89ace04f429f64fd2abddf9fc0cbb77d129b0603ff"
+  }
+]

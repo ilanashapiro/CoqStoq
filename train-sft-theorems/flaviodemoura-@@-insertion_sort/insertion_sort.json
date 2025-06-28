@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "flaviodemoura-@@-insertion_sort",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "insertion_sort.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 4
+    },
+    "hash": "a634ec32cc9c98ac15815eee7190a5f8c704dc4857805394071439c52c81976f"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "richardlford-@@-formal-tutorials",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "canonical_structures1.v",
+    "theorem_start_pos": {
+      "line": 287,
+      "column": 5
+    },
+    "theorem_end_pos": {
+      "line": 287,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 289,
+      "column": 5
+    },
+    "proof_end_pos": {
+      "line": 291,
+      "column": 9
+    },
+    "hash": "c04920713504274d64a006b37dbfb9f20901532cc1875ea2424474fb7b2f3c39"
+  }
+]

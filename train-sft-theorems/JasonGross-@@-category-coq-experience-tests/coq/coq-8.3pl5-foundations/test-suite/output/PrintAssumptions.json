@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/output/PrintAssumptions.v",
+    "theorem_start_pos": {
+      "line": 45,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 6
+    },
+    "hash": "54aacde1f2e4e4453150226c3b4e456edc705e4d37ea27d506f340ef00bb9473"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/output/PrintAssumptions.v",
+    "theorem_start_pos": {
+      "line": 52,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 6
+    },
+    "hash": "54aacde1f2e4e4453150226c3b4e456edc705e4d37ea27d506f340ef00bb9473"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/test-suite/output/PrintAssumptions.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 30
+    },
+    "hash": "54aacde1f2e4e4453150226c3b4e456edc705e4d37ea27d506f340ef00bb9473"
+  }
+]

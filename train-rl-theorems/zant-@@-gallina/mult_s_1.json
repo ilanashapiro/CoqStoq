@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "zant-@@-gallina",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mult_s_1.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "d8c698004cc4db6fe1169adf05ad1085d8b9c86ae7e8c92b091fdd9519b6e9cf"
+  },
+  {
+    "project": {
+      "dir_name": "zant-@@-gallina",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mult_s_1.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "d8c698004cc4db6fe1169adf05ad1085d8b9c86ae7e8c92b091fdd9519b6e9cf"
+  }
+]

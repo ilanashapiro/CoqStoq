@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-CTL",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Glib/Wf.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "dfc134ccfbcf2ce0927ff88abef9af5656f762ed08e5a35c41c64ee058667985"
+  },
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-CTL",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Glib/Wf.v",
+    "theorem_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "hash": "dfc134ccfbcf2ce0927ff88abef9af5656f762ed08e5a35c41c64ee058667985"
+  },
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-CTL",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Glib/Wf.v",
+    "theorem_start_pos": {
+      "line": 196,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 198,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 199,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 202,
+      "column": 4
+    },
+    "hash": "dfc134ccfbcf2ce0927ff88abef9af5656f762ed08e5a35c41c64ee058667985"
+  }
+]

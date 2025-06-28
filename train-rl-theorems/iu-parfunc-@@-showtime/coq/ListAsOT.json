@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "iu-parfunc-@@-showtime",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/ListAsOT.v",
+    "theorem_start_pos": {
+      "line": 129,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 129,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 130,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 142,
+      "column": 6
+    },
+    "hash": "e0314cc0f10888683dbd47c0dc77c2fe2656ff7929697e6bc4d3257379ce3085"
+  }
+]

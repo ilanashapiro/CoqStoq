@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "valaxy-@@-software-foundations-exercise",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ProofObjects.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "10210a6a0b19fb6f3ab9c8a6aafed194e519288059701416a774f002b8161b7a"
+  },
+  {
+    "project": {
+      "dir_name": "valaxy-@@-software-foundations-exercise",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ProofObjects.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "10210a6a0b19fb6f3ab9c8a6aafed194e519288059701416a774f002b8161b7a"
+  }
+]

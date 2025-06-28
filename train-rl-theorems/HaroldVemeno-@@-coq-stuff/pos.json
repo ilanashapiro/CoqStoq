@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HaroldVemeno-@@-coq-stuff",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pos.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "f30449ef5305505528f6ca0d607f7af9409ff4fe9eec63fe430197c2ef597655"
+  }
+]

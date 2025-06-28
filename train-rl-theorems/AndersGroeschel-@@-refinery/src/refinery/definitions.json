@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "AndersGroeschel-@@-refinery",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/refinery/definitions.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 8
+    },
+    "hash": "7cec8b2e77a0f0e1ed66df8652a62580b16bebbf6329eabd47f39849782d40f4"
+  }
+]

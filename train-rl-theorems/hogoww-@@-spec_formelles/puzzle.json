@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "hogoww-@@-spec_formelles",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "puzzle.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "35f467a625fb998e7b45acdd14b2e5e991e3976b70b8517e13223b4d7423c331"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/TaggedList.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 6
+    },
+    "hash": "3114f938c503065fd52a28f86cd7c8da5aba3ac14e2f65cffd176deac5d2fd31"
+  }
+]

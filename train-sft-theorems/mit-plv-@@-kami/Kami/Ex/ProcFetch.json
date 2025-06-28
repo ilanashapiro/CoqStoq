@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/ProcFetch.v",
+    "theorem_start_pos": {
+      "line": 242,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 243,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 244,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 244,
+      "column": 21
+    },
+    "hash": "853784ec18416d03b24b915ad8af197b39dae38037562dda5ede560d290f2397"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/ProcFetch.v",
+    "theorem_start_pos": {
+      "line": 247,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 249,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 250,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 252,
+      "column": 6
+    },
+    "hash": "853784ec18416d03b24b915ad8af197b39dae38037562dda5ede560d290f2397"
+  }
+]

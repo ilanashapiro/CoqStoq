@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "margrit-@@-Code",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Code/Repeats_List.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "67d9141e9ad6de2312abe5f2a35699b637897f2cd69b30236c4ae656f4b2b633"
+  },
+  {
+    "project": {
+      "dir_name": "margrit-@@-Code",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Code/Repeats_List.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "67d9141e9ad6de2312abe5f2a35699b637897f2cd69b30236c4ae656f4b2b633"
+  }
+]

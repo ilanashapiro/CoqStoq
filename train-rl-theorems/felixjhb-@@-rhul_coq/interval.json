@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "felixjhb-@@-rhul_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "interval.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 8
+    },
+    "hash": "22afa3a34ff9a529a2a88a14d3251ed73e235a5a8ce8ca355c70824f4398c203"
+  }
+]

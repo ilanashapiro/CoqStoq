@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ahuglajbclajep-@@-coq-sandbox",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hatena-hzkr/SumOfNat_ans.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "66b019385f2613be204c9576c65260da5c45cf046092fdc17ecb7863d7414f1c"
+  }
+]

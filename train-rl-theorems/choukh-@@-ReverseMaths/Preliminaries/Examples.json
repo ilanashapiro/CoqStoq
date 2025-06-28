@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "choukh-@@-ReverseMaths",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Preliminaries/Examples.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "6c8ffbac3f15a42b06d84d280bdf9b961af1ed2dab5ddddf307e6736ee9da095"
+  }
+]

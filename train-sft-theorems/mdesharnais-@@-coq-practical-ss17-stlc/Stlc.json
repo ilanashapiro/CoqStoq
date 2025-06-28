@@ -1,0 +1,466 @@
+[
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 178,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 224,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 226,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 228,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 229,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 254,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 256,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 258,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 259,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 274,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 276,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 278,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 279,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 286,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 288,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 291,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 292,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 314,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 316,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 318,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 319,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 324,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 326,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 330,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 331,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 343,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 345,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 349,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 350,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 390,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 392,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 395,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 396,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 432,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 434,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 437,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 438,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 461,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 463,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 466,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 467,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 471,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  },
+  {
+    "project": {
+      "dir_name": "mdesharnais-@@-coq-practical-ss17-stlc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc.v",
+    "theorem_start_pos": {
+      "line": 476,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 479,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 480,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 486,
+      "column": 4
+    },
+    "hash": "ba12333ff22433a6f26d3ba889324af8a81836d4c931319e612c5100ee77dc79"
+  }
+]

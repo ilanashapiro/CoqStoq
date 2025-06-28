@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "nullpointersetc-@@-Coq_sessions",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Articles/Article_1_Playing_with_a_proof_assistant.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 4
+    },
+    "hash": "ade1e5265d0caa07732889f15f7cc1b394e3f8cbdc9aaf57adafa53dd6d17e5b"
+  }
+]

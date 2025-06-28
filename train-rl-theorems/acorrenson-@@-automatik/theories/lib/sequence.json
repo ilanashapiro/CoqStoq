@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "acorrenson-@@-automatik",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/lib/sequence.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "02fd2724f99255087fe012a5367262e8d07f2ab29d9883a6763a75a02a470546"
+  }
+]

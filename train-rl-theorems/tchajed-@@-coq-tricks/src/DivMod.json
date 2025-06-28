@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tricks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/DivMod.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "d9df37182bcde614ff1f8fde03732f4363bec87b6e0dc771f047505e6c100be7"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "yforster-@@-coq-synthetic-computability",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Shared/mu_nat.v",
+    "theorem_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "09680fbbd30e0ab5c4bf89f90cbf50e3fe358bcc4c5a4f64ec3476e9042d0062"
+  },
+  {
+    "project": {
+      "dir_name": "yforster-@@-coq-synthetic-computability",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Shared/mu_nat.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "09680fbbd30e0ab5c4bf89f90cbf50e3fe358bcc4c5a4f64ec3476e9042d0062"
+  }
+]

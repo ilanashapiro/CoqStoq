@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "momohatt-@@-cpdt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exercise/ex01_2.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 6
+    },
+    "hash": "8595755b2b1d4a6487a080406ea9eb946729c3c0cf831ca8b0dd53399f7c3225"
+  }
+]

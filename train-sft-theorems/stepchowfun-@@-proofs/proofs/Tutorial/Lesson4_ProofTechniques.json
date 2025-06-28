@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "stepchowfun-@@-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proofs/Tutorial/Lesson4_ProofTechniques.v",
+    "theorem_start_pos": {
+      "line": 201,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 201,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 202,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 215,
+      "column": 4
+    },
+    "hash": "a7b893c363039b7e137244c02ee0ee93d9b41328640d9ee2a5505000d500b383"
+  }
+]

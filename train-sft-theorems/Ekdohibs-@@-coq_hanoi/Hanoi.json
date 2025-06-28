@@ -1,0 +1,437 @@
+[
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 92
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 104,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 123,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 131,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 165,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 172,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 174,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 182,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 205,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 208,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 214,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 247,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 276,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 278,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 279,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 280,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 287,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  },
+  {
+    "project": {
+      "dir_name": "Ekdohibs-@@-coq_hanoi",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Hanoi.v",
+    "theorem_start_pos": {
+      "line": 289,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 291,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 292,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 303,
+      "column": 4
+    },
+    "hash": "734d58b3e9bb3d8e9383c9cfd99d4b2363306266c2cb2577a1d3bb10772a6932"
+  }
+]

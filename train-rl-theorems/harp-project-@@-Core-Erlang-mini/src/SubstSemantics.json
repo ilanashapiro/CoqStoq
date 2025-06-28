@@ -1,0 +1,1162 @@
+[
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 443,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 445,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 446,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 468,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 470,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 471,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 472,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 481,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 483,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 486,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 487,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 491,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 493,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 496,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 497,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 538,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 540,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 541,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 542,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 544,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 546,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 549,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 550,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 554,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 613,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 614,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 615,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 660,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 662,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 663,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 664,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 670,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 672,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 675,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 676,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 682,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 684,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 687,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 688,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 697,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 699,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 702,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 703,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 706,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 708,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 711,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 712,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 717,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 719,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 722,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 723,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 726,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 728,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 731,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 732,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 737,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 739,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 743,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 744,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 749,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 751,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 754,
+      "column": 128
+    },
+    "proof_start_pos": {
+      "line": 755,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 765,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 767,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 770,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 771,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 778,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 780,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 784,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 785,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 794,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 796,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 798,
+      "column": 102
+    },
+    "proof_start_pos": {
+      "line": 799,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 806,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 808,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 813,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 814,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 820,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 822,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 831,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 832,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 850,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 852,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 855,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 856,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 861,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 863,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 866,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 867,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 872,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 874,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 877,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 878,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 885,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 887,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 890,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 891,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 893,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 895,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 901,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 902,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 909,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 911,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 923,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 924,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 957,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 959,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 971,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 972,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1008,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1010,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1026,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 1027,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1051,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1054,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1055,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 1056,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1262,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1264,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1265,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 1266,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1271,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1273,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1277,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 1278,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1281,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1283,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1284,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 1285,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1289,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1291,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1293,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 1294,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1306,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1308,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1315,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 1316,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1333,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1335,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1336,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 1337,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1371,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1373,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1374,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 1375,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1405,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1407,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1410,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 1411,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1432,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1437,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1441,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 1442,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1532,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  },
+  {
+    "project": {
+      "dir_name": "harp-project-@@-Core-Erlang-mini",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SubstSemantics.v",
+    "theorem_start_pos": {
+      "line": 1534,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1539,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 1540,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1650,
+      "column": 4
+    },
+    "hash": "51a787be0d53bdb70614796944291db4e2e320f339f12f4521c17dc112b885a0"
+  }
+]

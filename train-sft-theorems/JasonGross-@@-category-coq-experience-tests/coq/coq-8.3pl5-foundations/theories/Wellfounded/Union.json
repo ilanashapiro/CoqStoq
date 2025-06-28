@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Wellfounded/Union.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 6
+    },
+    "hash": "d86d49fe59fe2e19460424b6ec402fb6c0d251b0a0b73ea65ce9cf3dc355f5df"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Wellfounded/Union.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 6
+    },
+    "hash": "d86d49fe59fe2e19460424b6ec402fb6c0d251b0a0b73ea65ce9cf3dc355f5df"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Wellfounded/Union.v",
+    "theorem_start_pos": {
+      "line": 66,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 6
+    },
+    "hash": "d86d49fe59fe2e19460424b6ec402fb6c0d251b0a0b73ea65ce9cf3dc355f5df"
+  }
+]

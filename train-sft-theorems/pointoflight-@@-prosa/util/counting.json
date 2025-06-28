@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "pointoflight-@@-prosa",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "util/counting.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 6
+    },
+    "hash": "ff898efa85e87a04fa6510b22784b0604bfc8ec569cc60f21566e5456a105b33"
+  }
+]

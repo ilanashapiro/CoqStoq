@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/theory/ua_homomorphism.v",
+    "theorem_start_pos": {
+      "line": 315,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 320,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 321,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 333,
+      "column": 6
+    },
+    "hash": "204b5010b05d344009d43654013677d77a041f34756ea656b0b83d5e1fa70c4b"
+  }
+]

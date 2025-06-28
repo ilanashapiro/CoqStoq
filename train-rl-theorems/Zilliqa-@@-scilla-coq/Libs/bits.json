@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Zilliqa-@@-scilla-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Libs/bits.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "a509cf4487174b7c6ae2d63778e20ae993871cc46985a43ce06e596445cb9c9a"
+  }
+]

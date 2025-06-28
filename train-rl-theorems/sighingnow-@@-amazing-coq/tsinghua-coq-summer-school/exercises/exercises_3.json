@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "sighingnow-@@-amazing-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tsinghua-coq-summer-school/exercises/exercises_3.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 5
+    },
+    "hash": "9d67cf8a24dfd3bd07d02632d70ec20116fa9106482a3d19d7813db13912188c"
+  },
+  {
+    "project": {
+      "dir_name": "sighingnow-@@-amazing-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tsinghua-coq-summer-school/exercises/exercises_3.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 6
+    },
+    "hash": "9d67cf8a24dfd3bd07d02632d70ec20116fa9106482a3d19d7813db13912188c"
+  },
+  {
+    "project": {
+      "dir_name": "sighingnow-@@-amazing-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tsinghua-coq-summer-school/exercises/exercises_3.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 5
+    },
+    "hash": "9d67cf8a24dfd3bd07d02632d70ec20116fa9106482a3d19d7813db13912188c"
+  }
+]

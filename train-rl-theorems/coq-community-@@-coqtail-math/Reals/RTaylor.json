@@ -1,0 +1,263 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/RTaylor.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 4
+    },
+    "hash": "37b1ca593d2ed07d5f3fcf624eacd5c7b366fb482ac42811bf2a258060f6c3cc"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/RTaylor.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "37b1ca593d2ed07d5f3fcf624eacd5c7b366fb482ac42811bf2a258060f6c3cc"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/RTaylor.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "hash": "37b1ca593d2ed07d5f3fcf624eacd5c7b366fb482ac42811bf2a258060f6c3cc"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/RTaylor.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 186,
+      "column": 4
+    },
+    "hash": "37b1ca593d2ed07d5f3fcf624eacd5c7b366fb482ac42811bf2a258060f6c3cc"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/RTaylor.v",
+    "theorem_start_pos": {
+      "line": 190,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 314,
+      "column": 4
+    },
+    "hash": "37b1ca593d2ed07d5f3fcf624eacd5c7b366fb482ac42811bf2a258060f6c3cc"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/RTaylor.v",
+    "theorem_start_pos": {
+      "line": 316,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 317,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 318,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 322,
+      "column": 4
+    },
+    "hash": "37b1ca593d2ed07d5f3fcf624eacd5c7b366fb482ac42811bf2a258060f6c3cc"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/RTaylor.v",
+    "theorem_start_pos": {
+      "line": 337,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 337,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 338,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 355,
+      "column": 4
+    },
+    "hash": "37b1ca593d2ed07d5f3fcf624eacd5c7b366fb482ac42811bf2a258060f6c3cc"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/RTaylor.v",
+    "theorem_start_pos": {
+      "line": 359,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 360,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 361,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 377,
+      "column": 4
+    },
+    "hash": "37b1ca593d2ed07d5f3fcf624eacd5c7b366fb482ac42811bf2a258060f6c3cc"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/RTaylor.v",
+    "theorem_start_pos": {
+      "line": 379,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 380,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 381,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 385,
+      "column": 4
+    },
+    "hash": "37b1ca593d2ed07d5f3fcf624eacd5c7b366fb482ac42811bf2a258060f6c3cc"
+  }
+]

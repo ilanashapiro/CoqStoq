@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "logica-e-algoritmos-@@-lproposicional",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pbc_sol.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 5
+    },
+    "hash": "cd757d541296c28e31556d9608e4f32f73806e1d48748c35920ecff6380b2d79"
+  },
+  {
+    "project": {
+      "dir_name": "logica-e-algoritmos-@@-lproposicional",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pbc_sol.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 5
+    },
+    "hash": "cd757d541296c28e31556d9608e4f32f73806e1d48748c35920ecff6380b2d79"
+  }
+]

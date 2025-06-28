@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "unaoya-@@-coq_intro",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tactics.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 92
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "e9741d3904c5b0600edbd9f9d5e605f5d0b2844ee1e42602eb9a08a2f5347a2f"
+  }
+]

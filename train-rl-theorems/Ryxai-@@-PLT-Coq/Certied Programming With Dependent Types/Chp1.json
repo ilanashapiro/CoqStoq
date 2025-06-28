@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Ryxai-@@-PLT-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Certied Programming With Dependent Types/Chp1.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 72,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 4
+    },
+    "hash": "c32f9e9dc77b97997b7e5d9f84a977a8c9c4c3ce44e1f8666b0bab819f0a1cda"
+  },
+  {
+    "project": {
+      "dir_name": "Ryxai-@@-PLT-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Certied Programming With Dependent Types/Chp1.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 4
+    },
+    "hash": "c32f9e9dc77b97997b7e5d9f84a977a8c9c4c3ce44e1f8666b0bab819f0a1cda"
+  }
+]

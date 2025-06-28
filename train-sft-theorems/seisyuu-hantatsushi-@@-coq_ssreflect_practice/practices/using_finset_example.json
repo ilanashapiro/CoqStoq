@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "seisyuu-hantatsushi-@@-coq_ssreflect_practice",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "practices/using_finset_example.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 6
+    },
+    "hash": "f422a870185011a604f5e0bb987f554e566e0a77cb20cae26e414641db6e03a2"
+  },
+  {
+    "project": {
+      "dir_name": "seisyuu-hantatsushi-@@-coq_ssreflect_practice",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "practices/using_finset_example.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 6
+    },
+    "hash": "f422a870185011a604f5e0bb987f554e566e0a77cb20cae26e414641db6e03a2"
+  }
+]

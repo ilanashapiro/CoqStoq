@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "daoo-@@-formalization-of-mathematics",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/set_prop_type.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 42
+    },
+    "hash": "31c8091595347c02d5b7376419d7c18a369c2df30f338384dd710a32eb35f2e8"
+  },
+  {
+    "project": {
+      "dir_name": "daoo-@@-formalization-of-mathematics",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/set_prop_type.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 41
+    },
+    "hash": "31c8091595347c02d5b7376419d7c18a369c2df30f338384dd710a32eb35f2e8"
+  },
+  {
+    "project": {
+      "dir_name": "daoo-@@-formalization-of-mathematics",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/set_prop_type.v",
+    "theorem_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 64,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 42
+    },
+    "hash": "31c8091595347c02d5b7376419d7c18a369c2df30f338384dd710a32eb35f2e8"
+  }
+]

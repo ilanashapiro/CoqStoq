@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "cmcl-@@-msci",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq Developments/jar12/metatheory/CoqEqDec.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 42
+    },
+    "hash": "50c7b40231043d6a497e6c85b2d9c65f97dac4c985583622d44f3ca6c4625030"
+  },
+  {
+    "project": {
+      "dir_name": "cmcl-@@-msci",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq Developments/jar12/metatheory/CoqEqDec.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 54
+    },
+    "hash": "50c7b40231043d6a497e6c85b2d9c65f97dac4c985583622d44f3ca6c4625030"
+  },
+  {
+    "project": {
+      "dir_name": "cmcl-@@-msci",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq Developments/jar12/metatheory/CoqEqDec.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 58
+    },
+    "hash": "50c7b40231043d6a497e6c85b2d9c65f97dac4c985583622d44f3ca6c4625030"
+  }
+]

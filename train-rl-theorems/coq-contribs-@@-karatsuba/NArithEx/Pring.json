@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-karatsuba",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "NArithEx/Pring.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "hash": "a3f1d8fb9490d0d4e2a71bfa8e1300d9175d3dd89e7e137dea2f0f404a40a09d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-karatsuba",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "NArithEx/Pring.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "a3f1d8fb9490d0d4e2a71bfa8e1300d9175d3dd89e7e137dea2f0f404a40a09d"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-karatsuba",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "NArithEx/Pring.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "a3f1d8fb9490d0d4e2a71bfa8e1300d9175d3dd89e7e137dea2f0f404a40a09d"
+  }
+]

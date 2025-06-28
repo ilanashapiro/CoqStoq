@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "dderjoel-@@-base",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat-crypto/rupicola/bedrock2/bedrock2/src/bedrock2/Lift1Prop.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 29
+    },
+    "hash": "bfb711a2f667339f7b15f9ac03f8dd2afd7e9eda78de32b361189ed380cc73de"
+  },
+  {
+    "project": {
+      "dir_name": "dderjoel-@@-base",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat-crypto/rupicola/bedrock2/bedrock2/src/bedrock2/Lift1Prop.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 29
+    },
+    "hash": "bfb711a2f667339f7b15f9ac03f8dd2afd7e9eda78de32b361189ed380cc73de"
+  }
+]

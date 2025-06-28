@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "DeepSpec-@@-dsss17",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "vminus/Iteration.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 81,
+      "column": 4
+    },
+    "hash": "de86af60973eed8a63336f7b9b8ba3da682f0a3eeee8584bf8272c6fbbaf042a"
+  },
+  {
+    "project": {
+      "dir_name": "DeepSpec-@@-dsss17",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "vminus/Iteration.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "hash": "de86af60973eed8a63336f7b9b8ba3da682f0a3eeee8584bf8272c6fbbaf042a"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LittleGavin-@@-calculus_3rd",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Calculus_3rd/Basic.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "hash": "43cb5fc1096095af80cc54f4ff0195643a970ecc001a71ad2ade3b8086c2adc0"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "MarcusVoelker-@@-AoC2022",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Day3.v",
+    "theorem_start_pos": {
+      "line": 381,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 382,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 383,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 385,
+      "column": 4
+    },
+    "hash": "e2578970fd9e2caeb6714ab49a88f704d386f2dfc2feb167b5b665755b0b383b"
+  },
+  {
+    "project": {
+      "dir_name": "MarcusVoelker-@@-AoC2022",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Day3.v",
+    "theorem_start_pos": {
+      "line": 396,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 396,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 397,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 399,
+      "column": 4
+    },
+    "hash": "e2578970fd9e2caeb6714ab49a88f704d386f2dfc2feb167b5b665755b0b383b"
+  }
+]

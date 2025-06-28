@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "tuura-@@-selective-theory-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Applicative.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 32
+    },
+    "hash": "065e3b3242de40d76858a98b360e14ee21a222f5c6607eb2aa91296da897718e"
+  },
+  {
+    "project": {
+      "dir_name": "tuura-@@-selective-theory-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Applicative.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 6
+    },
+    "hash": "065e3b3242de40d76858a98b360e14ee21a222f5c6607eb2aa91296da897718e"
+  },
+  {
+    "project": {
+      "dir_name": "tuura-@@-selective-theory-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Control/Applicative.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 6
+    },
+    "hash": "065e3b3242de40d76858a98b360e14ee21a222f5c6607eb2aa91296da897718e"
+  }
+]

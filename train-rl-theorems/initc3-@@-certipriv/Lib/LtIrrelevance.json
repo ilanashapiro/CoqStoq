@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "initc3-@@-certipriv",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/LtIrrelevance.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "hash": "254be0b40eb6930256b3f475b22daf00a6dee0841fae89b400d80d5a16e6d1ed"
+  },
+  {
+    "project": {
+      "dir_name": "initc3-@@-certipriv",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/LtIrrelevance.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "254be0b40eb6930256b3f475b22daf00a6dee0841fae89b400d80d5a16e6d1ed"
+  },
+  {
+    "project": {
+      "dir_name": "initc3-@@-certipriv",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lib/LtIrrelevance.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "254be0b40eb6930256b3f475b22daf00a6dee0841fae89b400d80d5a16e6d1ed"
+  }
+]

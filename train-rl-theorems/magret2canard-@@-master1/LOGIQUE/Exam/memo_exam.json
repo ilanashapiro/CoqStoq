@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "magret2canard-@@-master1",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LOGIQUE/Exam/memo_exam.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 4
+    },
+    "hash": "e862e0688f0787c49223ebaf4635175fb85b900b65b7897e2f9bdfac0c6dd102"
+  }
+]

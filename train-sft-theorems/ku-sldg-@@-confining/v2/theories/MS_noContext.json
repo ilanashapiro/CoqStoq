@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-confining",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "v2/theories/MS_noContext.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "14cf703ab645f15b3045e83f9a6e12bb1a0741dba3b5b1b42723b905bea75c98"
+  }
+]

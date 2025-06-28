@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Logic/ProofIrrelevanceFacts.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 8
+    },
+    "hash": "44da9288112091e85fc218cc2bf8d2b57c969bab30935148ad924e53af4cb1b6"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Logic/ProofIrrelevanceFacts.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 6
+    },
+    "hash": "44da9288112091e85fc218cc2bf8d2b57c969bab30935148ad924e53af4cb1b6"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Logic/ProofIrrelevanceFacts.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 61,
+      "column": 6
+    },
+    "hash": "44da9288112091e85fc218cc2bf8d2b57c969bab30935148ad924e53af4cb1b6"
+  }
+]

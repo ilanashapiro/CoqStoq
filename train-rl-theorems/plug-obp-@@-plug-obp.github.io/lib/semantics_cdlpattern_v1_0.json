@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "plug-obp-@@-plug-obp.github.io",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/semantics_cdlpattern_v1_0.v",
+    "theorem_start_pos": {
+      "line": 236,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 237,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 238,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 241,
+      "column": 4
+    },
+    "hash": "e39d3bfed56b63781831cd6d89f465db729a83d2e01c66e3f47d85b3e4ff4a77"
+  }
+]

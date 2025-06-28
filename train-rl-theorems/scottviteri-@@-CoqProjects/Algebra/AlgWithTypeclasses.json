@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "scottviteri-@@-CoqProjects",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Algebra/AlgWithTypeclasses.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 64,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "737078814536993f0aca766c7573576e1518c6f3938c9d10d3d56c826d92cccd"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/plugins/setoid_ring/Ncring_tac.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 138,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 139,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 139,
+      "column": 61
+    },
+    "hash": "3de9bdc2e99354d7680c2a97cb163b70c09797174e9bfceac7a9276d72ca4a0b"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/plugins/setoid_ring/Ncring_tac.v",
+    "theorem_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 160,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 161,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 171,
+      "column": 25
+    },
+    "hash": "3de9bdc2e99354d7680c2a97cb163b70c09797174e9bfceac7a9276d72ca4a0b"
+  }
+]

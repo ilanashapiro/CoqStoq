@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/coq-library-undecidability/Shared/Libs/DLW/Utils/utils_tac.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "577c25cde53a82c9dbd9fc24c200dc2b4cc7a2defcb712f1f599c2f3aa1f7125"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/coq-library-undecidability/Shared/Libs/DLW/Utils/utils_tac.v",
+    "theorem_start_pos": {
+      "line": 85,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 6
+    },
+    "hash": "577c25cde53a82c9dbd9fc24c200dc2b4cc7a2defcb712f1f599c2f3aa1f7125"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_projects/coq-library-undecidability/Shared/Libs/DLW/Utils/utils_tac.v",
+    "theorem_start_pos": {
+      "line": 96,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 96,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 97,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 6
+    },
+    "hash": "577c25cde53a82c9dbd9fc24c200dc2b4cc7a2defcb712f1f599c2f3aa1f7125"
+  }
+]

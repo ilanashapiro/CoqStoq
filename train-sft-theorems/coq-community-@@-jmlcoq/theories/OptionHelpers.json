@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/OptionHelpers.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 6
+    },
+    "hash": "63d13451a03ef7447cebea2cd14629785aa4a80324a1cd5e70c2805b326b6ae5"
+  }
+]

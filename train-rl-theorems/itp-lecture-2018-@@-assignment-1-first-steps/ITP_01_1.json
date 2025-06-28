@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "itp-lecture-2018-@@-assignment-1-first-steps",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ITP_01_1.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "dea5d0e79ad621875a1a04f0e21f2b1058ccd57784b50841e33153d929cdda15"
+  }
+]

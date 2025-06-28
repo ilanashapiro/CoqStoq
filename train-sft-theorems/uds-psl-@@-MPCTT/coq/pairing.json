@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/pairing.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "8841dd95912a0069c4fa6ee56b9281737f1c1b535cfb8af604986f8094cda3bf"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/pairing.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "8841dd95912a0069c4fa6ee56b9281737f1c1b535cfb8af604986f8094cda3bf"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-MPCTT",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/pairing.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "8841dd95912a0069c4fa6ee56b9281737f1c1b535cfb8af604986f8094cda3bf"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "pnwamk-@@-misc-pl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "confluence/confluence.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "f6838568aa048002da8c7588b4e22152edf6a55fbd7456147fecf3b3e19497f8"
+  },
+  {
+    "project": {
+      "dir_name": "pnwamk-@@-misc-pl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "confluence/confluence.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 92,
+      "column": 4
+    },
+    "hash": "f6838568aa048002da8c7588b4e22152edf6a55fbd7456147fecf3b3e19497f8"
+  },
+  {
+    "project": {
+      "dir_name": "pnwamk-@@-misc-pl",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "confluence/confluence.v",
+    "theorem_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 128,
+      "column": 4
+    },
+    "hash": "f6838568aa048002da8c7588b4e22152edf6a55fbd7456147fecf3b3e19497f8"
+  }
+]

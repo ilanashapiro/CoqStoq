@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "felko-@@-ccsubbox",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Tactics.v",
+    "theorem_start_pos": {
+      "line": 308,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 309,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 310,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 312,
+      "column": 4
+    },
+    "hash": "7a7b2bd3d707c8a2e0c5b6c329ec7da6b3fa452cb52ffc221a9c7c86236dfbb8"
+  }
+]

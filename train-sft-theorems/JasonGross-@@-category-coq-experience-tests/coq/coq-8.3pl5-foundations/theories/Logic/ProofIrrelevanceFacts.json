@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/ProofIrrelevanceFacts.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 8
+    },
+    "hash": "02dd87c75532dcee0a045dabfc604ca96017b3613947ff39c19671ea72ca64a0"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/ProofIrrelevanceFacts.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 6
+    },
+    "hash": "02dd87c75532dcee0a045dabfc604ca96017b3613947ff39c19671ea72ca64a0"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-category-coq-experience-tests",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/coq-8.3pl5-foundations/theories/Logic/ProofIrrelevanceFacts.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 6
+    },
+    "hash": "02dd87c75532dcee0a045dabfc604ca96017b3613947ff39c19671ea72ca64a0"
+  }
+]

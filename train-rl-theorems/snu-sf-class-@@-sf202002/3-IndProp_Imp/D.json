@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "snu-sf-class-@@-sf202002",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "3-IndProp_Imp/D.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 100,
+      "column": 4
+    },
+    "hash": "4909391842e86ab6ea8012aa821dcd86261b0e881d6eb960a478360f45cf4c20"
+  }
+]

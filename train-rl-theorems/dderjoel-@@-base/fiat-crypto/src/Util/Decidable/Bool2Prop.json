@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dderjoel-@@-base",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat-crypto/src/Util/Decidable/Bool2Prop.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 34
+    },
+    "proof_end_pos": {
+      "line": 2,
+      "column": 66
+    },
+    "hash": "ec1eed35abe023af17fce08e1eef42eb63cb2f942ad62de01d6d128aa136d0f3"
+  }
+]

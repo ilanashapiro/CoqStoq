@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "TaoYC0904-@@-Toy-Language-Address",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "qinxiang-unifysl/lib/StrongInduction.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "b22290829256d3389bfce2c8d343992b7d6e94e806bf35a516af0d0273b93c2d"
+  }
+]

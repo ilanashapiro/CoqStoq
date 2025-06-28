@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "xu-hao-@@-CertifiedQueryArrow",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Algebra/Tactics.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 6
+    },
+    "hash": "6154de3eac266612e8289e154d0a7f3e222439a1842834e0168f899e3d1c936f"
+  }
+]

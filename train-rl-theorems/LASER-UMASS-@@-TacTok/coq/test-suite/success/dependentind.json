@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/test-suite/success/dependentind.v",
+    "theorem_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 159,
+      "column": 108
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 161,
+      "column": 4
+    },
+    "hash": "94999d8e3be757f0c41d5575e0b657c85fa07b7d153c59ac34236723c368d3e6"
+  }
+]

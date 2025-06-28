@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "lives-group-@@-regex-transformation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Syntax/Problematic.v",
+    "theorem_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "5ccc400085bce6f9487110fd23d24ecbf5b7b32787309efe8e463abbee205604"
+  },
+  {
+    "project": {
+      "dir_name": "lives-group-@@-regex-transformation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Syntax/Problematic.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 4
+    },
+    "hash": "5ccc400085bce6f9487110fd23d24ecbf5b7b32787309efe8e463abbee205604"
+  }
+]

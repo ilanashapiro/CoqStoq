@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "MarisaKirisame-@@-Coq_code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "SubstitutivityEq.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "dd4559e33b4ed8d531f52f1006e5dbbeb03e900e97363acd517f131702fcc576"
+  },
+  {
+    "project": {
+      "dir_name": "MarisaKirisame-@@-Coq_code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "SubstitutivityEq.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "dd4559e33b4ed8d531f52f1006e5dbbeb03e900e97363acd517f131702fcc576"
+  },
+  {
+    "project": {
+      "dir_name": "MarisaKirisame-@@-Coq_code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "SubstitutivityEq.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "dd4559e33b4ed8d531f52f1006e5dbbeb03e900e97363acd517f131702fcc576"
+  }
+]

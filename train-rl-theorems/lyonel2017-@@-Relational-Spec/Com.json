@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "lyonel2017-@@-Relational-Spec",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Com.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "8dc6ea60b4d167b555c4f1fd9e2928d64eafb9d4461f2b5f825a0fb14480d141"
+  }
+]

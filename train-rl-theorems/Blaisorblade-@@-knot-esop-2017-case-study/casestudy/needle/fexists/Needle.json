@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Blaisorblade-@@-knot-esop-2017-case-study",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "casestudy/needle/fexists/Needle.v",
+    "theorem_start_pos": {
+      "line": 242,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 244,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 247,
+      "column": 4
+    },
+    "hash": "5e0cdfe665c1082342be41cee012e15cf35c7fd0f362b04b5b74095aa319f7c9"
+  },
+  {
+    "project": {
+      "dir_name": "Blaisorblade-@@-knot-esop-2017-case-study",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "casestudy/needle/fexists/Needle.v",
+    "theorem_start_pos": {
+      "line": 249,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 249,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 250,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 252,
+      "column": 4
+    },
+    "hash": "5e0cdfe665c1082342be41cee012e15cf35c7fd0f362b04b5b74095aa319f7c9"
+  },
+  {
+    "project": {
+      "dir_name": "Blaisorblade-@@-knot-esop-2017-case-study",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "casestudy/needle/fexists/Needle.v",
+    "theorem_start_pos": {
+      "line": 254,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 256,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 258,
+      "column": 4
+    },
+    "hash": "5e0cdfe665c1082342be41cee012e15cf35c7fd0f362b04b5b74095aa319f7c9"
+  }
+]

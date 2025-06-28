@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dominiquedevriese-@@-fixismu-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BacktransIE/Backtrans.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "9c096fc45b526c24b26025a5081559b030c63f5b223aa4fca6483ba9a15f06bb"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "fasapa-@@-nominalsets",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Group.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 6
+    },
+    "hash": "9e0a6ceb566bc483ca8e67549c88f2582bd51c2d11f15c4dbad3ac93e45b16d8"
+  }
+]

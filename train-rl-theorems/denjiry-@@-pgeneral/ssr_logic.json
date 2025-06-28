@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "denjiry-@@-pgeneral",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssr_logic.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 6
+    },
+    "hash": "f7b8a1ab43168bac8c54e8198d3b929a082ab2ba2c13bd37c44d7285c1854745"
+  },
+  {
+    "project": {
+      "dir_name": "denjiry-@@-pgeneral",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssr_logic.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 8
+    },
+    "hash": "f7b8a1ab43168bac8c54e8198d3b929a082ab2ba2c13bd37c44d7285c1854745"
+  }
+]

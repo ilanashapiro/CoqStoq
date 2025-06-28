@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ianshil-@@-Prop_Bi_Int",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "strong_induction.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "864faf4bdda8407f628d27d69676b5db2077466c47f155a4308585fadfe796bf"
+  }
+]

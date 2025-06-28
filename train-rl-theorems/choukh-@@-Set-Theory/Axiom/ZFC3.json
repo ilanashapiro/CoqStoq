@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "choukh-@@-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Axiom/ZFC3.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 48
+    },
+    "hash": "a60db0d0eee3b836e6837bd3f368cf30d58fdc4267f0589d920272a07a9dea8d"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Axiom/ZFC3.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 52
+    },
+    "hash": "a60db0d0eee3b836e6837bd3f368cf30d58fdc4267f0589d920272a07a9dea8d"
+  },
+  {
+    "project": {
+      "dir_name": "choukh-@@-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Axiom/ZFC3.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "a60db0d0eee3b836e6837bd3f368cf30d58fdc4267f0589d920272a07a9dea8d"
+  }
+]

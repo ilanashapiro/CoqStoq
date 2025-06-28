@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "spgroup-@@-theory-pl-refinement-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "typeclass/Proofs/formulatheory_proofs.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "891e6943ba0ecbd63c98bb850d9793e1a97f318edb316e0e3948e5df9fbcb3f1"
+  },
+  {
+    "project": {
+      "dir_name": "spgroup-@@-theory-pl-refinement-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "typeclass/Proofs/formulatheory_proofs.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "891e6943ba0ecbd63c98bb850d9793e1a97f318edb316e0e3948e5df9fbcb3f1"
+  },
+  {
+    "project": {
+      "dir_name": "spgroup-@@-theory-pl-refinement-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "typeclass/Proofs/formulatheory_proofs.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "891e6943ba0ecbd63c98bb850d9793e1a97f318edb316e0e3948e5df9fbcb3f1"
+  },
+  {
+    "project": {
+      "dir_name": "spgroup-@@-theory-pl-refinement-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "typeclass/Proofs/formulatheory_proofs.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 13
+    },
+    "hash": "891e6943ba0ecbd63c98bb850d9793e1a97f318edb316e0e3948e5df9fbcb3f1"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "jbaum98-@@-verified_bzip2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/BWT/Lib/TakeWhile.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 6
+    },
+    "hash": "32220f0ea50a071995175bc0fc61b0bd62a0da17a49e2b70b706f094cb7b57f0"
+  },
+  {
+    "project": {
+      "dir_name": "jbaum98-@@-verified_bzip2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/BWT/Lib/TakeWhile.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 6
+    },
+    "hash": "32220f0ea50a071995175bc0fc61b0bd62a0da17a49e2b70b706f094cb7b57f0"
+  },
+  {
+    "project": {
+      "dir_name": "jbaum98-@@-verified_bzip2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/BWT/Lib/TakeWhile.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 6
+    },
+    "hash": "32220f0ea50a071995175bc0fc61b0bd62a0da17a49e2b70b706f094cb7b57f0"
+  }
+]

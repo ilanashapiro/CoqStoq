@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "shokohara-@@-coq-sandbox",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqt3.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "5afa061ca93671d37c784622d1a8282450098640152ed66eb9823701c48bdd66"
+  },
+  {
+    "project": {
+      "dir_name": "shokohara-@@-coq-sandbox",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqt3.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "5afa061ca93671d37c784622d1a8282450098640152ed66eb9823701c48bdd66"
+  },
+  {
+    "project": {
+      "dir_name": "shokohara-@@-coq-sandbox",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqt3.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "5afa061ca93671d37c784622d1a8282450098640152ed66eb9823701c48bdd66"
+  },
+  {
+    "project": {
+      "dir_name": "shokohara-@@-coq-sandbox",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coqt3.v",
+    "theorem_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "5afa061ca93671d37c784622d1a8282450098640152ed66eb9823701c48bdd66"
+  }
+]

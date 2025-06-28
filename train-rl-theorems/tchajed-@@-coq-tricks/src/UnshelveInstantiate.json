@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tricks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/UnshelveInstantiate.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 6
+    },
+    "hash": "03faba644dd16063dfab8c209b7e6b0adae55cd93a0ecd7ef9eecc200cb27fea"
+  }
+]

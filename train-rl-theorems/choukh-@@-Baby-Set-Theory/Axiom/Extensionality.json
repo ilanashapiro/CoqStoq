@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "choukh-@@-Baby-Set-Theory",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Axiom/Extensionality.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "07a17a2251ddc05361378fab7411e3b2d8f49b549bbe5276ff9df50fafb87732"
+  }
+]

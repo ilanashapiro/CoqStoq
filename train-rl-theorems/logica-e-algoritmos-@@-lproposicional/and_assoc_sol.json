@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "logica-e-algoritmos-@@-lproposicional",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "and_assoc_sol.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 6
+    },
+    "hash": "b2c57507ac81378f4898e9686fe9ba1a1bb7d0de4a9e2c34e90a208c7f432ef0"
+  }
+]

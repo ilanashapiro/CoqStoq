@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "annenkov-@@-stlcnorm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc/stlc_bidir.v",
+    "theorem_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 114,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 121,
+      "column": 4
+    },
+    "hash": "0f157785e9f1c9c05f38ed57337f3f782505ce647c526e6319ea764946f0d520"
+  },
+  {
+    "project": {
+      "dir_name": "annenkov-@@-stlcnorm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc/stlc_bidir.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 168,
+      "column": 4
+    },
+    "hash": "0f157785e9f1c9c05f38ed57337f3f782505ce647c526e6319ea764946f0d520"
+  },
+  {
+    "project": {
+      "dir_name": "annenkov-@@-stlcnorm",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Stlc/stlc_bidir.v",
+    "theorem_start_pos": {
+      "line": 189,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 190,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 211,
+      "column": 4
+    },
+    "hash": "0f157785e9f1c9c05f38ed57337f3f782505ce647c526e6319ea764946f0d520"
+  }
+]

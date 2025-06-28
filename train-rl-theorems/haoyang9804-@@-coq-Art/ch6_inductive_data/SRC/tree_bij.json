@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch6_inductive_data/SRC/tree_bij.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "ed8de00aae58a5ed9b6715f999ec499d38c29130d3b12bd95d9a71d3e26bce2e"
+  },
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch6_inductive_data/SRC/tree_bij.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 5
+    },
+    "hash": "ed8de00aae58a5ed9b6715f999ec499d38c29130d3b12bd95d9a71d3e26bce2e"
+  }
+]

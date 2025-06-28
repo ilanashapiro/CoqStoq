@@ -1,0 +1,524 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 109,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 114,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 121,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 124,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 147,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 150,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 150,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 161,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 166,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 167,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 192,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 197,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 197,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 218,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 221,
+      "column": 103
+    },
+    "proof_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 241,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 244,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 244,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 270,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 273,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 273,
+      "column": 87
+    },
+    "proof_start_pos": {
+      "line": 274,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 444,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 447,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 447,
+      "column": 99
+    },
+    "proof_start_pos": {
+      "line": 448,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 476,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 479,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 479,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 480,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 528,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 531,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 531,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 532,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 538,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-coqtail-math",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_usual_facts.v",
+    "theorem_start_pos": {
+      "line": 543,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 543,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 544,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 566,
+      "column": 4
+    },
+    "hash": "b6a486bf4af414a8dbfba954f2a22d05bd0b52faaf7de5fce31f71fdd7203f33"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Relevant-decidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "list_induction.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 6
+    },
+    "hash": "d56061499e53a167d913ce768a8c69981756c2c8bbe097ce4d06a35b122cd89e"
+  }
+]

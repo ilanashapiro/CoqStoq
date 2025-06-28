@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "MartinLeocmach-@@-LIFLF",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "liflf_TPN_A_2019.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "c933147ffc37620c7ba3f0aed7f0b60d7bf6167c48c7ab1c125de0e09d8693e3"
+  }
+]

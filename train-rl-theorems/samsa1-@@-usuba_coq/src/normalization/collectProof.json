@@ -1,0 +1,379 @@
+[
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 109,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 110,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 116,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 120,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 121,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 141,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 142,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 158,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 162,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 232,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 234,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 236,
+      "column": 112
+    },
+    "proof_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 263,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 267,
+      "column": 122
+    },
+    "proof_start_pos": {
+      "line": 268,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 289,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  },
+  {
+    "project": {
+      "dir_name": "samsa1-@@-usuba_coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/normalization/collectProof.v",
+    "theorem_start_pos": {
+      "line": 291,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 293,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 298,
+      "column": 4
+    },
+    "hash": "b116a0ac303576005a04157f89d7de7da6376a9ee8f2009db89fe345b90a1174"
+  }
+]

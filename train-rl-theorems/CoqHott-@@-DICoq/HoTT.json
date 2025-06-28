@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "CoqHott-@@-DICoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "HoTT.v",
+    "theorem_start_pos": {
+      "line": 595,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 596,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 597,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 601,
+      "column": 4
+    },
+    "hash": "81f108db164ad6c52034cf0ebcc30e0d1a80912d46bc7af6d2e904306ae633e4"
+  }
+]

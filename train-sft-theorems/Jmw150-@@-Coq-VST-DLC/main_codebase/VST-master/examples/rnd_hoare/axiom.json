@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Jmw150-@@-Coq-VST-DLC",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "main_codebase/VST-master/examples/rnd_hoare/axiom.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 108
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "a5f476d61cf04161f41d044b41c16c355fb0a2bc2b0ca5769e5e5f779b84b2a9"
+  },
+  {
+    "project": {
+      "dir_name": "Jmw150-@@-Coq-VST-DLC",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "main_codebase/VST-master/examples/rnd_hoare/axiom.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 78,
+      "column": 4
+    },
+    "hash": "a5f476d61cf04161f41d044b41c16c355fb0a2bc2b0ca5769e5e5f779b84b2a9"
+  }
+]

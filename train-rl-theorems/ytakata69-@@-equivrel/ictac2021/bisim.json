@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ytakata69-@@-equivrel",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ictac2021/bisim.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 80,
+      "column": 4
+    },
+    "hash": "4b0524d7937ed3170f8e39699df515b2098b7446ae31a3d9bd4e268b8ec73135"
+  }
+]

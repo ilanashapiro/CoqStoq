@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/PositiveOrder.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 27
+    },
+    "hash": "17c72aa18c2ae36cf9cb64c27f3466920dca0105773b5902aedd32e489609016"
+  },
+  {
+    "project": {
+      "dir_name": "xavierleroy-@@-canonical-binary-tries",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/PositiveOrder.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "17c72aa18c2ae36cf9cb64c27f3466920dca0105773b5902aedd32e489609016"
+  }
+]

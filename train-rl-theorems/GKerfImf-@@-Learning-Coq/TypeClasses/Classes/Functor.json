@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "GKerfImf-@@-Learning-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TypeClasses/Classes/Functor.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 8
+    },
+    "hash": "969032c337f969ce0a79a73e6c724e43f76a7e1372ca7a6e28c23383f0c72cdf"
+  }
+]

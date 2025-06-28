@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "amintimany-@@-Categories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ext_Cons/Prod_Cat/Nat_Facts.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 50
+    },
+    "hash": "57b5051a2fb035b13ada63471b9d604d5accc3d8e4041655f97d5735b4c95050"
+  },
+  {
+    "project": {
+      "dir_name": "amintimany-@@-Categories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Ext_Cons/Prod_Cat/Nat_Facts.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 50
+    },
+    "hash": "57b5051a2fb035b13ada63471b9d604d5accc3d8e4041655f97d5735b4c95050"
+  }
+]

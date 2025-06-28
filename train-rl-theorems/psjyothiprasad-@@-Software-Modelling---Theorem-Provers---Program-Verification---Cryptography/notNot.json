@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "psjyothiprasad-@@-Software-Modelling---Theorem-Provers---Program-Verification---Cryptography",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "notNot.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "cc5b45d2c39a6d2d94960fe80ec014f27ce4bb74a9341cc4d8782234bfbe3336"
+  }
+]

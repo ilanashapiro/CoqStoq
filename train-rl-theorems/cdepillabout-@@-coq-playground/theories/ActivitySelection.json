@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "cdepillabout-@@-coq-playground",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/ActivitySelection.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 6
+    },
+    "hash": "7f3c0b5746d611c0eafc752a48d694ce7ef4c7ddeb83ef7a2f0f0730f4a10fbb"
+  }
+]

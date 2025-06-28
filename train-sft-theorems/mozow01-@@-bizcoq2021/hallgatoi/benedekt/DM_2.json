@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mozow01-@@-bizcoq2021",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hallgatoi/benedekt/DM_2.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "133d6d0c9419d684500f27fa8ee7986bc69f7ee53453501e413a9a4c411697fe"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Truncations/Connectedness.v",
+    "theorem_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 252,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 253,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 275,
+      "column": 4
+    },
+    "hash": "608ab784832f86871c753ecd9bb4ca2c49df9ebe0c04558b6a5ee083199e0155"
+  }
+]

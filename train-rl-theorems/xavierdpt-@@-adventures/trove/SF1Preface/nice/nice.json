@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "xavierdpt-@@-adventures",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "trove/SF1Preface/nice/nice.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "f5bb3d9c744fc90156cb0d6fc3354cdcc50ecc07d12a32852a2df534f4b6228c"
+  }
+]

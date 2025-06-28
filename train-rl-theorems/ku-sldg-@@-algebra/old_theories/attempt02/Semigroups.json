@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-algebra",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "old_theories/attempt02/Semigroups.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 6
+    },
+    "hash": "325c55e4d28cf0a4a709c21c036e53468d883f691f55db9187959f793b9dd15a"
+  },
+  {
+    "project": {
+      "dir_name": "ku-sldg-@@-algebra",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "old_theories/attempt02/Semigroups.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 6
+    },
+    "hash": "325c55e4d28cf0a4a709c21c036e53468d883f691f55db9187959f793b9dd15a"
+  }
+]

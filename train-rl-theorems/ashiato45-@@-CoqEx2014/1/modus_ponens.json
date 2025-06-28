@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ashiato45-@@-CoqEx2014",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "1/modus_ponens.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 5,
+      "column": 4
+    },
+    "hash": "0e1ee62dd1097d33ac48fbcc40edf7f1a8171938442b9731ef90968ce93eed61"
+  }
+]

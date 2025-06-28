@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/interfaces/cauchy.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 130,
+      "column": 8
+    },
+    "hash": "31c1a82ecc10aefa41f74813a93c8da046fcec79563d8f104b286db3486a9e99"
+  }
+]

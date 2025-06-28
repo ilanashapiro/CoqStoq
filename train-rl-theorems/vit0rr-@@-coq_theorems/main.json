@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "vit0rr-@@-coq_theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "main.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "b8b9a7d0267168db67d0388533f4640cd096d5a9cc56c866cfb26946d2c13a50"
+  }
+]

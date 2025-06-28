@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Modalities/Modality.v",
+    "theorem_start_pos": {
+      "line": 525,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 529,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 530,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 544,
+      "column": 6
+    },
+    "hash": "35b2668d44a4f80c6176c78652223c7f2193f622e905299d5c6550220f2453b4"
+  }
+]

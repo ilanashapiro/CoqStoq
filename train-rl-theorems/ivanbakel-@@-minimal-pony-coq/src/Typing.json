@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ivanbakel-@@-minimal-pony-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Typing.v",
+    "theorem_start_pos": {
+      "line": 266,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 273,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 274,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 317,
+      "column": 6
+    },
+    "hash": "7748b7ec866652017a58cf189fb814feb6f744be7d88bfa5977c1e29f225c023"
+  }
+]

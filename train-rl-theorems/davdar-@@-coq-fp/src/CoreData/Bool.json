@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "davdar-@@-coq-fp",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoreData/Bool.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "d03d742cc016a889c968504ccde5b31e1da46e7d65b1526aa6bfd6454e59b84e"
+  }
+]

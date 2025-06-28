@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "anonymous-code-submission-01-@@-sp2019-54-code",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Util/Decidable/Bool2Prop.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 34
+    },
+    "proof_end_pos": {
+      "line": 2,
+      "column": 66
+    },
+    "hash": "def5ccc39dd6f2ecd972e0fde13f5370c2cce4358acb7397bdb894fd9b643861"
+  }
+]

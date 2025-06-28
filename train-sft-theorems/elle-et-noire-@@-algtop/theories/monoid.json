@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-algtop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/monoid.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 48
+    },
+    "hash": "5c9f9e306e0e8390530e3aebb48419ef6a523588bddf26410b118888afc1f887"
+  },
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-algtop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/monoid.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 54
+    },
+    "hash": "5c9f9e306e0e8390530e3aebb48419ef6a523588bddf26410b118888afc1f887"
+  },
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-algtop",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/monoid.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 54
+    },
+    "hash": "5c9f9e306e0e8390530e3aebb48419ef6a523588bddf26410b118888afc1f887"
+  }
+]

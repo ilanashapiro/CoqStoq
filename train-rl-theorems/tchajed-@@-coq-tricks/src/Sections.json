@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tricks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Sections.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 6
+    },
+    "hash": "ec89334ef294eee4d8e73d818de753966a914317641822ffbfd0c03d480f7ceb"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-coq-tricks",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Sections.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 6
+    },
+    "hash": "ec89334ef294eee4d8e73d818de753966a914317641822ffbfd0c03d480f7ceb"
+  }
+]

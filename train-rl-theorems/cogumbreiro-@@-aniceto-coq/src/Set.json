@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "cogumbreiro-@@-aniceto-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Set.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 6
+    },
+    "hash": "951a7d653d8cf68917750d3e0803a60c8e8c909788f256d4506ffab93aa3e71d"
+  },
+  {
+    "project": {
+      "dir_name": "cogumbreiro-@@-aniceto-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Set.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 6
+    },
+    "hash": "951a7d653d8cf68917750d3e0803a60c8e8c909788f256d4506ffab93aa3e71d"
+  },
+  {
+    "project": {
+      "dir_name": "cogumbreiro-@@-aniceto-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Set.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 6
+    },
+    "hash": "951a7d653d8cf68917750d3e0803a60c8e8c909788f256d4506ffab93aa3e71d"
+  },
+  {
+    "project": {
+      "dir_name": "cogumbreiro-@@-aniceto-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Set.v",
+    "theorem_start_pos": {
+      "line": 52,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 6
+    },
+    "hash": "951a7d653d8cf68917750d3e0803a60c8e8c909788f256d4506ffab93aa3e71d"
+  }
+]

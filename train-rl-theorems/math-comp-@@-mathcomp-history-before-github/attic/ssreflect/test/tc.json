@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "math-comp-@@-mathcomp-history-before-github",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "attic/ssreflect/test/tc.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "3a7a638ef0e6502b9e58bf1b9a8ef0caf203c8924af08cc4f0daa49b47959cd6"
+  },
+  {
+    "project": {
+      "dir_name": "math-comp-@@-mathcomp-history-before-github",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "attic/ssreflect/test/tc.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "3a7a638ef0e6502b9e58bf1b9a8ef0caf203c8924af08cc4f0daa49b47959cd6"
+  }
+]

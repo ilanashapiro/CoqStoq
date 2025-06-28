@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Whu-Lambda-@@-Lambda-Cube",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_ex/Coq_proof/div.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "a11ac3afa361ed02ae7c7aab47141092f3b61544e6b935375a53e03ba122022e"
+  },
+  {
+    "project": {
+      "dir_name": "Whu-Lambda-@@-Lambda-Cube",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coq_ex/Coq_proof/div.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "a11ac3afa361ed02ae7c7aab47141092f3b61544e6b935375a53e03ba122022e"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "ivanbakel-@@-coq-SPAM",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/SeparationLogic/Semantics.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 118,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 6
+    },
+    "hash": "ee920199d199711b2cafe38d0282dc89116d575c489d329713b604bf321e1b34"
+  }
+]

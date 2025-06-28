@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "DavidFHCh-@@-Tesis-FTW",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tesis/hs-to-coq/examples/ghc/theories/Forall.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 4
+    },
+    "hash": "70e75dcaf2d53513b231e25fd82999d7f343ea90744795475195bcbc9c1ed050"
+  },
+  {
+    "project": {
+      "dir_name": "DavidFHCh-@@-Tesis-FTW",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tesis/hs-to-coq/examples/ghc/theories/Forall.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "70e75dcaf2d53513b231e25fd82999d7f343ea90744795475195bcbc9c1ed050"
+  },
+  {
+    "project": {
+      "dir_name": "DavidFHCh-@@-Tesis-FTW",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tesis/hs-to-coq/examples/ghc/theories/Forall.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "70e75dcaf2d53513b231e25fd82999d7f343ea90744795475195bcbc9c1ed050"
+  }
+]

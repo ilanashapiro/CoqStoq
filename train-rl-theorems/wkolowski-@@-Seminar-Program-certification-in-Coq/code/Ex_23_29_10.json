@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "wkolowski-@@-Seminar-Program-certification-in-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "code/Ex_23_29_10.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "92693c537020457abf5031d5bb6c22d2266a01599736e3f90ea46f392402e1da"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "MathiasVP-@@-lattice",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "dec.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "7a8354b4f3d844d2570d6dbfec3c7f43df868012f1f615f168f046e23337481e"
+  },
+  {
+    "project": {
+      "dir_name": "MathiasVP-@@-lattice",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "dec.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "7a8354b4f3d844d2570d6dbfec3c7f43df868012f1f615f168f046e23337481e"
+  }
+]

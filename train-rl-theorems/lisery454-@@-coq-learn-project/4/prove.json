@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "lisery454-@@-coq-learn-project",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "4/prove.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 4
+    },
+    "hash": "96a1c88c649ff957402ab974f78a1121868de5637bb994488083563631117d7f"
+  }
+]

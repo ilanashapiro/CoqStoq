@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mstewartgallus-@@-playground",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tarski.v",
+    "theorem_start_pos": {
+      "line": 277,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 279,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 280,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 315,
+      "column": 4
+    },
+    "hash": "55db93efc0f285597e06bc6515a8a8b463dd4a89ee8b522d8a5e32fd63900eb5"
+  }
+]

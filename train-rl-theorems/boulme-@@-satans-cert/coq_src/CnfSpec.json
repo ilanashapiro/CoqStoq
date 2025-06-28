@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "boulme-@@-satans-cert",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_src/CnfSpec.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "88a7a518a6975a9654c0fba259257e26052169952fa9de04e7bc710aff7f287d"
+  }
+]

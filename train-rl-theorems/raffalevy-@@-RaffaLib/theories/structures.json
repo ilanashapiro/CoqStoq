@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "raffalevy-@@-RaffaLib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/structures.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 134,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 147,
+      "column": 4
+    },
+    "hash": "80562c33e04f232d14e1458c6b39c682f1bc501b8c4c8320f6aebdd25ebc3a1b"
+  },
+  {
+    "project": {
+      "dir_name": "raffalevy-@@-RaffaLib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/structures.v",
+    "theorem_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 4
+    },
+    "hash": "80562c33e04f232d14e1458c6b39c682f1bc501b8c4c8320f6aebdd25ebc3a1b"
+  },
+  {
+    "project": {
+      "dir_name": "raffalevy-@@-RaffaLib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/structures.v",
+    "theorem_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 220,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 232,
+      "column": 4
+    },
+    "hash": "80562c33e04f232d14e1458c6b39c682f1bc501b8c4c8320f6aebdd25ebc3a1b"
+  }
+]

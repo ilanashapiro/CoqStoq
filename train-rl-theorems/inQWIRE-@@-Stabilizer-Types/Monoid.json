@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "inQWIRE-@@-Stabilizer-Types",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Monoid.v",
+    "theorem_start_pos": {
+      "line": 262,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 263,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 264,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 267,
+      "column": 6
+    },
+    "hash": "334b68048191c71d81f3379886a80e77d6e6531d709c909edbaad93a3f116d6e"
+  }
+]

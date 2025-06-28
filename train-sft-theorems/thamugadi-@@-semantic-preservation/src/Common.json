@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "thamugadi-@@-semantic-preservation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Common.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "925e317a9102d9f9ceb699b78761c08c17653865b79e00735b666fa0e2b5da13"
+  }
+]

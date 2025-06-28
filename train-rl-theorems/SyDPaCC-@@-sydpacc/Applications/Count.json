@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "SyDPaCC-@@-sydpacc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Applications/Count.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 6
+    },
+    "hash": "25eb5b1ce339d2fda08f48a0c1d0c98b3e8a028d292ff2defa82d15ea5636678"
+  },
+  {
+    "project": {
+      "dir_name": "SyDPaCC-@@-sydpacc",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Applications/Count.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 6
+    },
+    "hash": "25eb5b1ce339d2fda08f48a0c1d0c98b3e8a028d292ff2defa82d15ea5636678"
+  }
+]

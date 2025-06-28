@@ -1,0 +1,495 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 57,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 116,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 124,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 142,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 143,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 152,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 156,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 167,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 169,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 178,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 202,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 244,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 246,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 253,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 254,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 264,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 266,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 275,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 276,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 313,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 315,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 320,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 321,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 348,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 350,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 356,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 357,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 365,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 367,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 375,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 376,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 404,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 406,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 412,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 413,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 449,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 451,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 458,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 459,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 470,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/transformations_contact.v",
+    "theorem_start_pos": {
+      "line": 472,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 481,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 482,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 522,
+      "column": 4
+    },
+    "hash": "1abedaa8f1161e7ff6a2738143b8850136775ea768fb30f061a2d7e6ff3b9f19"
+  }
+]

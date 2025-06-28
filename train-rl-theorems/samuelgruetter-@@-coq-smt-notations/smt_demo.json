@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "samuelgruetter-@@-coq-smt-notations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "smt_demo.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "f3cfee5db02a3dd12b1572dc7ad1cce67277d89bc1a6167aaf2298570fd9b47f"
+  },
+  {
+    "project": {
+      "dir_name": "samuelgruetter-@@-coq-smt-notations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "smt_demo.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 81,
+      "column": 4
+    },
+    "hash": "f3cfee5db02a3dd12b1572dc7ad1cce67277d89bc1a6167aaf2298570fd9b47f"
+  }
+]

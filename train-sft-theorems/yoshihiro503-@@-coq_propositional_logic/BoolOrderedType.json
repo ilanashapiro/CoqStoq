@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "yoshihiro503-@@-coq_propositional_logic",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BoolOrderedType.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 24
+    },
+    "hash": "69957ae5e11cd4651dd0a9a1d811b43e6e223324e8909fa6c1e48d1b0907adb3"
+  }
+]

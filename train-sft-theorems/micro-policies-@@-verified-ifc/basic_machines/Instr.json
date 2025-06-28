@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "micro-policies-@@-verified-ifc",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "basic_machines/Instr.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "00750bde73bc56fe430e313b2157fa4d072f37988e13dcac7458a6632a6c6ecc"
+  }
+]

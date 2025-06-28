@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "RanranL-@@-Pointgeo",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reals/Rsequence/Rsequence_def.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "7f19448893cbdbb1d39543902978fde8bf4cc00197fb6211b15e8977787b9c5d"
+  }
+]

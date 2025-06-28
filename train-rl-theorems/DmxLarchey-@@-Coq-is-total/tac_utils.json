@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Coq-is-total",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tac_utils.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 39
+    },
+    "hash": "23bfa74cf3382d38f81e838f044200cf704cc08c86267ce5e115202208d5a3e1"
+  },
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Coq-is-total",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tac_utils.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 38
+    },
+    "hash": "23bfa74cf3382d38f81e838f044200cf704cc08c86267ce5e115202208d5a3e1"
+  }
+]

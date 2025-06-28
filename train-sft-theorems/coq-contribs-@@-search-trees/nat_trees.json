@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-search-trees",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "nat_trees.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 5
+    },
+    "hash": "2db11975ef03aadc5a3e9b8e98c38e2c6bc658c08e2e8dd2452c92b94adfef19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-search-trees",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "nat_trees.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 4
+    },
+    "hash": "2db11975ef03aadc5a3e9b8e98c38e2c6bc658c08e2e8dd2452c92b94adfef19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-search-trees",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "nat_trees.v",
+    "theorem_start_pos": {
+      "line": 140,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 142,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 147,
+      "column": 4
+    },
+    "hash": "2db11975ef03aadc5a3e9b8e98c38e2c6bc658c08e2e8dd2452c92b94adfef19"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-search-trees",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "nat_trees.v",
+    "theorem_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 151,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 153,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 156,
+      "column": 4
+    },
+    "hash": "2db11975ef03aadc5a3e9b8e98c38e2c6bc658c08e2e8dd2452c92b94adfef19"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/Ex/ProcFourStDec.v",
+    "theorem_start_pos": {
+      "line": 142,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 142,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 143,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 148,
+      "column": 6
+    },
+    "hash": "dbf13781125e2c42f8fc1a73fb0e7730d1519cad47ff71cc9cd57412267afc79"
+  }
+]

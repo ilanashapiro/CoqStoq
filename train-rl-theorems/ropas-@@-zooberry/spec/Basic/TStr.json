@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "ropas-@@-zooberry",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "spec/Basic/TStr.v",
+    "theorem_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 33
+    },
+    "hash": "bd2580edd104bd3acb9602218731b20d1f54eb1f5331c3527f898eee709f4483"
+  },
+  {
+    "project": {
+      "dir_name": "ropas-@@-zooberry",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "spec/Basic/TStr.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 43
+    },
+    "hash": "bd2580edd104bd3acb9602218731b20d1f54eb1f5331c3527f898eee709f4483"
+  },
+  {
+    "project": {
+      "dir_name": "ropas-@@-zooberry",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "spec/Basic/TStr.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 44
+    },
+    "hash": "bd2580edd104bd3acb9602218731b20d1f54eb1f5331c3527f898eee709f4483"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "plum-umd-@@-QNP",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "externals/SQIR/examples/Superdense.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 4
+    },
+    "hash": "a1713d927426e84d71b874f744c14f7bd005486a7b141e768bf1497f33cac134"
+  }
+]

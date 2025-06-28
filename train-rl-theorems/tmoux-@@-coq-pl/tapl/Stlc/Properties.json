@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "tmoux-@@-coq-pl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tapl/Stlc/Properties.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "cf713f3bb278d795dd7eba701b7ff2a11272725d00ec481ac49662dbba0bb26c"
+  },
+  {
+    "project": {
+      "dir_name": "tmoux-@@-coq-pl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tapl/Stlc/Properties.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 4
+    },
+    "hash": "cf713f3bb278d795dd7eba701b7ff2a11272725d00ec481ac49662dbba0bb26c"
+  },
+  {
+    "project": {
+      "dir_name": "tmoux-@@-coq-pl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tapl/Stlc/Properties.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "cf713f3bb278d795dd7eba701b7ff2a11272725d00ec481ac49662dbba0bb26c"
+  }
+]

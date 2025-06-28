@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/Powerdomain/PowerdomainOrderProperties.v",
+    "theorem_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 116,
+      "column": 110
+    },
+    "proof_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 149,
+      "column": 4
+    },
+    "hash": "194508e8c5e85e2549023f14ce9933041cf3381beb00f94766363c9841c7ea7c"
+  },
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/Powerdomain/PowerdomainOrderProperties.v",
+    "theorem_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 152,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 153,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 159,
+      "column": 4
+    },
+    "hash": "194508e8c5e85e2549023f14ce9933041cf3381beb00f94766363c9841c7ea7c"
+  },
+  {
+    "project": {
+      "dir_name": "park-sewon-@@-coq-clerical",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/Powerdomain/PowerdomainOrderProperties.v",
+    "theorem_start_pos": {
+      "line": 161,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 162,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 183,
+      "column": 4
+    },
+    "hash": "194508e8c5e85e2549023f14ce9933041cf3381beb00f94766363c9841c7ea7c"
+  }
+]

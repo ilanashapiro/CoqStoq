@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jtassarotti-@@-coq-proba",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/basic/classic_proof_irrel.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3,
+      "column": 78
+    },
+    "hash": "58762306ceec3b7c8a26f84240a41ddb1f87c7a25b8b96cb7ce9ffa3954f6965"
+  }
+]

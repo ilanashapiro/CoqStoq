@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "zhengpushi-@@-coq-matrix",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "MatrixComparison/src/CoqExt/BasicConfig.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 139,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 140,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 148,
+      "column": 6
+    },
+    "hash": "a9ecd3ea3fbd473f292f785ff3c2f09c7da9cb3c4c91112ef8d066bbe6759219"
+  }
+]

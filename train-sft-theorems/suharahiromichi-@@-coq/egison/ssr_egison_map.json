@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "egison/ssr_egison_map.v",
+    "theorem_start_pos": {
+      "line": 164,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 164,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 165,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 6
+    },
+    "hash": "4d89857b9e66044a4438696177588fd2cda92baf9f2ee6e0722e07a7b9f4e235"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "egison/ssr_egison_map.v",
+    "theorem_start_pos": {
+      "line": 225,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 226,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 227,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 311,
+      "column": 6
+    },
+    "hash": "4d89857b9e66044a4438696177588fd2cda92baf9f2ee6e0722e07a7b9f4e235"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jonsterling-@@-coq-algebra-experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/groups/AbelianGroup.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 4
+    },
+    "hash": "f1f0129e74eb75552e22098db43b73e7b5d2c326458c8e53cabac27ece341fba"
+  }
+]

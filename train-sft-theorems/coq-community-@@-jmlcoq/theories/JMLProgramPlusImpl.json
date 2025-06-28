@@ -1,0 +1,466 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 99
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 37
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 128,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 6
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 72
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1002,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1004,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 1005,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1018,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1034,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1035,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 1036,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1053,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1067,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1067,
+      "column": 96
+    },
+    "proof_start_pos": {
+      "line": 1068,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1079,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1102,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1106,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 1107,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1143,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1156,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1157,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 1158,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1175,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1202,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1202,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 1203,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1214,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1273,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1273,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 1274,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1293,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1306,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1306,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 1307,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1318,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1331,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1335,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 1336,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1359,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1370,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1370,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 1371,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1404,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1418,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 1421,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 1422,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 1427,
+      "column": 8
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 1593,
+      "column": 5
+    },
+    "theorem_end_pos": {
+      "line": 1594,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 1595,
+      "column": 5
+    },
+    "proof_end_pos": {
+      "line": 1595,
+      "column": 22
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-jmlcoq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/JMLProgramPlusImpl.v",
+    "theorem_start_pos": {
+      "line": 2544,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2548,
+      "column": 7
+    },
+    "proof_start_pos": {
+      "line": 2549,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2569,
+      "column": 4
+    },
+    "hash": "19b94734ea14cc7d852ce5f6a4d858b85378584d05272afb53560a57f0f38915"
+  }
+]

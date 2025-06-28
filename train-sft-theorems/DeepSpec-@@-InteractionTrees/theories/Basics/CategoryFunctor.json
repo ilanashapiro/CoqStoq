@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "DeepSpec-@@-InteractionTrees",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Basics/CategoryFunctor.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 26
+    },
+    "hash": "aa2a98bf59f18ec7533395774e3a17bcd8ac200196e2b4463762513f1dd12a57"
+  },
+  {
+    "project": {
+      "dir_name": "DeepSpec-@@-InteractionTrees",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Basics/CategoryFunctor.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 27
+    },
+    "hash": "aa2a98bf59f18ec7533395774e3a17bcd8ac200196e2b4463762513f1dd12a57"
+  }
+]

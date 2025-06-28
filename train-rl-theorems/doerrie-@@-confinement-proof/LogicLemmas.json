@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "doerrie-@@-confinement-proof",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "LogicLemmas.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "hash": "bf8585a5caf2140141f328cc5cf07f24635cab9c10b875315bf91cd277777374"
+  }
+]

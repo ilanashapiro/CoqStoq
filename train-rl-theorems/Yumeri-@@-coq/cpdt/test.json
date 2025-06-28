@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Yumeri-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "cpdt/test.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2,
+      "column": 65
+    },
+    "hash": "a15cae81cbc74fda06aa758f7d84066a048a269154aff99c06ef1872c2b863bb"
+  }
+]

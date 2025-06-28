@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "CertiKOS-@@-rbgs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "interfaces/Functor.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 8
+    },
+    "hash": "3dca350bf60fcc529b86b3ed3b7e2b0e0d5da7a9b1e9b834371c1dc66a54ffd6"
+  },
+  {
+    "project": {
+      "dir_name": "CertiKOS-@@-rbgs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "interfaces/Functor.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 8
+    },
+    "hash": "3dca350bf60fcc529b86b3ed3b7e2b0e0d5da7a9b1e9b834371c1dc66a54ffd6"
+  }
+]

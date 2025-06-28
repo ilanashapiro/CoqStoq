@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "TorosFanny-@@-my_Coq_experiment",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "converse_negative_proposition_not_result_in_origin.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 0,
+      "column": 142
+    },
+    "proof_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "b3925a592ae01a6e2a30ea8bf20e497c7797cb19058afb6e8f5891745289a34e"
+  }
+]

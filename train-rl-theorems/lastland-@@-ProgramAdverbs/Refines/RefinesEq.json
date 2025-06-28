@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "lastland-@@-ProgramAdverbs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Refines/RefinesEq.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 6
+    },
+    "hash": "2dc3b0b1ba75a97bdc8c13de3b5c01049946d38eb29b27d02cb9744df80e33cb"
+  }
+]

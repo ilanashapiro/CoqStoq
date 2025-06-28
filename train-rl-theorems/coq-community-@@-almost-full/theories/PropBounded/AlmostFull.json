@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-almost-full",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/PropBounded/AlmostFull.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 4
+    },
+    "hash": "c22cbf9d05b49f14edeeb3f8a8c39b72a03444dfd0eef4aa97a1390fb9985478"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-almost-full",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/PropBounded/AlmostFull.v",
+    "theorem_start_pos": {
+      "line": 112,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 113,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "hash": "c22cbf9d05b49f14edeeb3f8a8c39b72a03444dfd0eef4aa97a1390fb9985478"
+  }
+]

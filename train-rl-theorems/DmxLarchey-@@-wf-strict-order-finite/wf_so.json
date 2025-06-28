@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-wf-strict-order-finite",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "wf_so.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 10,
+      "column": 46
+    },
+    "hash": "38baa79426c23eb0e5fcfcae26e007516c1cfc9f8b7ca403e0f4b5f77faf4648"
+  },
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-wf-strict-order-finite",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "wf_so.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 6
+    },
+    "hash": "38baa79426c23eb0e5fcfcae26e007516c1cfc9f8b7ca403e0f4b5f77faf4648"
+  },
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-wf-strict-order-finite",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "wf_so.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 6
+    },
+    "hash": "38baa79426c23eb0e5fcfcae26e007516c1cfc9f8b7ca403e0f4b5f77faf4648"
+  }
+]

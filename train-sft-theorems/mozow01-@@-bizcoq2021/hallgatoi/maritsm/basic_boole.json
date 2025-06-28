@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "mozow01-@@-bizcoq2021",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hallgatoi/maritsm/basic_boole.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 88,
+      "column": 4
+    },
+    "hash": "a7ec9dc75eb5c5b5ea7aefc924f1283a8fa5a68b45971258d28ac84f39238d04"
+  },
+  {
+    "project": {
+      "dir_name": "mozow01-@@-bizcoq2021",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hallgatoi/maritsm/basic_boole.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 117,
+      "column": 4
+    },
+    "hash": "a7ec9dc75eb5c5b5ea7aefc924f1283a8fa5a68b45971258d28ac84f39238d04"
+  },
+  {
+    "project": {
+      "dir_name": "mozow01-@@-bizcoq2021",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "hallgatoi/maritsm/basic_boole.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 141,
+      "column": 4
+    },
+    "hash": "a7ec9dc75eb5c5b5ea7aefc924f1283a8fa5a68b45971258d28ac84f39238d04"
+  }
+]

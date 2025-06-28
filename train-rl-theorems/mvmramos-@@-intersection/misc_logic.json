@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mvmramos-@@-intersection",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "misc_logic.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 100
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "c4eeecf5b2a1624cc9d404a7b34e6e9c7baa736eacf49142a0e6db0adcc65a7b"
+  },
+  {
+    "project": {
+      "dir_name": "mvmramos-@@-intersection",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "misc_logic.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "c4eeecf5b2a1624cc9d404a7b34e6e9c7baa736eacf49142a0e6db0adcc65a7b"
+  }
+]

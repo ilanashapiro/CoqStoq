@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-autosubst-ocaml",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "case-studies/kathrin/coq/core.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "0440e054c54eab2c0691346f0c5eff5cf9dfb4418be352f7ed58ecefbf7b5ce3"
+  },
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-autosubst-ocaml",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "case-studies/kathrin/coq/core.v",
+    "theorem_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 137,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 140,
+      "column": 4
+    },
+    "hash": "0440e054c54eab2c0691346f0c5eff5cf9dfb4418be352f7ed58ecefbf7b5ce3"
+  }
+]

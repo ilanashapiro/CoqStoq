@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-adt-synthesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/CacheADT/KVEnsembles.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 6
+    },
+    "hash": "5e5b0b61a002ea7dea19165593791e49b5174bfe70df9947630885229809c808"
+  },
+  {
+    "project": {
+      "dir_name": "JasonGross-@@-adt-synthesis",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "examples/CacheADT/KVEnsembles.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 6
+    },
+    "hash": "5e5b0b61a002ea7dea19165593791e49b5174bfe70df9947630885229809c808"
+  }
+]

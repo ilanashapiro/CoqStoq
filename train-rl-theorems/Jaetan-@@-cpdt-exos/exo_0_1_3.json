@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Jaetan-@@-cpdt-exos",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exo_0_1_3.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 104,
+      "column": 110
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 109,
+      "column": 4
+    },
+    "hash": "c755936fe100fbeabee382eeec5e6a17bfa9c29ab57d60feb27ddc013a244986"
+  },
+  {
+    "project": {
+      "dir_name": "Jaetan-@@-cpdt-exos",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exo_0_1_3.v",
+    "theorem_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 114,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 123,
+      "column": 4
+    },
+    "hash": "c755936fe100fbeabee382eeec5e6a17bfa9c29ab57d60feb27ddc013a244986"
+  }
+]

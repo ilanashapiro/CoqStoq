@@ -1,0 +1,2438 @@
+[
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 220,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 228,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 230,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 249,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 252,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 257,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 259,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 269,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 271,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 285,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 287,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 289,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 291,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 317,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 350,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 354,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 356,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 377,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 393,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 397,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 399,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 415,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 417,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 420,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 422,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 425,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 427,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 430,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 432,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 461,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 463,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 466,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 468,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 471,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 490,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 492,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 494,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 508,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 510,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 513,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 515,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 562,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 564,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 568,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 570,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 656,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 659,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 662,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 665,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 673,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 675,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 678,
+      "column": 9
+    },
+    "proof_start_pos": {
+      "line": 680,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 699,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 711,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 714,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 716,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 729,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 734,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 737,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 739,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 747,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 749,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 752,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 754,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 761,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 773,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 777,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 779,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 821,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 823,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 828,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 830,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 853,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 855,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 859,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 861,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 921,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 923,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 927,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 929,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 945,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 947,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 949,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 951,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 960,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 998,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1000,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 1002,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1039,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1041,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1052,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 1054,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1363,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1366,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1368,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 1370,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1403,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1405,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1407,
+      "column": 9
+    },
+    "proof_start_pos": {
+      "line": 1409,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1424,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1428,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1433,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 1435,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1503,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1505,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1508,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 1510,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1533,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1535,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1537,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 1539,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1553,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1555,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1563,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 1565,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1775,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1777,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1780,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 1782,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1821,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1823,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1826,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 1828,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1849,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1864,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1865,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 1867,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1869,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1871,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1875,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 1877,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1882,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1884,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1889,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 1891,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1915,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1917,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1920,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 1922,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1927,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1929,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1933,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 1935,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1946,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1948,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1955,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 1957,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1970,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1972,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1975,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 1977,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1997,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 1999,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2002,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 2004,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2053,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2055,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2064,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 2066,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2144,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2146,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2151,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 2153,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2205,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2207,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2210,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 2212,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2227,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2236,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2243,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 2245,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2274,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2276,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2278,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 2280,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2286,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2288,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2291,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 2293,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2320,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2322,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2327,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 2329,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2353,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2355,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2359,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 2361,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2370,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2372,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2375,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 2377,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2407,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2409,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2412,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 2414,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2418,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2420,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2422,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 2424,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2486,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2488,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2490,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 2492,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2512,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2514,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2516,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 2518,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2779,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2792,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2794,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 2796,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2846,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2853,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2855,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 2857,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2861,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2887,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2889,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 2891,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2943,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2945,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2947,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 2949,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2962,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 2976,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2977,
+      "column": 121
+    },
+    "proof_start_pos": {
+      "line": 2979,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3055,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3057,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3060,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 3062,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3070,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3072,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3078,
+      "column": 96
+    },
+    "proof_start_pos": {
+      "line": 3080,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3178,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3180,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3183,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 3185,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3197,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3199,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3206,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 3208,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3414,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3416,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3419,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 3421,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3422,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3425,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3429,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 3431,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3493,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3520,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3524,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 3526,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3549,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3551,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3560,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 3562,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3945,
+      "column": 5
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3948,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3953,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 3955,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 3968,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 3970,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3981,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 3983,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4102,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4104,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4109,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 4111,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4157,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4160,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4166,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 4168,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4210,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4212,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4223,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 4225,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4275,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4277,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4283,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 4285,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4318,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4320,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4327,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 4329,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4360,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4362,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4365,
+      "column": 9
+    },
+    "proof_start_pos": {
+      "line": 4367,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4402,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4404,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4406,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 4408,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4422,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4424,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4428,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 4430,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4725,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4728,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4740,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 4742,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 4826,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 4828,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4832,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 4834,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 5087,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 5089,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5093,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 5095,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 5139,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 5141,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5143,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 5145,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 5194,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 5196,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5200,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 5202,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 5227,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/SemEquiv.v",
+    "theorem_start_pos": {
+      "line": 5229,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5233,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 5235,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 5254,
+      "column": 4
+    },
+    "hash": "d1a4757fd4bf782e335e54dfe86f53f1222d90c8d3f6015bc1de67a485476f93"
+  }
+]

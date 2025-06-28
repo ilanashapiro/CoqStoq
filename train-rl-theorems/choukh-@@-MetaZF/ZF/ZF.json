@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "choukh-@@-MetaZF",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ZF/ZF.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 4
+    },
+    "hash": "6d4461485e6ae974c8dd38a398c6b1933c59af1f1a58a6d479df1d8561d3614a"
+  }
+]

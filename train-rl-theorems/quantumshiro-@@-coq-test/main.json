@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "quantumshiro-@@-coq-test",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "main.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "e4d2561f7b70e05bd477f16e313ee75cce8a2020aec2d69665683e72c516f896"
+  }
+]

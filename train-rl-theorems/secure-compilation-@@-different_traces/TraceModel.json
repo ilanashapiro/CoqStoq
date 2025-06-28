@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "secure-compilation-@@-different_traces",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "TraceModel.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "b0003f662b9ad656d635b0914f12f9d0fbd498659c208de5fc4fed9d87584720"
+  }
+]

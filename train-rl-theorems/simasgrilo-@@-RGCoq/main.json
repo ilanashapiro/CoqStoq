@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "simasgrilo-@@-RGCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "main.v",
+    "theorem_start_pos": {
+      "line": 448,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 449,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 450,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 451,
+      "column": 6
+    },
+    "hash": "7bf2a47c72768d8cb2fcf51fe711035373dba4ecee79d119738d914497ac40df"
+  }
+]

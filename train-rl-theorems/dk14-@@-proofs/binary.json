@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dk14-@@-proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "binary.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "e42157b6ac824a661dfec1bdbe58f9e1d33e813f6ebf83d06becb8f9ddcecc29"
+  }
+]

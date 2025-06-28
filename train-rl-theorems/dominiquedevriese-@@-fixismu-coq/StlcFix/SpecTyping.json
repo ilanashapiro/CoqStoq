@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "dominiquedevriese-@@-fixismu-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StlcFix/SpecTyping.v",
+    "theorem_start_pos": {
+      "line": 150,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 151,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 152,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 155,
+      "column": 4
+    },
+    "hash": "e5ac3d11f57c7eec75abe50cbaa75e7aba57cd1fd667fd0e6066b53abc71804f"
+  },
+  {
+    "project": {
+      "dir_name": "dominiquedevriese-@@-fixismu-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StlcFix/SpecTyping.v",
+    "theorem_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 161,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 162,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 165,
+      "column": 4
+    },
+    "hash": "e5ac3d11f57c7eec75abe50cbaa75e7aba57cd1fd667fd0e6066b53abc71804f"
+  }
+]

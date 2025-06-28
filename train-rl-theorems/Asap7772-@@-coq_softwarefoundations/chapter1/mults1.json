@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Asap7772-@@-coq_softwarefoundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter1/mults1.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "c8d550421f1850b6addd80b0fcaa10e074689eec679ba33c2e71de374f0634b6"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "davidjao-@@-zfc-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "summation_example.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "ce1d0b7c5383d4f007044ddd1a77d2b6d42f9ce47917ac1cc1f4544c979b558f"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Matafou-@@-ill_narratives",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "emma_orig.v",
+    "theorem_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 157,
+      "column": 98
+    },
+    "proof_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 191,
+      "column": 6
+    },
+    "hash": "970c6cecad587a1095b0c2f06dcfbedd86c904362fc3d57f9613ebb7321bca10"
+  }
+]

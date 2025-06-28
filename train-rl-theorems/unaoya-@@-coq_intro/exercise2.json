@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "unaoya-@@-coq_intro",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exercise2.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 4
+    },
+    "hash": "5542d6e427d01ddafcdf00f443effbc7e36c3505107d967a226217680e996632"
+  },
+  {
+    "project": {
+      "dir_name": "unaoya-@@-coq_intro",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exercise2.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 117,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 125,
+      "column": 4
+    },
+    "hash": "5542d6e427d01ddafcdf00f443effbc7e36c3505107d967a226217680e996632"
+  }
+]

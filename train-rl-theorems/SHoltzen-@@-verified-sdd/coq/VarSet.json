@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "SHoltzen-@@-verified-sdd",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/VarSet.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 75,
+      "column": 4
+    },
+    "hash": "3db1f0dcc3613029b56a441fb616f85104461eb693acce4be53d34d968208e55"
+  }
+]

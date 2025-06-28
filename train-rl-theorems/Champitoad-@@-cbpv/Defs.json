@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Champitoad-@@-cbpv",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Defs.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "5fb7937007df0bf0cffe1867c733bb65cb625e7e08223dbb63a1e903453347b5"
+  },
+  {
+    "project": {
+      "dir_name": "Champitoad-@@-cbpv",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Defs.v",
+    "theorem_start_pos": {
+      "line": 250,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 251,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 252,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 255,
+      "column": 4
+    },
+    "hash": "5fb7937007df0bf0cffe1867c733bb65cb625e7e08223dbb63a1e903453347b5"
+  }
+]

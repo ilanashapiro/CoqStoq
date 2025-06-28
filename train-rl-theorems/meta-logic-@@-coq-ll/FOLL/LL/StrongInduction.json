@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "meta-logic-@@-coq-ll",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FOLL/LL/StrongInduction.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 6
+    },
+    "hash": "5ef6f0d1156878a181c06876a13844f0fca94c4e947cb252f50c648fc8097e24"
+  },
+  {
+    "project": {
+      "dir_name": "meta-logic-@@-coq-ll",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FOLL/LL/StrongInduction.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 6
+    },
+    "hash": "5ef6f0d1156878a181c06876a13844f0fca94c4e947cb252f50c648fc8097e24"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "arrays/Array.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "7151784193a28fa636e6cc58e19b8380df63bb9f43d3d8232577ddcfaa7f35ee"
+  },
+  {
+    "project": {
+      "dir_name": "normanrink-@@-TensorIR",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "arrays/Array.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "7151784193a28fa636e6cc58e19b8380df63bb9f43d3d8232577ddcfaa7f35ee"
+  }
+]

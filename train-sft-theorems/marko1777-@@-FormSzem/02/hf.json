@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "marko1777-@@-FormSzem",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "02/hf.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "79f6b49a39c0b3a88ad2260c759eb98a37f2f6648be01da29671e45111d689f9"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/RndListPred.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 104,
+      "column": 6
+    },
+    "hash": "e9e1be522b568bc8abe5654ab2376871b243027650074b738e28fd5f084209dd"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/RndListPred.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 120,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 122,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 6
+    },
+    "hash": "e9e1be522b568bc8abe5654ab2376871b243027650074b738e28fd5f084209dd"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/RndListPred.v",
+    "theorem_start_pos": {
+      "line": 195,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 196,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 198,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 235,
+      "column": 6
+    },
+    "hash": "e9e1be522b568bc8abe5654ab2376871b243027650074b738e28fd5f084209dd"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/RndListPred.v",
+    "theorem_start_pos": {
+      "line": 254,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 257,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 336,
+      "column": 6
+    },
+    "hash": "e9e1be522b568bc8abe5654ab2376871b243027650074b738e28fd5f084209dd"
+  }
+]

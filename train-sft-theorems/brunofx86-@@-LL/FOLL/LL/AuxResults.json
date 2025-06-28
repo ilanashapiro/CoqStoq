@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "brunofx86-@@-LL",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FOLL/LL/AuxResults.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "c50a93ba6b222ade5f1d6e33c2772b288bad0439e8c375b8e86510ddc7e33ee5"
+  },
+  {
+    "project": {
+      "dir_name": "brunofx86-@@-LL",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FOLL/LL/AuxResults.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "c50a93ba6b222ade5f1d6e33c2772b288bad0439e8c375b8e86510ddc7e33ee5"
+  }
+]

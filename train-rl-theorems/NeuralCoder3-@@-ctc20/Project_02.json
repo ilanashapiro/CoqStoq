@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "NeuralCoder3-@@-ctc20",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Project_02.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 4
+    },
+    "hash": "eed3c814b36286e2eab783b0deca580444d885967e52062b83e152ade4ea8457"
+  }
+]

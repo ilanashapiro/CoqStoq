@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "zhengpushi-@@-CoqExt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqExt/BasicConfig.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 118,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 4
+    },
+    "hash": "906b67043c1936c7cd6256f39f6be01af151bf5dd12ad473322b073be19ce70a"
+  },
+  {
+    "project": {
+      "dir_name": "zhengpushi-@@-CoqExt",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqExt/BasicConfig.v",
+    "theorem_start_pos": {
+      "line": 134,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 140,
+      "column": 4
+    },
+    "hash": "906b67043c1936c7cd6256f39f6be01af151bf5dd12ad473322b073be19ce70a"
+  }
+]

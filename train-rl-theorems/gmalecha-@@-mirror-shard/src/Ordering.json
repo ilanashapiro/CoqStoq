@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "gmalecha-@@-mirror-shard",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordering.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 4
+    },
+    "hash": "daf913b0133739603f1f00c7fbabdc10a7e648d80a93ce21d29ac8e24964aeba"
+  },
+  {
+    "project": {
+      "dir_name": "gmalecha-@@-mirror-shard",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Ordering.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "daf913b0133739603f1f00c7fbabdc10a7e648d80a93ce21d29ac8e24964aeba"
+  }
+]

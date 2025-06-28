@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_chinese_remainder.v",
+    "theorem_start_pos": {
+      "line": 438,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 438,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 439,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 472,
+      "column": 4
+    },
+    "hash": "08aa265c20311c3c4f2de7d3ca090be9bbff35b8a17e8def5bea0eb6ff00f77c"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "math/ssr_chinese_remainder.v",
+    "theorem_start_pos": {
+      "line": 511,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 513,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 514,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 521,
+      "column": 4
+    },
+    "hash": "08aa265c20311c3c4f2de7d3ca090be9bbff35b8a17e8def5bea0eb6ff00f77c"
+  }
+]

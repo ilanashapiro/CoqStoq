@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "ghulette-@@-coq-lattice",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lattice.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 6
+    },
+    "hash": "1259c4480e9ac0119475d4d3abf12b604776ad7ec8c93c1babc481f1617d3c47"
+  },
+  {
+    "project": {
+      "dir_name": "ghulette-@@-coq-lattice",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lattice.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 6
+    },
+    "hash": "1259c4480e9ac0119475d4d3abf12b604776ad7ec8c93c1babc481f1617d3c47"
+  },
+  {
+    "project": {
+      "dir_name": "ghulette-@@-coq-lattice",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Lattice.v",
+    "theorem_start_pos": {
+      "line": 86,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 87,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 88,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 6
+    },
+    "hash": "1259c4480e9ac0119475d4d3abf12b604776ad7ec8c93c1babc481f1617d3c47"
+  }
+]

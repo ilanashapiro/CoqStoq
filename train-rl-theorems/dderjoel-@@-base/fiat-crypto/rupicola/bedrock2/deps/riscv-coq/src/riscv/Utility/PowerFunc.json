@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "dderjoel-@@-base",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat-crypto/rupicola/bedrock2/deps/riscv-coq/src/riscv/Utility/PowerFunc.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 6
+    },
+    "hash": "ab63968df9ee63b3ba0602346a81c5b573b1644324331b4eab12df1f338368c3"
+  },
+  {
+    "project": {
+      "dir_name": "dderjoel-@@-base",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat-crypto/rupicola/bedrock2/deps/riscv-coq/src/riscv/Utility/PowerFunc.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 6
+    },
+    "hash": "ab63968df9ee63b3ba0602346a81c5b573b1644324331b4eab12df1f338368c3"
+  },
+  {
+    "project": {
+      "dir_name": "dderjoel-@@-base",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat-crypto/rupicola/bedrock2/deps/riscv-coq/src/riscv/Utility/PowerFunc.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 41,
+      "column": 6
+    },
+    "hash": "ab63968df9ee63b3ba0602346a81c5b573b1644324331b4eab12df1f338368c3"
+  }
+]

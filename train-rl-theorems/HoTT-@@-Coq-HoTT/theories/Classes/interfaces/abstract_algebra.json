@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Classes/interfaces/abstract_algebra.v",
+    "theorem_start_pos": {
+      "line": 338,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 339,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 340,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 344,
+      "column": 6
+    },
+    "hash": "77bdc3015fed4be2b8b6b9b436b6e779df10f2b159b9bca8d1c3dae92510eb33"
+  }
+]

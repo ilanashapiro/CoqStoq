@@ -1,0 +1,437 @@
+[
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 73,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 122,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 123,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 124,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 129,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 131,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 132,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 133,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 149,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 150,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 164,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 208,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 209,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 210,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 214,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 217,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 218,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 219,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 229,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 232,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 233,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 234,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 251,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 254,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 257,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 267,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 287,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 288,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 289,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 301,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 315,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 316,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 317,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 322,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 324,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 325,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 326,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 339,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  },
+  {
+    "project": {
+      "dir_name": "suharahiromichi-@@-coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq_monad_law.v",
+    "theorem_start_pos": {
+      "line": 341,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 342,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 343,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 357,
+      "column": 6
+    },
+    "hash": "365510f2d75bb1b050ad2d9926bb092b7347c9b175a013fd1853cb0b6a75353f"
+  }
+]

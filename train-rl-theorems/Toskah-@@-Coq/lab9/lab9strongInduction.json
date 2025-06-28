@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "Toskah-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lab9/lab9strongInduction.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "6226833949cc7fdf3a12b7cc0a7695697dba95f697e4b1a8a4e4ca0200f64f57"
+  },
+  {
+    "project": {
+      "dir_name": "Toskah-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lab9/lab9strongInduction.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 4
+    },
+    "hash": "6226833949cc7fdf3a12b7cc0a7695697dba95f697e4b1a8a4e4ca0200f64f57"
+  }
+]

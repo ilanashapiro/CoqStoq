@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "johnlepikhin-@@-coq-examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "state_record_with_condition.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "12492ca513e7f7cc890c63fe5e915cd8f89a2e15fd1a53d5e8bc9747c0bc2715"
+  },
+  {
+    "project": {
+      "dir_name": "johnlepikhin-@@-coq-examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "state_record_with_condition.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "hash": "12492ca513e7f7cc890c63fe5e915cd8f89a2e15fd1a53d5e8bc9747c0bc2715"
+  }
+]

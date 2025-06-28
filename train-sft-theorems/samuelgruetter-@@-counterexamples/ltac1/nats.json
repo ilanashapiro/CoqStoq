@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "samuelgruetter-@@-counterexamples",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ltac1/nats.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "f44effc458dc23a3798e7c0110c332326967b43012aad13f1283d00df8dba7a5"
+  }
+]

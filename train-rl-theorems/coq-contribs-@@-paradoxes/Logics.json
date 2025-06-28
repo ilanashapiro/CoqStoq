@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-paradoxes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logics.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 4
+    },
+    "hash": "efd7586f6696bdcde114971bb871f4c57c28b5bfcd40c4dc951f4c627146667a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-paradoxes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logics.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 54,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 8
+    },
+    "hash": "efd7586f6696bdcde114971bb871f4c57c28b5bfcd40c4dc951f4c627146667a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-paradoxes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logics.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 8
+    },
+    "hash": "efd7586f6696bdcde114971bb871f4c57c28b5bfcd40c4dc951f4c627146667a"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-paradoxes",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logics.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 8
+    },
+    "hash": "efd7586f6696bdcde114971bb871f4c57c28b5bfcd40c4dc951f4c627146667a"
+  }
+]

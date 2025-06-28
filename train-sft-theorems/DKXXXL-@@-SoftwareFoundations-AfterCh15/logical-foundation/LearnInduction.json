@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "DKXXXL-@@-SoftwareFoundations-AfterCh15",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "logical-foundation/LearnInduction.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 23
+    },
+    "hash": "ef604785a4781f05c791b6b6ca62b4ffef489117facdfa078ab01433662d1c91"
+  },
+  {
+    "project": {
+      "dir_name": "DKXXXL-@@-SoftwareFoundations-AfterCh15",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "logical-foundation/LearnInduction.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "ef604785a4781f05c791b6b6ca62b4ffef489117facdfa078ab01433662d1c91"
+  }
+]

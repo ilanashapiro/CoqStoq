@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "margrit-@@-Code",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Code/Word_Prop.v",
+    "theorem_start_pos": {
+      "line": 472,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 473,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 474,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 481,
+      "column": 4
+    },
+    "hash": "1a2e151721acc32c13842f3b4d410076edcfc720503ef5b4439291518740c814"
+  },
+  {
+    "project": {
+      "dir_name": "margrit-@@-Code",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Code/Word_Prop.v",
+    "theorem_start_pos": {
+      "line": 483,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 484,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 485,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 492,
+      "column": 4
+    },
+    "hash": "1a2e151721acc32c13842f3b4d410076edcfc720503ef5b4439291518740c814"
+  }
+]

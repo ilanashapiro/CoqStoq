@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "sguzman-@@-CoqRepo",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "props.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "638fedbf9b99da888c515b4d6d29d08312f04c7b032a880d3c979838cd989675"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "wrengr-@@-coq-wrengr-util",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqExtras/Wf.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "6530cfa544bb4333e7bf6fd7b8854c3b7279b7f9390087badeb0188778df78da"
+  },
+  {
+    "project": {
+      "dir_name": "wrengr-@@-coq-wrengr-util",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqExtras/Wf.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 60
+    },
+    "hash": "6530cfa544bb4333e7bf6fd7b8854c3b7279b7f9390087badeb0188778df78da"
+  },
+  {
+    "project": {
+      "dir_name": "wrengr-@@-coq-wrengr-util",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqExtras/Wf.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 52
+    },
+    "hash": "6530cfa544bb4333e7bf6fd7b8854c3b7279b7f9390087badeb0188778df78da"
+  },
+  {
+    "project": {
+      "dir_name": "wrengr-@@-coq-wrengr-util",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqExtras/Wf.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 58
+    },
+    "hash": "6530cfa544bb4333e7bf6fd7b8854c3b7279b7f9390087badeb0188778df78da"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "ComputerAidedLL-@@-Auger_LinearLogic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "linearlogic.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "1e5f916053e8db110c1e9b258db49e253f3c08484befa9fe22c18bd4056d4d87"
+  },
+  {
+    "project": {
+      "dir_name": "ComputerAidedLL-@@-Auger_LinearLogic",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "linearlogic.v",
+    "theorem_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 136,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 137,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 171,
+      "column": 4
+    },
+    "hash": "1e5f916053e8db110c1e9b258db49e253f3c08484befa9fe22c18bd4056d4d87"
+  }
+]

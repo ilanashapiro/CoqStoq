@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mozow01-@@-Summer_camp_2023",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "1_session/STT_2023_summer_1.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "38b52dd2762a0927998bb80d9a49fd615486217e4172eeb25252d848b206e896"
+  },
+  {
+    "project": {
+      "dir_name": "mozow01-@@-Summer_camp_2023",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "1_session/STT_2023_summer_1.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 92,
+      "column": 4
+    },
+    "hash": "38b52dd2762a0927998bb80d9a49fd615486217e4172eeb25252d848b206e896"
+  }
+]

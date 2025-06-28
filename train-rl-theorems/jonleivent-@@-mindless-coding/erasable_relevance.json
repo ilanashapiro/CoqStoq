@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jonleivent-@@-mindless-coding",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "erasable_relevance.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "6c0b410619fc259136150ed6f30070b7019a6da34c1f8f41ec269c1aea769d61"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "coqtail-@@-coqtail",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Arith/Nle.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 4
+    },
+    "hash": "ccfdd47e9dea7167c40c3685db04c3328b0e21a161d03a310fd8e9350148e33e"
+  }
+]

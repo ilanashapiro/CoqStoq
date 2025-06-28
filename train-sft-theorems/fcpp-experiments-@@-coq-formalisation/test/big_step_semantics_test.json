@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test/big_step_semantics_test.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 145
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "5c1c584cd25c6cf5de451a19660ad1bd18357f043477a0377d2b7d3497aa7c1c"
+  },
+  {
+    "project": {
+      "dir_name": "fcpp-experiments-@@-coq-formalisation",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test/big_step_semantics_test.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 219
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "5c1c584cd25c6cf5de451a19660ad1bd18357f043477a0377d2b7d3497aa7c1c"
+  }
+]

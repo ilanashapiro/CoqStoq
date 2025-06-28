@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mmcco-@@-Verified-BPF",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "bedrock/platform/cito/MaxFacts.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "f48bbb761e87a498de909281e0a84935b3df40a163d0d8f791853d9354b20470"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Asap7772-@@-coq_softwarefoundations",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "chapter1/plusID.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "c5c204eb904744a04793d77bce171b696c2b121e2c4e5860ec9c4af538801a19"
+  }
+]

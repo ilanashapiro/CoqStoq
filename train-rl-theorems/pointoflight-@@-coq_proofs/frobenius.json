@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "pointoflight-@@-coq_proofs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "frobenius.v",
+    "theorem_start_pos": {
+      "line": 0,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "255d8ead5de6cadbdf114fe9dbfbc15afc4af86457bb7af925e1276aa464b2ad"
+  }
+]

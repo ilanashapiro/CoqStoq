@@ -1,0 +1,408 @@
+[
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 85,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 100,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 112,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 114,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 114,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 115,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 121,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 121,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 122,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 127,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 129,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 130,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 131,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 139,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 140,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 149,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 150,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 155,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  },
+  {
+    "project": {
+      "dir_name": "clarus-@@-cybele",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "test-suite/Lattice/Lattice.v",
+    "theorem_start_pos": {
+      "line": 157,
+      "column": 6
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 8
+    },
+    "proof_end_pos": {
+      "line": 165,
+      "column": 10
+    },
+    "hash": "2a52df80d0803b0864a886e6cc5baabb2b3aecccf0d0987ed222c170388fe4dd"
+  }
+]

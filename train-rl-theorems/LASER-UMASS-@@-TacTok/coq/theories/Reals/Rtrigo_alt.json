@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Reals/Rtrigo_alt.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 215,
+      "column": 4
+    },
+    "hash": "0ffc3d35a945112b98c0f879d52a728651f086f4df2edd03f6fd01625cbde182"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/theories/Reals/Rtrigo_alt.v",
+    "theorem_start_pos": {
+      "line": 218,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 221,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 388,
+      "column": 4
+    },
+    "hash": "0ffc3d35a945112b98c0f879d52a728651f086f4df2edd03f6fd01625cbde182"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "cattingcat-@@-coq_lessons",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "mathcomp_book/ch5.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "d3a4af19899ef991e56bea7312a8632c19b1d0ce4fefcaa1e9e21d32ea342fae"
+  }
+]

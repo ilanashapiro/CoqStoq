@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "Oqarina-@@-oqarina",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqExt/Classes.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 6
+    },
+    "hash": "d5c6a844bbcab2c8ddd838a9b620900b9e1198c2ff64c9b26b22ce5ce494e4b4"
+  },
+  {
+    "project": {
+      "dir_name": "Oqarina-@@-oqarina",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqExt/Classes.v",
+    "theorem_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 87,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "hash": "d5c6a844bbcab2c8ddd838a9b620900b9e1198c2ff64c9b26b22ce5ce494e4b4"
+  },
+  {
+    "project": {
+      "dir_name": "Oqarina-@@-oqarina",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/CoqExt/Classes.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 92,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 4
+    },
+    "hash": "d5c6a844bbcab2c8ddd838a9b620900b9e1198c2ff64c9b26b22ce5ce494e4b4"
+  }
+]

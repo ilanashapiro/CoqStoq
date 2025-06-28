@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "James-Oswald-@@-Coq-In-A-Hurry",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Chapter6.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "d6b5db722663179fae25f7278e13bed6a1f39ea4747a00454eeea8eb17ac7465"
+  },
+  {
+    "project": {
+      "dir_name": "James-Oswald-@@-Coq-In-A-Hurry",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Chapter6.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "d6b5db722663179fae25f7278e13bed6a1f39ea4747a00454eeea8eb17ac7465"
+  }
+]

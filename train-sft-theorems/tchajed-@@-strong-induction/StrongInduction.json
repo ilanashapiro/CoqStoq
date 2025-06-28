@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "tchajed-@@-strong-induction",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StrongInduction.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 6
+    },
+    "hash": "dfb29f8de6ef1f0bd84ec0d26ffacb91dea6240f7dd8086db19358a67998d3b2"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-strong-induction",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StrongInduction.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 6
+    },
+    "hash": "dfb29f8de6ef1f0bd84ec0d26ffacb91dea6240f7dd8086db19358a67998d3b2"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-strong-induction",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StrongInduction.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 6
+    },
+    "hash": "dfb29f8de6ef1f0bd84ec0d26ffacb91dea6240f7dd8086db19358a67998d3b2"
+  },
+  {
+    "project": {
+      "dir_name": "tchajed-@@-strong-induction",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "StrongInduction.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 6
+    },
+    "hash": "dfb29f8de6ef1f0bd84ec0d26ffacb91dea6240f7dd8086db19358a67998d3b2"
+  }
+]

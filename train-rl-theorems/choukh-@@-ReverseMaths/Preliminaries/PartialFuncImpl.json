@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "choukh-@@-ReverseMaths",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Preliminaries/PartialFuncImpl.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 23,
+      "column": 4
+    },
+    "hash": "91fc6e1f4ac39b5133c2e4cec98292706072aa6a941a885df05e19bfa2f44dca"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "hephaestus-pl-@@-coqfj",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Tactics/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 363,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 363,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 364,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 364,
+      "column": 17
+    },
+    "hash": "05c89b9fe85039f88eafd5e9287957b2c9f9131843fec513660ebcd665cd3a99"
+  }
+]

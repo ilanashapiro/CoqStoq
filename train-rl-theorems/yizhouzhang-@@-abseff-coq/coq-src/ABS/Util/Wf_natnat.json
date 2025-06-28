@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "yizhouzhang-@@-abseff-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-src/ABS/Util/Wf_natnat.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "3a5208e35673a77d72500029021e41cd62135ad11098837e0783dfd6d598bbf9"
+  },
+  {
+    "project": {
+      "dir_name": "yizhouzhang-@@-abseff-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-src/ABS/Util/Wf_natnat.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "3a5208e35673a77d72500029021e41cd62135ad11098837e0783dfd6d598bbf9"
+  }
+]

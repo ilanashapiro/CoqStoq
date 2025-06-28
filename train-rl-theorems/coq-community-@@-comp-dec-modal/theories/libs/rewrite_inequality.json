@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-comp-dec-modal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/libs/rewrite_inequality.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 45
+    },
+    "hash": "ddf12c9385c49eb038441a9c2f0a6ddb076e8ce3fe34456fb79369fb87cdcebb"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-comp-dec-modal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/libs/rewrite_inequality.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 48
+    },
+    "hash": "ddf12c9385c49eb038441a9c2f0a6ddb076e8ce3fe34456fb79369fb87cdcebb"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-comp-dec-modal",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/libs/rewrite_inequality.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 54
+    },
+    "hash": "ddf12c9385c49eb038441a9c2f0a6ddb076e8ce3fe34456fb79369fb87cdcebb"
+  }
+]

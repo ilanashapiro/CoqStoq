@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "alineavila-@@-analise-algoritmos",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "proof_insertion_sort.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "c710d66d350d54314b22a8b479098c1e6737fbb1cf99e8b764049dc8056476f5"
+  }
+]

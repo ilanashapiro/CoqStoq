@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-coq-wsl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exmid/exmid01.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 8,
+      "column": 4
+    },
+    "hash": "b741f327e99702b856832567c396ce5fcc15247f66412da9ced7634ce98d0ebf"
+  },
+  {
+    "project": {
+      "dir_name": "elle-et-noire-@@-coq-wsl",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exmid/exmid01.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 11,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "b741f327e99702b856832567c396ce5fcc15247f66412da9ced7634ce98d0ebf"
+  }
+]

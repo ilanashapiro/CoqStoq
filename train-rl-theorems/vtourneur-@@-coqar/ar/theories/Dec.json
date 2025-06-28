@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "vtourneur-@@-coqar",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ar/theories/Dec.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "66c1d7a0beb37e7909570593b5a329cb310c8188767abb4af66c29e7936176a9"
+  }
+]

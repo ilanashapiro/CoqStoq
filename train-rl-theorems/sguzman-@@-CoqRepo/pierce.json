@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "sguzman-@@-CoqRepo",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "pierce.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "2a01068e5aeda545a748316c5c539117fbea09a1d4ac5feb2807b34525f3faaa"
+  }
+]

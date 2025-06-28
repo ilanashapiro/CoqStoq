@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "eperdew-@@-Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "BCT.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 103,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 106,
+      "column": 4
+    },
+    "hash": "0f84dc20dee6c630502076aba5ebedd81d40c9a91baa8fd60981c50265accad5"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Jmw150-@@-Coq-VST-DLC",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "main_codebase/VST-master/concurrency/lib/setoid_help.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 58
+    },
+    "hash": "d5c7988f10686f155d67cd599c4f77ae63d2ce94bc9a99bfac3c67ef67050dc7"
+  }
+]

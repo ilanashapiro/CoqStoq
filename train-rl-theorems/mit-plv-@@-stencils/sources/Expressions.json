@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-stencils",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sources/Expressions.v",
+    "theorem_start_pos": {
+      "line": 147,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 148,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 154,
+      "column": 4
+    },
+    "hash": "7525697ab0e8ea65bcabba1fe267c1d464bf15df3a5608075668c25f5d03c8a4"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-stencils",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sources/Expressions.v",
+    "theorem_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 159,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 172,
+      "column": 4
+    },
+    "hash": "7525697ab0e8ea65bcabba1fe267c1d464bf15df3a5608075668c25f5d03c8a4"
+  }
+]

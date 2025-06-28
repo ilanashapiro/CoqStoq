@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "jbaum98-@@-verified_bzip2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/BWT/Lib/EqDec.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 6
+    },
+    "hash": "a679342ce236b3101d98b4d1a7b3d3a59c88cb8c0e1f3dd308529571fc04acc9"
+  },
+  {
+    "project": {
+      "dir_name": "jbaum98-@@-verified_bzip2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/BWT/Lib/EqDec.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 6
+    },
+    "hash": "a679342ce236b3101d98b4d1a7b3d3a59c88cb8c0e1f3dd308529571fc04acc9"
+  },
+  {
+    "project": {
+      "dir_name": "jbaum98-@@-verified_bzip2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/BWT/Lib/EqDec.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 6
+    },
+    "hash": "a679342ce236b3101d98b4d1a7b3d3a59c88cb8c0e1f3dd308529571fc04acc9"
+  },
+  {
+    "project": {
+      "dir_name": "jbaum98-@@-verified_bzip2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/BWT/Lib/EqDec.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 6
+    },
+    "hash": "a679342ce236b3101d98b4d1a7b3d3a59c88cb8c0e1f3dd308529571fc04acc9"
+  }
+]

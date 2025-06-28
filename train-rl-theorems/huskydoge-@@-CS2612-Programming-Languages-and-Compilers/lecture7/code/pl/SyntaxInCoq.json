@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "huskydoge-@@-CS2612-Programming-Languages-and-Compilers",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lecture7/code/pl/SyntaxInCoq.v",
+    "theorem_start_pos": {
+      "line": 342,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 343,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 345,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 354,
+      "column": 4
+    },
+    "hash": "1c1683cc6d25a6bac494fbad54c6f1a7e4d6f59f8fc6dc8397b150faec354f10"
+  }
+]

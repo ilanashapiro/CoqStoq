@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "yijunc-@@-FunctionalProgramming",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "homework7_10151590121_1124.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "6656e06698639a608dc345c197dca6a1a18b4060240247c70c105b4571255c0e"
+  }
+]

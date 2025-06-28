@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "emtst-@@-GentleAdventure",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "act1/ext/finmap/theories/prelude.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 39,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 40,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "e9b7abe65e293de43402e2a699d7caa7ce4712dbae312aca6b63539952e02021"
+  }
+]

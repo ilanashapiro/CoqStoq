@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/composee_transformations.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 211,
+      "column": 4
+    },
+    "hash": "2face7b2c1d14d306ff3599d6ec21d56c8ab01c81f4c209aae7519355e177188"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/composee_transformations.v",
+    "theorem_start_pos": {
+      "line": 213,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 219,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 406,
+      "column": 4
+    },
+    "hash": "2face7b2c1d14d306ff3599d6ec21d56c8ab01c81f4c209aae7519355e177188"
+  },
+  {
+    "project": {
+      "dir_name": "coq-community-@@-HighSchoolGeometry",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/composee_transformations.v",
+    "theorem_start_pos": {
+      "line": 408,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 415,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 416,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 485,
+      "column": 4
+    },
+    "hash": "2face7b2c1d14d306ff3599d6ec21d56c8ab01c81f4c209aae7519355e177188"
+  }
+]

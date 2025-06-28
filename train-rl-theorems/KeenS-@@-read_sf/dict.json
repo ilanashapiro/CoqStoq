@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "KeenS-@@-read_sf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "dict.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 6
+    },
+    "hash": "ac9ee03eff7918b7e84f3e35905a9ef73f1ce2ac3645969f00a27e93d87dc8f9"
+  },
+  {
+    "project": {
+      "dir_name": "KeenS-@@-read_sf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "dict.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 6
+    },
+    "hash": "ac9ee03eff7918b7e84f3e35905a9ef73f1ce2ac3645969f00a27e93d87dc8f9"
+  },
+  {
+    "project": {
+      "dir_name": "KeenS-@@-read_sf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "dict.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 99
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 6
+    },
+    "hash": "ac9ee03eff7918b7e84f3e35905a9ef73f1ce2ac3645969f00a27e93d87dc8f9"
+  }
+]

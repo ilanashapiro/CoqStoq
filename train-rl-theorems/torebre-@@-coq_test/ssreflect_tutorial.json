@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "torebre-@@-coq_test",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ssreflect_tutorial.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 14,
+      "column": 4
+    },
+    "hash": "927887abda960dfb66766dfc8df16052eb5708c8ad10d646051f95872b3a9a70"
+  }
+]

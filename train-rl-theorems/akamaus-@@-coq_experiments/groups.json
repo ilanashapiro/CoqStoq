@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "akamaus-@@-coq_experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "groups.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 6
+    },
+    "hash": "aaf7e964e8b7a0811f3407ec6b9c30db31f6c5f365d24d10983e230d0464fd9a"
+  },
+  {
+    "project": {
+      "dir_name": "akamaus-@@-coq_experiments",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "groups.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 6
+    },
+    "hash": "aaf7e964e8b7a0811f3407ec6b9c30db31f6c5f365d24d10983e230d0464fd9a"
+  }
+]

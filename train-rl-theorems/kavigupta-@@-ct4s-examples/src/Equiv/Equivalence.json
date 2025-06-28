@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "kavigupta-@@-ct4s-examples",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Equiv/Equivalence.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "13b4b198992765beea70d3a3c24fcadf758aaecccb5de23c97cb36f1e428b3d8"
+  }
+]

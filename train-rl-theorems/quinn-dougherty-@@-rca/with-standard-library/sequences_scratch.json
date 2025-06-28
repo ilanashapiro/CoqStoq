@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "quinn-dougherty-@@-rca",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "with-standard-library/sequences_scratch.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "c21dfa60e2ee1138a58f3754494f877192e2d773b16f40df267c6540b57ce80e"
+  },
+  {
+    "project": {
+      "dir_name": "quinn-dougherty-@@-rca",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "with-standard-library/sequences_scratch.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "c21dfa60e2ee1138a58f3754494f877192e2d773b16f40df267c6540b57ce80e"
+  }
+]

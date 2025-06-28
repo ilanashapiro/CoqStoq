@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "LittleGavin-@@-Calculus-without-limits",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Basic.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 93,
+      "column": 4
+    },
+    "hash": "0057398b5d1f55ff7533cf406a05d07cc0df6e248e69bfb5323d7a43e275abb1"
+  }
+]

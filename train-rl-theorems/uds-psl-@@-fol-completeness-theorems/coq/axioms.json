@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "uds-psl-@@-fol-completeness-theorems",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq/axioms.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 31,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "f1a183875db4e6a4daeeac9b093e6cfe96b0f6dfe8f5685c1623ddefcb3bdb41"
+  }
+]

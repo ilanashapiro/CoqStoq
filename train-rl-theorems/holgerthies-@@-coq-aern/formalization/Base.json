@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "holgerthies-@@-coq-aern",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "formalization/Base.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 4
+    },
+    "hash": "2f8ebdafdd80b67e6467667a28b6176581871e12baf6ad5ddf667e7af7bcda2a"
+  }
+]

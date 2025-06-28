@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Reals/SeqSeries.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 206,
+      "column": 4
+    },
+    "hash": "e776580113126a9dfb54ba4ff3c1f762b02b2146b58f7433286d42872029c931"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Reals/SeqSeries.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 213,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 214,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 257,
+      "column": 4
+    },
+    "hash": "e776580113126a9dfb54ba4ff3c1f762b02b2146b58f7433286d42872029c931"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Reals/SeqSeries.v",
+    "theorem_start_pos": {
+      "line": 260,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 266,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 365,
+      "column": 4
+    },
+    "hash": "e776580113126a9dfb54ba4ff3c1f762b02b2146b58f7433286d42872029c931"
+  },
+  {
+    "project": {
+      "dir_name": "Priyanka-Mondal-@@-Coq",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/theories/Reals/SeqSeries.v",
+    "theorem_start_pos": {
+      "line": 367,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 369,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 370,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 410,
+      "column": 4
+    },
+    "hash": "e776580113126a9dfb54ba4ff3c1f762b02b2146b58f7433286d42872029c931"
+  }
+]

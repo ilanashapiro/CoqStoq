@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "amintimany-@@-Categories",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Basic_Cons/PullBack.v",
+    "theorem_start_pos": {
+      "line": 114,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 114,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 115,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 6
+    },
+    "hash": "72d6f45f09bd4e2ead916c2f39319915714f73fac9a5d17f3cfee1a0a4ea2486"
+  }
+]

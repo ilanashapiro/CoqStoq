@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "imel96-@@-logical-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "maps.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "b906c5f5bd24bfce14422f60ee3afdcbf6053c6b032fd899447c98c999894c9f"
+  }
+]

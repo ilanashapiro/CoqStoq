@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "s9yumeng-@@-Theorem",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "discrimination.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 11
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 4
+    },
+    "hash": "85b6dce8a69f3abfa5dc759f3caef4a0f9d3e51a43c9c67b80ccd2eedb19ae68"
+  },
+  {
+    "project": {
+      "dir_name": "s9yumeng-@@-Theorem",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "discrimination.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "85b6dce8a69f3abfa5dc759f3caef4a0f9d3e51a43c9c67b80ccd2eedb19ae68"
+  }
+]

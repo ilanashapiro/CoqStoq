@@ -1,0 +1,263 @@
+[
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.16/TransClosure.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "896789266a9cee69093f5582f9dc9137d8557886cdb7178f7571dc904de7e0e0"
+  },
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.16/TransClosure.v",
+    "theorem_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "896789266a9cee69093f5582f9dc9137d8557886cdb7178f7571dc904de7e0e0"
+  },
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.16/TransClosure.v",
+    "theorem_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 102
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "896789266a9cee69093f5582f9dc9137d8557886cdb7178f7571dc904de7e0e0"
+  },
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.16/TransClosure.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 4
+    },
+    "hash": "896789266a9cee69093f5582f9dc9137d8557886cdb7178f7571dc904de7e0e0"
+  },
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.16/TransClosure.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 98
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "896789266a9cee69093f5582f9dc9137d8557886cdb7178f7571dc904de7e0e0"
+  },
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.16/TransClosure.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 80,
+      "column": 4
+    },
+    "hash": "896789266a9cee69093f5582f9dc9137d8557886cdb7178f7571dc904de7e0e0"
+  },
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.16/TransClosure.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 92,
+      "column": 4
+    },
+    "hash": "896789266a9cee69093f5582f9dc9137d8557886cdb7178f7571dc904de7e0e0"
+  },
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.16/TransClosure.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 4
+    },
+    "hash": "896789266a9cee69093f5582f9dc9137d8557886cdb7178f7571dc904de7e0e0"
+  },
+  {
+    "project": {
+      "dir_name": "sorinica-@@-spike-prover",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Coccinelle/Coq8.16/TransClosure.v",
+    "theorem_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 110,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "hash": "896789266a9cee69093f5582f9dc9137d8557886cdb7178f7571dc904de7e0e0"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch14_fundations_of_inductive_types/SRC/chap14.v",
+    "theorem_start_pos": {
+      "line": 348,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 350,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 351,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 365,
+      "column": 4
+    },
+    "hash": "2d6533c78d14a427d55225d7358e22563339f268d0f7d79ab9bc164d732aebfe"
+  }
+]

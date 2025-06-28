@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "discus-lang-@@-iron",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "done/Iron/Tactics/LibTactics.v",
+    "theorem_start_pos": {
+      "line": 363,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 363,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 364,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 364,
+      "column": 17
+    },
+    "hash": "be6078482534b272d829811ecaec2d26a02d8c865c6f784bdc1ccbb0bb419be2"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "proof-ninja-@@-coq-solidity-access-control",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Contract.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 6
+    },
+    "hash": "660a21fadaed4126fc080b4f187435a1cf6706aeceee13e5d2b0e461a6b4a891"
+  },
+  {
+    "project": {
+      "dir_name": "proof-ninja-@@-coq-solidity-access-control",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Contract.v",
+    "theorem_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 159,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 168,
+      "column": 4
+    },
+    "hash": "660a21fadaed4126fc080b4f187435a1cf6706aeceee13e5d2b0e461a6b4a891"
+  },
+  {
+    "project": {
+      "dir_name": "proof-ninja-@@-coq-solidity-access-control",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/Contract.v",
+    "theorem_start_pos": {
+      "line": 170,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 171,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 172,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 178,
+      "column": 4
+    },
+    "hash": "660a21fadaed4126fc080b4f187435a1cf6706aeceee13e5d2b0e461a6b4a891"
+  }
+]

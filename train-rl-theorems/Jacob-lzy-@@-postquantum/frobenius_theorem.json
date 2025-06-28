@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Jacob-lzy-@@-postquantum",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "frobenius_theorem.v",
+    "theorem_start_pos": {
+      "line": 1,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "0fcc7460c3995906403587afc76284d175a8d5fc27ef3175c3d4e00771d3c4f6"
+  }
+]

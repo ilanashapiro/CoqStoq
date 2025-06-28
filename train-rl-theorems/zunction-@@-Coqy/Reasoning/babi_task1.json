@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "zunction-@@-Coqy",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Reasoning/babi_task1.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "6fa44021d86cbf7fa8eda40c1e7773b31734243bf2137ea20926749da88ff89a"
+  }
+]

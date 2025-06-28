@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "bergwerf-@@-permutation_factors",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "v1/A1_setup.v",
+    "theorem_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "71cf21f29ccd2343fac78eabd396871ac37cc702c189beb38fec7bbffaa884fd"
+  }
+]

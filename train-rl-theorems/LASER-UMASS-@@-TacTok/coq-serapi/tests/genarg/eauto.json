@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-serapi/tests/genarg/eauto.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 6
+    },
+    "hash": "020672c55e09e00c7fe4c97f340e36d020bd6a1e3711e05b9ee849b65669682d"
+  },
+  {
+    "project": {
+      "dir_name": "LASER-UMASS-@@-TacTok",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "coq-serapi/tests/genarg/eauto.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 6
+    },
+    "hash": "020672c55e09e00c7fe4c97f340e36d020bd6a1e3711e05b9ee849b65669682d"
+  }
+]

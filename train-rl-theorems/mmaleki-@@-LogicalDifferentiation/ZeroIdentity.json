@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "mmaleki-@@-LogicalDifferentiation",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ZeroIdentity.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "hash": "30fda665b2cd9a125c7c60ad19c00843be8cd1624822c37403f63cdb2179cbf5"
+  }
+]

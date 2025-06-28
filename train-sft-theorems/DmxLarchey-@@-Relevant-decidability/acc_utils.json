@@ -1,0 +1,118 @@
+[
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Relevant-decidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "acc_utils.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 6
+    },
+    "hash": "a40e01b4762777b9adbb13184ea6dd1a44e1dc033be90222e587bddf7abe337f"
+  },
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Relevant-decidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "acc_utils.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 6
+    },
+    "hash": "a40e01b4762777b9adbb13184ea6dd1a44e1dc033be90222e587bddf7abe337f"
+  },
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Relevant-decidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "acc_utils.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 87
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 6
+    },
+    "hash": "a40e01b4762777b9adbb13184ea6dd1a44e1dc033be90222e587bddf7abe337f"
+  },
+  {
+    "project": {
+      "dir_name": "DmxLarchey-@@-Relevant-decidability",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "acc_utils.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 6
+    },
+    "hash": "a40e01b4762777b9adbb13184ea6dd1a44e1dc033be90222e587bddf7abe337f"
+  }
+]

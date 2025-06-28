@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "TysonSir-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "week3/exercise_2_rewrite.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 11,
+      "column": 18
+    },
+    "hash": "89b4e1f73c0946dbe03fc4ae85909826d9d516d638e175b66a7c893e73335e1c"
+  },
+  {
+    "project": {
+      "dir_name": "TysonSir-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "week3/exercise_2_rewrite.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 30
+    },
+    "hash": "89b4e1f73c0946dbe03fc4ae85909826d9d516d638e175b66a7c893e73335e1c"
+  },
+  {
+    "project": {
+      "dir_name": "TysonSir-@@-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "week3/exercise_2_rewrite.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 20
+    },
+    "hash": "89b4e1f73c0946dbe03fc4ae85909826d9d516d638e175b66a7c893e73335e1c"
+  }
+]

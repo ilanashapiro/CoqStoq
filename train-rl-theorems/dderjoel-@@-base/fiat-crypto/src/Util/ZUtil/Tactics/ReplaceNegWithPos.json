@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "dderjoel-@@-base",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "fiat-crypto/src/Util/ZUtil/Tactics/ReplaceNegWithPos.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 4,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 49
+    },
+    "proof_end_pos": {
+      "line": 4,
+      "column": 65
+    },
+    "hash": "95df687ebc29a583c59bc8c169eaf875a0f79b898d84d203c0632ddd1af3c0f3"
+  }
+]

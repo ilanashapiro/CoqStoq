@@ -1,0 +1,1887 @@
+[
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 25,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 96,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 112,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 115,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 117,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 134,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 137,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 139,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 143,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 145,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 147,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 149,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 160,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 168,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 170,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 204,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 209,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 244,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 247,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 249,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 251,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 257,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 260,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 263,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 265,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 269,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 271,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 277,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 279,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 316,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 319,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 322,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 324,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 341,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 344,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 347,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 349,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 362,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 365,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 367,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 369,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 379,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 382,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 383,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 385,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 395,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 398,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 399,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 401,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 468,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 472,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 473,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 475,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 498,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 500,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 505,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 507,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 522,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 528,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 530,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 532,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 546,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 548,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 551,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 553,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 574,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 577,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 582,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 584,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 724,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 726,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 727,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 729,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 757,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 760,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 765,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 767,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 835,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 838,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 841,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 843,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 953,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 957,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 962,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 964,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1023,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1026,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1030,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 1032,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1074,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1076,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1079,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 1081,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1094,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1097,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1100,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 1102,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1107,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1109,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1112,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 1114,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1118,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1120,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1123,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 1125,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1129,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1131,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1134,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 1136,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1140,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1143,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1147,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 1149,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1179,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1181,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1186,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 1188,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1197,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1266,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1269,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 1271,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1274,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1276,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1279,
+      "column": 95
+    },
+    "proof_start_pos": {
+      "line": 1281,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1285,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1288,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1291,
+      "column": 96
+    },
+    "proof_start_pos": {
+      "line": 1293,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1297,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1300,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1304,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 1306,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1323,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1325,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1329,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 1331,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1338,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1340,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1347,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 1349,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1442,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1444,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1447,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 1449,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1472,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1474,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1479,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 1481,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1500,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1502,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1505,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 1507,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1531,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1533,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1538,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 1540,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1564,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1567,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1578,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 1580,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1598,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1600,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1606,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 1608,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1625,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1629,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1635,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 1637,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1676,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1678,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1684,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 1686,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1693,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1697,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1701,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 1703,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1719,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1721,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1726,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 1728,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1743,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1746,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1753,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 1755,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1980,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1982,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1985,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 1987,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 1993,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 1995,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1998,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 2000,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2007,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2009,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2012,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 2014,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2115,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2120,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 2122,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2223,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2225,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2233,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 2235,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2374,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2376,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2380,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 2382,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2479,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2481,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2484,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 2486,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2511,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2513,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2515,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 2517,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2521,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2523,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2525,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 2527,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2529,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2531,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2534,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 2536,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2542,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2544,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2546,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 2548,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2550,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2552,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2553,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 2555,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2557,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2559,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2561,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 2563,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2584,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  },
+  {
+    "project": {
+      "dir_name": "adampetcher-@@-fcf",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/FCF/DistRules.v",
+    "theorem_start_pos": {
+      "line": 2586,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2588,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 2590,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 2853,
+      "column": 4
+    },
+    "hash": "d7dc76bf2083fbfdd374144aa06e3f5b6c7e51da0957367ca2f3a4bad8c74f7c"
+  }
+]

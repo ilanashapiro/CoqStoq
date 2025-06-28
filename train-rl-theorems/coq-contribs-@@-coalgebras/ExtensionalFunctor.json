@@ -1,0 +1,640 @@
+[
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 153
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 62,
+      "column": 92
+    },
+    "proof_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 108,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 114,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 117,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 129
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 122,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 137,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 137,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 140,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 142,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 143,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 146,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 148,
+      "column": 129
+    },
+    "proof_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 151,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 174,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 174,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 175,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 178,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 180,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 181,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 182,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 185,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 187,
+      "column": 129
+    },
+    "proof_start_pos": {
+      "line": 188,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 191,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 209,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 216,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 217,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 220,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 222,
+      "column": 129
+    },
+    "proof_start_pos": {
+      "line": 223,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 226,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 248,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 249,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 255,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 257,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 258,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 259,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 264,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 266,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 266,
+      "column": 129
+    },
+    "proof_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 274,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 302,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 303,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 305,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 307,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 308,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 309,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 311,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  },
+  {
+    "project": {
+      "dir_name": "coq-contribs-@@-coalgebras",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ExtensionalFunctor.v",
+    "theorem_start_pos": {
+      "line": 313,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 313,
+      "column": 129
+    },
+    "proof_start_pos": {
+      "line": 314,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 316,
+      "column": 4
+    },
+    "hash": "fc78fae241b2612c178aa136e58c8582c71d7b474b25819cdf5e42a3194e6ce6"
+  }
+]

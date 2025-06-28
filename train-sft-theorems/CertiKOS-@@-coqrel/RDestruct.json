@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "CertiKOS-@@-coqrel",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "RDestruct.v",
+    "theorem_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 95,
+      "column": 8
+    },
+    "proof_start_pos": {
+      "line": 96,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "a0666fb9915e8abc2b773d679ec62ca9087875bbfc119e8528db1d2bd0fdfc25"
+  },
+  {
+    "project": {
+      "dir_name": "CertiKOS-@@-coqrel",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "RDestruct.v",
+    "theorem_start_pos": {
+      "line": 145,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 146,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 147,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 149,
+      "column": 4
+    },
+    "hash": "a0666fb9915e8abc2b773d679ec62ca9087875bbfc119e8528db1d2bd0fdfc25"
+  },
+  {
+    "project": {
+      "dir_name": "CertiKOS-@@-coqrel",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "RDestruct.v",
+    "theorem_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 152,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 153,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 155,
+      "column": 4
+    },
+    "hash": "a0666fb9915e8abc2b773d679ec62ca9087875bbfc119e8528db1d2bd0fdfc25"
+  }
+]

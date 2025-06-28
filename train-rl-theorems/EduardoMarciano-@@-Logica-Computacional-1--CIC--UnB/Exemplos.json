@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "EduardoMarciano-@@-Logica-Computacional-1--CIC--UnB",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Exemplos.v",
+    "theorem_start_pos": {
+      "line": 3,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "3ba864fce175d9a9c1c7ada5583a268eefda854e74dbd02e711fbd89248c5bc3"
+  },
+  {
+    "project": {
+      "dir_name": "EduardoMarciano-@@-Logica-Computacional-1--CIC--UnB",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Exemplos.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "3ba864fce175d9a9c1c7ada5583a268eefda854e74dbd02e711fbd89248c5bc3"
+  }
+]

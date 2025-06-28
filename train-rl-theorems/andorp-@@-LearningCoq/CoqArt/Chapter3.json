@@ -1,0 +1,843 @@
+[
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 16,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 18,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 19,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 34,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 35,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 37,
+      "column": 8
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 55,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 55,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 56,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 62,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 69,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 85,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 91,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 100,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 112,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 114,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 114,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 115,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 120,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 122,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 122,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 123,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 127,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 129,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 129,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 130,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 137,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 139,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 139,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 140,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 149,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 180,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 180,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 181,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 186,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 186,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 187,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 191,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 6
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 205,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 205,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 208,
+      "column": 4
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 4
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 215,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 218,
+      "column": 4
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 220,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 223,
+      "column": 4
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 230,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 231,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 233,
+      "column": 4
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 235,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 235,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 236,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 238,
+      "column": 4
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 240,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 240,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 241,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 243,
+      "column": 4
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 245,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 246,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 248,
+      "column": 4
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  },
+  {
+    "project": {
+      "dir_name": "andorp-@@-LearningCoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "CoqArt/Chapter3.v",
+    "theorem_start_pos": {
+      "line": 258,
+      "column": 4
+    },
+    "theorem_end_pos": {
+      "line": 258,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 259,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 267,
+      "column": 8
+    },
+    "hash": "2ee79e2ae4d7c79c3930b58ac326bd903ae0b50fb594a682e36acddd22db03a5"
+  }
+]

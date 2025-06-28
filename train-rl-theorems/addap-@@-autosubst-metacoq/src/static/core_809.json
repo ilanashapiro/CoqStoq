@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "addap-@@-autosubst-metacoq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/static/core_809.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "2e703e37cdaeceb4b5dcaa6ae67a90590c62fb8439ca4aa20794e81e101d221c"
+  }
+]

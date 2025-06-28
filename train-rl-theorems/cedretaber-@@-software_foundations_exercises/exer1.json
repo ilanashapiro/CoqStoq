@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "cedretaber-@@-software_foundations_exercises",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "exer1.v",
+    "theorem_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 9,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 4
+    },
+    "hash": "8f72458b3924c0cc1839adcdd2bce9b6636edc10b007411d882a3b34c67d9988"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "awh44-@@-CoqExercises",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/inductive_predicates.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 5,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 6,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 4
+    },
+    "hash": "54a68bbdc8b50a09c7ed9ffcd34645badc5a491182c439d2cf79798e5886b722"
+  },
+  {
+    "project": {
+      "dir_name": "awh44-@@-CoqExercises",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/inductive_predicates.v",
+    "theorem_start_pos": {
+      "line": 10,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 10,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 11,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "54a68bbdc8b50a09c7ed9ffcd34645badc5a491182c439d2cf79798e5886b722"
+  },
+  {
+    "project": {
+      "dir_name": "awh44-@@-CoqExercises",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "src/inductive_predicates.v",
+    "theorem_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 22,
+      "column": 4
+    },
+    "hash": "54a68bbdc8b50a09c7ed9ffcd34645badc5a491182c439d2cf79798e5886b722"
+  }
+]

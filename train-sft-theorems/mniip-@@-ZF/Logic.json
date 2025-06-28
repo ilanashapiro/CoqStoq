@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mniip-@@-ZF",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logic.v",
+    "theorem_start_pos": {
+      "line": 6,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 7,
+      "column": 44
+    },
+    "hash": "107890322ba1b841aa6c87847b724627dc15f5615bdf788aacb02af320264fe5"
+  },
+  {
+    "project": {
+      "dir_name": "mniip-@@-ZF",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Logic.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 112
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 4
+    },
+    "hash": "107890322ba1b841aa6c87847b724627dc15f5615bdf788aacb02af320264fe5"
+  }
+]

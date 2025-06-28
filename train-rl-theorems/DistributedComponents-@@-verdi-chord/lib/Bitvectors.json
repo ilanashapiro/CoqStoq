@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "DistributedComponents-@@-verdi-chord",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "lib/Bitvectors.v",
+    "theorem_start_pos": {
+      "line": 11,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 13,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "3d101de84fb9bcbf4fd60008aa0274ab8789a93af01ab2569cc3d899453db33e"
+  }
+]

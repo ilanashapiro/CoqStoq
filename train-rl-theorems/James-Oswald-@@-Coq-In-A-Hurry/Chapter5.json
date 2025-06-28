@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "James-Oswald-@@-Coq-In-A-Hurry",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Chapter5.v",
+    "theorem_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "18796876ca054b524c248cf4e3fde7a45bee7375f8e68efd7118c8cacb6c784f"
+  }
+]

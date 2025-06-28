@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "jaredly-@@-coqdocs",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "small.v",
+    "theorem_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 8,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 9,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 13,
+      "column": 21
+    },
+    "hash": "b1bf6c3b8b12b47d3da472b34ec96d8accae41462b62de54e05dc348a4ac0d56"
+  }
+]

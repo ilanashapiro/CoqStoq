@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Functor/Attributes.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 77,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 78,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 81,
+      "column": 6
+    },
+    "hash": "c2aaf8db41618c71f795eb8b4128d7e282e98c3113109babcdaa00e4e72d7539"
+  },
+  {
+    "project": {
+      "dir_name": "HoTT-@@-Coq-HoTT",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Categories/Functor/Attributes.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 6
+    },
+    "hash": "c2aaf8db41618c71f795eb8b4128d7e282e98c3113109babcdaa00e4e72d7539"
+  }
+]

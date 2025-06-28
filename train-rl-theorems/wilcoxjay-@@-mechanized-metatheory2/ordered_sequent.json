@@ -1,0 +1,89 @@
+[
+  {
+    "project": {
+      "dir_name": "wilcoxjay-@@-mechanized-metatheory2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ordered_sequent.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 232,
+      "column": 6
+    },
+    "hash": "00d526abe645bc6dc4e51c03edc523affa92381abe4d6b621f828299c6d5508a"
+  },
+  {
+    "project": {
+      "dir_name": "wilcoxjay-@@-mechanized-metatheory2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ordered_sequent.v",
+    "theorem_start_pos": {
+      "line": 234,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 238,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 239,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 244,
+      "column": 6
+    },
+    "hash": "00d526abe645bc6dc4e51c03edc523affa92381abe4d6b621f828299c6d5508a"
+  },
+  {
+    "project": {
+      "dir_name": "wilcoxjay-@@-mechanized-metatheory2",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ordered_sequent.v",
+    "theorem_start_pos": {
+      "line": 271,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 274,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 275,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 286,
+      "column": 6
+    },
+    "hash": "00d526abe645bc6dc4e51c03edc523affa92381abe4d6b621f828299c6d5508a"
+  }
+]

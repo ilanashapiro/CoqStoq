@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "haoyang9804-@@-coq-Art",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "ch6_inductive_data/SRC/partialfunc.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 1
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 1
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "197bea3c876c74ca1823feca626d03ef00a6e01bc6dc76857bae53e5a633434a"
+  }
+]

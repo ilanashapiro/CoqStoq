@@ -1,0 +1,292 @@
+[
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 72,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 92,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 104,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 117,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 145,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 147,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 155,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 175,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 180,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 181,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 237,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 239,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 241,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 242,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 260,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 271,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 277,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 278,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 294,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 323,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 324,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 325,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 328,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  },
+  {
+    "project": {
+      "dir_name": "formalize-@@-coq-yul",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Map.v",
+    "theorem_start_pos": {
+      "line": 334,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 335,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 336,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 340,
+      "column": 4
+    },
+    "hash": "9fe4f96d943c6830603b633bc0b2389c1d48c0c29218323b4a06396ee5ec63f6"
+  }
+]

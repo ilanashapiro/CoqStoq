@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "renatoleme-@@-Grupo_Coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sf/Desafio.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "97cf4f9f4c03f288717221d67e510b87d9c3be4f813250920bd7a07fd12d067b"
+  }
+]

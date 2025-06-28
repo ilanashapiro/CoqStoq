@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "addap-@@-tapl-coq",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "sysf/core.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 6,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 7,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "841441ac49feef514d002a397cf7e3e4b7aa42ff72200c0dd06a8b04657cf499"
+  }
+]

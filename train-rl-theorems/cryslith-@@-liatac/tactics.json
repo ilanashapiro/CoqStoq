@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "cryslith-@@-liatac",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "tactics.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 13
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 49,
+      "column": 4
+    },
+    "hash": "3b933db460d9e474efd1760219d9779cca2b838bd1edd77500a97fff3acd64c5"
+  }
+]

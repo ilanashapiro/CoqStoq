@@ -1,0 +1,31 @@
+[
+  {
+    "project": {
+      "dir_name": "Zdancewic-@@-coq-ext-lib",
+      "split": {
+        "dir_name": "train-rl-repos",
+        "thm_dir_name": "train-rl-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "theories/Core/EquivDec.v",
+    "theorem_start_pos": {
+      "line": 2,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 9,
+      "column": 4
+    },
+    "hash": "c8c4b14a61c3954c7f0a7132fabb9cee3d7422241d3830aa3be7eccb7ff7d83a"
+  }
+]

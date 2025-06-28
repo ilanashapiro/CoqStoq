@@ -1,0 +1,60 @@
+[
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/PrimBram.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 6
+    },
+    "hash": "c9d7f17033305d51716c81fb1c8845846ba2af01e2d78d882f0b6f2dd5a1de66"
+  },
+  {
+    "project": {
+      "dir_name": "mit-plv-@@-kami",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "Kami/PrimBram.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 6
+    },
+    "hash": "c9d7f17033305d51716c81fb1c8845846ba2af01e2d78d882f0b6f2dd5a1de66"
+  }
+]

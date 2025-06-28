@@ -1,0 +1,611 @@
+[
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 35
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 39
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 4
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 19
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 42
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 68
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 29
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 83,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 84,
+      "column": 40
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 91,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 92,
+      "column": 37
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 30
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 100,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 102,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 103,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 103,
+      "column": 45
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 108,
+      "column": 45
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 118,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 4
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 127,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 128,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 4
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 177,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 179,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 180,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 180,
+      "column": 68
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 182,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 186,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 187,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 194,
+      "column": 6
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 196,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 200,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 201,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 206,
+      "column": 6
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 230,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 231,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 232,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 232,
+      "column": 59
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 234,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 235,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 236,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 236,
+      "column": 78
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  },
+  {
+    "project": {
+      "dir_name": "e45lee-@@-simple-fsub-mutability-proofs",
+      "split": {
+        "dir_name": "train-sft-repos",
+        "thm_dir_name": "train-sft-theorems"
+      },
+      "commit_hash": null,
+      "compile_args": []
+    },
+    "path": "FmMeta/CoqListFacts.v",
+    "theorem_start_pos": {
+      "line": 238,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 239,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 240,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 240,
+      "column": 59
+    },
+    "hash": "0690d9bec4b3109bd826006f6f516c064440fecec8957c61c2eba184b5f8d17e"
+  }
+]
