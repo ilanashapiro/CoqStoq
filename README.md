@@ -47,7 +47,7 @@ docker run coqstoq-full poetry run python3 api.py get_num_theorems train-rl
 
 Expected output:
 {
-  "num_theorems": 10397
+  "num_theorems": 80274 
 }
 
 
