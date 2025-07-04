@@ -4,24 +4,28 @@ from gen_sft import combine_to_jsonl
 
 USER_PROMPT_FORMAT = """The theorem I'm trying to prove is \n```\n{theorem}\n```\n#####\n\nThe file context in which I'm writing the proof is \n```\n{file_context}\n```\n#####\n\nStart the proof with the following tactic:\n```\nProof\n```\n\n"""
 
-SAVE_LOC = Path("rl-data")
+SPLIT = "val"
+SAVE_LOC = Path(f"coq-{SPLIT}-data")
 SAVE_LOC.mkdir(parents=True, exist_ok=True)
 OUT_PATH_JSONL = SAVE_LOC.with_suffix(".jsonl")
 
-SPLIT = "train-rl"
-NUM_EXAMPLES = 80274
+# 89,684 training theorems (split amongst and sft and rl)
+# 4,971 validation theorems
+# 10,396 testing theorems
+NUM_EXAMPLES = 10396
 START_INDEX = sum(1 for f in SAVE_LOC.iterdir() if f.is_file())
 
 def augment():
-    print(f"Starting RL augmentation from index {START_INDEX} for {NUM_EXAMPLES} examples.")
+    print(f"Starting {SPLIT} augmentation from index {START_INDEX} for {NUM_EXAMPLES} examples.")
     augmented_count = 0
 
     theorem_info_list = subprocess.run(
-        ["docker", "run", "coqstoq-full", "poetry", "run", "python3", "api.py", "get_theorem_range", "train-rl", str(START_INDEX), str(NUM_EXAMPLES)],
+        ["docker", "run", "coqstoq-full", "poetry", "run", "python3", "api.py", "get_theorem_range", SPLIT, str(START_INDEX), str(NUM_EXAMPLES)],
         capture_output=True,
         text=True
     )
     theorem_info_list = json.loads(str(theorem_info_list.stdout))["theorems"]
+    print(f"Retrieved {len(theorem_info_list)} theorems for augmentation.")
 
     for thrm_info in theorem_info_list:
         user_prompt = USER_PROMPT_FORMAT.format(theorem=thrm_info["theorem"], file_context=thrm_info["prefix"])
