@@ -1,5 +1,10 @@
 import subprocess
 import time
+import requests
+import socket
+import atexit
+import subprocess
+import time
 import socket
 import atexit
 import argparse
@@ -12,49 +17,51 @@ from torch.utils.data import Dataset
 from vllm import LLM, SamplingParams
 from transformers import AutoTokenizer
 
-# Wait until the server is up
-def wait_until_ready(port=8080, timeout=30):
+def wait_until_ready(host="localhost", port=8080, timeout=30):
     start = time.time()
     while time.time() - start < timeout:
         try:
-            with socket.create_connection(("localhost", port), timeout=1):
+            with socket.create_connection((host, port), timeout=1):
                 return
         except OSError:
             time.sleep(0.2)
     raise TimeoutError("Server did not start in time.")
 
-def start_coq_verification_server():
+def check_proof(proof, split, index):
+    """
+    Start a dedicated verification server for this (split, index),
+    send the proof, and tear down the server after.
+    """
+    container_name = f"coqstoq-{split}-{index}"
+    port = 8080  # optional: dynamically allocate if parallelizing
+
+    # 1. Start dedicated container
     subprocess.run([
-            "docker", "run", "--rm", "-d",
-            "--name", "coqstoq-server",
-            "-p", "8080:8080",
-            "coqstoq-full",
-            "poetry", "run", "python3",
-            "coqstoq/checker_server/server.py", "test", "77785", "."
-        ], check=True)
+        "docker", "run", "--rm", "-d",
+        "--name", container_name,
+        "-p", f"{port}:8080",
+        "coqstoq-full",
+        "poetry", "run", "python3",
+        "coqstoq/checker_server/server.py", str(split), str(index), "."
+    ], check=True)
 
-    # Stop the server automatically when the script ends
-    atexit.register(lambda: subprocess.run(["docker", "stop", "coqstoq-server"]))
-    wait_until_ready()
+    # 2. Wait for server to be up
+    wait_until_ready(port=port)
 
-def check_proof(proof: str) -> dict:
-    """
-    Start the verification server if necessary, then POST the given proof.
-    Returns the parsed JSON‑RPC response as a Python dict.
-    """
-    start_coq_verification_server()
-    wait_until_ready()
-
+    # 3. Send proof via JSON‑RPC
     payload = {
         "jsonrpc": "2.0",
-        "method":  "check_proof",
-        "params":  {"proof": proof},
-        "id":      1
+        "method": "check_proof",
+        "params": {"proof": proof},
+        "id": 1
     }
-
-    r = requests.post(f"http://localhost:8080", json=payload, timeout=30)
-    r.raise_for_status()          # raise if HTTP error
-    return r.json()               # e.g. {"result": {"score": 1, "messages": []}, "id": 1, "jsonrpc": "2.0"}
+    try:
+        r = requests.post(f"http://localhost:{port}", json=payload, timeout=30)
+        r.raise_for_status()
+        return r.json()
+    finally:
+        # 4. Clean up container
+        subprocess.run(["docker", "stop", container_name], check=False)
 
 if __name__ == "__main__":
     # Argument parsing
@@ -66,11 +73,6 @@ if __name__ == "__main__":
     parser.add_argument("--num_gpus", type=int, default=2)
     args = parser.parse_args()
 
-    print("Starting Coqstoq verification server...")
-    # Start the Docker server in detached mode
-    
-    print("Server is running and ready!")
-
     # Load validation data
     print("Loading validation data...")
     valid_data = []
@@ -78,7 +80,7 @@ if __name__ == "__main__":
         for line in file:
             valid_data.append(json.loads(line))
     if args.debug:
-        valid_data = valid_data[:100]
+        valid_data = valid_data[:3] # can use c. 700 for test benchmark
 
     # Load tokenizer and vLLM engine
     print(f"Loading tokenizer and checkpoint from {args.model_name}... ", end="")
@@ -102,6 +104,7 @@ if __name__ == "__main__":
     print(f"Sampling responses... {args.sample_n} samples per prompt, temp={args.temperature}")
     sampling_params = SamplingParams(temperature=args.temperature, max_tokens=16384, n=1)
     outputs = llm.generate(prompts, sampling_params)
+    print("Done sampling")
 
     # Organize responses into valid_data
     for datum in valid_data:
@@ -114,24 +117,25 @@ if __name__ == "__main__":
     
     # Evaluation
     pass_n_cnt = [0 for _ in range(args.sample_n)]
-
     results = []
+    print("Evaluating model outputs...")
+
     for datum in tqdm(valid_data):
-        id = datum["id"]
         split = datum["split"]
+        index = datum["index"]
         prompt = datum["user_prompt"]
         pass_flag = False
 
         for i, response in enumerate(datum["model_generated_response"]):
             answer = response.split("<answer>")[1].split("</answer>")[0]
-            result_datum = check_proof(answer)["result"] # check_proof gives e.g. {"result": {"score": 1, "messages": []}, "id": 1, "jsonrpc": "2.0"}
+            result_datum = check_proof(answer, split, index)["result"] # check_proof gives e.g. {"result": {"score": 1, "messages": []}, "id": 1, "jsonrpc": "2.0"}
             result, errormsg = bool(result_datum["score"]), result_datum["messages"]
             if result:
                 pass_flag = True
             pass_n_cnt[i] += 1 if pass_flag else 0
 
             if args.debug:
-                print("SPLIT", split, "ID:", id)
+                print("SPLIT", split, "INDEX:", index)
                 print("Prompt:")
                 print(prompt)
                 print("Model Output:")
@@ -152,10 +156,3 @@ if __name__ == "__main__":
     print("")
     print("Total data:", len(valid_data))
     print("Pass@n:", [x / len(valid_data) for x in pass_n_cnt])
-
-    if not args.debug:
-        with open("coq_valid_test.json", "w") as file:
-            json.dump(results, file, indent=4)
-
-
-    # atexit will stop the container when the script exits
