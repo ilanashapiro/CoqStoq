@@ -18,13 +18,34 @@ docker build -t coqstoq-full .
 ```
 
 ### Running commands
-1. Run the tests:
+Verification Server
+========================================
+1. Starting the verification server
 ```
-docker run coqstoq-full poetry run pytest
+# Note the number of workers **MUST BE 1**. The number of threads should be approximately # cpus / 4
+docker run -p 8080:8080 coqstoq-full poetry run gunicorn coqstoq.checker_server.server:application --bind 0.0.0.0:8080 --workers 1 --threads 8
 ```
 
-2. Use the api to get examples:
+2. Calling the verification server
 ```
+Once the verification engine is started, you can call it (from the host machine) through requests like the following:
+curl -X POST http://localhost:8080 \
+  -H "Content-Type: application/json" \
+  -d '{
+        "jsonrpc": "2.0",
+        "method": "check_proof",
+        "params": {
+          "split": "val",
+          "idx": 0,
+          "coqstoq_loc": ".",
+          "proof": "Proof. Qed.", "timeout": 120},
+        "id": 1
+      }'
+```
+
+3. **You should follow example.py for an example of calling the verification server programatically**. It shows how to call the server in parallel on the first 50 ground truth solutions from the train-sft split.  
+
+
 Get the available splits:
 ===========================
 docker run coqstoq-full poetry run python3 api.py get_splits
@@ -52,6 +73,7 @@ Expected output:
 
 
 Get the relevant information about an example:
+========================================
 docker run coqstoq-full poetry run python3 api.py get_theorem_info train-sft 3001 
 
 Expected output:
@@ -66,6 +88,7 @@ Expected output:
 
 
 Get the relevant information about a range of examples:
+========================================
 docker run coqstoq-full poetry run python3 api.py get_theorem_range train-sft 3 5 
 
 Expected output:
@@ -88,46 +111,4 @@ Expected output:
   },
 ]
 
-
-
-```
-
-3. Run the verification server: \
-   Starting the server:
-```
-# "train-rl" is the split where checking is happening
-# 1 is the theorem index in the split
-
-docker run -p 8080:8080 coqstoq-full poetry run python3 coqstoq/checker_server/server.py train-rl 77785 . 
-```
-
-  
-  Sending requests:
-```
-# A successful request:
-
-curl -X POST http://localhost:8080 \
-  -H "Content-Type: application/json" \
-  -d '{
-    "jsonrpc": "2.0",
-    "method": "check_proof",
-    "params": {"proof": "Proof. intros. rewrite -> plus_O_n. reflexivity."},
-    "id": 1
-  }'
-
-# Expected result:
-{"result": {"score": 1, "messages": []}, "id": 1, "jsonrpc": "2.0"}
-
-An unsuccessful request:
-curl -X POST http://localhost:8080 \
-  -H "Content-Type: application/json" \
-  -d '{
-    "jsonrpc": "2.0",
-    "method": "check_proof",
-    "params": {"proof": "Proof. simpl. Qed."},
-    "id": 1
-  }'
-
-# Expected result:
-{"result": {"score": 0, "messages": [" (in proof trivial_three): Attempt to save an incomplete proof", " (in proof trivial_three): Attempt to save an incomplete proof"]}, "id": 1, "jsonrpc": "2.0"}
 ```
