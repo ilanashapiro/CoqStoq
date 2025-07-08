@@ -82,9 +82,6 @@ def check_proof(proof: str) -> CheckResult:
     else:
         return CheckResult(score=0, messages=err_msgs).to_json()
 
-@dispatcher.add_method
-def check_proof(split: str, idx: int, coqstoq_loc: Path, proof: str) -> CheckResult:
-    pass
 
 @Request.application
 def application(request: requests.models.Response):

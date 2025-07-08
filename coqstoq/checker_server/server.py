@@ -85,8 +85,13 @@ class CoqProblemServer:
         start = time.time()
         self.wait_for_start(session, timeout)
         end = time.time()
+        new_timeout = timeout - (end - start)
+        if new_timeout <= 0:
+            raise CoqServerTimeoutError(
+                f"Coq server at {self.url} did not respond within {timeout} seconds."
+            )
         try:
-            response = session.post(self.url, json=request, timeout=timeout - (end - start))
+            response = session.post(self.url, json=request, timeout=new_timeout)
             return response
         except requests.Timeout:
             raise CoqServerTimeoutError(
@@ -168,6 +173,7 @@ def get_args(split: str, idx: int, coqstoq_loc: Path, port: int) -> list[str]:
         split,
         str(idx),
         str(coqstoq_loc),
+        str(port),
     ]
 
 
@@ -194,6 +200,10 @@ def add_client(split: str, idx: int, coqstoq_loc: Path) -> CoqProblemServer:
     clients[key].append(new_server)
     return new_server
 
+def teardown_server(server: CoqProblemServer) -> None:
+    server.process.terminate()
+    server.process.wait()
+
 
 def get_client(split: str, idx: int, coqstoq_loc: Path) -> Optional[CoqProblemServer]:
     with client_dict_lock:
@@ -214,11 +224,12 @@ def get_client(split: str, idx: int, coqstoq_loc: Path) -> Optional[CoqProblemSe
                 assert problem_id in clients
                 clist = clients[problem_id]
                 assert client_idx < len(clist)
-                clist.pop(client_idx)
+                server = clist.pop(client_idx)
+                with server.lock:
+                    teardown_server(server)
                 if len(clist) == 0:
                     del clients[problem_id]
                 return add_client(split, idx, coqstoq_loc)
-
 
 def remove_server(server: CoqProblemServer, problem_id: ProblemId) -> None:
     with client_dict_lock:
@@ -231,14 +242,15 @@ def remove_server(server: CoqProblemServer, problem_id: ProblemId) -> None:
 
 
 @dispatcher.add_method
-def check_proof(split: str, idx: int, coqstoq_loc: Path, proof: str, timeout: int) -> Any: 
+def check_proof(split: str, idx: int, coqstoq_loc: str, proof: str, timeout: int) -> Any: 
     server: Optional[CoqProblemServer] = None  
     while server is None:
-        server = get_client(split, idx, coqstoq_loc)
+        server = get_client(split, idx, Path(coqstoq_loc))
         if server is None:
             time.sleep(0.1)
         else:
             if not server.check_health(): 
+                teardown_server(server)
                 remove_server(server, ProblemId(split, idx))
                 server.lock.release()
                 logging.warning(
@@ -276,3 +288,17 @@ def application(request: requests.models.Response):
 if __name__ == "__main__":
     run_simple("0.0.0.0", 8080, application)
 
+"""
+curl -X POST http://localhost:8080 \
+  -H "Content-Type: application/json" \
+  -d '{
+        "jsonrpc": "2.0",
+        "method": "check_proof",
+        "params": {"split": "val", "idx": 0, "coqstoq_loc": ".", "proof": "Proof. Qed.", "timeout": 30},
+        "id": 1
+      }'
+"""
+
+"""
+poetry run gunicorn coqstoq.checker_server.server:application --bind 0.0.0.0:8080 --workers 1 --threads 4
+"""
