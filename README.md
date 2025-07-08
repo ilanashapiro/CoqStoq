@@ -1,25 +1,23 @@
 # CoqStoq
 Benchmark and Dataset for Training and Testing Coq proof search tools.  
 
-## Using the benchmark  
+### Using the benchmark  
 - This dataset is intended to be used via docker.  
 - To see how to use this dataset outside of docker, simply reference the [Dockerfile](Dockerfile)
 
-### Cloning the repository
+## Cloning the repository
 ```
 git clone -b deepproof-full https://github.com/rkthomps/CoqStoq --recurse-submodules
 ```
 
-### Building the docker image
+## Building the docker image
 Please allow for 1-2 hours to build the image.
 ```
 cd CoqStoq
 docker build -t coqstoq-full .
 ```
 
-### Running commands
-Verification Server
-========================================
+## Verification Server
 1. Starting the verification server
 ```
 # Note the number of workers **MUST BE 1**. The number of threads should be approximately # cpus / 4
@@ -46,8 +44,9 @@ curl -X POST http://localhost:8080 \
 3. **You should follow example.py for an example of calling the verification server programatically**. It shows how to call the server in parallel on the first 50 ground truth solutions from the train-sft split.  
 
 
-Get the available splits:
-===========================
+## APIs
+### Get the available splits:
+```
 docker run coqstoq-full poetry run python3 api.py get_splits
 
 Expected output:
@@ -60,20 +59,20 @@ Expected output:
     "test",
   ]
 }
+```
 
-
-Get the number of examples in a split:
-========================================
+### Get the number of examples in a split:
+```
 docker run coqstoq-full poetry run python3 api.py get_num_theorems train-rl
 
 Expected output:
 {
   "num_theorems": 80274 
 }
+```
 
-
-Get the relevant information about an example:
-========================================
+### Get the relevant information about an example:
+```
 docker run coqstoq-full poetry run python3 api.py get_theorem_info train-sft 3001 
 
 Expected output:
@@ -85,10 +84,11 @@ Expected output:
   "theorem": ... # the theorem statement
   "groud_truth": ... # the human-written proof
 }
+```
 
 
-Get the relevant information about a range of examples:
-========================================
+### Get the relevant information about a range of examples:
+```
 docker run coqstoq-full poetry run python3 api.py get_theorem_range train-sft 3 5 
 
 Expected output:
