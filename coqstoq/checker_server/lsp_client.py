@@ -181,7 +181,6 @@ class FastLspClient(LspClient):
         self.lsp_endpoint.call_method("coq/saveVo", textDocument=textDocument)
 
     def kill(self) -> None:
-        _logger.info("Killing coq process")
         try:
             self.shutdown()
             self.exit()
