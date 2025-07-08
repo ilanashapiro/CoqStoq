@@ -8,10 +8,11 @@ from pathlib import Path
 from dataclasses import dataclass
 import multiprocessing
 import logging
+from coqstoq.scripts import get_theorem 
+from coqstoq.check import get_ground_truth
 
 logger = logging.getLogger(__name__)
 
-EXAMPLES_PATH = Path("coq-test-data.jsonl")
 COQSTOQ_LOC = "."
 TIMEOUT = 120
 
@@ -82,69 +83,42 @@ def check_proof(split: str, idx: int, proof: str) -> CheckingResult:
         return ErrorResult(error=f"Timeout error: {str(e)}")
 
 
-
-
-
 @dataclass
-class Example:
-    user_prompt: str
+class Task:
     split: str
-    index: int
+    idx: int
     ground_truth: str
 
-    def get_verification_request(self, proof: str) -> Any:
-        return {
-            "jsonrpc": "2.0",
-            "method": "check_proof",
-            "params": {
-                "split": self.split,
-                "idx": self.index,
-                "coqstoq_loc": COQSTOQ_LOC,
-                "proof": proof,
-                "timeout": TIMEOUT,
-            },
-            "id": 1,
-        }
-
-
     @classmethod
-    def from_json(cls, json_obj: Any) -> Example:
+    def from_json(cls, json_obj: Any) -> Task:
         return cls(
-            user_prompt=json_obj["user_prompt"],
             split=json_obj["split"],
-            index=json_obj["index"],
+            idx=json_obj["index"],
             ground_truth=json_obj["ground_truth"],
         )
 
-
-def load_examples() -> list[Example]:
-    examples: list[Example] = []
-    with EXAMPLES_PATH.open("r") as fin:
-        for line in fin:
-            line_obj = json.loads(line)
-            examples.append(Example.from_json(line_obj))
-    return examples
-
-
-def check_ground_truth(example: Example):
-    result = check_proof(example.split, example.index, example.ground_truth)
+def check_ground_truth(task: Task) -> None:
+    result = check_proof(task.split, task.idx, task.ground_truth)
     match result:
         case ErrorResult(error=err):
-            logger.error(f"Error checking proof for example {example.split} with index {example.index}: {err}")
+            logger.error(f"Error checking proof for example {task.split} with index {task.idx}: {err}")
             return
         case VerificationResult(success=success, messages=messages):
             if not success:
-                logger.error(f"Verification failed for example {example.split} with index {example.index}: {messages}")
+                logger.error(f"Verification failed for example {task.split} with index {task.idx}: {messages}")
                 return
-            logger.info(f"Verification succeeded for example {example.split} with index {example.index}: {messages}")
+            logger.info(f"Verification succeeded for example {task.split} with index {task.idx}: {messages}")
+
 
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO, filename="test_ground_truth.log", filemode="w")
-    examples = load_examples()
+    logging.basicConfig(level=logging.INFO)
+    EXAMPLES_LOC = Path("example-sft.json")
 
-    with multiprocessing.Pool(24) as pool:
-        results = pool.map(check_ground_truth, examples)
+    with open(EXAMPLES_LOC, "r") as f:
+        train_sft_examples = json.load(f)["theorems"]
+    tasks = [Task.from_json(example) for example in train_sft_examples]
 
-
-
+    # Parallel checking (Number of processes should match the number of server threads.)
+    with multiprocessing.Pool(8) as pool:
+        results = pool.map(check_ground_truth, tasks)
