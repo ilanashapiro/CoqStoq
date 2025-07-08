@@ -11,7 +11,7 @@ git clone -b deepproof-full https://github.com/rkthomps/CoqStoq --recurse-submod
 ```
 
 ### Building the docker image
-Please allow for 10-20 mins to build the image.
+Please allow for 1-2 hours to build the image.
 ```
 cd CoqStoq
 docker build -t coqstoq-full .

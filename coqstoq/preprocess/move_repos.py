@@ -3,6 +3,7 @@ from typing import Any
 import json
 import argparse
 import logging
+import shutil
 from pathlib import Path
 
 from coqstoq.preprocess.assign_repos import Assignment
@@ -70,27 +71,27 @@ def move_repos(flat_repos_loc: Path, coqstoq_loc: Path, assignment: Assignment):
         flat_loc = flat_repos_loc / name_repo(val_repo)
         assert flat_loc.exists(), f"Validation repo {val_repo} not found in flat repos location {flat_repos_loc}."
         new_loc = coqstoq_loc / "val-repos" / name_repo(val_repo, convert=True)
-        flat_loc.rename(new_loc)
+        shutil.move(flat_loc, new_loc)
     
     for test_repo in assignment.test:
         flat_loc = flat_repos_loc / name_repo(test_repo)
         assert flat_loc.exists(), f"Test repo {test_repo} not found in flat repos location {flat_repos_loc}."
         new_loc = coqstoq_loc / "test-repos" / name_repo(test_repo, convert=True)
-        flat_loc.rename(new_loc)
+        shutil.move(flat_loc, new_loc)
     
     for cutoff_repo in assignment.cutoff:
         flat_loc = flat_repos_loc / name_repo(cutoff_repo)
         assert flat_loc.exists(), f"Cutoff repo {cutoff_repo} not found in flat repos location {flat_repos_loc}."
         new_loc = coqstoq_loc / "cutoff-repos" / name_repo(cutoff_repo, convert=True)
-        flat_loc.rename(new_loc)
-    
+        shutil.move(flat_loc, new_loc)
+
     for train_sft_repo in assignment.train_sft:
         flat_loc = flat_repos_loc / name_repo(train_sft_repo)
         if not flat_loc.exists():
             logger.warning(f"Train SFT repo {train_sft_repo} not found in flat repos location {flat_repos_loc}. Skipping.")
             continue
         new_loc = coqstoq_loc / "train-sft-repos" / name_repo(train_sft_repo)
-        flat_loc.rename(new_loc)
+        shutil.move(flat_loc, new_loc)
     
     for train_rl_repo in assignment.train_rl:
         flat_loc = flat_repos_loc / name_repo(train_rl_repo)
@@ -98,7 +99,7 @@ def move_repos(flat_repos_loc: Path, coqstoq_loc: Path, assignment: Assignment):
             logger.warning(f"Train RL repo {train_rl_repo} not found in flat repos location {flat_repos_loc}. Skipping.")
             continue
         new_loc = coqstoq_loc / "train-rl-repos" / name_repo(train_rl_repo)
-        flat_loc.rename(new_loc)
+        shutil.move(flat_loc, new_loc)
     
     assert len(list(flat_repos_loc.iterdir())) == 0, f"Flat repos location {flat_repos_loc} is not empty after moving repositories."
 
