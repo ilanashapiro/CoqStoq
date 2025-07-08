@@ -41,7 +41,7 @@ curl -X POST http://localhost:8080 \
       }'
 ```
 
-3. **You should follow example.py for an example of calling the verification server programatically**. It shows how to call the server in parallel on the first 50 ground truth solutions from the train-sft split.  
+3. **You should follow [example.py](example.py) for an example of calling the verification server programatically**. It shows how to call the server in parallel on the first 50 ground truth solutions from the train-sft split.  
 
 
 ## APIs
