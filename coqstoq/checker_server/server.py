@@ -1,78 +1,282 @@
 from typing import Any, Optional, Literal
 import sys, os
 import time
+import math
+import socket
 import argparse
 from dataclasses import dataclass
 from pathlib import Path
 from werkzeug.wrappers import Request, Response
 import logging
+import subprocess
+import multiprocessing as mp
 
 from werkzeug.serving import run_simple
+from threading import Lock
 import requests
 from jsonrpc import JSONRPCResponseManager, dispatcher
 
-from coqpyt.lsp.structs import DiagnosticSeverity
 
-from coqstoq.scripts import get_theorem
-from coqstoq.check import get_ground_truth, get_lsp_check_contents, strip_qed
-from coqstoq.index_thms.eval_thms import EvalTheorem
-from coqstoq.checker_server.lsp_client import ClientWrapper, FastLspClient
-
-logger = logging.getLogger(__name__)
-
-theorem: EvalTheorem | None = None  # The theorem to be checked
-coqstoq_loc: Path | None = None  # The path to the CoqStoq repository
-client: ClientWrapper | None = None # The wrapper around the coq-lsp client which does the proof checking
+@dataclass(frozen=True, eq=True)
+class ProblemId:
+    split: str
+    idx: int
 
 
-"""Given the entire contents of a file to check, use coq-lsp to check for errors."""
-def do_check(contents: str) -> list[str]: 
-    assert client is not None, "Client must be set before running the server."
-    client.write_and_get_steps(contents)
-    errors: list[str] = []
-    for diagnostic in client.client.lsp_endpoint.diagnostics[client.file_uri]:
-        if diagnostic.severity == DiagnosticSeverity.Error:
-            errors.append(diagnostic.message)
-    return errors
+class Counter:
+    def __init__(self):
+        self.__count = 0
+        self.__lock = Lock()
 
+    def thump(self):
+        with self.__lock:
+            self.__count += 1
+            return self.__count
 
-def sanity_check_ground_truth() -> None:
-    assert theorem is not None, "Theorem must be set before running the server."
-    assert coqstoq_loc is not None, "CoqStoq location must be set before running the server."
-    assert client is not None, "Client must be set before running the server."
-    ground_truth = strip_qed(get_ground_truth(theorem, coqstoq_loc))
-    logger.info(f"***Ground truth****\n{ground_truth}")
-    check_contents = get_lsp_check_contents(theorem, ground_truth, coqstoq_loc)
-    logger.debug(f"***Contents:***\n {"\n".join(check_contents.splitlines()[-20:])}")
-    error_msgs = do_check(check_contents)
-    assert len(error_msgs) == 0, (
-        f"Ground truth proof for theorem {theorem.path} has {len(error_msgs)} errors.\n"
-        f"First 3 errors: {error_msgs[:3]}\n"
-    )
+    def get(self):
+        with self.__lock:
+            return self.__count
+
+class CoqServerTimeoutError(Exception):
+    pass
 
 @dataclass
-class CheckResult:
-    score: Literal[0, 1] # 0 for incorrect, 1 for correct
-    messages: list[str] # Error messages
+class CoqProblemServer:
+    port: int
+    process: subprocess.Popen[bytes]
+    lock: Lock
+    last_used: int
 
-    def to_json(self) -> Any:
-        return {
-            "score": self.score,
-            "messages": self.messages,
+    @property
+    def url(self) -> str:
+        return f"http://localhost:{self.port}/"
+
+    def check_health(self) -> bool:
+        if self.process.poll() is not None:
+            return False
+        return True
+    
+    def wait_for_start(self, session: requests.Session, timeout: int): 
+        total_time = 0
+        wait_interval = 0.1
+        while True:
+            try:
+                response = session.get(self.url)
+                if response.status_code == 200:
+                    break
+            except requests.ConnectionError:
+                time.sleep(wait_interval)
+                total_time += wait_interval 
+                if total_time >= timeout:
+                    raise CoqServerTimeoutError(
+                        f"Coq server at {self.url} did not start within {timeout} seconds."
+                    )
+    
+    def send_request(self, proof: str, timeout: int) -> requests.Response:
+        request = {
+            "jsonrpc": "2.0",
+            "method": "check_proof",
+            "params": {
+                "proof": proof,
+            },
+            "id": 1,
         }
+        session = requests.Session()
+        start = time.time()
+        self.wait_for_start(session, timeout)
+        end = time.time()
+        new_timeout = timeout - (end - start)
+        if new_timeout <= 0:
+            raise CoqServerTimeoutError(
+                f"Coq server at {self.url} did not respond within {timeout} seconds."
+            )
+        try:
+            response = session.post(self.url, json=request, timeout=new_timeout)
+            return response
+        except requests.Timeout:
+            raise CoqServerTimeoutError(
+                f"Request to Coq server at {self.url} timed out after {timeout} seconds."
+            )
+        finally:
+            session.close()
+
+
+
+
+MAX_CLIENTS = math.ceil(mp.cpu_count() / 8)
+assert MAX_CLIENTS >= 1
+
+
+clients: dict[ProblemId, list[CoqProblemServer]] = {}
+client_dict_lock = Lock()  # need to hold this to modify `clients`
+counter = Counter()
+
+
+@dataclass
+class NoSpace:
+    pass
+
+
+@dataclass
+class Space:
+    pass
+
+
+@dataclass
+class SpaceAfterRemoval:
+    problem_id: ProblemId
+    client_idx: int
+    last_used: int
+
+
+SpaceResult = Space | NoSpace | SpaceAfterRemoval
+
+
+def space_available() -> SpaceResult:
+    count = 0
+    locked_count = 0
+    kick_candidate: Optional[SpaceAfterRemoval] = None
+    for prob_id, client_list in clients.items():
+        for i, client in enumerate(client_list):
+            count += 1
+            if client.lock.locked():  # safe when holding decision_lock
+                locked_count += 1
+            else:
+                if (
+                    kick_candidate is None
+                    or client.last_used < kick_candidate.last_used
+                ):
+                    kick_candidate = SpaceAfterRemoval(
+                        problem_id=prob_id,
+                        client_idx=i,
+                        last_used=client.last_used,
+                    )
+    if count < MAX_CLIENTS:
+        return Space()
+    if locked_count < MAX_CLIENTS:
+        assert (
+            kick_candidate is not None
+        ), "There should be a kick candidate if we have more clients than allowed."
+        return kick_candidate
+    return NoSpace()
+
+
+PROBLEM_SERVER_LOC = "coqstoq/checker_server/problem_server.py"
+
+
+def get_args(split: str, idx: int, coqstoq_loc: Path, port: int) -> list[str]:
+    return [
+        "poetry",
+        "run",
+        "python3",
+        str(coqstoq_loc / PROBLEM_SERVER_LOC),
+        split,
+        str(idx),
+        str(coqstoq_loc),
+        str(port),
+    ]
+
+
+def get_open_port() -> int:
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        s.bind(("", 0))
+        return s.getsockname()[1]
+
+
+def add_client(split: str, idx: int, coqstoq_loc: Path) -> CoqProblemServer:
+    key = ProblemId(split, idx)
+    if key not in clients:
+        clients[key] = []
+    port = get_open_port()
+    args = get_args(split, idx, coqstoq_loc, port)
+    process = subprocess.Popen(args)
+    new_server = CoqProblemServer(
+        port=port,
+        process=process,
+        lock=Lock(),
+        last_used=counter.thump(),
+    )
+    new_server.lock.acquire(blocking=True)
+    clients[key].append(new_server)
+    return new_server
+
+def teardown_server(server: CoqProblemServer) -> None:
+    server.process.terminate()
+    server.process.wait()
+
+
+def get_client(split: str, idx: int, coqstoq_loc: Path) -> Optional[CoqProblemServer]:
+    with client_dict_lock:
+        key = ProblemId(split, idx)
+        if key in clients:
+            client_list = clients[key]
+            for client in client_list:
+                if client.lock.acquire(blocking=False):
+                    client.last_used = counter.thump()
+                    return client
+        space_result = space_available()
+        match space_result:
+            case Space():
+                return add_client(split, idx, coqstoq_loc)
+            case NoSpace():
+                return None
+            case SpaceAfterRemoval(problem_id, client_idx, last_used):
+                assert problem_id in clients
+                clist = clients[problem_id]
+                assert client_idx < len(clist)
+                server = clist.pop(client_idx)
+                with server.lock:
+                    teardown_server(server)
+                if len(clist) == 0:
+                    del clients[problem_id]
+                return add_client(split, idx, coqstoq_loc)
+
+def remove_server(server: CoqProblemServer, problem_id: ProblemId) -> None:
+    with client_dict_lock:
+        for i, client in enumerate(clients[problem_id]):
+            if client.last_used == server.last_used and client.port == server.port:
+                clients[problem_id].pop(i)
+                if len(clients[problem_id]) == 0:
+                    del clients[problem_id]
+
 
 
 @dispatcher.add_method
-def check_proof(proof: str) -> CheckResult:
-    assert theorem is not None, "Theorem must be set before running the server."
-    assert coqstoq_loc is not None, "CoqStoq location must be set before running the server."
-    assert client is not None, "Client must be set before running the server."
-    check_contents = strip_qed(get_lsp_check_contents(theorem, proof, coqstoq_loc))
-    err_msgs = do_check(check_contents)
-    if len(err_msgs) == 0:
-        return CheckResult(score=1, messages=[]).to_json()
-    else:
-        return CheckResult(score=0, messages=err_msgs).to_json()
+def check_proof(split: str, idx: int, coqstoq_loc: str, proof: str, timeout: int) -> Any: 
+    server: Optional[CoqProblemServer] = None  
+    while server is None:
+        server = get_client(split, idx, Path(coqstoq_loc))
+        if server is None:
+            time.sleep(0.1)
+        else:
+            if not server.check_health(): 
+                teardown_server(server)
+                remove_server(server, ProblemId(split, idx))
+                server.lock.release()
+                logging.warning(
+                    f"Server for {split}:{idx} at port {server.port} is not healthy. Restarting."
+                )
+                server = None
+    try:
+        response = server.send_request(proof, timeout)
+        if response.status_code != 200:
+            return {
+                "score": -1,
+                "messages": [
+                    f"Internal server error: {response.text}"
+                ]
+            }
+        return response.json()["result"]
+
+    except CoqServerTimeoutError as e:
+        return {
+            "score": -1,
+            "messages": [f"Coq server request timed out: {e}"]
+        }
+    
+    finally:
+        server.last_used = counter.thump()
+        server.lock.release()
 
 
 @Request.application
@@ -81,62 +285,8 @@ def application(request: requests.models.Response):
     return Response(response.json, mimetype="application/json")
 
 
-
 if __name__ == "__main__":
-    # from waitress import serve
-    parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "split",
-        help=(
-            "Split for which the server is running.\n"
-            "Examples include 'train', 'val', 'test', 'cutoff'"
-        ),
-    )
-    parser.add_argument("idx", type=int, help=("Index of the theorem in the split.\n"))
-    parser.add_argument(
-        "coqstoq_loc", type=str, help=("Path to the CoqStoq repository.")
-    )
-
-    args = parser.parse_args()
-    logging.basicConfig(level=logging.INFO)
-
-    split = args.split
-    idx = args.idx
-    coqstoq_loc = Path(args.coqstoq_loc)
-    assert coqstoq_loc.exists(), f"Path {coqstoq_loc} does not exist."
-    if not coqstoq_loc.name == "CoqStoq":
-        logger.warning(
-            f"Expected the CoqStoq repository to be in a folder named 'CoqStoq', "
-            f"Make sure you are pointing to the correct path."
-        )
-    
-    assert split is not None, "Split must be provided."
-    assert idx is not None, "Index must be provided."
-
-    args = parser.parse_args()
-    theorem = get_theorem(split, idx, coqstoq_loc)
-
-    fast_client = FastLspClient(
-        root_uri=str(theorem.project.workspace.resolve()),
-        timeout=120,
-    )
-
-    file_loc = theorem.project.workspace / theorem.path
-    logger.info("Creating lsp client for file: %s", file_loc)
-    try:
-        client = ClientWrapper(
-            client=fast_client,
-            file_uri=str(theorem.project.workspace.resolve() / theorem.path)
-        )
-        logger.info("Running sanity check on ground truth proof for theorem: %s", theorem.path)
-        sanity_check_ground_truth()
-        run_simple("0.0.0.0", 8080, application)
-    finally:
-        logger.info("Shutting down the client.")
-        if client is not None:
-            client.client.shutdown()
-            client.client.exit()
-
+    run_simple("0.0.0.0", 8080, application)
 
 """
 curl -X POST http://localhost:8080 \
@@ -144,7 +294,11 @@ curl -X POST http://localhost:8080 \
   -d '{
         "jsonrpc": "2.0",
         "method": "check_proof",
-        "params": {"proof": "Proof. reflexivity. Qed."},
+        "params": {"split": "val", "idx": 0, "coqstoq_loc": ".", "proof": "Proof. Qed.", "timeout": 30},
         "id": 1
       }'
+"""
+
+"""
+poetry run gunicorn coqstoq.checker_server.server:application --bind 0.0.0.0:8080 --workers 1 --threads 4
 """
