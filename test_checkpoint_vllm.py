@@ -44,7 +44,7 @@ if __name__ == "__main__":
     # Load validation data
     print("Loading validation data...")
     valid_data = []
-    with open("coq-test-data.jsonl") as file:
+    with open("coq-test-data-with-responses.jsonl") as file:
         for line in file:
             valid_data.append(json.loads(line))
     
@@ -122,13 +122,13 @@ if __name__ == "__main__":
 
             if args.debug:
                 print("SPLIT", split, "INDEX:", index)
-                print("Prompt:")
-                print(prompt)
-                print("Model Output:")
-                print(model_generated_responses[i])
+                # print("Prompt:")
+                # print(prompt)
+                # print("Model Output:")
+                # print(model_generated_responses[i])
                 print("Passed?", result_value)
-                if not result_value:
-                    print(errormsg)
+                # if not result_value:
+                #     print(errormsg)
                 print()
             else:
                 results.append({

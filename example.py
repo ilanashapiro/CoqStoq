@@ -102,17 +102,16 @@ class Task:
             ground_truth=json_obj["ground_truth"],
         )
 
-def check_ground_truth(task: Task) -> Any:
+def check_ground_truth(task: Task) -> CheckingResult:
     result = check_proof(task.split, task.idx, task.ground_truth)
     match result:
         case ErrorResult(error=err):
             logger.error(f"Error checking proof for example {task.split} with index {task.idx}: {err}")
-            return
         case VerificationResult(success=success, messages=messages):
             if not success:
                 logger.error(f"Verification failed for example {task.split} with index {task.idx}: {messages}")
-                return result
             logger.info(f"Verification succeeded for example {task.split} with index {task.idx}: {messages}")
+    return result
 
 
 
