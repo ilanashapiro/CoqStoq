@@ -14,7 +14,7 @@ from coqstoq.check import get_ground_truth
 logger = logging.getLogger(__name__)
 
 COQSTOQ_LOC = "."
-TIMEOUT = 120
+TIMEOUT = 30 # 120
 
 
 @dataclass
@@ -68,17 +68,22 @@ def check_proof(split: str, idx: int, proof: str) -> CheckingResult:
         },
         "id": 1,
     }
+    print(f"Checking INSIDE proof for split: {split}, index: {idx}")
 
     try:
         response = session.post(url, json=request, timeout=TIMEOUT)
+        print("STATUS CODE:", response.status_code)
         if response.status_code != 200:
             return ErrorResult(error=f"Server did not respond with 200 OK: {response.status_code}")
         result_json = response.json()["result"]
+        print("RESPONSE:", result_json['score'])
         return load_checking_result(result_json) 
     except ConnectionError as e:
+        print("Connection error while checking proof. Its likely that the server is not running.")
         logger.error("Connection error while checking proof. Its likely that the server is not running.")
         return ErrorResult(error=f"Connection error: {str(e)}")
     except requests.Timeout as e:
+        print("Request timed out while checking proof.")
         logger.error("Request timed out while checking proof.")
         return ErrorResult(error=f"Timeout error: {str(e)}")
 
@@ -97,7 +102,7 @@ class Task:
             ground_truth=json_obj["ground_truth"],
         )
 
-def check_ground_truth(task: Task) -> None:
+def check_ground_truth(task: Task) -> Any:
     result = check_proof(task.split, task.idx, task.ground_truth)
     match result:
         case ErrorResult(error=err):
@@ -106,7 +111,7 @@ def check_ground_truth(task: Task) -> None:
         case VerificationResult(success=success, messages=messages):
             if not success:
                 logger.error(f"Verification failed for example {task.split} with index {task.idx}: {messages}")
-                return
+                return result
             logger.info(f"Verification succeeded for example {task.split} with index {task.idx}: {messages}")
 
 

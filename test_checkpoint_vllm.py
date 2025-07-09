@@ -1,67 +1,35 @@
 import subprocess
 import time
-import requests
 import socket
-import atexit
-import subprocess
-import time
-import socket
-import atexit
 import argparse
 import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "2,3"
 import sys
 import json
 import requests
+import logging
+import multiprocessing
+import atexit
+
 from tqdm import tqdm
 from torch.utils.data import Dataset
 from vllm import LLM, SamplingParams
 from transformers import AutoTokenizer
+from example import check_ground_truth, Task, CheckingResult, VerificationResult, ErrorResult
 
-def wait_until_ready(host="localhost", port=8080, timeout=30):
-    start = time.time()
-    while time.time() - start < timeout:
-        try:
-            with socket.create_connection((host, port), timeout=1):
-                return
-        except OSError:
-            time.sleep(0.2)
-    raise TimeoutError("Server did not start in time.")
+def check_ground_truth_local(task: Task):
+    return check_ground_truth(task)
 
-def check_proof(proof, split, index):
-    """
-    Start a dedicated verification server for this (split, index),
-    send the proof, and tear down the server after.
-    """
-    container_name = f"coqstoq-{split}-{index}"
-    port = 8080  # optional: dynamically allocate if parallelizing
+def get_checked_results(tasks: list[Task]) -> list[CheckingResult]:
+    print("Checking proofs in parallel...")
+    # logging.basicConfig(level=logging.INFO)
+    logging.disable(logging.CRITICAL)
+    
+    # Parallel checking (Number of processes should match the number of server threads.)
+    with multiprocessing.Pool(8) as pool:
+        results = pool.map(check_ground_truth_local, tasks)
 
-    # 1. Start dedicated container
-    subprocess.run([
-        "docker", "run", "--rm", "-d",
-        "--name", container_name,
-        "-p", f"{port}:8080",
-        "coqstoq-full",
-        "poetry", "run", "python3",
-        "coqstoq/checker_server/server.py", str(split), str(index), "."
-    ], check=True)
-
-    # 2. Wait for server to be up
-    wait_until_ready(port=port)
-
-    # 3. Send proof via JSON‑RPC
-    payload = {
-        "jsonrpc": "2.0",
-        "method": "check_proof",
-        "params": {"proof": proof},
-        "id": 1
-    }
-    try:
-        r = requests.post(f"http://localhost:{port}", json=payload, timeout=30)
-        r.raise_for_status()
-        return r.json()
-    finally:
-        # 4. Clean up container
-        subprocess.run(["docker", "stop", container_name], check=False)
+    return results
 
 if __name__ == "__main__":
     # Argument parsing
@@ -79,8 +47,9 @@ if __name__ == "__main__":
     with open("coq-test-data.jsonl") as file:
         for line in file:
             valid_data.append(json.loads(line))
+    
     if args.debug:
-        valid_data = valid_data[:3] # can use c. 700 for test benchmark
+        valid_data = valid_data[:100] # can use c. 700 for test benchmark
 
     # Load tokenizer and vLLM engine
     print(f"Loading tokenizer and checkpoint from {args.model_name}... ", end="")
@@ -115,22 +84,39 @@ if __name__ == "__main__":
         if "<answer>" in response and "</answer>" in response:
             valid_data[datum_idx]["model_generated_response"].append(response) # recall datum_idx is the line number in the jsonl file
     
+    output_path = "coq-test-data-with-responses.jsonl"
+
+    with open(output_path, "w") as f:
+        for datum in valid_data:
+            json.dump(datum, f)
+            f.write("\n")
+
+    print(f"Saved {len(valid_data)} entries to {output_path}")
+
     # Evaluation
     pass_n_cnt = [0 for _ in range(args.sample_n)]
     results = []
     print("Evaluating model outputs...")
-
-    for datum in tqdm(valid_data):
+    
+    tasks = []
+    for datum in valid_data:
         split = datum["split"]
         index = datum["index"]
         prompt = datum["user_prompt"]
         pass_flag = False
+        model_generated_responses = datum["model_generated_response"]
+        tasks = [Task.from_json({"split": split, "index": index, "ground_truth": response.split("<answer>")[1].split("</answer>")[0]}) for response in model_generated_responses]
+        checked_results = get_checked_results(tasks)
+        
+        for i, checked_result in enumerate(checked_results):
+            if type(checked_result) is VerificationResult:
+                result_value, errormsg = checked_result.success, checked_result.messages
+            elif type(checked_result) is ErrorResult: # ErrorResult
+                result_value, errormsg = False, checked_result.error
+            else:
+                raise ValueError(f"Unexpected result type: {type(checked_result)}")
 
-        for i, response in enumerate(datum["model_generated_response"]):
-            answer = response.split("<answer>")[1].split("</answer>")[0]
-            result_datum = check_proof(answer, split, index)["result"] # check_proof gives e.g. {"result": {"score": 1, "messages": []}, "id": 1, "jsonrpc": "2.0"}
-            result, errormsg = bool(result_datum["score"]), result_datum["messages"]
-            if result:
+            if result_value:
                 pass_flag = True
             pass_n_cnt[i] += 1 if pass_flag else 0
 
@@ -139,17 +125,17 @@ if __name__ == "__main__":
                 print("Prompt:")
                 print(prompt)
                 print("Model Output:")
-                print(response)
-                print("Passed?", result)
-                if not result:
+                print(model_generated_responses[i])
+                print("Passed?", result_value)
+                if not result_value:
                     print(errormsg)
                 print()
             else:
                 results.append({
-                    "example_name": datum["name"],
+                    "example_name": f"{split}_{index}",
                     "prompt": prompt,
-                    "model_output": response,
-                    "result": result,
+                    "model_output": model_generated_responses[i],
+                    "result": result_value,
                     "errormsg": errormsg
                 })
 

@@ -253,7 +253,7 @@ def augment():
             continue
 
         entry = {
-            "data_source": "pulse_augmented_instruction_collection",
+            "data_source": "CoqStoq",
             "prompt": [{"role": "user", "content": user_prompt}],
             "ability": "coding/Coq",
             "reward_model": {"style": "execution"},
